@@ -6,6 +6,7 @@ title: Before the Start
 Before the Start offers new expansive lore in a world much more expansive than it seems with hundreds of years of detailed history, interactive maps and journey planners and much more!
 
 Click on the following links to learn more:
+
 - [[Player Notes/index|Notes for Players]]
 - [[DM Notes/index|DM Notes]]
 - [[Setting/index|World Setting Information]]
