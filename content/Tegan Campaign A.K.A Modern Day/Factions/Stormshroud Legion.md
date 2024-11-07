@@ -1,0 +1,3 @@
+The __Stormshroud Legion__ is the enemy in Tegan's Campaign. At this point in the story, what will become the __Stormshroud Legion__ is within the territory of [[Solara]]. The __Stormshroud Legion__ was founded in the settlement of [[Sotonti]], on [[Villentiari Isle]], west of the mainland.
+
+1,000 years later, in the time of Tegan's Campaign. The __Stormshroud Legion__ is the premier force on the island after the fall of the [[Solaris Vanguard]] and the Solari Nation.
