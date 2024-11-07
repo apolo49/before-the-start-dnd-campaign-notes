@@ -73,8 +73,8 @@ The Solari Calendar has 13 months of 28 days, each named after a god of their pa
 12. Irnumi - named for the god of the forge, fire and volcanoes, [[Irnuti]]
 13. Shumi - named for the god of the sky, [[Shuzi]]
 
-| Hanomi | Solumi | Narimi | Minumi | Gamami | Garimi | Ebolumi | Bomi | Flami | Atmi | Irnumi | Shumi | Shunmi |
-| ------ | ------ | ------ | ------ | ------ | ------ | ------- | ---- | ----- | ---- | ------ | ----- | ------ |
+| Hanomi | Solumi | Narimi | Minumi | Gamami | Garimi | Ebolumi | Bomi | Flami | Atmi | Irnumi | Shumi |
+| ------ | ------ | ------ | ------ | ------ | ------ | ------- | ---- | ----- | ---- | ------ | ----- |
 
 # Soa Calendar
 
