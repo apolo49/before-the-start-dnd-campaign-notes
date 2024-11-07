@@ -1,5 +1,6 @@
 ---
 lastSync: Wed Nov 06 2024 18:40:03 GMT+0000 (Greenwich Mean Time)
+title: Dating
 ---
 As per dating the real world, wherein an arbitrary number is chosen as 0 and we can go back and forth, the dating in this world is the same, however our dating *primary* dating system is called "From the founding of the city" which refers to the founding of the city of [[Solaum]], the capital of [[Solara]].
 

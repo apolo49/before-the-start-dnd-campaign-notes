@@ -3,7 +3,7 @@ lastSync: Wed Nov 06 2024 18:43:01 GMT+0000 (Greenwich Mean Time)
 ---
 Population: 1,000,000
 Nation: [[Solara]]
-Established: 0 [[Dating|IOG]]
+Established: 0 [[Setting/Semantics/Dating/index|IOG]]
 Area: 12 km<sup>2</sup>
 GDP: 500,000,000[[Rosist|R]]
 
