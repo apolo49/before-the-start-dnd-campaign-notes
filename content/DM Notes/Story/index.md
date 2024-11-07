@@ -27,3 +27,4 @@ This page contains the links to all the story points and sessions. The entire st
 	11. Retrieval of the [[Staff of The Dagda]]
 	12. Destruction of the [[Obelisks of Elements]] and retrieval of the Shards
 - Party is directed to Mount Aemi, reach the spirit oasis at the peak and begins the ritual for [[The Convergence]]. Forcing the party to battle the gods.
+# Timeline of Events
