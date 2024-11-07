@@ -2,7 +2,7 @@
 lastSync: Wed Nov 06 2024 22:24:11 GMT+0000 (Greenwich Mean Time)
 ---
 # Premise
-Players bring their former characters from Tegan's campaign and then get transported to the past after the battle. They land on the last day of [[Solari Calendar|Shumi]] (The last month of the year) 697 [[Dating|IOG]]. Everything is unrecognisable to them. The 20th [[Military of Solara|Rikati]] of [[Solara]] shows up and demands they show their identification as they don't have any they are forced to fight, revealing that they are [[Elementals]], which leads to their capture.
+Players bring their former characters from Tegan's campaign and then get transported to the past after the battle. They land on the last day of [[Solari Calendar|Shumi]] (The last month of the year) 697 [[Setting/Semantics/Dating/index|IOG]]. Everything is unrecognisable to them. The 20th [[Military of Solara|Rikati]] of [[Solara]] shows up and demands they show their identification as they don't have any they are forced to fight, revealing that they are [[Elementals]], which leads to their capture.
 
 This then leads to them being brought to [[Solaum]] and executed on the spot (all except [[Aelius]] as he has ties to Solara). In the crowd watching their execution is their new player characters (not yet created).
 # Scenes
