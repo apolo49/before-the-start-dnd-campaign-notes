@@ -15,8 +15,8 @@ Player Characters are not allowed to be fully proficient in [[Solari (Language)|
 - [[Ebibu]],
 - [[Ek]]
 ## Cultures
-Player Characters are not allowed to be [[Solari (Culture)|Solari]], [[Qatha]], [[Aeia]], or [[Kufa]]. Players are encouraged to be of a [[Freiburg]] culture.
+Player Characters are not allowed to be [[Solari (Culture)|Solari]], [[Qatha]], [[Aeia]], or [[Kufa]]. Players are encouraged to be of a [[Freiburg]] OR [[Dulegan]] culture.
 ## Race
 Due to race politics in [[Solara]] the player characters are allowed to be whatever race they want, but they have to be humanoid and have to have a good disguise to make them appear human at all times. Elves, dwarves and halflings do not have this limitation but may be seen as lesser and an oddity.
 ## Elements
-All players will be assigned an element at random. They are aware of their powers and which powers they have, but not which one others players have. [[Elements]] and [[Elementals|elementals]] are outlawed in Solara, there is also rampant propaganda, and players are aware of this. All magic is also outlawed in Solara unless a person has a [[License to use Magic|magic license]].
+All players will be assigned an element at random. They are aware of their powers and which powers they have, but not which one others players have. [[Setting/Elements/index|Elements]] and [[Setting/Elements/index|elementals]] are outlawed in Solara, there is also rampant propaganda, and players are aware of this. All magic is also outlawed in Solara unless a person has a [[License to use Magic|magic license]].
