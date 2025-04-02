@@ -17,7 +17,7 @@ This then leads to them being brought to [[Solaum]] and executed on the spot (al
 		- Camp of the 20th [[Military of Solara|Rikati]] of [[Solara]].
 	- Solaum
 		- Execution Preparation area
-		- Outside the [[Forum Solaunao]], near the [[Obelisk of Origin]].
+		- Outside the [[Dolum Solaunao]], near the [[Obelisk of Origin]].
 # Story
 The party celebrates the end of the struggle they had been facing for countless days, adventuring across the lands of the [[Stormshroud Legion]]. As they begin to celebrate, [[Decimus]], one of the members of the [[Solaris Vanguard]] (the secret society emulating the practices of the old nation of [[Solara]]), tells them stories of the forgotten nation, in which [[Aelius]] happily divulges. They then retreat to their chambers to sleep.
 
@@ -37,7 +37,7 @@ The rikati continues its march following the capture of their new powerful priso
 
 During their travels, the party can hear lots of conversations; the sound of a horse's gallop; the onloading of their containers onto a ship; the sounds of the sea for hours; the offloading of their containers and then the sounds of a bustling city. Throughout their journey they cannot see any of the events taking place.
 
-Suddenly, the crates open up to reveal a detention centre and another soldier of a rikati. He is carrying chains that he ties around the wrists and ankles of the prisoners, including the party. He then leads the prisoners out to the execution grounds in front of the [[Forum Solaunao]] and the [[Obelisk of Origin]].
+Suddenly, the crates open up to reveal a detention centre and another soldier of a rikati. He is carrying chains that he ties around the wrists and ankles of the prisoners, including the party. He then leads the prisoners out to the execution grounds in front of the [[Dolum Solaunao]] and the [[Obelisk of Origin]].
 
 The great crowd around the prisoners watch in anticipation as the executioner slowly moves up the line with his axe, beheading each and every one of the prisoners. The excitement draws to a peak as the executioner announces to the crowd that the following prisoners have all been captured for being illegal, dangerous elementals. To which the crowd cheer in excitement to their impending death. The executioner swings his axe and beheads each one-by-one until the last party member is dead.
 

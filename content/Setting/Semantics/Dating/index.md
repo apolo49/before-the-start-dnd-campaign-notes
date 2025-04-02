@@ -70,11 +70,12 @@ The Solari Calendar has 13 months of 28 days, each named after a god of their pa
 8. Bomi - named for the goddess of flowers, Spring and plants, [[Bozi]]
 9. Flami - named for the goddess of springs and wells, [[Flairi]]
 10. Atmi - named for the goddess of the [[Atri River]], [[Atri]]
-12. Irnumi - named for the god of the forge, fire and volcanoes, [[Irnuti]]
-13. Shumi - named for the god of the sky, [[Shuzi]]
+11. Irnumi - named for the god of the forge, fire and volcanoes, [[Irnuti]]
+12. Shumi - named for the god of the sky, [[Shuzi]]
+13. Shunmi - named for the queen of the gods [[Shuni]]
 
-| Hanomi | Solumi | Narimi | Minumi | Gamami | Garimi | Ebolumi | Bomi | Flami | Atmi | Irnumi | Shumi |
-| ------ | ------ | ------ | ------ | ------ | ------ | ------- | ---- | ----- | ---- | ------ | ----- |
+| Hanomi | Solumi | Narimi | Minumi | Gamami | Garimi | Ebolumi | Bomi | Flami | Atmi | Irnumi | Shumi | Shunmi |
+| ------ | ------ | ------ | ------ | ------ | ------ | ------- | ---- | ----- | ---- | ------ | ----- | ------ |
 
 # Soa Calendar
 
@@ -86,13 +87,13 @@ Like the Soa Calendar, the Makdonda Calendar was created purely for flavour and 
 
 # Conversion Table
 
-| AFC  | QC                | ERC   | IOG      | Soa   | Makonda Calendar | Years Before Campaign Start |
-| ---- | ----------------- | ----- | -------- | ----- | ---------------- | --------------------------- |
-| 0    | N/A               | -1500 | 3800 BOG | -4484 | -4498            | 4998                        |
-| 900  | 1C-0Y             | -600  | 2900 BOG | -3584 | -3589            | 3598                        |
-| 1500 | Cycle 50 Year 0   | 0     | 2300 BOG | -2984 | -2989            | 2998                        |
-| 3800 | Cycle 241 Year 8  | 2300  | 0 IOG    | -684  | -689             | 698                         |
-| 4484 | Cycle 298 Year 8  | 2984  | 684 IOG  | 0     | -5               | 14                          |
-| 4489 | Cycle 299 Year 1  | 2989  | 689 IOG  | 5     | 0                | 9                           |
-| 4498 | Cycle 299 Year 10 | 2998  | 698 IOG  | 14    | 9                | 0                           |
+| AFC  | QC                | ERC   | IOG      | Soa   | Makonda Calendar | Years Before Campaign Start | Real World Equivalent |
+| ---- | ----------------- | ----- | -------- | ----- | ---------------- | --------------------------- | --------------------- |
+| 0    | N/A               | -1500 | 3800 BOG | -4484 | -4498            | 4998                        | 5053 BC               |
+| 900  | 1C-0Y             | -600  | 2900 BOG | -3584 | -3589            | 3598                        | 3653 BC               |
+| 1500 | Cycle 50 Year 0   | 0     | 2300 BOG | -2984 | -2989            | 2998                        | 3053 BC               |
+| 3800 | Cycle 241 Year 8  | 2300  | 0 IOG    | -684  | -689             | 698                         | 753 BC                |
+| 4484 | Cycle 298 Year 8  | 2984  | 684 IOG  | 0     | -5               | 14                          | 69 BC                 |
+| 4489 | Cycle 299 Year 1  | 2989  | 689 IOG  | 5     | 0                | 9                           | 64 BC                 |
+| 4498 | Cycle 299 Year 10 | 2998  | 698 IOG  | 14    | 9                | 0                           | 55 BC                 |
 
