@@ -80,7 +80,7 @@ The elements can be referred to in two ways in __Ebibu__. As the Qatha were a sc
 | [[Elements/Ice\|Ice]]                 | Nedunimu              | Etanunemu   | North Wind            |
 | [[Elements/Power\|Power]]             | Edunomu               | Aresamu     | Up                    |
 | [[Elements/Soul\|Soul]]               | Atamemunimu           | Waradunamu  | Down                  |
-| [[Elements\|Water]]                   | Mumu                  | Tadunimu    | East Wind             |
+| [[Elements/Water\|Water]]             | Mumu                  | Tadunimu    | East Wind             |
 | [[Elements/Wind\|Wind]]               | Tarunamu              | Amurorunemu | West Wind             |
 
 # Sample Text

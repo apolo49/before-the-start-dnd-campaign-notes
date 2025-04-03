@@ -1,8 +1,17 @@
 ---
 lastSync: Wed Nov 06 2024 22:24:11 GMT+0000 (Greenwich Mean Time)
+tags:
+  - Session
+  - Solaum
+  - Story
+  - Stormshroud-Legion
+  - Solaris-Vanguard
+  - Villentiari-Isle
+  - Third-Convergence
+  - Circle-of-Elements
 ---
 # Premise
-Players bring their former characters from Tegan's campaign and then get transported to the past after the battle. They land on the last day of [[Solari Calendar|Shumi]] (The last month of the year) 697 [[Setting/Semantics/Dating/index|IOG]]. Everything is unrecognisable to them. The 20th [[Military of Solara|Rikati]] of [[Solara]] shows up and demands they show their identification as they don't have any they are forced to fight, revealing that they are [[Elementals]], which leads to their capture.
+Players bring their former characters from Tegan's campaign and then get transported to the past after the battle. They land on the last day of [[Solari Calendar|Shumi]] (The last month of the year) 693 [[Setting/Semantics/Dating/index|IOG]]. Everything is unrecognisable to them. The 20th [[Military of Solara|Rikati]] of [[Solara]] shows up and demands they show their identification as they don't have any they are forced to fight, revealing that they are [[Elementals]], which leads to their capture.
 
 This then leads to them being brought to [[Solaum]] and executed on the spot (all except [[Aelius]] as he has ties to Solara). In the crowd watching their execution is their new player characters (not yet created).
 # Scenes
@@ -17,7 +26,7 @@ This then leads to them being brought to [[Solaum]] and executed on the spot (al
 		- Camp of the 20th [[Military of Solara|Rikati]] of [[Solara]].
 	- Solaum
 		- Execution Preparation area
-		- Outside the [[Dolum Solaunao]], near the [[Obelisk of Origin]].
+		- Outside the [[Dolumi Solaunao]], near the [[Obelisk of Origin]].
 # Story
 The party celebrates the end of the struggle they had been facing for countless days, adventuring across the lands of the [[Stormshroud Legion]]. As they begin to celebrate, [[Decimus]], one of the members of the [[Solaris Vanguard]] (the secret society emulating the practices of the old nation of [[Solara]]), tells them stories of the forgotten nation, in which [[Aelius]] happily divulges. They then retreat to their chambers to sleep.
 
@@ -37,7 +46,7 @@ The rikati continues its march following the capture of their new powerful priso
 
 During their travels, the party can hear lots of conversations; the sound of a horse's gallop; the onloading of their containers onto a ship; the sounds of the sea for hours; the offloading of their containers and then the sounds of a bustling city. Throughout their journey they cannot see any of the events taking place.
 
-Suddenly, the crates open up to reveal a detention centre and another soldier of a rikati. He is carrying chains that he ties around the wrists and ankles of the prisoners, including the party. He then leads the prisoners out to the execution grounds in front of the [[Dolum Solaunao]] and the [[Obelisk of Origin]].
+Suddenly, the crates open up to reveal a detention centre and another soldier of a rikati. He is carrying chains that he ties around the wrists and ankles of the prisoners, including the party. He then leads the prisoners out to the execution grounds in front of the [[Dolumi Solaunao]] and the [[Obelisk of Origin]].
 
 The great crowd around the prisoners watch in anticipation as the executioner slowly moves up the line with his axe, beheading each and every one of the prisoners. The excitement draws to a peak as the executioner announces to the crowd that the following prisoners have all been captured for being illegal, dangerous elementals. To which the crowd cheer in excitement to their impending death. The executioner swings his axe and beheads each one-by-one until the last party member is dead.
 

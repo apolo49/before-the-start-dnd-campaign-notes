@@ -14,12 +14,12 @@ Solaum, being the most important city in the world at this time, exerts massive 
 At the time of the campaign, Solaum has the single highest concentration of languages in the world being a multi-ethnic city, yet it is rare to hear another language than [[Solari (Language)|Solari]]. This is because the concentration of native Solari is so dense and other ethnicities are suppressed. It is expected that everyone in the city speaks Solari.
 
 Being the most advanced and developed city in the world at time, Solaum is home to numerous landmarks and important structures, this includes features such as:
-- [[Dolum Solaunao]]
+- [[Dolumi Solaunao]]
 - [[Latino Amphitheater]]
 - [[Tutino Colosseum]]
 - [[Latino Baths]]
 - [[Kuniko Gardens]]
-- [[Solaumo Gardens]]
+- [[Asolaumk Gardens]]
 - [[Lunio Theatre]]
 - [[Shuno Gladiatorial Sakini]]
 - [[Buno Circus]]

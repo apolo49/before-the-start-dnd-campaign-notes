@@ -1,3 +1,11 @@
+---
+tags:
+  - Session
+  - Solaum
+  - BFS
+  - Story
+---
+
 # Premise
 
 Players bare witness to the death of their old characters at the hands of the [[Solara|Republic of Solara]] as each one dies something remarkable happens, their element leaves them, except when [[Aelius]] is executed, where nothing happens that is out of the ordinary.
@@ -11,7 +19,7 @@ From this point they set off to the centre of the revolution to plot their next 
 # Scenes
 
 - [[Solaum]]
-	- Outside the [[Dolum Solaunao]], near the [[Obelisk of Origin]].
+	- Outside the [[Dolumi Solaunao]], near the [[Obelisk of Origin]].
 	- [[Trabini ip Odolumika|Tavern Near the Forum]]
 		- [[Better Future for Solara Head Quarters]]
 
@@ -25,9 +33,9 @@ The crowd cheers and is elated by the news. They proceed to shout all sorts of o
 
 Eventually the execution ends with the execution of [[Aelius]], unlike the rest, there was nothing that stood out about him from the rest of the people in the crowd and nothing spectacular happened. There were no cheers when he was executed, but instead just silence.
 
-An hour passes and the square outside the [[Dolum Solaunao]] and beneath the [[Obelisk of Origin]] clears. It turns back to the way it is on a normal day and all who are left are the main party.
+An hour passes and the square outside the [[Dolumi Solaunao]] and beneath the [[Obelisk of Origin]] clears. It turns back to the way it is on a normal day and all who are left are the main party.
 
-The players are then allowed to explore outside the [[Dolum Solaunao|Forum]] as they wish. Any insight, perception or investigation checks will reveal information on the obelisk and or forum as they roll including colours, feeling about the obelisk and anything else. The obelisk only seems to respond to the player with the [[Power]] [[Setting/Elements/index|Element]] who hears voices in pain from it, particularly the voice of [[Thandoril Sunfire]] stands out, despite not yet being born.
+The players are then allowed to explore outside the [[Dolumi Solaunao|Forum]] as they wish. Any insight, perception or investigation checks will reveal information on the obelisk and or forum as they roll including colours, feeling about the obelisk and anything else. The obelisk only seems to respond to the player with the [[Power]] [[Setting/Elements/index|Element]] who hears voices in pain from it, particularly the voice of [[Thandoril Sunfire]] stands out, despite not yet being born.
 
 Near the Forum the players spot [[Trabini ip Odolumika|a building labelled "Odolumika"]] or "by the forum" in [[Solari (Language)|Solari]]. Within this building the players enter a role-playing mode where they talk about what they saw, after some time the players begin to overhear the table next to them. It's a [[Dulegan]] person called [[Kaddurix]] (who they can understand, though they speak weirdly), talking of the horrors that took place and the war he's seen. He seems to talk about a [[Better Future for Solara|revolution]]. The players, intrigued are prompted to talk to him. He says he will only talk further if they agree to join his cause. With this they become part of the revolution and are taken downstairs to a secret room.
 
@@ -39,13 +47,13 @@ The party leaves the tavern and try to navigate out of [[Solaum]].
 
 - Party re-watches the execution of their old characters from the perspective of the audience.
 - Audience clears and time cuts to evening where the square is almost empty.
-- Party can explore the [[Dolum Solaunao|Forum]] exterior
-- Party can enter the [[Trabini ip Odolumika]]
-- Party meet [[Kaddurix]]
-- Party join the [[Better Future for Solara]]
-- Party discover the [[Better Future for Solara Head Quarters]]
-- Party learn about the [[689 - Present - Duleganic Wars|Duleganic Wars]]
-- Party leave [[Solaum]]
+- Party can explore the [[Dolumi Solaunao|Forum]] exterior.
+- Party can enter the [[Trabini ip Odolumika]].
+- Party meet [[Kaddurix]].
+- Party join the [[Better Future for Solara]].
+- Party discover the [[Better Future for Solara Head Quarters]].
+- Party learn about the [[689 - Present - Duleganic Wars|Duleganic Wars]].
+- Party leave [[Solaum]].
 
 # Characters
 
