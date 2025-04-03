@@ -1,3 +1,8 @@
+---
+tags:
+  - Session
+---
+
 # Overview
 Players are here to collaboratively create their characters and are given some setting background.
 
