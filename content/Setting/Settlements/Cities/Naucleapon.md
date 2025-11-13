@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Naucleapon
 >###### Capital City
->Country: [[Nations/Gorgosia|Gorgosia]]
+>Country: [[Setting/Nations/Gorgosia|Gorgosia]]
 >Established:
 >Area:
 >Elevation: 961m
 >Population: 56,117
 >Demonym(s):
->Dominant Culture: [[Cultures/Porigost|Porigost]]
+>Dominant Culture: [[Setting/Cultures/Porigost|Porigost]]
 >Dominant Religion:
 
 # History

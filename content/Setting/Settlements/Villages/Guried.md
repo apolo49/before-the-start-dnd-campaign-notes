@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Guried
 >###### Capital City
->Country: [[Tribes/Guried|Guried]]
+>Country: [[Setting/Tribes/Guried|Guried]]
 >Established:
 >Area:
 >Elevation: 961m
 >Population: 425
 >Demonym(s):
->Dominant Culture: [[Cultures/Horngenhau|Horngenhau]]
+>Dominant Culture: [[Setting/Cultures/Horngenhau|Horngenhau]]
 >Dominant Religion:
 
 # History

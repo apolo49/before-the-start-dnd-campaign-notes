@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Aberia
 >Tribe
->Capital: [[Villages/Fertaber|Fertaber]]
->Largest Settlement: [[Villages/Fertaber|Fertaber]]
+>Capital: [[Setting/Settlements/Villages/Fertaber|Fertaber]]
+>Largest Settlement: [[Setting/Settlements/Villages/Fertaber|Fertaber]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Fertaber|Fertaber]]
+- [[Setting/Settlements/Villages/Fertaber|Fertaber]]
 
 # Cultures in Borders
 
-- [[Cultures/Ebheartei|Ebheartei]]
+- [[Setting/Cultures/Ebheartei|Ebheartei]]
 

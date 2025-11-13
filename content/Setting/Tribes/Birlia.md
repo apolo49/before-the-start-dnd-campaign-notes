@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Birlia
 >Tribe
->Capital: [[Villages/Biedertengen|Biedertengen]]
->Largest Settlement: [[Villages/Biedertengen|Biedertengen]]
+>Capital: [[Setting/Settlements/Villages/Biedertengen|Biedertengen]]
+>Largest Settlement: [[Setting/Settlements/Villages/Biedertengen|Biedertengen]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Biedertengen|Biedertengen]]
+- [[Setting/Settlements/Villages/Biedertengen|Biedertengen]]
 
 # Cultures in Borders
 
-- [[Cultures/Briler|Briler]]
+- [[Setting/Cultures/Briler|Briler]]
 

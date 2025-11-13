@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Kipellstad
 >Tribe
->Capital: [[Villages/Kipellstad|Kipellstad]]
->Largest Settlement: [[Villages/Kipellstad|Kipellstad]]
+>Capital: [[Setting/Settlements/Villages/Kipellstad|Kipellstad]]
+>Largest Settlement: [[Setting/Settlements/Villages/Kipellstad|Kipellstad]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Kipellstad|Kipellstad]]
+- [[Setting/Settlements/Villages/Kipellstad|Kipellstad]]
 
 # Cultures in Borders
 
-- [[Cultures/Schilden|Schilden]]
+- [[Setting/Cultures/Schilden|Schilden]]
 

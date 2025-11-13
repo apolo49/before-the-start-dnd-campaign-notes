@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Segen
 >Tribe
->Capital: [[Villages/Segen|Segen]]
->Largest Settlement: [[Villages/Segen|Segen]]
+>Capital: [[Setting/Settlements/Villages/Segen|Segen]]
+>Largest Settlement: [[Setting/Settlements/Villages/Segen|Segen]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Segen|Segen]]
+- [[Setting/Settlements/Villages/Segen|Segen]]
 
 # Cultures in Borders
 
-- [[Cultures/Steinbach|Steinbach]]
+- [[Setting/Cultures/Steinbach|Steinbach]]
 

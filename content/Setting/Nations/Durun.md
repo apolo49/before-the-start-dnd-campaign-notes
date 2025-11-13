@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Durun
 >Civilised
->Capital: [[Villages/Durun|Durun]]
->Largest Settlement: [[Villages/Durun|Durun]]
+>Capital: [[Setting/Settlements/Villages/Durun|Durun]]
+>Largest Settlement: [[Setting/Settlements/Villages/Durun|Durun]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Durun|Durun]]
+- [[Setting/Settlements/Villages/Durun|Durun]]
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

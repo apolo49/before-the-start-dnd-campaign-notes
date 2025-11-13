@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Avenvia
 >Tribe
->Capital: [[Villages/Aron|Aron]]
->Largest Settlement: [[Villages/Aron|Aron]]
+>Capital: [[Setting/Settlements/Villages/Aron|Aron]]
+>Largest Settlement: [[Setting/Settlements/Villages/Aron|Aron]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Aron|Aron]]
+- [[Setting/Settlements/Villages/Aron|Aron]]
 
 # Cultures in Borders
 
-- [[Cultures/Bleduro|Bleduro]]
+- [[Setting/Cultures/Bleduro|Bleduro]]
 

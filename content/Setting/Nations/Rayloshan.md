@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Rayloshan
 >Civilised
->Capital: [[Cities/Rayloshan|Rayloshan]]
->Largest Settlement: [[Cities/Rayloshan|Rayloshan]]
+>Capital: [[Setting/Settlements/Cities/Rayloshan|Rayloshan]]
+>Largest Settlement: [[Setting/Settlements/Cities/Rayloshan|Rayloshan]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Rayloshan|Rayloshan]]
+- [[Setting/Settlements/Cities/Rayloshan|Rayloshan]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Oubela
 >Tribe
->Capital: [[Villages/Anouda|Anouda]]
->Largest Settlement: [[Villages/Anouda|Anouda]]
+>Capital: [[Setting/Settlements/Villages/Anouda|Anouda]]
+>Largest Settlement: [[Setting/Settlements/Villages/Anouda|Anouda]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Anouda|Anouda]]
+- [[Setting/Settlements/Villages/Anouda|Anouda]]
 
 # Cultures in Borders
 
-- [[Cultures/Ber|Ber]]
+- [[Setting/Cultures/Ber|Ber]]
 

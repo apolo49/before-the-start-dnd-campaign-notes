@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Sulzkirch
 >###### Capital City
->Country: [[Tribes/Seland|Seland]]
+>Country: [[Setting/Tribes/Seland|Seland]]
 >Established:
 >Area:
 >Elevation: 1024m
 >Population: 1,342
 >Demonym(s):
->Dominant Culture: [[Cultures/Kusteter|Kusteter]]
+>Dominant Culture: [[Setting/Cultures/Kusteter|Kusteter]]
 >Dominant Religion:
 
 # History

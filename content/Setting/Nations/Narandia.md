@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Narandia
 >Civilised
->Capital: [[Villages/Seriromsar|Seriromsar]]
->Largest Settlement: [[Villages/Seriromsar|Seriromsar]]
+>Capital: [[Setting/Settlements/Villages/Seriromsar|Seriromsar]]
+>Largest Settlement: [[Setting/Settlements/Villages/Seriromsar|Seriromsar]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Seriromsar|Seriromsar]]
+- [[Setting/Settlements/Villages/Seriromsar|Seriromsar]]
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

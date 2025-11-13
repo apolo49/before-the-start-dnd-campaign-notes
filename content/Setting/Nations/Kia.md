@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Kia
 >Civilised
->Capital: [[Villages/Nibi|Nibi]]
->Largest Settlement: [[Villages/Nibi|Nibi]]
+>Capital: [[Setting/Settlements/Villages/Nibi|Nibi]]
+>Largest Settlement: [[Setting/Settlements/Villages/Nibi|Nibi]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Nibi|Nibi]]
+- [[Setting/Settlements/Villages/Nibi|Nibi]]
 
 # Cultures in Borders
 
-- [[Cultures/Akshan|Akshan]]
+- [[Setting/Cultures/Akshan|Akshan]]
 

@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Arainnervie
 >###### Capital City
->Country: [[Tribes/Bos|Bos]]
+>Country: [[Setting/Tribes/Bos|Bos]]
 >Established:
 >Area:
 >Elevation: 1089m
 >Population: 1,766
 >Demonym(s):
->Dominant Culture: [[Cultures/Bleduro|Bleduro]]
+>Dominant Culture: [[Setting/Cultures/Bleduro|Bleduro]]
 >Dominant Religion:
 
 # History

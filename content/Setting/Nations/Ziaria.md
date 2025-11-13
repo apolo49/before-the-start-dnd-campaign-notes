@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Ziaria
 >Civilised
->Capital: [[Cities/Chamsar|Chamsar]]
->Largest Settlement: [[Cities/Chamsar|Chamsar]]
+>Capital: [[Setting/Settlements/Cities/Chamsar|Chamsar]]
+>Largest Settlement: [[Setting/Settlements/Cities/Chamsar|Chamsar]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Chamsar|Chamsar]]
+- [[Setting/Settlements/Cities/Chamsar|Chamsar]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

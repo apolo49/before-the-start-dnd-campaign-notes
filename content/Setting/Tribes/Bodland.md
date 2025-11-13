@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Bodland
 >Tribe
->Capital: [[Villages/Dunsle|Dunsle]]
->Largest Settlement: [[Villages/Dunsle|Dunsle]]
+>Capital: [[Setting/Settlements/Villages/Dunsle|Dunsle]]
+>Largest Settlement: [[Setting/Settlements/Villages/Dunsle|Dunsle]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Dunsle|Dunsle]]
+- [[Setting/Settlements/Villages/Dunsle|Dunsle]]
 
 # Cultures in Borders
 
-- [[Cultures/Wildlands|Wildlands]]
+- [[Setting/Cultures/Wildlands|Wildlands]]
 

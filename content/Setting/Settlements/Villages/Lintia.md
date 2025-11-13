@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Lintia
 >###### Village
->Country: [[Nations/Solara|Solara]]
+>Country: [[Setting/Nations/Solara|Solara]]
 >Established:
 >Area:
 >Elevation: 961m
 >Population: 1,770
 >Demonym(s):
->Dominant Culture: [[Cultures/Confluen|Confluen]]
+>Dominant Culture: [[Setting/Cultures/Confluen|Confluen]]
 >Dominant Religion:
 
 # History

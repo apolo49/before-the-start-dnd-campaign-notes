@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Ficasims
 >###### Capital City
->Country: [[Nations/Ficasims|Ficasims]]
+>Country: [[Setting/Nations/Ficasims|Ficasims]]
 >Established:
 >Area:
 >Elevation: 1024m
 >Population: 781
 >Demonym(s):
->Dominant Culture: [[Cultures/Kufa|Kufa]]
+>Dominant Culture: [[Setting/Cultures/Kufa|Kufa]]
 >Dominant Religion:
 
 # History

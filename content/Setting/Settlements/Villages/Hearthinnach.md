@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Hearthinnach
 >###### Capital City
->Country: [[Tribes/Trebia|Trebia]]
+>Country: [[Setting/Tribes/Trebia|Trebia]]
 >Established:
 >Area:
 >Elevation: 36m
 >Population: 3,986
 >Demonym(s):
->Dominant Culture: [[Cultures/Cedi|Cedi]]
+>Dominant Culture: [[Setting/Cultures/Cedi|Cedi]]
 >Dominant Religion:
 
 # History

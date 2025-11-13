@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Arin
 >Civilised
->Capital: [[Cities/Pardan|Pardan]]
->Largest Settlement: [[Cities/Pardan|Pardan]]
+>Capital: [[Setting/Settlements/Cities/Pardan|Pardan]]
+>Largest Settlement: [[Setting/Settlements/Cities/Pardan|Pardan]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Pardan|Pardan]]
+- [[Setting/Settlements/Cities/Pardan|Pardan]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

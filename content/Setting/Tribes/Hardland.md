@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Hardland
 >Tribe
->Capital: [[Villages/Hardt|Hardt]]
->Largest Settlement: [[Villages/Hardt|Hardt]]
+>Capital: [[Setting/Settlements/Villages/Hardt|Hardt]]
+>Largest Settlement: [[Setting/Settlements/Villages/Hardt|Hardt]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Hardt|Hardt]]
+- [[Setting/Settlements/Villages/Hardt|Hardt]]
 
 # Cultures in Borders
 
-- [[Cultures/Geimons|Geimons]]
+- [[Setting/Cultures/Geimons|Geimons]]
 

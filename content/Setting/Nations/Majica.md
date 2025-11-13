@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Majica
 >Civilised
->Capital: [[Cities/Majica|Majica]]
->Largest Settlement: [[Cities/Majica|Majica]]
+>Capital: [[Setting/Settlements/Cities/Majica|Majica]]
+>Largest Settlement: [[Setting/Settlements/Cities/Majica|Majica]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Majica|Majica]]
+- [[Setting/Settlements/Cities/Majica|Majica]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

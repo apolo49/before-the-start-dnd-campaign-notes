@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Betha
 >Civilised
->Capital: [[Cities/Beit Zamit|Beit Zamit]]
->Largest Settlement: [[Cities/Beit Zamit|Beit Zamit]]
+>Capital: [[Setting/Settlements/Cities/Beit Zamit|Beit Zamit]]
+>Largest Settlement: [[Setting/Settlements/Cities/Beit Zamit|Beit Zamit]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Beit Zamit|Beit Zamit]]
+- [[Setting/Settlements/Cities/Beit Zamit|Beit Zamit]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Carthaginian|Carthaginian]]
+- [[Setting/Cultures/Carthaginian|Carthaginian]]
 

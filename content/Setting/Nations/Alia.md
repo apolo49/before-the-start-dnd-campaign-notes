@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Alia
 >Civilised
->Capital: [[Cities/Achartyn|Achartyn]]
->Largest Settlement: [[Cities/Achartyn|Achartyn]]
+>Capital: [[Setting/Settlements/Cities/Achartyn|Achartyn]]
+>Largest Settlement: [[Setting/Settlements/Cities/Achartyn|Achartyn]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Achartyn|Achartyn]]
+- [[Setting/Settlements/Cities/Achartyn|Achartyn]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Nerapit|Nerapit]]
+- [[Setting/Cultures/Nerapit|Nerapit]]
 

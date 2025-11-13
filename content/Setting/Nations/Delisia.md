@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Delisia
 >Civilised
->Capital: [[Cities/Eshad|Eshad]]
->Largest Settlement: [[Cities/Eshad|Eshad]]
+>Capital: [[Setting/Settlements/Cities/Eshad|Eshad]]
+>Largest Settlement: [[Setting/Settlements/Cities/Eshad|Eshad]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Eshad|Eshad]]
+- [[Setting/Settlements/Cities/Eshad|Eshad]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

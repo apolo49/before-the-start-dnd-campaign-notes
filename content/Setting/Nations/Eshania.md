@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Eshania
 >Civilised
->Capital: [[Cities/Guralibabad|Guralibabad]]
->Largest Settlement: [[Cities/Guralibabad|Guralibabad]]
+>Capital: [[Setting/Settlements/Cities/Guralibabad|Guralibabad]]
+>Largest Settlement: [[Setting/Settlements/Cities/Guralibabad|Guralibabad]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Guralibabad|Guralibabad]]
+- [[Setting/Settlements/Cities/Guralibabad|Guralibabad]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

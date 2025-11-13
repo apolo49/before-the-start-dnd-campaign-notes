@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Nain
 >Civilised
->Capital: [[Villages/Parzok|Parzok]]
->Largest Settlement: [[Villages/Parzok|Parzok]]
+>Capital: [[Setting/Settlements/Villages/Parzok|Parzok]]
+>Largest Settlement: [[Setting/Settlements/Villages/Parzok|Parzok]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Parzok|Parzok]]
+- [[Setting/Settlements/Villages/Parzok|Parzok]]
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

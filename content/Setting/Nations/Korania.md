@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Korania
 >Civilised
->Capital: [[Villages/Koran|Koran]]
->Largest Settlement: [[Villages/Koran|Koran]]
+>Capital: [[Setting/Settlements/Villages/Koran|Koran]]
+>Largest Settlement: [[Setting/Settlements/Villages/Koran|Koran]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Koran|Koran]]
+- [[Setting/Settlements/Villages/Koran|Koran]]
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

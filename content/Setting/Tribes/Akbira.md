@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Akbira
 >Tribe
->Capital: [[Villages/Mdiq|Mdiq]]
->Largest Settlement: [[Villages/Mdiq|Mdiq]]
+>Capital: [[Setting/Settlements/Villages/Mdiq|Mdiq]]
+>Largest Settlement: [[Setting/Settlements/Villages/Mdiq|Mdiq]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Mdiq|Mdiq]]
+- [[Setting/Settlements/Villages/Mdiq|Mdiq]]
 
 # Cultures in Borders
 
-- [[Cultures/Ber|Ber]]
+- [[Setting/Cultures/Ber|Ber]]
 

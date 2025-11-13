@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Golshehr
 >###### Capital City
->Country: [[Nations/Khania|Khania]]
+>Country: [[Setting/Nations/Khania|Khania]]
 >Established:
 >Area:
 >Elevation: 1225m
 >Population: 74,729
 >Demonym(s):
->Dominant Culture: [[Cultures/Kufa|Kufa]]
+>Dominant Culture: [[Setting/Cultures/Kufa|Kufa]]
 >Dominant Religion:
 
 # History

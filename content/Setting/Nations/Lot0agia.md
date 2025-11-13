@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Lot0agia
 >Civilised
->Capital: [[Cities/Vadhar|Vadhar]]
->Largest Settlement: [[Cities/Vadhar|Vadhar]]
+>Capital: [[Setting/Settlements/Cities/Vadhar|Vadhar]]
+>Largest Settlement: [[Setting/Settlements/Cities/Vadhar|Vadhar]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Vadhar|Vadhar]]
+- [[Setting/Settlements/Cities/Vadhar|Vadhar]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Vaishasi|Vaishasi]]
+- [[Setting/Cultures/Vaishasi|Vaishasi]]
 

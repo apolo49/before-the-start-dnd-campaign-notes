@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Mobat
 >Civilised
->Capital: [[Cities/Mobat|Mobat]]
->Largest Settlement: [[Cities/Mobat|Mobat]]
+>Capital: [[Setting/Settlements/Cities/Mobat|Mobat]]
+>Largest Settlement: [[Setting/Settlements/Cities/Mobat|Mobat]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Mobat|Mobat]]
+- [[Setting/Settlements/Cities/Mobat|Mobat]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

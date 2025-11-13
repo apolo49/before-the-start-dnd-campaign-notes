@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Viland
 >Tribe
->Capital: [[Villages/Obertalbach|Obertalbach]]
->Largest Settlement: [[Villages/Obertalbach|Obertalbach]]
+>Capital: [[Setting/Settlements/Villages/Obertalbach|Obertalbach]]
+>Largest Settlement: [[Setting/Settlements/Villages/Obertalbach|Obertalbach]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Obertalbach|Obertalbach]]
+- [[Setting/Settlements/Villages/Obertalbach|Obertalbach]]
 
 # Cultures in Borders
 
-- [[Cultures/Kusteter|Kusteter]]
+- [[Setting/Cultures/Kusteter|Kusteter]]
 

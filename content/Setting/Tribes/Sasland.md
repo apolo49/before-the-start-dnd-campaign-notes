@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Sasland
 >Tribe
->Capital: [[Villages/Ebronbach|Ebronbach]]
->Largest Settlement: [[Villages/Ebronbach|Ebronbach]]
+>Capital: [[Setting/Settlements/Villages/Ebronbach|Ebronbach]]
+>Largest Settlement: [[Setting/Settlements/Villages/Ebronbach|Ebronbach]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Ebronbach|Ebronbach]]
+- [[Setting/Settlements/Villages/Ebronbach|Ebronbach]]
 
 # Cultures in Borders
 
-- [[Cultures/Lahrwol|Lahrwol]]
+- [[Setting/Cultures/Lahrwol|Lahrwol]]
 

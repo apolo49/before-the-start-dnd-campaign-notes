@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Waldbrucklos
 >###### Capital City
->Country: [[Tribes/Ozinland|Ozinland]]
+>Country: [[Setting/Tribes/Ozinland|Ozinland]]
 >Established:
 >Area:
 >Elevation: 961m
 >Population: 1,774
 >Demonym(s):
->Dominant Culture: [[Cultures/Lahrwol|Lahrwol]]
+>Dominant Culture: [[Setting/Cultures/Lahrwol|Lahrwol]]
 >Dominant Religion:
 
 # History

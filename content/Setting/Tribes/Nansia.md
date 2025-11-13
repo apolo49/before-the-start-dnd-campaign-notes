@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Nansia
 >Tribe
->Capital: [[Villages/Heartwyth|Heartwyth]]
->Largest Settlement: [[Villages/Heartwyth|Heartwyth]]
+>Capital: [[Setting/Settlements/Villages/Heartwyth|Heartwyth]]
+>Largest Settlement: [[Setting/Settlements/Villages/Heartwyth|Heartwyth]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Heartwyth|Heartwyth]]
+- [[Setting/Settlements/Villages/Heartwyth|Heartwyth]]
 
 # Cultures in Borders
 
-- [[Cultures/Bleduro|Bleduro]]
+- [[Setting/Cultures/Bleduro|Bleduro]]
 

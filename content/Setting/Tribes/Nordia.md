@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Nordia
 >Tribe
->Capital: [[Villages/Elzheim|Elzheim]]
->Largest Settlement: [[Villages/Elzheim|Elzheim]]
+>Capital: [[Setting/Settlements/Villages/Elzheim|Elzheim]]
+>Largest Settlement: [[Setting/Settlements/Villages/Elzheim|Elzheim]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Elzheim|Elzheim]]
+- [[Setting/Settlements/Villages/Elzheim|Elzheim]]
 
 # Cultures in Borders
 
-- [[Cultures/Blum|Blum]]
+- [[Setting/Cultures/Blum|Blum]]
 

@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Glotwan
 >###### Capital City
->Country: [[Tribes/Bamland|Bamland]]
+>Country: [[Setting/Tribes/Bamland|Bamland]]
 >Established:
 >Area:
 >Elevation: 625m
 >Population: 243
 >Demonym(s):
->Dominant Culture: [[Cultures/Blum|Blum]]
+>Dominant Culture: [[Setting/Cultures/Blum|Blum]]
 >Dominant Religion:
 
 # History

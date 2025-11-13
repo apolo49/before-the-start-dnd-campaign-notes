@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Gag
 >Tribe
->Capital: [[Villages/Schut|Schut]]
->Largest Settlement: [[Villages/Schut|Schut]]
+>Capital: [[Setting/Settlements/Villages/Schut|Schut]]
+>Largest Settlement: [[Setting/Settlements/Villages/Schut|Schut]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Schut|Schut]]
+- [[Setting/Settlements/Villages/Schut|Schut]]
 
 # Cultures in Borders
 
-- [[Cultures/Bieiamten|Bieiamten]]
+- [[Setting/Cultures/Bieiamten|Bieiamten]]
 

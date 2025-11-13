@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Durelia
 >###### City
->Country: [[Nations/Solara|Solara]]
+>Country: [[Setting/Nations/Solara|Solara]]
 >Established:
 >Area:
 >Elevation: 1369m
 >Population: 35,007
 >Demonym(s):
->Dominant Culture: [[Cultures/Confluen|Confluen]]
+>Dominant Culture: [[Setting/Cultures/Confluen|Confluen]]
 >Dominant Religion:
 
 # History

@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Far
 >Civilised
->Capital: [[Cities/Pavehishahr|Pavehishahr]]
->Largest Settlement: [[Cities/Pavehishahr|Pavehishahr]]
+>Capital: [[Setting/Settlements/Cities/Pavehishahr|Pavehishahr]]
+>Largest Settlement: [[Setting/Settlements/Cities/Pavehishahr|Pavehishahr]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Pavehishahr|Pavehishahr]]
+- [[Setting/Settlements/Cities/Pavehishahr|Pavehishahr]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

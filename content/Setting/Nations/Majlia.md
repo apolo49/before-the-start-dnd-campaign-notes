@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Majlia
 >Civilised
->Capital: [[Cities/Darehrilan|Darehrilan]]
->Largest Settlement: [[Cities/Darehrilan|Darehrilan]]
+>Capital: [[Setting/Settlements/Cities/Darehrilan|Darehrilan]]
+>Largest Settlement: [[Setting/Settlements/Cities/Darehrilan|Darehrilan]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Darehrilan|Darehrilan]]
+- [[Setting/Settlements/Cities/Darehrilan|Darehrilan]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

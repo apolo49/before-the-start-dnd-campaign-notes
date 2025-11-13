@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Guried
 >Tribe
->Capital: [[Villages/Guried|Guried]]
->Largest Settlement: [[Villages/Guried|Guried]]
+>Capital: [[Setting/Settlements/Villages/Guried|Guried]]
+>Largest Settlement: [[Setting/Settlements/Villages/Guried|Guried]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Guried|Guried]]
+- [[Setting/Settlements/Villages/Guried|Guried]]
 
 # Cultures in Borders
 
-- [[Cultures/Horngenhau|Horngenhau]]
+- [[Setting/Cultures/Horngenhau|Horngenhau]]
 

@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Bosws
 >Tribe
->Capital: [[Villages/Aberteiraber|Aberteiraber]]
->Largest Settlement: [[Villages/Aberteiraber|Aberteiraber]]
+>Capital: [[Setting/Settlements/Villages/Aberteiraber|Aberteiraber]]
+>Largest Settlement: [[Setting/Settlements/Villages/Aberteiraber|Aberteiraber]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Aberteiraber|Aberteiraber]]
+- [[Setting/Settlements/Villages/Aberteiraber|Aberteiraber]]
 
 # Cultures in Borders
 
-- [[Cultures/Lerug|Lerug]]
+- [[Setting/Cultures/Lerug|Lerug]]
 

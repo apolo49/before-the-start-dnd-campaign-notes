@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Ronutia
 >Civilised
->Capital: [[Villages/Satareh|Satareh]]
->Largest Settlement: [[Villages/Satareh|Satareh]]
+>Capital: [[Setting/Settlements/Villages/Satareh|Satareh]]
+>Largest Settlement: [[Setting/Settlements/Villages/Satareh|Satareh]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Satareh|Satareh]]
+- [[Setting/Settlements/Villages/Satareh|Satareh]]
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

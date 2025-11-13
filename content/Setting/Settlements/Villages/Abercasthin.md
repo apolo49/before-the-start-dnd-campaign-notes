@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Abercasthin
 >###### Capital City
->Country: [[Tribes/Ponsia|Ponsia]]
+>Country: [[Setting/Tribes/Ponsia|Ponsia]]
 >Established:
 >Area:
 >Elevation: 81m
 >Population: 2,747
 >Demonym(s):
->Dominant Culture: [[Cultures/Calaw|Calaw]]
+>Dominant Culture: [[Setting/Cultures/Calaw|Calaw]]
 >Dominant Religion:
 
 # History

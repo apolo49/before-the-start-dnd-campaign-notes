@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Khania
 >Civilised
->Capital: [[Cities/Golshehr|Golshehr]]
->Largest Settlement: [[Cities/Golshehr|Golshehr]]
+>Capital: [[Setting/Settlements/Cities/Golshehr|Golshehr]]
+>Largest Settlement: [[Setting/Settlements/Cities/Golshehr|Golshehr]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Golshehr|Golshehr]]
+- [[Setting/Settlements/Cities/Golshehr|Golshehr]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

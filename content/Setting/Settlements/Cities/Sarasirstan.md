@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Sarasirstan
 >###### Capital City
->Country: [[Nations/Zareh|Zareh]]
+>Country: [[Setting/Nations/Zareh|Zareh]]
 >Established:
 >Area:
 >Elevation: 1024m
 >Population: 82,284
 >Demonym(s):
->Dominant Culture: [[Cultures/Kufa|Kufa]]
+>Dominant Culture: [[Setting/Cultures/Kufa|Kufa]]
 >Dominant Religion:
 
 # History

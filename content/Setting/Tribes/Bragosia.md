@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Bragosia
 >Tribe
->Capital: [[Villages/Infoviobodu|Infoviobodu]]
->Largest Settlement: [[Villages/Infoviobodu|Infoviobodu]]
+>Capital: [[Setting/Settlements/Villages/Infoviobodu|Infoviobodu]]
+>Largest Settlement: [[Setting/Settlements/Villages/Infoviobodu|Infoviobodu]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Infoviobodu|Infoviobodu]]
+- [[Setting/Settlements/Villages/Infoviobodu|Infoviobodu]]
 
 # Cultures in Borders
 
-- [[Cultures/Dulegan|Dulegan]]
+- [[Setting/Cultures/Dulegan|Dulegan]]
 

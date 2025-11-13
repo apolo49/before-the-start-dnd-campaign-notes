@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Nuni
 >Civilised
->Capital: [[Cities/Nepelulma|Nepelulma]]
->Largest Settlement: [[Cities/Nepelulma|Nepelulma]]
+>Capital: [[Setting/Settlements/Cities/Nepelulma|Nepelulma]]
+>Largest Settlement: [[Setting/Settlements/Cities/Nepelulma|Nepelulma]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Nepelulma|Nepelulma]]
+- [[Setting/Settlements/Cities/Nepelulma|Nepelulma]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Qatha|Qatha]]
+- [[Setting/Cultures/Qatha|Qatha]]
 

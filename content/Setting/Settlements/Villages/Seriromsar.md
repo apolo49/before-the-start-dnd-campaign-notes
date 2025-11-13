@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Seriromsar
 >###### Capital City
->Country: [[Nations/Narandia|Narandia]]
+>Country: [[Setting/Nations/Narandia|Narandia]]
 >Established:
 >Area:
 >Elevation: 1369m
 >Population: 1,018
 >Demonym(s):
->Dominant Culture: [[Cultures/Kufa|Kufa]]
+>Dominant Culture: [[Setting/Cultures/Kufa|Kufa]]
 >Dominant Religion:
 
 # History

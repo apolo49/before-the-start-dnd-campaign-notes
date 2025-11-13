@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Breis
 >Tribe
->Capital: [[Villages/Marxzellfach|Marxzellfach]]
->Largest Settlement: [[Villages/Marxzellfach|Marxzellfach]]
+>Capital: [[Setting/Settlements/Villages/Marxzellfach|Marxzellfach]]
+>Largest Settlement: [[Setting/Settlements/Villages/Marxzellfach|Marxzellfach]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Marxzellfach|Marxzellfach]]
+- [[Setting/Settlements/Villages/Marxzellfach|Marxzellfach]]
 
 # Cultures in Borders
 
-- [[Cultures/Schilden|Schilden]]
+- [[Setting/Cultures/Schilden|Schilden]]
 

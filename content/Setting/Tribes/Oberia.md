@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Oberia
 >Tribe
->Capital: [[Villages/Horbrongen|Horbrongen]]
->Largest Settlement: [[Villages/Horbrongen|Horbrongen]]
+>Capital: [[Setting/Settlements/Villages/Horbrongen|Horbrongen]]
+>Largest Settlement: [[Setting/Settlements/Villages/Horbrongen|Horbrongen]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Horbrongen|Horbrongen]]
+- [[Setting/Settlements/Villages/Horbrongen|Horbrongen]]
 
 # Cultures in Borders
 
-- [[Cultures/Witenter|Witenter]]
+- [[Setting/Cultures/Witenter|Witenter]]
 

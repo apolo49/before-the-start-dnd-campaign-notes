@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Iromia
 >Civilised
->Capital: [[Villages/Rhatighata|Rhatighata]]
->Largest Settlement: [[Villages/Rhatighata|Rhatighata]]
+>Capital: [[Setting/Settlements/Villages/Rhatighata|Rhatighata]]
+>Largest Settlement: [[Setting/Settlements/Villages/Rhatighata|Rhatighata]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Rhatighata|Rhatighata]]
+- [[Setting/Settlements/Villages/Rhatighata|Rhatighata]]
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

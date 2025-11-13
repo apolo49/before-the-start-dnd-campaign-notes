@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Maqan
 >Civilised
->Capital: [[Cities/Rhatomvar|Rhatomvar]]
->Largest Settlement: [[Cities/Rhatomvar|Rhatomvar]]
+>Capital: [[Setting/Settlements/Cities/Rhatomvar|Rhatomvar]]
+>Largest Settlement: [[Setting/Settlements/Cities/Rhatomvar|Rhatomvar]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Rhatomvar|Rhatomvar]]
+- [[Setting/Settlements/Cities/Rhatomvar|Rhatomvar]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Ataia
 >Civilised
->Capital: [[Cities/Mahendrali|Mahendrali]]
->Largest Settlement: [[Cities/Mahendrali|Mahendrali]]
+>Capital: [[Setting/Settlements/Cities/Mahendrali|Mahendrali]]
+>Largest Settlement: [[Setting/Settlements/Cities/Mahendrali|Mahendrali]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Mahendrali|Mahendrali]]
+- [[Setting/Settlements/Cities/Mahendrali|Mahendrali]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Vaishasi|Vaishasi]]
+- [[Setting/Cultures/Vaishasi|Vaishasi]]
 

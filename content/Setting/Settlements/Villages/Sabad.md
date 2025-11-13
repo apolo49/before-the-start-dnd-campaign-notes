@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Sabad
 >###### Capital City
->Country: [[Nations/Ishia|Ishia]]
+>Country: [[Setting/Nations/Ishia|Ishia]]
 >Established:
 >Area:
 >Elevation: 961m
 >Population: 1,268
 >Demonym(s):
->Dominant Culture: [[Cultures/Kufa|Kufa]]
+>Dominant Culture: [[Setting/Cultures/Kufa|Kufa]]
 >Dominant Religion:
 
 # History

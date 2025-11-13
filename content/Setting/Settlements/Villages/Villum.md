@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Villum
 >###### Village
->Country: [[Nations/Solara|Solara]]
+>Country: [[Setting/Nations/Solara|Solara]]
 >Established:
 >Area:
 >Elevation: 900m
 >Population: 32
 >Demonym(s):
->Dominant Culture: [[Cultures/Confluen|Confluen]]
+>Dominant Culture: [[Setting/Cultures/Confluen|Confluen]]
 >Dominant Religion:
 
 # History

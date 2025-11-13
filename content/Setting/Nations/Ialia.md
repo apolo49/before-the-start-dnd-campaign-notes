@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Ialia
 >Civilised
->Capital: [[Cities/Arnas|Arnas]]
->Largest Settlement: [[Cities/Arnas|Arnas]]
+>Capital: [[Setting/Settlements/Cities/Arnas|Arnas]]
+>Largest Settlement: [[Setting/Settlements/Cities/Arnas|Arnas]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Arnas|Arnas]]
+- [[Setting/Settlements/Cities/Arnas|Arnas]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Amphi|Amphi]]
+- [[Setting/Cultures/Amphi|Amphi]]
 

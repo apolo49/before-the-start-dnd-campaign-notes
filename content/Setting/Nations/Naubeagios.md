@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Naubeagios
 >Civilised
->Capital: [[Cities/Naubeagios|Naubeagios]]
->Largest Settlement: [[Cities/Naubeagios|Naubeagios]]
+>Capital: [[Setting/Settlements/Cities/Naubeagios|Naubeagios]]
+>Largest Settlement: [[Setting/Settlements/Cities/Naubeagios|Naubeagios]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Naubeagios|Naubeagios]]
+- [[Setting/Settlements/Cities/Naubeagios|Naubeagios]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Nerapit|Nerapit]]
+- [[Setting/Cultures/Nerapit|Nerapit]]
 

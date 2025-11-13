@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Jikia
 >Civilised
->Capital: [[Villages/Ashehishian|Ashehishian]]
->Largest Settlement: [[Villages/Ashehishian|Ashehishian]]
+>Capital: [[Setting/Settlements/Villages/Ashehishian|Ashehishian]]
+>Largest Settlement: [[Setting/Settlements/Villages/Ashehishian|Ashehishian]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Ashehishian|Ashehishian]]
+- [[Setting/Settlements/Villages/Ashehishian|Ashehishian]]
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

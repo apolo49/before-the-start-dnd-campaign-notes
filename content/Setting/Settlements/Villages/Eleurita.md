@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Eleurita
 >###### Capital City
->Country: [[Nations/Eleurita|Eleurita]]
+>Country: [[Setting/Nations/Eleurita|Eleurita]]
 >Established:
 >Area:
 >Elevation: 625m
 >Population: 858
 >Demonym(s):
->Dominant Culture: [[Cultures/Nymphid|Nymphid]]
+>Dominant Culture: [[Setting/Cultures/Nymphid|Nymphid]]
 >Dominant Religion:
 
 # History

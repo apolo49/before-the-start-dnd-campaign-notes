@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Fanazia
 >Civilised
->Capital: [[Cities/Ganjleres|Ganjleres]]
->Largest Settlement: [[Cities/Ganjleres|Ganjleres]]
+>Capital: [[Setting/Settlements/Cities/Ganjleres|Ganjleres]]
+>Largest Settlement: [[Setting/Settlements/Cities/Ganjleres|Ganjleres]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Ganjleres|Ganjleres]]
+- [[Setting/Settlements/Cities/Ganjleres|Ganjleres]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Graland
 >Tribe
->Capital: [[Villages/Duried|Duried]]
->Largest Settlement: [[Villages/Duried|Duried]]
+>Capital: [[Setting/Settlements/Villages/Duried|Duried]]
+>Largest Settlement: [[Setting/Settlements/Villages/Duried|Duried]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Duried|Duried]]
+- [[Setting/Settlements/Villages/Duried|Duried]]
 
 # Cultures in Borders
 
-- [[Cultures/Herwihl|Herwihl]]
+- [[Setting/Cultures/Herwihl|Herwihl]]
 

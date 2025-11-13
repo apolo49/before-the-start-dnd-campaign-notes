@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Scho
 >Tribe
->Capital: [[Villages/Wehrtal|Wehrtal]]
->Largest Settlement: [[Villages/Wehrtal|Wehrtal]]
+>Capital: [[Setting/Settlements/Villages/Wehrtal|Wehrtal]]
+>Largest Settlement: [[Setting/Settlements/Villages/Wehrtal|Wehrtal]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Wehrtal|Wehrtal]]
+- [[Setting/Settlements/Villages/Wehrtal|Wehrtal]]
 
 # Cultures in Borders
 
-- [[Cultures/Briler|Briler]]
+- [[Setting/Cultures/Briler|Briler]]
 

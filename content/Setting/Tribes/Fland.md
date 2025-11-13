@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Fland
 >Tribe
->Capital: [[Villages/Vogtsterbach|Vogtsterbach]]
->Largest Settlement: [[Villages/Vogtsterbach|Vogtsterbach]]
+>Capital: [[Setting/Settlements/Villages/Vogtsterbach|Vogtsterbach]]
+>Largest Settlement: [[Setting/Settlements/Villages/Vogtsterbach|Vogtsterbach]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Vogtsterbach|Vogtsterbach]]
+- [[Setting/Settlements/Villages/Vogtsterbach|Vogtsterbach]]
 
 # Cultures in Borders
 
-- [[Cultures/Herwihl|Herwihl]]
+- [[Setting/Cultures/Herwihl|Herwihl]]
 

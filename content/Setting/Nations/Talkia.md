@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Talkia
 >Civilised
->Capital: [[Villages/Zarim|Zarim]]
->Largest Settlement: [[Villages/Zarim|Zarim]]
+>Capital: [[Setting/Settlements/Villages/Zarim|Zarim]]
+>Largest Settlement: [[Setting/Settlements/Villages/Zarim|Zarim]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Zarim|Zarim]]
+- [[Setting/Settlements/Villages/Zarim|Zarim]]
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

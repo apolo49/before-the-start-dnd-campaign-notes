@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Monch
 >Tribe
->Capital: [[Villages/Zaden|Zaden]]
->Largest Settlement: [[Villages/Zaden|Zaden]]
+>Capital: [[Setting/Settlements/Villages/Zaden|Zaden]]
+>Largest Settlement: [[Setting/Settlements/Villages/Zaden|Zaden]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Zaden|Zaden]]
+- [[Setting/Settlements/Villages/Zaden|Zaden]]
 
 # Cultures in Borders
 
-- [[Cultures/Kusgau|Kusgau]]
+- [[Setting/Cultures/Kusgau|Kusgau]]
 

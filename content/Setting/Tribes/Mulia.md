@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Mulia
 >Tribe
->Capital: [[Villages/Mahlheimberg|Mahlheimberg]]
->Largest Settlement: [[Villages/Mahlheimberg|Mahlheimberg]]
+>Capital: [[Setting/Settlements/Villages/Mahlheimberg|Mahlheimberg]]
+>Largest Settlement: [[Setting/Settlements/Villages/Mahlheimberg|Mahlheimberg]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Mahlheimberg|Mahlheimberg]]
+- [[Setting/Settlements/Villages/Mahlheimberg|Mahlheimberg]]
 
 # Cultures in Borders
 
-- [[Cultures/Pemiripo|Pemiripo]]
+- [[Setting/Cultures/Pemiripo|Pemiripo]]
 

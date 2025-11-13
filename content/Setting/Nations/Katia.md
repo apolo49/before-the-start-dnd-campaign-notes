@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Katia
 >Civilised
->Capital: [[Cities/Gawan|Gawan]]
->Largest Settlement: [[Cities/Gawan|Gawan]]
+>Capital: [[Setting/Settlements/Cities/Gawan|Gawan]]
+>Largest Settlement: [[Setting/Settlements/Cities/Gawan|Gawan]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Gawan|Gawan]]
+- [[Setting/Settlements/Cities/Gawan|Gawan]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Warmo|Warmo]]
+- [[Setting/Cultures/Warmo|Warmo]]
 

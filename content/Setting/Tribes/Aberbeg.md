@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Aberbeg
 >Tribe
->Capital: [[Villages/Aberbeg|Aberbeg]]
->Largest Settlement: [[Villages/Aberbeg|Aberbeg]]
+>Capital: [[Setting/Settlements/Villages/Aberbeg|Aberbeg]]
+>Largest Settlement: [[Setting/Settlements/Villages/Aberbeg|Aberbeg]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Aberbeg|Aberbeg]]
+- [[Setting/Settlements/Villages/Aberbeg|Aberbeg]]
 
 # Cultures in Borders
 
-- [[Cultures/Lerug|Lerug]]
+- [[Setting/Cultures/Lerug|Lerug]]
 

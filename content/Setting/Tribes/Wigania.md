@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Wigania
 >Tribe
->Capital: [[Villages/Thatclesham|Thatclesham]]
->Largest Settlement: [[Villages/Thatclesham|Thatclesham]]
+>Capital: [[Setting/Settlements/Villages/Thatclesham|Thatclesham]]
+>Largest Settlement: [[Setting/Settlements/Villages/Thatclesham|Thatclesham]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Thatclesham|Thatclesham]]
+- [[Setting/Settlements/Villages/Thatclesham|Thatclesham]]
 
 # Cultures in Borders
 
-- [[Cultures/Wildlands|Wildlands]]
+- [[Setting/Cultures/Wildlands|Wildlands]]
 

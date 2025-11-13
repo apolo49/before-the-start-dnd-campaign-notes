@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Punelia
 >Civilised
->Capital: [[Cities/Jasipudanes|Jasipudanes]]
->Largest Settlement: [[Cities/Jasipudanes|Jasipudanes]]
+>Capital: [[Setting/Settlements/Cities/Jasipudanes|Jasipudanes]]
+>Largest Settlement: [[Setting/Settlements/Cities/Jasipudanes|Jasipudanes]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Jasipudanes|Jasipudanes]]
+- [[Setting/Settlements/Cities/Jasipudanes|Jasipudanes]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Vaishasi|Vaishasi]]
+- [[Setting/Cultures/Vaishasi|Vaishasi]]
 

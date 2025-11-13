@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Enzelnia
 >Tribe
->Capital: [[Villages/Liedengengen|Liedengengen]]
->Largest Settlement: [[Villages/Liedengengen|Liedengengen]]
+>Capital: [[Setting/Settlements/Villages/Liedengengen|Liedengengen]]
+>Largest Settlement: [[Setting/Settlements/Villages/Liedengengen|Liedengengen]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Liedengengen|Liedengengen]]
+- [[Setting/Settlements/Villages/Liedengengen|Liedengengen]]
 
 # Cultures in Borders
 
-- [[Cultures/Kusteter|Kusteter]]
+- [[Setting/Cultures/Kusteter|Kusteter]]
 

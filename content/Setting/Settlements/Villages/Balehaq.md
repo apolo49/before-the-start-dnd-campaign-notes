@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Balehaq
 >###### Village
->Country: [[Nations/Echeh|Echeh]]
+>Country: [[Setting/Nations/Echeh|Echeh]]
 >Established:
 >Area:
 >Elevation: 1296m
 >Population: 2,854
 >Demonym(s):
->Dominant Culture: [[Cultures/Kufa|Kufa]]
+>Dominant Culture: [[Setting/Cultures/Kufa|Kufa]]
 >Dominant Religion:
 
 # History

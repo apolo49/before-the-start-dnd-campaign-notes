@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Diran
 >Civilised
->Capital: [[Villages/Bafransar|Bafransar]]
->Largest Settlement: [[Villages/Bafransar|Bafransar]]
+>Capital: [[Setting/Settlements/Villages/Bafransar|Bafransar]]
+>Largest Settlement: [[Setting/Settlements/Villages/Bafransar|Bafransar]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Bafransar|Bafransar]]
+- [[Setting/Settlements/Villages/Bafransar|Bafransar]]
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

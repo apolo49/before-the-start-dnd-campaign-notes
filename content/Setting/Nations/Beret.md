@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Beret
 >Civilised
->Capital: [[Cities/Namrin|Namrin]]
->Largest Settlement: [[Cities/Namrin|Namrin]]
+>Capital: [[Setting/Settlements/Cities/Namrin|Namrin]]
+>Largest Settlement: [[Setting/Settlements/Cities/Namrin|Namrin]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Namrin|Namrin]]
+- [[Setting/Settlements/Cities/Namrin|Namrin]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Carthaginian|Carthaginian]]
+- [[Setting/Cultures/Carthaginian|Carthaginian]]
 

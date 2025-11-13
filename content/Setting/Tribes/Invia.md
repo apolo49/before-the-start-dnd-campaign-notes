@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Invia
 >Tribe
->Capital: [[Villages/Inve|Inve]]
->Largest Settlement: [[Villages/Inve|Inve]]
+>Capital: [[Setting/Settlements/Villages/Inve|Inve]]
+>Largest Settlement: [[Setting/Settlements/Villages/Inve|Inve]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Inve|Inve]]
+- [[Setting/Settlements/Villages/Inve|Inve]]
 
 # Cultures in Borders
 
-- [[Cultures/Ebheartei|Ebheartei]]
+- [[Setting/Cultures/Ebheartei|Ebheartei]]
 

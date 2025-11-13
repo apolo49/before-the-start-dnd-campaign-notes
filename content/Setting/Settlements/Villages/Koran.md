@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Koran
 >###### Capital City
->Country: [[Nations/Korania|Korania]]
+>Country: [[Setting/Nations/Korania|Korania]]
 >Established:
 >Area:
 >Elevation: 1369m
 >Population: 1,657
 >Demonym(s):
->Dominant Culture: [[Cultures/Kufa|Kufa]]
+>Dominant Culture: [[Setting/Cultures/Kufa|Kufa]]
 >Dominant Religion:
 
 # History

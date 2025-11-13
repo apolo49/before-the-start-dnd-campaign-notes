@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Gorzuq
 >Civilised
->Capital: [[Villages/Estar|Estar]]
->Largest Settlement: [[Villages/Estar|Estar]]
+>Capital: [[Setting/Settlements/Villages/Estar|Estar]]
+>Largest Settlement: [[Setting/Settlements/Villages/Estar|Estar]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Estar|Estar]]
+- [[Setting/Settlements/Villages/Estar|Estar]]
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

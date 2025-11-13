@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Talparika
 >###### Capital City
->Country: [[Nations/Dezvania|Dezvania]]
+>Country: [[Setting/Nations/Dezvania|Dezvania]]
 >Established:
 >Area:
 >Elevation: 676m
 >Population: 96,733
 >Demonym(s):
->Dominant Culture: [[Cultures/Kufa|Kufa]]
+>Dominant Culture: [[Setting/Cultures/Kufa|Kufa]]
 >Dominant Religion:
 
 # History

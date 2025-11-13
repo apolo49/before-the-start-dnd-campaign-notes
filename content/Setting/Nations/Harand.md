@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Harand
 >Civilised
->Capital: [[Cities/Harand|Harand]]
->Largest Settlement: [[Cities/Harand|Harand]]
+>Capital: [[Setting/Settlements/Cities/Harand|Harand]]
+>Largest Settlement: [[Setting/Settlements/Cities/Harand|Harand]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Harand|Harand]]
+- [[Setting/Settlements/Cities/Harand|Harand]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

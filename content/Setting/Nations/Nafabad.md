@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Nafabad
 >Civilised
->Capital: [[Villages/Nafabad|Nafabad]]
->Largest Settlement: [[Villages/Nafabad|Nafabad]]
+>Capital: [[Setting/Settlements/Villages/Nafabad|Nafabad]]
+>Largest Settlement: [[Setting/Settlements/Villages/Nafabad|Nafabad]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Nafabad|Nafabad]]
+- [[Setting/Settlements/Villages/Nafabad|Nafabad]]
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

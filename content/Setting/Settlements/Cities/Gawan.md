@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Gawan
 >###### Capital City
->Country: [[Nations/Katia|Katia]]
+>Country: [[Setting/Nations/Katia|Katia]]
 >Established:
 >Area:
 >Elevation: 961m
 >Population: 99,500
 >Demonym(s):
->Dominant Culture: [[Cultures/Warmo|Warmo]]
+>Dominant Culture: [[Setting/Cultures/Warmo|Warmo]]
 >Dominant Religion:
 
 # History

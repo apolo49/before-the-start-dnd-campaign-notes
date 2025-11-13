@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Maran
 >Civilised
->Capital: [[Cities/Pirnamk|Pirnamk]]
->Largest Settlement: [[Cities/Pirnamk|Pirnamk]]
+>Capital: [[Setting/Settlements/Cities/Pirnamk|Pirnamk]]
+>Largest Settlement: [[Setting/Settlements/Cities/Pirnamk|Pirnamk]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Pirnamk|Pirnamk]]
+- [[Setting/Settlements/Cities/Pirnamk|Pirnamk]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

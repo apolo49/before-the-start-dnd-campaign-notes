@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Akrossia
 >Civilised
->Capital: [[Villages/Akrossa|Akrossa]]
->Largest Settlement: [[Villages/Akrossa|Akrossa]]
+>Capital: [[Setting/Settlements/Villages/Akrossa|Akrossa]]
+>Largest Settlement: [[Setting/Settlements/Villages/Akrossa|Akrossa]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Akrossa|Akrossa]]
+- [[Setting/Settlements/Villages/Akrossa|Akrossa]]
 
 # Cultures in Borders
 
-- [[Cultures/Henaidau|Henaidau]]
+- [[Setting/Cultures/Henaidau|Henaidau]]
 

@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Alainveruno
 >###### Capital City
->Country: [[Tribes/Aberkia|Aberkia]]
+>Country: [[Setting/Tribes/Aberkia|Aberkia]]
 >Established:
 >Area:
 >Elevation: 1024m
 >Population: 2,045
 >Demonym(s):
->Dominant Culture: [[Cultures/Bleduro|Bleduro]]
+>Dominant Culture: [[Setting/Cultures/Bleduro|Bleduro]]
 >Dominant Religion:
 
 # History

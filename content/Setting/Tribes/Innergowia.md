@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Innergowia
 >Tribe
->Capital: [[Villages/Innergow|Innergow]]
->Largest Settlement: [[Villages/Innergow|Innergow]]
+>Capital: [[Setting/Settlements/Villages/Innergow|Innergow]]
+>Largest Settlement: [[Setting/Settlements/Villages/Innergow|Innergow]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Innergow|Innergow]]
+- [[Setting/Settlements/Villages/Innergow|Innergow]]
 
 # Cultures in Borders
 
-- [[Cultures/Ebheartei|Ebheartei]]
+- [[Setting/Cultures/Ebheartei|Ebheartei]]
 

@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Duibia
 >Tribe
->Capital: [[Villages/Fhlaigaracre|Fhlaigaracre]]
->Largest Settlement: [[Villages/Fhlaigaracre|Fhlaigaracre]]
+>Capital: [[Setting/Settlements/Villages/Fhlaigaracre|Fhlaigaracre]]
+>Largest Settlement: [[Setting/Settlements/Villages/Fhlaigaracre|Fhlaigaracre]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Fhlaigaracre|Fhlaigaracre]]
+- [[Setting/Settlements/Villages/Fhlaigaracre|Fhlaigaracre]]
 
 # Cultures in Borders
 
-- [[Cultures/Ebheartei|Ebheartei]]
+- [[Setting/Cultures/Ebheartei|Ebheartei]]
 

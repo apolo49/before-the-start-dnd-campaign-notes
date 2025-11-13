@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Agha
 >Tribe
->Capital: [[Villages/Yous|Yous]]
->Largest Settlement: [[Villages/Yous|Yous]]
+>Capital: [[Setting/Settlements/Villages/Yous|Yous]]
+>Largest Settlement: [[Setting/Settlements/Villages/Yous|Yous]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Yous|Yous]]
+- [[Setting/Settlements/Villages/Yous|Yous]]
 
 # Cultures in Borders
 
-- [[Cultures/Ber|Ber]]
+- [[Setting/Cultures/Ber|Ber]]
 

@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Gunauten
 >###### Capital City
->Country: [[Tribes/Frohn|Frohn]]
+>Country: [[Setting/Tribes/Frohn|Frohn]]
 >Established:
 >Area:
 >Elevation: 1024m
 >Population: 38
 >Demonym(s):
->Dominant Culture: [[Cultures/Horngenhau|Horngenhau]]
+>Dominant Culture: [[Setting/Cultures/Horngenhau|Horngenhau]]
 >Dominant Religion:
 
 # History

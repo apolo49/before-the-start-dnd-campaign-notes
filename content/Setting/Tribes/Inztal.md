@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Inztal
 >Tribe
->Capital: [[Villages/Inztal|Inztal]]
->Largest Settlement: [[Villages/Inztal|Inztal]]
+>Capital: [[Setting/Settlements/Villages/Inztal|Inztal]]
+>Largest Settlement: [[Setting/Settlements/Villages/Inztal|Inztal]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Inztal|Inztal]]
+- [[Setting/Settlements/Villages/Inztal|Inztal]]
 
 # Cultures in Borders
 
-- [[Cultures/Krozin|Krozin]]
+- [[Setting/Cultures/Krozin|Krozin]]
 

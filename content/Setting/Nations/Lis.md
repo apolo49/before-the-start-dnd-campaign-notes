@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Lis
 >Civilised
->Capital: [[Cities/Thetos|Thetos]]
->Largest Settlement: [[Cities/Thetos|Thetos]]
+>Capital: [[Setting/Settlements/Cities/Thetos|Thetos]]
+>Largest Settlement: [[Setting/Settlements/Cities/Thetos|Thetos]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Thetos|Thetos]]
+- [[Setting/Settlements/Cities/Thetos|Thetos]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Mortyn|Mortyn]]
+- [[Setting/Cultures/Mortyn|Mortyn]]
 

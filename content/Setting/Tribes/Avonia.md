@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Avonia
 >Tribe
->Capital: [[Villages/Invercarn|Invercarn]]
->Largest Settlement: [[Villages/Invercarn|Invercarn]]
+>Capital: [[Setting/Settlements/Villages/Invercarn|Invercarn]]
+>Largest Settlement: [[Setting/Settlements/Villages/Invercarn|Invercarn]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Invercarn|Invercarn]]
+- [[Setting/Settlements/Villages/Invercarn|Invercarn]]
 
 # Cultures in Borders
 
-- [[Cultures/Inverkei|Inverkei]]
+- [[Setting/Cultures/Inverkei|Inverkei]]
 

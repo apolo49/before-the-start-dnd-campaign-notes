@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Nafia
 >Civilised
->Capital: [[Cities/Zranzababi|Zranzababi]]
->Largest Settlement: [[Cities/Zranzababi|Zranzababi]]
+>Capital: [[Setting/Settlements/Cities/Zranzababi|Zranzababi]]
+>Largest Settlement: [[Setting/Settlements/Cities/Zranzababi|Zranzababi]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Zranzababi|Zranzababi]]
+- [[Setting/Settlements/Cities/Zranzababi|Zranzababi]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Bruria
 >Tribe
->Capital: [[Villages/Buntatester|Buntatester]]
->Largest Settlement: [[Villages/Buntatester|Buntatester]]
+>Capital: [[Setting/Settlements/Villages/Buntatester|Buntatester]]
+>Largest Settlement: [[Setting/Settlements/Villages/Buntatester|Buntatester]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Buntatester|Buntatester]]
+- [[Setting/Settlements/Villages/Buntatester|Buntatester]]
 
 # Cultures in Borders
 
-- [[Cultures/Wildlands|Wildlands]]
+- [[Setting/Cultures/Wildlands|Wildlands]]
 

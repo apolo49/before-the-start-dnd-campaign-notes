@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Shusia
 >Civilised
->Capital: [[Cities/Aqershad|Aqershad]]
->Largest Settlement: [[Cities/Aqershad|Aqershad]]
+>Capital: [[Setting/Settlements/Cities/Aqershad|Aqershad]]
+>Largest Settlement: [[Setting/Settlements/Cities/Aqershad|Aqershad]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Aqershad|Aqershad]]
+- [[Setting/Settlements/Cities/Aqershad|Aqershad]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

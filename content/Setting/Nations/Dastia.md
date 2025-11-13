@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Dastia
 >Civilised
->Capital: [[Cities/Semvar|Semvar]]
->Largest Settlement: [[Cities/Semvar|Semvar]]
+>Capital: [[Setting/Settlements/Cities/Semvar|Semvar]]
+>Largest Settlement: [[Setting/Settlements/Cities/Semvar|Semvar]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Semvar|Semvar]]
+- [[Setting/Settlements/Cities/Semvar|Semvar]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

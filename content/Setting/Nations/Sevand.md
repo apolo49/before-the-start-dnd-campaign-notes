@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Sevand
 >Civilised
->Capital: [[Villages/Shush|Shush]]
->Largest Settlement: [[Villages/Shush|Shush]]
+>Capital: [[Setting/Settlements/Villages/Shush|Shush]]
+>Largest Settlement: [[Setting/Settlements/Villages/Shush|Shush]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Shush|Shush]]
+- [[Setting/Settlements/Villages/Shush|Shush]]
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Dugania
 >Civilised
->Capital: [[Cities/Buladshana|Buladshana]]
->Largest Settlement: [[Cities/Buladshana|Buladshana]]
+>Capital: [[Setting/Settlements/Cities/Buladshana|Buladshana]]
+>Largest Settlement: [[Setting/Settlements/Cities/Buladshana|Buladshana]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Buladshana|Buladshana]]
+- [[Setting/Settlements/Cities/Buladshana|Buladshana]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

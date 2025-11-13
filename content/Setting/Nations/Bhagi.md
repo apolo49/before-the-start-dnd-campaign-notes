@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Bhagi
 >Civilised
->Capital: [[Cities/Udyadoludya|Udyadoludya]]
->Largest Settlement: [[Cities/Udyadoludya|Udyadoludya]]
+>Capital: [[Setting/Settlements/Cities/Udyadoludya|Udyadoludya]]
+>Largest Settlement: [[Setting/Settlements/Cities/Udyadoludya|Udyadoludya]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Udyadoludya|Udyadoludya]]
+- [[Setting/Settlements/Cities/Udyadoludya|Udyadoludya]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Vaishasi|Vaishasi]]
+- [[Setting/Cultures/Vaishasi|Vaishasi]]
 

@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Ephos
 >Civilised
->Capital: [[Villages/Mekus|Mekus]]
->Largest Settlement: [[Villages/Mekus|Mekus]]
+>Capital: [[Setting/Settlements/Villages/Mekus|Mekus]]
+>Largest Settlement: [[Setting/Settlements/Villages/Mekus|Mekus]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Mekus|Mekus]]
+- [[Setting/Settlements/Villages/Mekus|Mekus]]
 
 # Cultures in Borders
 
-- [[Cultures/Porigost|Porigost]]
+- [[Setting/Cultures/Porigost|Porigost]]
 

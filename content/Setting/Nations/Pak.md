@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Pak
 >Civilised
->Capital: [[Cities/Dizichegan|Dizichegan]]
->Largest Settlement: [[Cities/Dizichegan|Dizichegan]]
+>Capital: [[Setting/Settlements/Cities/Dizichegan|Dizichegan]]
+>Largest Settlement: [[Setting/Settlements/Cities/Dizichegan|Dizichegan]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Dizichegan|Dizichegan]]
+- [[Setting/Settlements/Cities/Dizichegan|Dizichegan]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

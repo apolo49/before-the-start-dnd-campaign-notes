@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Kfaria
 >Civilised
->Capital: [[Cities/Bet Hapet|Bet Hapet]]
->Largest Settlement: [[Cities/Bet Hapet|Bet Hapet]]
+>Capital: [[Setting/Settlements/Cities/Bet Hapet|Bet Hapet]]
+>Largest Settlement: [[Setting/Settlements/Cities/Bet Hapet|Bet Hapet]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Bet Hapet|Bet Hapet]]
+- [[Setting/Settlements/Cities/Bet Hapet|Bet Hapet]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Carthaginian|Carthaginian]]
+- [[Setting/Cultures/Carthaginian|Carthaginian]]
 

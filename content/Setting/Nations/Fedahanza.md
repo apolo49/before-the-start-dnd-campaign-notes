@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Fedahanza
 >Civilised
->Capital: [[Villages/Fedahanza|Fedahanza]]
->Largest Settlement: [[Villages/Fedahanza|Fedahanza]]
+>Capital: [[Setting/Settlements/Villages/Fedahanza|Fedahanza]]
+>Largest Settlement: [[Setting/Settlements/Villages/Fedahanza|Fedahanza]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Fedahanza|Fedahanza]]
+- [[Setting/Settlements/Villages/Fedahanza|Fedahanza]]
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

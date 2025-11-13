@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Hages
 >Civilised
->Capital: [[Villages/Kaslamshahr|Kaslamshahr]]
->Largest Settlement: [[Villages/Kaslamshahr|Kaslamshahr]]
+>Capital: [[Setting/Settlements/Villages/Kaslamshahr|Kaslamshahr]]
+>Largest Settlement: [[Setting/Settlements/Villages/Kaslamshahr|Kaslamshahr]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Kaslamshahr|Kaslamshahr]]
+- [[Setting/Settlements/Villages/Kaslamshahr|Kaslamshahr]]
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

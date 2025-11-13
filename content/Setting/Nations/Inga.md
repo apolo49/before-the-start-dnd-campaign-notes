@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Inga
 >Civilised
->Capital: [[Cities/Barajagri|Barajagri]]
->Largest Settlement: [[Cities/Barajagri|Barajagri]]
+>Capital: [[Setting/Settlements/Cities/Barajagri|Barajagri]]
+>Largest Settlement: [[Setting/Settlements/Cities/Barajagri|Barajagri]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Barajagri|Barajagri]]
+- [[Setting/Settlements/Cities/Barajagri|Barajagri]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Vaishasi|Vaishasi]]
+- [[Setting/Cultures/Vaishasi|Vaishasi]]
 

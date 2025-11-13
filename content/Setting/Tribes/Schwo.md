@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Schwo
 >Tribe
->Capital: [[Villages/Hofsbach|Hofsbach]]
->Largest Settlement: [[Villages/Hofsbach|Hofsbach]]
+>Capital: [[Setting/Settlements/Villages/Hofsbach|Hofsbach]]
+>Largest Settlement: [[Setting/Settlements/Villages/Hofsbach|Hofsbach]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Hofsbach|Hofsbach]]
+- [[Setting/Settlements/Villages/Hofsbach|Hofsbach]]
 
 # Cultures in Borders
 
-- [[Cultures/Kusteter|Kusteter]]
+- [[Setting/Cultures/Kusteter|Kusteter]]
 

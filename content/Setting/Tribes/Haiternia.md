@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Haiternia
 >Tribe
->Capital: [[Villages/Haitern|Haitern]]
->Largest Settlement: [[Villages/Haitern|Haitern]]
+>Capital: [[Setting/Settlements/Villages/Haitern|Haitern]]
+>Largest Settlement: [[Setting/Settlements/Villages/Haitern|Haitern]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Haitern|Haitern]]
+- [[Setting/Settlements/Villages/Haitern|Haitern]]
 
 # Cultures in Borders
 
-- [[Cultures/Schilden|Schilden]]
+- [[Setting/Cultures/Schilden|Schilden]]
 

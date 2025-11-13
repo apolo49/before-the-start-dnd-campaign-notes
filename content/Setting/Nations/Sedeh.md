@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Sedeh
 >Civilised
->Capital: [[Villages/Sedeh|Sedeh]]
->Largest Settlement: [[Villages/Sedeh|Sedeh]]
+>Capital: [[Setting/Settlements/Villages/Sedeh|Sedeh]]
+>Largest Settlement: [[Setting/Settlements/Villages/Sedeh|Sedeh]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Sedeh|Sedeh]]
+- [[Setting/Settlements/Villages/Sedeh|Sedeh]]
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

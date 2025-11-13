@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Champia
 >Civilised
->Capital: [[Villages/Tabashabuma|Tabashabuma]]
->Largest Settlement: [[Villages/Tabashabuma|Tabashabuma]]
+>Capital: [[Setting/Settlements/Villages/Tabashabuma|Tabashabuma]]
+>Largest Settlement: [[Setting/Settlements/Villages/Tabashabuma|Tabashabuma]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Tabashabuma|Tabashabuma]]
+- [[Setting/Settlements/Villages/Tabashabuma|Tabashabuma]]
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

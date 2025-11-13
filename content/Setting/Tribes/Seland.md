@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Seland
 >Tribe
->Capital: [[Villages/Sulzkirch|Sulzkirch]]
->Largest Settlement: [[Villages/Sulzkirch|Sulzkirch]]
+>Capital: [[Setting/Settlements/Villages/Sulzkirch|Sulzkirch]]
+>Largest Settlement: [[Setting/Settlements/Villages/Sulzkirch|Sulzkirch]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Sulzkirch|Sulzkirch]]
+- [[Setting/Settlements/Villages/Sulzkirch|Sulzkirch]]
 
 # Cultures in Borders
 
-- [[Cultures/Kusteter|Kusteter]]
+- [[Setting/Cultures/Kusteter|Kusteter]]
 

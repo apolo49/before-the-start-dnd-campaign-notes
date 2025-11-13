@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Mansar
 >Civilised
->Capital: [[Cities/Mansar|Mansar]]
->Largest Settlement: [[Cities/Mansar|Mansar]]
+>Capital: [[Setting/Settlements/Cities/Mansar|Mansar]]
+>Largest Settlement: [[Setting/Settlements/Cities/Mansar|Mansar]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Mansar|Mansar]]
+- [[Setting/Settlements/Cities/Mansar|Mansar]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

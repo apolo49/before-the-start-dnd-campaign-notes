@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Karlsbach
 >Tribe
->Capital: [[Villages/Karlsbach|Karlsbach]]
->Largest Settlement: [[Villages/Karlsbach|Karlsbach]]
+>Capital: [[Setting/Settlements/Villages/Karlsbach|Karlsbach]]
+>Largest Settlement: [[Setting/Settlements/Villages/Karlsbach|Karlsbach]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Karlsbach|Karlsbach]]
+- [[Setting/Settlements/Villages/Karlsbach|Karlsbach]]
 
 # Cultures in Borders
 
-- [[Cultures/Kusteter|Kusteter]]
+- [[Setting/Cultures/Kusteter|Kusteter]]
 

@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Sulzgravels
 >###### Capital City
->Country: [[Tribes/Herbenia|Herbenia]]
+>Country: [[Setting/Tribes/Herbenia|Herbenia]]
 >Established:
 >Area:
 >Elevation: 1369m
 >Population: 1,145
 >Demonym(s):
->Dominant Culture: [[Cultures/Pemiripo|Pemiripo]]
+>Dominant Culture: [[Setting/Cultures/Pemiripo|Pemiripo]]
 >Dominant Religion:
 
 # History

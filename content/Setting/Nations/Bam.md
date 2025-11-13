@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Bam
 >Civilised
->Capital: [[Cities/Bustan|Bustan]]
->Largest Settlement: [[Cities/Bustan|Bustan]]
+>Capital: [[Setting/Settlements/Cities/Bustan|Bustan]]
+>Largest Settlement: [[Setting/Settlements/Cities/Bustan|Bustan]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Bustan|Bustan]]
+- [[Setting/Settlements/Cities/Bustan|Bustan]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

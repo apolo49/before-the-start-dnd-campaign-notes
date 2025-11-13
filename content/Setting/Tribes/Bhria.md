@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Bhria
 >Tribe
->Capital: [[Villages/Aber|Aber]]
->Largest Settlement: [[Villages/Aber|Aber]]
+>Capital: [[Setting/Settlements/Villages/Aber|Aber]]
+>Largest Settlement: [[Setting/Settlements/Villages/Aber|Aber]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Aber|Aber]]
+- [[Setting/Settlements/Villages/Aber|Aber]]
 
 # Cultures in Borders
 
-- [[Cultures/Ebheartei|Ebheartei]]
+- [[Setting/Cultures/Ebheartei|Ebheartei]]
 

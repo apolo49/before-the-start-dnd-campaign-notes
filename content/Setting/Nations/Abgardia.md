@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Abgardia
 >Civilised
->Capital: [[Villages/Romand|Romand]]
->Largest Settlement: [[Villages/Romand|Romand]]
+>Capital: [[Setting/Settlements/Villages/Romand|Romand]]
+>Largest Settlement: [[Setting/Settlements/Villages/Romand|Romand]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Romand|Romand]]
+- [[Setting/Settlements/Villages/Romand|Romand]]
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

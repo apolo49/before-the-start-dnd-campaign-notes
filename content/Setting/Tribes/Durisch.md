@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Durisch
 >Tribe
->Capital: [[Villages/Durisch|Durisch]]
->Largest Settlement: [[Villages/Durisch|Durisch]]
+>Capital: [[Setting/Settlements/Villages/Durisch|Durisch]]
+>Largest Settlement: [[Setting/Settlements/Villages/Durisch|Durisch]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Durisch|Durisch]]
+- [[Setting/Settlements/Villages/Durisch|Durisch]]
 
 # Cultures in Borders
 
-- [[Cultures/Horngenhau|Horngenhau]]
+- [[Setting/Cultures/Horngenhau|Horngenhau]]
 

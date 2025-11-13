@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Atendodulais
 >###### Capital City
->Country: [[Tribes/Theoria|Theoria]]
+>Country: [[Setting/Tribes/Theoria|Theoria]]
 >Established:
 >Area:
 >Elevation: 121m
 >Population: 3,748
 >Demonym(s):
->Dominant Culture: [[Cultures/Duibri|Duibri]]
+>Dominant Culture: [[Setting/Cultures/Duibri|Duibri]]
 >Dominant Religion:
 
 # History

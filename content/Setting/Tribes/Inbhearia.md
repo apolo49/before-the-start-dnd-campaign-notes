@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Inbhearia
 >Tribe
->Capital: [[Villages/Inbhear|Inbhear]]
->Largest Settlement: [[Villages/Inbhear|Inbhear]]
+>Capital: [[Setting/Settlements/Villages/Inbhear|Inbhear]]
+>Largest Settlement: [[Setting/Settlements/Villages/Inbhear|Inbhear]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Inbhear|Inbhear]]
+- [[Setting/Settlements/Villages/Inbhear|Inbhear]]
 
 # Cultures in Borders
 
-- [[Cultures/Bleduro|Bleduro]]
+- [[Setting/Cultures/Bleduro|Bleduro]]
 

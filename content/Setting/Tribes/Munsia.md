@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Munsia
 >Tribe
->Capital: [[Villages/Griesbach|Griesbach]]
->Largest Settlement: [[Villages/Griesbach|Griesbach]]
+>Capital: [[Setting/Settlements/Villages/Griesbach|Griesbach]]
+>Largest Settlement: [[Setting/Settlements/Villages/Griesbach|Griesbach]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Griesbach|Griesbach]]
+- [[Setting/Settlements/Villages/Griesbach|Griesbach]]
 
 # Cultures in Borders
 
-- [[Cultures/Bieiamten|Bieiamten]]
+- [[Setting/Cultures/Bieiamten|Bieiamten]]
 

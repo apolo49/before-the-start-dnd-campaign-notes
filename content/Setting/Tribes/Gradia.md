@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Gradia
 >Tribe
->Capital: [[Villages/Rotter|Rotter]]
->Largest Settlement: [[Villages/Rotter|Rotter]]
+>Capital: [[Setting/Settlements/Villages/Rotter|Rotter]]
+>Largest Settlement: [[Setting/Settlements/Villages/Rotter|Rotter]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Rotter|Rotter]]
+- [[Setting/Settlements/Villages/Rotter|Rotter]]
 
 # Cultures in Borders
 
-- [[Cultures/Schilden|Schilden]]
+- [[Setting/Cultures/Schilden|Schilden]]
 

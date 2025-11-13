@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Musis
 >Civilised
->Capital: [[Cities/Throrysthos|Throrysthos]]
->Largest Settlement: [[Cities/Throrysthos|Throrysthos]]
+>Capital: [[Setting/Settlements/Cities/Throrysthos|Throrysthos]]
+>Largest Settlement: [[Setting/Settlements/Cities/Throrysthos|Throrysthos]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Throrysthos|Throrysthos]]
+- [[Setting/Settlements/Cities/Throrysthos|Throrysthos]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Pegalion|Pegalion]]
+- [[Setting/Cultures/Pegalion|Pegalion]]
 

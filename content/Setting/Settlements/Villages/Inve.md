@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Inve
 >###### Capital City
->Country: [[Tribes/Serrapilli|Serrapilli]]
+>Country: [[Setting/Tribes/Serrapilli|Serrapilli]]
 >Established:
 >Area:
 >Elevation: 1369m
 >Population: 2,371
 >Demonym(s):
->Dominant Culture: [[Cultures/Bleduro|Bleduro]]
+>Dominant Culture: [[Setting/Cultures/Bleduro|Bleduro]]
 >Dominant Religion:
 
 # History

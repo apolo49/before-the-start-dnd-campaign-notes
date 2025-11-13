@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Kasia
 >Civilised
->Capital: [[Cities/Kabsard|Kabsard]]
->Largest Settlement: [[Cities/Kabsard|Kabsard]]
+>Capital: [[Setting/Settlements/Cities/Kabsard|Kabsard]]
+>Largest Settlement: [[Setting/Settlements/Cities/Kabsard|Kabsard]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Kabsard|Kabsard]]
+- [[Setting/Settlements/Cities/Kabsard|Kabsard]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

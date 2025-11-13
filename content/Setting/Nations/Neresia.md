@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Neresia
 >Civilised
->Capital: [[Cities/Averuladsha|Averuladsha]]
->Largest Settlement: [[Cities/Averuladsha|Averuladsha]]
+>Capital: [[Setting/Settlements/Cities/Averuladsha|Averuladsha]]
+>Largest Settlement: [[Setting/Settlements/Cities/Averuladsha|Averuladsha]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Averuladsha|Averuladsha]]
+- [[Setting/Settlements/Cities/Averuladsha|Averuladsha]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

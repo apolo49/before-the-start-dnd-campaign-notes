@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Badia
 >Civilised
->Capital: [[Cities/Behensarlik|Behensarlik]]
->Largest Settlement: [[Cities/Behensarlik|Behensarlik]]
+>Capital: [[Setting/Settlements/Cities/Behensarlik|Behensarlik]]
+>Largest Settlement: [[Setting/Settlements/Cities/Behensarlik|Behensarlik]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Behensarlik|Behensarlik]]
+- [[Setting/Settlements/Cities/Behensarlik|Behensarlik]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

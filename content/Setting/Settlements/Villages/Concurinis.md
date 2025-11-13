@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Concurinis
 >###### Village
->Country: [[Nations/Solara|Solara]]
+>Country: [[Setting/Nations/Solara|Solara]]
 >Established:
 >Area:
 >Elevation: 576m
 >Population: 1,192
 >Demonym(s):
->Dominant Culture: [[Cultures/Confluen|Confluen]]
+>Dominant Culture: [[Setting/Cultures/Confluen|Confluen]]
 >Dominant Religion:
 
 # History

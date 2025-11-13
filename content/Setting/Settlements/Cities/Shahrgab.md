@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Shahrgab
 >###### Capital City
->Country: [[Nations/Atighia|Atighia]]
+>Country: [[Setting/Nations/Atighia|Atighia]]
 >Established:
 >Area:
 >Elevation: 1369m
 >Population: 82,011
 >Demonym(s):
->Dominant Culture: [[Cultures/Kufa|Kufa]]
+>Dominant Culture: [[Setting/Cultures/Kufa|Kufa]]
 >Dominant Religion:
 
 # History

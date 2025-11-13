@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Frohn
 >Tribe
->Capital: [[Villages/Gunauten|Gunauten]]
->Largest Settlement: [[Villages/Gunauten|Gunauten]]
+>Capital: [[Setting/Settlements/Villages/Gunauten|Gunauten]]
+>Largest Settlement: [[Setting/Settlements/Villages/Gunauten|Gunauten]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Gunauten|Gunauten]]
+- [[Setting/Settlements/Villages/Gunauten|Gunauten]]
 
 # Cultures in Borders
 
-- [[Cultures/Horngenhau|Horngenhau]]
+- [[Setting/Cultures/Horngenhau|Horngenhau]]
 

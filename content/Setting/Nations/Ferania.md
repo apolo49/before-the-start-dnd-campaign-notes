@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Ferania
 >Civilised
->Capital: [[Villages/Ecbajabad|Ecbajabad]]
->Largest Settlement: [[Villages/Ecbajabad|Ecbajabad]]
+>Capital: [[Setting/Settlements/Villages/Ecbajabad|Ecbajabad]]
+>Largest Settlement: [[Setting/Settlements/Villages/Ecbajabad|Ecbajabad]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Ecbajabad|Ecbajabad]]
+- [[Setting/Settlements/Villages/Ecbajabad|Ecbajabad]]
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

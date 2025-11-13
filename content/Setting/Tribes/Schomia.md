@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Schomia
 >Tribe
->Capital: [[Villages/Bollsbadberg|Bollsbadberg]]
->Largest Settlement: [[Villages/Bollsbadberg|Bollsbadberg]]
+>Capital: [[Setting/Settlements/Villages/Bollsbadberg|Bollsbadberg]]
+>Largest Settlement: [[Setting/Settlements/Villages/Bollsbadberg|Bollsbadberg]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Bollsbadberg|Bollsbadberg]]
+- [[Setting/Settlements/Villages/Bollsbadberg|Bollsbadberg]]
 
 # Cultures in Borders
 
-- [[Cultures/Lahrwol|Lahrwol]]
+- [[Setting/Cultures/Lahrwol|Lahrwol]]
 

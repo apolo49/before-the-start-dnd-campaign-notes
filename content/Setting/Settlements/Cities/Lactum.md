@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Lactum
 >###### City
->Country: [[Nations/Solara|Solara]]
+>Country: [[Setting/Nations/Solara|Solara]]
 >Established:
 >Area:
 >Elevation: 729m
 >Population: 74,555
 >Demonym(s):
->Dominant Culture: [[Cultures/Confluen|Confluen]]
+>Dominant Culture: [[Setting/Cultures/Confluen|Confluen]]
 >Dominant Religion:
 
 # History

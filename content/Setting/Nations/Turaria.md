@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Turaria
 >Civilised
->Capital: [[Villages/Ziargaviche|Ziargaviche]]
->Largest Settlement: [[Villages/Ziargaviche|Ziargaviche]]
+>Capital: [[Setting/Settlements/Villages/Ziargaviche|Ziargaviche]]
+>Largest Settlement: [[Setting/Settlements/Villages/Ziargaviche|Ziargaviche]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Ziargaviche|Ziargaviche]]
+- [[Setting/Settlements/Villages/Ziargaviche|Ziargaviche]]
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

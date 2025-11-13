@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Gan
 >Civilised
->Capital: [[Villages/Banajan|Banajan]]
->Largest Settlement: [[Villages/Banajan|Banajan]]
+>Capital: [[Setting/Settlements/Villages/Banajan|Banajan]]
+>Largest Settlement: [[Setting/Settlements/Villages/Banajan|Banajan]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Banajan|Banajan]]
+- [[Setting/Settlements/Villages/Banajan|Banajan]]
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

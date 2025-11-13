@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Dhalin
 >###### Capital City
->Country: [[Nations/Ujaia|Ujaia]]
+>Country: [[Setting/Nations/Ujaia|Ujaia]]
 >Established:
 >Area:
 >Elevation: 1024m
 >Population: 2,286
 >Demonym(s):
->Dominant Culture: [[Cultures/Vaishasi|Vaishasi]]
+>Dominant Culture: [[Setting/Cultures/Vaishasi|Vaishasi]]
 >Dominant Religion:
 
 # History

@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Alicia
 >Tribe
->Capital: [[Villages/Aberbhalmond|Aberbhalmond]]
->Largest Settlement: [[Villages/Aberbhalmond|Aberbhalmond]]
+>Capital: [[Setting/Settlements/Villages/Aberbhalmond|Aberbhalmond]]
+>Largest Settlement: [[Setting/Settlements/Villages/Aberbhalmond|Aberbhalmond]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Aberbhalmond|Aberbhalmond]]
+- [[Setting/Settlements/Villages/Aberbhalmond|Aberbhalmond]]
 
 # Cultures in Borders
 
-- [[Cultures/Bleduro|Bleduro]]
+- [[Setting/Cultures/Bleduro|Bleduro]]
 

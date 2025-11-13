@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Kravonia
 >Tribe
->Capital: [[Villages/Inverwick|Inverwick]]
->Largest Settlement: [[Villages/Inverwick|Inverwick]]
+>Capital: [[Setting/Settlements/Villages/Inverwick|Inverwick]]
+>Largest Settlement: [[Setting/Settlements/Villages/Inverwick|Inverwick]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Inverwick|Inverwick]]
+- [[Setting/Settlements/Villages/Inverwick|Inverwick]]
 
 # Cultures in Borders
 
-- [[Cultures/Cedi|Cedi]]
+- [[Setting/Cultures/Cedi|Cedi]]
 

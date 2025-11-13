@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Gunmalia
 >Civilised
->Capital: [[Villages/Thantur|Thantur]]
->Largest Settlement: [[Villages/Thantur|Thantur]]
+>Capital: [[Setting/Settlements/Villages/Thantur|Thantur]]
+>Largest Settlement: [[Setting/Settlements/Villages/Thantur|Thantur]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Thantur|Thantur]]
+- [[Setting/Settlements/Villages/Thantur|Thantur]]
 
 # Cultures in Borders
 
-- [[Cultures/Vaishasi|Vaishasi]]
+- [[Setting/Cultures/Vaishasi|Vaishasi]]
 

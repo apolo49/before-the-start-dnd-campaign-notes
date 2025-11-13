@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Malschlin
 >###### Capital City
->Country: [[Tribes/Haselia|Haselia]]
+>Country: [[Setting/Tribes/Haselia|Haselia]]
 >Established:
 >Area:
 >Elevation: 961m
 >Population: 3,425
 >Demonym(s):
->Dominant Culture: [[Cultures/Kusgau|Kusgau]]
+>Dominant Culture: [[Setting/Cultures/Kusgau|Kusgau]]
 >Dominant Religion:
 
 # History

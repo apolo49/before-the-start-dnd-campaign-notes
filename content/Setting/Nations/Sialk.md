@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Sialk
 >Civilised
->Capital: [[Cities/Sialk|Sialk]]
->Largest Settlement: [[Cities/Sialk|Sialk]]
+>Capital: [[Setting/Settlements/Cities/Sialk|Sialk]]
+>Largest Settlement: [[Setting/Settlements/Cities/Sialk|Sialk]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Sialk|Sialk]]
+- [[Setting/Settlements/Cities/Sialk|Sialk]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

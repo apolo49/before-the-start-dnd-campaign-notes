@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Shemshan
 >Civilised
->Capital: [[Cities/Shemshan|Shemshan]]
->Largest Settlement: [[Cities/Shemshan|Shemshan]]
+>Capital: [[Setting/Settlements/Cities/Shemshan|Shemshan]]
+>Largest Settlement: [[Setting/Settlements/Cities/Shemshan|Shemshan]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Shemshan|Shemshan]]
+- [[Setting/Settlements/Cities/Shemshan|Shemshan]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

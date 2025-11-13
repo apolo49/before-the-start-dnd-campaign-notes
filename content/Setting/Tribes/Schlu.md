@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Schlu
 >Tribe
->Capital: [[Villages/Birmerswald|Birmerswald]]
->Largest Settlement: [[Villages/Birmerswald|Birmerswald]]
+>Capital: [[Setting/Settlements/Villages/Birmerswald|Birmerswald]]
+>Largest Settlement: [[Setting/Settlements/Villages/Birmerswald|Birmerswald]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Birmerswald|Birmerswald]]
+- [[Setting/Settlements/Villages/Birmerswald|Birmerswald]]
 
 # Cultures in Borders
 
-- [[Cultures/Steinbach|Steinbach]]
+- [[Setting/Cultures/Steinbach|Steinbach]]
 

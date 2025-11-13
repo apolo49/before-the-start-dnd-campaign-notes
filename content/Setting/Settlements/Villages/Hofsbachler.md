@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Hofsbachler
 >###### Capital City
->Country: [[Tribes/Ehrland|Ehrland]]
+>Country: [[Setting/Tribes/Ehrland|Ehrland]]
 >Established:
 >Area:
 >Elevation: 961m
 >Population: 2,457
 >Demonym(s):
->Dominant Culture: [[Cultures/Blum|Blum]]
+>Dominant Culture: [[Setting/Cultures/Blum|Blum]]
 >Dominant Religion:
 
 # History

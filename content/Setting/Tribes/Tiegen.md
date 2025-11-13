@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Tiegen
 >Tribe
->Capital: [[Villages/Dotnauten|Dotnauten]]
->Largest Settlement: [[Villages/Dotnauten|Dotnauten]]
+>Capital: [[Setting/Settlements/Villages/Dotnauten|Dotnauten]]
+>Largest Settlement: [[Setting/Settlements/Villages/Dotnauten|Dotnauten]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Dotnauten|Dotnauten]]
+- [[Setting/Settlements/Villages/Dotnauten|Dotnauten]]
 
 # Cultures in Borders
 
-- [[Cultures/Krozin|Krozin]]
+- [[Setting/Cultures/Krozin|Krozin]]
 

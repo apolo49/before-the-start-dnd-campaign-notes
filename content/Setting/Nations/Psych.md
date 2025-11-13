@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Psych
 >Civilised
->Capital: [[Villages/Thyrada|Thyrada]]
->Largest Settlement: [[Villages/Thyrada|Thyrada]]
+>Capital: [[Setting/Settlements/Villages/Thyrada|Thyrada]]
+>Largest Settlement: [[Setting/Settlements/Villages/Thyrada|Thyrada]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Thyrada|Thyrada]]
+- [[Setting/Settlements/Villages/Thyrada|Thyrada]]
 
 # Cultures in Borders
 
-- [[Cultures/Nerapit|Nerapit]]
+- [[Setting/Cultures/Nerapit|Nerapit]]
 

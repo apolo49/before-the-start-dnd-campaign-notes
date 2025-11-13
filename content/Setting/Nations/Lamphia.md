@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Lamphia
 >Civilised
->Capital: [[Cities/Pysos|Pysos]]
->Largest Settlement: [[Cities/Pysos|Pysos]]
+>Capital: [[Setting/Settlements/Cities/Pysos|Pysos]]
+>Largest Settlement: [[Setting/Settlements/Cities/Pysos|Pysos]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Pysos|Pysos]]
+- [[Setting/Settlements/Cities/Pysos|Pysos]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Nerapit|Nerapit]]
+- [[Setting/Cultures/Nerapit|Nerapit]]
 

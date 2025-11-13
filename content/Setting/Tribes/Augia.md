@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Augia
 >Tribe
->Capital: [[Villages/Muhwenengen|Muhwenengen]]
->Largest Settlement: [[Villages/Muhwenengen|Muhwenengen]]
+>Capital: [[Setting/Settlements/Villages/Muhwenengen|Muhwenengen]]
+>Largest Settlement: [[Setting/Settlements/Villages/Muhwenengen|Muhwenengen]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Muhwenengen|Muhwenengen]]
+- [[Setting/Settlements/Villages/Muhwenengen|Muhwenengen]]
 
 # Cultures in Borders
 
-- [[Cultures/Schaltens|Schaltens]]
+- [[Setting/Cultures/Schaltens|Schaltens]]
 

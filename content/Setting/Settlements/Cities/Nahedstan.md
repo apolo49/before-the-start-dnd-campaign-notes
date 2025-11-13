@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Nahedstan
 >###### Capital City
->Country: [[Nations/Konutia|Konutia]]
+>Country: [[Setting/Nations/Konutia|Konutia]]
 >Established:
 >Area:
 >Elevation: 625m
 >Population: 52,541
 >Demonym(s):
->Dominant Culture: [[Cultures/Kufa|Kufa]]
+>Dominant Culture: [[Setting/Cultures/Kufa|Kufa]]
 >Dominant Religion:
 
 # History

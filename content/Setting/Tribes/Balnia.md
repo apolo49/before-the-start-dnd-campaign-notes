@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Balnia
 >Tribe
->Capital: [[Villages/Maringley|Maringley]]
->Largest Settlement: [[Villages/Maringley|Maringley]]
+>Capital: [[Setting/Settlements/Villages/Maringley|Maringley]]
+>Largest Settlement: [[Setting/Settlements/Villages/Maringley|Maringley]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Maringley|Maringley]]
+- [[Setting/Settlements/Villages/Maringley|Maringley]]
 
 # Cultures in Borders
 
-- [[Cultures/Wildlands|Wildlands]]
+- [[Setting/Cultures/Wildlands|Wildlands]]
 

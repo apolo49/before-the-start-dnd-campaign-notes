@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Aberfrwd
 >###### Capital City
->Country: [[Tribes/Aberlia|Aberlia]]
+>Country: [[Setting/Tribes/Aberlia|Aberlia]]
 >Established:
 >Area:
 >Elevation: 961m
 >Population: 3,484
 >Demonym(s):
->Dominant Culture: [[Cultures/Bleduro|Bleduro]]
+>Dominant Culture: [[Setting/Cultures/Bleduro|Bleduro]]
 >Dominant Religion:
 
 # History

@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Vahria
 >Civilised
->Capital: [[Cities/Babad|Babad]]
->Largest Settlement: [[Cities/Babad|Babad]]
+>Capital: [[Setting/Settlements/Cities/Babad|Babad]]
+>Largest Settlement: [[Setting/Settlements/Cities/Babad|Babad]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Babad|Babad]]
+- [[Setting/Settlements/Cities/Babad|Babad]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

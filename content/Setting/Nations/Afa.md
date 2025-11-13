@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Afa
 >Civilised
->Capital: [[Cities/Nabidieh|Nabidieh]]
->Largest Settlement: [[Cities/Nabidieh|Nabidieh]]
+>Capital: [[Setting/Settlements/Cities/Nabidieh|Nabidieh]]
+>Largest Settlement: [[Setting/Settlements/Cities/Nabidieh|Nabidieh]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Nabidieh|Nabidieh]]
+- [[Setting/Settlements/Cities/Nabidieh|Nabidieh]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

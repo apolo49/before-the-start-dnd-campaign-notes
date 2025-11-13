@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Haselia
 >Tribe
->Capital: [[Villages/Malschlin|Malschlin]]
->Largest Settlement: [[Villages/Malschlin|Malschlin]]
+>Capital: [[Setting/Settlements/Villages/Malschlin|Malschlin]]
+>Largest Settlement: [[Setting/Settlements/Villages/Malschlin|Malschlin]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Malschlin|Malschlin]]
+- [[Setting/Settlements/Villages/Malschlin|Malschlin]]
 
 # Cultures in Borders
 
-- [[Cultures/Kusgau|Kusgau]]
+- [[Setting/Cultures/Kusgau|Kusgau]]
 

@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Inwenia
 >Tribe
->Capital: [[Villages/Ghrai|Ghrai]]
->Largest Settlement: [[Villages/Ghrai|Ghrai]]
+>Capital: [[Setting/Settlements/Villages/Ghrai|Ghrai]]
+>Largest Settlement: [[Setting/Settlements/Villages/Ghrai|Ghrai]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Ghrai|Ghrai]]
+- [[Setting/Settlements/Villages/Ghrai|Ghrai]]
 
 # Cultures in Borders
 
-- [[Cultures/Indyrgow|Indyrgow]]
+- [[Setting/Cultures/Indyrgow|Indyrgow]]
 

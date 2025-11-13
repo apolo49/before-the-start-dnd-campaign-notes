@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Schweuen
 >###### Capital City
->Country: [[Tribes/Schweuen|Schweuen]]
+>Country: [[Setting/Tribes/Schweuen|Schweuen]]
 >Established:
 >Area:
 >Elevation: 961m
 >Population: 1,825
 >Demonym(s):
->Dominant Culture: [[Cultures/Krozin|Krozin]]
+>Dominant Culture: [[Setting/Cultures/Krozin|Krozin]]
 >Dominant Religion:
 
 # History

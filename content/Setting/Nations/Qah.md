@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Qah
 >Civilised
->Capital: [[Villages/Ecbanada|Ecbanada]]
->Largest Settlement: [[Villages/Ecbanada|Ecbanada]]
+>Capital: [[Setting/Settlements/Villages/Ecbanada|Ecbanada]]
+>Largest Settlement: [[Setting/Settlements/Villages/Ecbanada|Ecbanada]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Ecbanada|Ecbanada]]
+- [[Setting/Settlements/Villages/Ecbanada|Ecbanada]]
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Banabad
 >Civilised
->Capital: [[Villages/Banabad|Banabad]]
->Largest Settlement: [[Villages/Banabad|Banabad]]
+>Capital: [[Setting/Settlements/Villages/Banabad|Banabad]]
+>Largest Settlement: [[Setting/Settlements/Villages/Banabad|Banabad]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Banabad|Banabad]]
+- [[Setting/Settlements/Villages/Banabad|Banabad]]
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

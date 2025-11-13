@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Raraga
 >Civilised
->Capital: [[Villages/Asaronga|Asaronga]]
->Largest Settlement: [[Villages/Asaronga|Asaronga]]
+>Capital: [[Setting/Settlements/Villages/Asaronga|Asaronga]]
+>Largest Settlement: [[Setting/Settlements/Villages/Asaronga|Asaronga]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Asaronga|Asaronga]]
+- [[Setting/Settlements/Villages/Asaronga|Asaronga]]
 
 # Cultures in Borders
 
-- [[Cultures/Carthaginian|Carthaginian]]
+- [[Setting/Cultures/Carthaginian|Carthaginian]]
 

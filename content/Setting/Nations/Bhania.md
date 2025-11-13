@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Bhania
 >Civilised
->Capital: [[Cities/Tipumatipuri|Tipumatipuri]]
->Largest Settlement: [[Cities/Tipumatipuri|Tipumatipuri]]
+>Capital: [[Setting/Settlements/Cities/Tipumatipuri|Tipumatipuri]]
+>Largest Settlement: [[Setting/Settlements/Cities/Tipumatipuri|Tipumatipuri]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Tipumatipuri|Tipumatipuri]]
+- [[Setting/Settlements/Cities/Tipumatipuri|Tipumatipuri]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Vaishasi|Vaishasi]]
+- [[Setting/Cultures/Vaishasi|Vaishasi]]
 

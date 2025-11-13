@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Aberle
 >Tribe
->Capital: [[Villages/Pheofhase|Pheofhase]]
->Largest Settlement: [[Villages/Pheofhase|Pheofhase]]
+>Capital: [[Setting/Settlements/Villages/Pheofhase|Pheofhase]]
+>Largest Settlement: [[Setting/Settlements/Villages/Pheofhase|Pheofhase]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Pheofhase|Pheofhase]]
+- [[Setting/Settlements/Villages/Pheofhase|Pheofhase]]
 
 # Cultures in Borders
 
-- [[Cultures/Lerug|Lerug]]
+- [[Setting/Cultures/Lerug|Lerug]]
 

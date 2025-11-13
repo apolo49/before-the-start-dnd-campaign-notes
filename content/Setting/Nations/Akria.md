@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Akria
 >Civilised
->Capital: [[Villages/Nymphosme|Nymphosme]]
->Largest Settlement: [[Villages/Nymphosme|Nymphosme]]
+>Capital: [[Setting/Settlements/Villages/Nymphosme|Nymphosme]]
+>Largest Settlement: [[Setting/Settlements/Villages/Nymphosme|Nymphosme]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Nymphosme|Nymphosme]]
+- [[Setting/Settlements/Villages/Nymphosme|Nymphosme]]
 
 # Cultures in Borders
 
-- [[Cultures/Hubde|Hubde]]
+- [[Setting/Cultures/Hubde|Hubde]]
 

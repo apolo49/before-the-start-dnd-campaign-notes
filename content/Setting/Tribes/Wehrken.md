@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Wehrken
 >Tribe
->Capital: [[Villages/Wehrken|Wehrken]]
->Largest Settlement: [[Villages/Wehrken|Wehrken]]
+>Capital: [[Setting/Settlements/Villages/Wehrken|Wehrken]]
+>Largest Settlement: [[Setting/Settlements/Villages/Wehrken|Wehrken]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Wehrken|Wehrken]]
+- [[Setting/Settlements/Villages/Wehrken|Wehrken]]
 
 # Cultures in Borders
 
-- [[Cultures/Krozin|Krozin]]
+- [[Setting/Cultures/Krozin|Krozin]]
 

@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Inversia
 >Tribe
->Capital: [[Villages/Invers|Invers]]
->Largest Settlement: [[Villages/Invers|Invers]]
+>Capital: [[Setting/Settlements/Villages/Invers|Invers]]
+>Largest Settlement: [[Setting/Settlements/Villages/Invers|Invers]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Invers|Invers]]
+- [[Setting/Settlements/Villages/Invers|Invers]]
 
 # Cultures in Borders
 
-- [[Cultures/Calaw|Calaw]]
+- [[Setting/Cultures/Calaw|Calaw]]
 

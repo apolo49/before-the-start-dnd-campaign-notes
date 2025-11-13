@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Inve
 >Tribe
->Capital: [[Villages/Inveram|Inveram]]
->Largest Settlement: [[Villages/Inveram|Inveram]]
+>Capital: [[Setting/Settlements/Villages/Inveram|Inveram]]
+>Largest Settlement: [[Setting/Settlements/Villages/Inveram|Inveram]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Inveram|Inveram]]
+- [[Setting/Settlements/Villages/Inveram|Inveram]]
 
 # Cultures in Borders
 
-- [[Cultures/Bleduro|Bleduro]]
+- [[Setting/Cultures/Bleduro|Bleduro]]
 

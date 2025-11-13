@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Jenia
 >Tribe
->Capital: [[Villages/Boussort|Boussort]]
->Largest Settlement: [[Villages/Boussort|Boussort]]
+>Capital: [[Setting/Settlements/Villages/Boussort|Boussort]]
+>Largest Settlement: [[Setting/Settlements/Villages/Boussort|Boussort]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Boussort|Boussort]]
+- [[Setting/Settlements/Villages/Boussort|Boussort]]
 
 # Cultures in Borders
 
-- [[Cultures/Ber|Ber]]
+- [[Setting/Cultures/Ber|Ber]]
 

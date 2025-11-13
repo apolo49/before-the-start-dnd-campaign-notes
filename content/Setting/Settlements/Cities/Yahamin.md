@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Yahamin
 >###### Capital City
->Country: [[Nations/Asghia|Asghia]]
+>Country: [[Setting/Nations/Asghia|Asghia]]
 >Established:
 >Area:
 >Elevation: 1024m
 >Population: 86,423
 >Demonym(s):
->Dominant Culture: [[Cultures/Kufa|Kufa]]
+>Dominant Culture: [[Setting/Cultures/Kufa|Kufa]]
 >Dominant Religion:
 
 # History

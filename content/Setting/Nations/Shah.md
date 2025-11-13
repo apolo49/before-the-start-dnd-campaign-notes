@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Shah
 >Civilised
->Capital: [[Cities/Kemurun|Kemurun]]
->Largest Settlement: [[Cities/Kemurun|Kemurun]]
+>Capital: [[Setting/Settlements/Cities/Kemurun|Kemurun]]
+>Largest Settlement: [[Setting/Settlements/Cities/Kemurun|Kemurun]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Kemurun|Kemurun]]
+- [[Setting/Settlements/Cities/Kemurun|Kemurun]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

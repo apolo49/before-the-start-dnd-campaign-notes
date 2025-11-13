@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Enbacland
 >Tribe
->Capital: [[Villages/Wutoschlen|Wutoschlen]]
->Largest Settlement: [[Villages/Wutoschlen|Wutoschlen]]
+>Capital: [[Setting/Settlements/Villages/Wutoschlen|Wutoschlen]]
+>Largest Settlement: [[Setting/Settlements/Villages/Wutoschlen|Wutoschlen]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Wutoschlen|Wutoschlen]]
+- [[Setting/Settlements/Villages/Wutoschlen|Wutoschlen]]
 
 # Cultures in Borders
 
-- [[Cultures/Herwihl|Herwihl]]
+- [[Setting/Cultures/Herwihl|Herwihl]]
 

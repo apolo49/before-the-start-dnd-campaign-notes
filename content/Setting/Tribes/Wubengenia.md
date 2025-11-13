@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Wubengenia
 >Tribe
->Capital: [[Villages/Wubengen|Wubengen]]
->Largest Settlement: [[Villages/Wubengen|Wubengen]]
+>Capital: [[Setting/Settlements/Villages/Wubengen|Wubengen]]
+>Largest Settlement: [[Setting/Settlements/Villages/Wubengen|Wubengen]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Wubengen|Wubengen]]
+- [[Setting/Settlements/Villages/Wubengen|Wubengen]]
 
 # Cultures in Borders
 
-- [[Cultures/Geimons|Geimons]]
+- [[Setting/Cultures/Geimons|Geimons]]
 

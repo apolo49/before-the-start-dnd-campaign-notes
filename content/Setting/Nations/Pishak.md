@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Pishak
 >Civilised
->Capital: [[Cities/Haleri|Haleri]]
->Largest Settlement: [[Cities/Haleri|Haleri]]
+>Capital: [[Setting/Settlements/Cities/Haleri|Haleri]]
+>Largest Settlement: [[Setting/Settlements/Cities/Haleri|Haleri]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Haleri|Haleri]]
+- [[Setting/Settlements/Cities/Haleri|Haleri]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

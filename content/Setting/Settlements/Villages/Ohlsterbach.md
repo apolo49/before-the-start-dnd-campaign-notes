@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Ohlsterbach
 >###### Capital City
->Country: [[Tribes/Kehl|Kehl]]
+>Country: [[Setting/Tribes/Kehl|Kehl]]
 >Established:
 >Area:
 >Elevation: 441m
 >Population: 1,545
 >Demonym(s):
->Dominant Culture: [[Cultures/Ehrstadt|Ehrstadt]]
+>Dominant Culture: [[Setting/Cultures/Ehrstadt|Ehrstadt]]
 >Dominant Religion:
 
 # History

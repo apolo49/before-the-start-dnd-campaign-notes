@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Bamland
 >Tribe
->Capital: [[Villages/Glotwan|Glotwan]]
->Largest Settlement: [[Villages/Glotwan|Glotwan]]
+>Capital: [[Setting/Settlements/Villages/Glotwan|Glotwan]]
+>Largest Settlement: [[Setting/Settlements/Villages/Glotwan|Glotwan]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Glotwan|Glotwan]]
+- [[Setting/Settlements/Villages/Glotwan|Glotwan]]
 
 # Cultures in Borders
 
-- [[Cultures/Blum|Blum]]
+- [[Setting/Cultures/Blum|Blum]]
 

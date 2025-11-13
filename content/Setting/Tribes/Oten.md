@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Oten
 >Tribe
->Capital: [[Villages/Honengenzeln|Honengenzeln]]
->Largest Settlement: [[Villages/Honengenzeln|Honengenzeln]]
+>Capital: [[Setting/Settlements/Villages/Honengenzeln|Honengenzeln]]
+>Largest Settlement: [[Setting/Settlements/Villages/Honengenzeln|Honengenzeln]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Honengenzeln|Honengenzeln]]
+- [[Setting/Settlements/Villages/Honengenzeln|Honengenzeln]]
 
 # Cultures in Borders
 
-- [[Cultures/Kusteter|Kusteter]]
+- [[Setting/Cultures/Kusteter|Kusteter]]
 

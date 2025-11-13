@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Shaia
 >Civilised
->Capital: [[Cities/Bashahr|Bashahr]]
->Largest Settlement: [[Cities/Bashahr|Bashahr]]
+>Capital: [[Setting/Settlements/Cities/Bashahr|Bashahr]]
+>Largest Settlement: [[Setting/Settlements/Cities/Bashahr|Bashahr]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Bashahr|Bashahr]]
+- [[Setting/Settlements/Cities/Bashahr|Bashahr]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

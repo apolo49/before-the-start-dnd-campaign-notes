@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Beria
 >Tribe
->Capital: [[Villages/Birwihltern|Birwihltern]]
->Largest Settlement: [[Villages/Birwihltern|Birwihltern]]
+>Capital: [[Setting/Settlements/Villages/Birwihltern|Birwihltern]]
+>Largest Settlement: [[Setting/Settlements/Villages/Birwihltern|Birwihltern]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Birwihltern|Birwihltern]]
+- [[Setting/Settlements/Villages/Birwihltern|Birwihltern]]
 
 # Cultures in Borders
 
-- [[Cultures/Krozin|Krozin]]
+- [[Setting/Cultures/Krozin|Krozin]]
 

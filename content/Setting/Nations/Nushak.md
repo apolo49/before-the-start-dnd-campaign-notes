@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Nushak
 >Civilised
->Capital: [[Villages/Nushak|Nushak]]
->Largest Settlement: [[Villages/Nushak|Nushak]]
+>Capital: [[Setting/Settlements/Villages/Nushak|Nushak]]
+>Largest Settlement: [[Setting/Settlements/Villages/Nushak|Nushak]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Nushak|Nushak]]
+- [[Setting/Settlements/Villages/Nushak|Nushak]]
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

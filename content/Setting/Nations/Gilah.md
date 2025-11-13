@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Gilah
 >Civilised
->Capital: [[Cities/Masanyanaan|Masanyanaan]]
->Largest Settlement: [[Cities/Masanyanaan|Masanyanaan]]
+>Capital: [[Setting/Settlements/Cities/Masanyanaan|Masanyanaan]]
+>Largest Settlement: [[Setting/Settlements/Cities/Masanyanaan|Masanyanaan]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Masanyanaan|Masanyanaan]]
+- [[Setting/Settlements/Cities/Masanyanaan|Masanyanaan]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Carthaginian|Carthaginian]]
+- [[Setting/Cultures/Carthaginian|Carthaginian]]
 

@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Purusia
 >Civilised
->Capital: [[Villages/Purus|Purus]]
->Largest Settlement: [[Villages/Purus|Purus]]
+>Capital: [[Setting/Settlements/Villages/Purus|Purus]]
+>Largest Settlement: [[Setting/Settlements/Villages/Purus|Purus]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Purus|Purus]]
+- [[Setting/Settlements/Villages/Purus|Purus]]
 
 # Cultures in Borders
 
-- [[Cultures/Vaishasi|Vaishasi]]
+- [[Setting/Cultures/Vaishasi|Vaishasi]]
 

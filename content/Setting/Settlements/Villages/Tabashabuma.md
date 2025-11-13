@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Tabashabuma
 >###### Capital City
->Country: [[Nations/Champia|Champia]]
+>Country: [[Setting/Nations/Champia|Champia]]
 >Established:
 >Area:
 >Elevation: 1369m
 >Population: 398
 >Demonym(s):
->Dominant Culture: [[Cultures/Kufa|Kufa]]
+>Dominant Culture: [[Setting/Cultures/Kufa|Kufa]]
 >Dominant Religion:
 
 # History

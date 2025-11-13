@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Bashamia
 >Civilised
->Capital: [[Villages/Jowshian|Jowshian]]
->Largest Settlement: [[Villages/Jowshian|Jowshian]]
+>Capital: [[Setting/Settlements/Villages/Jowshian|Jowshian]]
+>Largest Settlement: [[Setting/Settlements/Villages/Jowshian|Jowshian]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Jowshian|Jowshian]]
+- [[Setting/Settlements/Villages/Jowshian|Jowshian]]
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

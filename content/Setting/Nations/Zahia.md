@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Zahia
 >Civilised
->Capital: [[Cities/Arzasujle|Arzasujle]]
->Largest Settlement: [[Cities/Arzasujle|Arzasujle]]
+>Capital: [[Setting/Settlements/Cities/Arzasujle|Arzasujle]]
+>Largest Settlement: [[Setting/Settlements/Cities/Arzasujle|Arzasujle]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Arzasujle|Arzasujle]]
+- [[Setting/Settlements/Cities/Arzasujle|Arzasujle]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

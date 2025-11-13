@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Heb
 >Tribe
->Capital: [[Villages/Bouia|Bouia]]
->Largest Settlement: [[Villages/Bouia|Bouia]]
+>Capital: [[Setting/Settlements/Villages/Bouia|Bouia]]
+>Largest Settlement: [[Setting/Settlements/Villages/Bouia|Bouia]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Bouia|Bouia]]
+- [[Setting/Settlements/Villages/Bouia|Bouia]]
 
 # Cultures in Borders
 
-- [[Cultures/Bleduro|Bleduro]]
+- [[Setting/Cultures/Bleduro|Bleduro]]
 

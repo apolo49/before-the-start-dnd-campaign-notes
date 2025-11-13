@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Anshahria
 >Civilised
->Capital: [[Cities/Anshahr|Anshahr]]
->Largest Settlement: [[Cities/Anshahr|Anshahr]]
+>Capital: [[Setting/Settlements/Cities/Anshahr|Anshahr]]
+>Largest Settlement: [[Setting/Settlements/Cities/Anshahr|Anshahr]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Anshahr|Anshahr]]
+- [[Setting/Settlements/Cities/Anshahr|Anshahr]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

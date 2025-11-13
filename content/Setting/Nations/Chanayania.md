@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Chanayania
 >Civilised
->Capital: [[Cities/Chanayan|Chanayan]]
->Largest Settlement: [[Cities/Chanayan|Chanayan]]
+>Capital: [[Setting/Settlements/Cities/Chanayan|Chanayan]]
+>Largest Settlement: [[Setting/Settlements/Cities/Chanayan|Chanayan]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Chanayan|Chanayan]]
+- [[Setting/Settlements/Cities/Chanayan|Chanayan]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

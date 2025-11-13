@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Thyria
 >Civilised
->Capital: [[Villages/Enessa|Enessa]]
->Largest Settlement: [[Villages/Enessa|Enessa]]
+>Capital: [[Setting/Settlements/Villages/Enessa|Enessa]]
+>Largest Settlement: [[Setting/Settlements/Villages/Enessa|Enessa]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Enessa|Enessa]]
+- [[Setting/Settlements/Villages/Enessa|Enessa]]
 
 # Cultures in Borders
 
-- [[Cultures/Thes|Thes]]
+- [[Setting/Cultures/Thes|Thes]]
 

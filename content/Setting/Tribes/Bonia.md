@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Bonia
 >Tribe
->Capital: [[Villages/Freitersgau|Freitersgau]]
->Largest Settlement: [[Villages/Freitersgau|Freitersgau]]
+>Capital: [[Setting/Settlements/Villages/Freitersgau|Freitersgau]]
+>Largest Settlement: [[Setting/Settlements/Villages/Freitersgau|Freitersgau]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Freitersgau|Freitersgau]]
+- [[Setting/Settlements/Villages/Freitersgau|Freitersgau]]
 
 # Cultures in Borders
 
-- [[Cultures/Briler|Briler]]
+- [[Setting/Cultures/Briler|Briler]]
 

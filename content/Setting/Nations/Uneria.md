@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Uneria
 >Civilised
->Capital: [[Villages/Valpi|Valpi]]
->Largest Settlement: [[Villages/Valpi|Valpi]]
+>Capital: [[Setting/Settlements/Villages/Valpi|Valpi]]
+>Largest Settlement: [[Setting/Settlements/Villages/Valpi|Valpi]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Valpi|Valpi]]
+- [[Setting/Settlements/Villages/Valpi|Valpi]]
 
 # Cultures in Borders
 
-- [[Cultures/Vaishasi|Vaishasi]]
+- [[Setting/Cultures/Vaishasi|Vaishasi]]
 

@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Man
 >Civilised
->Capital: [[Cities/Lekronia|Lekronia]]
->Largest Settlement: [[Cities/Lekronia|Lekronia]]
+>Capital: [[Setting/Settlements/Cities/Lekronia|Lekronia]]
+>Largest Settlement: [[Setting/Settlements/Cities/Lekronia|Lekronia]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Lekronia|Lekronia]]
+- [[Setting/Settlements/Cities/Lekronia|Lekronia]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Porigost|Porigost]]
+- [[Setting/Cultures/Porigost|Porigost]]
 

@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Diraz
 >Civilised
->Capital: [[Cities/Hafushahr|Hafushahr]]
->Largest Settlement: [[Cities/Hafushahr|Hafushahr]]
+>Capital: [[Setting/Settlements/Cities/Hafushahr|Hafushahr]]
+>Largest Settlement: [[Setting/Settlements/Cities/Hafushahr|Hafushahr]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Hafushahr|Hafushahr]]
+- [[Setting/Settlements/Cities/Hafushahr|Hafushahr]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

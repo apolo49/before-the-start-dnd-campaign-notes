@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Asaighia
 >Tribe
->Capital: [[Villages/Kaberkeithin|Kaberkeithin]]
->Largest Settlement: [[Villages/Kaberkeithin|Kaberkeithin]]
+>Capital: [[Setting/Settlements/Villages/Kaberkeithin|Kaberkeithin]]
+>Largest Settlement: [[Setting/Settlements/Villages/Kaberkeithin|Kaberkeithin]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Kaberkeithin|Kaberkeithin]]
+- [[Setting/Settlements/Villages/Kaberkeithin|Kaberkeithin]]
 
 # Cultures in Borders
 
-- [[Cultures/Boran|Boran]]
+- [[Setting/Cultures/Boran|Boran]]
 

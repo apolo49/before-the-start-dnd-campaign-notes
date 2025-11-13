@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Saleha
 >Civilised
->Capital: [[Cities/Kahpa|Kahpa]]
->Largest Settlement: [[Cities/Kahpa|Kahpa]]
+>Capital: [[Setting/Settlements/Cities/Kahpa|Kahpa]]
+>Largest Settlement: [[Setting/Settlements/Cities/Kahpa|Kahpa]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Kahpa|Kahpa]]
+- [[Setting/Settlements/Cities/Kahpa|Kahpa]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

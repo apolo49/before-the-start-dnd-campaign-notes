@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Chama
 >Civilised
->Capital: [[Villages/Dakeh|Dakeh]]
->Largest Settlement: [[Villages/Dakeh|Dakeh]]
+>Capital: [[Setting/Settlements/Villages/Dakeh|Dakeh]]
+>Largest Settlement: [[Setting/Settlements/Villages/Dakeh|Dakeh]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Dakeh|Dakeh]]
+- [[Setting/Settlements/Villages/Dakeh|Dakeh]]
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Shari
 >Civilised
->Capital: [[Cities/Hanehtecana|Hanehtecana]]
->Largest Settlement: [[Cities/Hanehtecana|Hanehtecana]]
+>Capital: [[Setting/Settlements/Cities/Hanehtecana|Hanehtecana]]
+>Largest Settlement: [[Setting/Settlements/Cities/Hanehtecana|Hanehtecana]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Hanehtecana|Hanehtecana]]
+- [[Setting/Settlements/Cities/Hanehtecana|Hanehtecana]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

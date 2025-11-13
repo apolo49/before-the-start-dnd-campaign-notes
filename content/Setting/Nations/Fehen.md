@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Fehen
 >Civilised
->Capital: [[Cities/Abgard|Abgard]]
->Largest Settlement: [[Cities/Abgard|Abgard]]
+>Capital: [[Setting/Settlements/Cities/Abgard|Abgard]]
+>Largest Settlement: [[Setting/Settlements/Cities/Abgard|Abgard]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Abgard|Abgard]]
+- [[Setting/Settlements/Cities/Abgard|Abgard]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Lugwi
 >Tribe
->Capital: [[Villages/Arbeg|Arbeg]]
->Largest Settlement: [[Villages/Arbeg|Arbeg]]
+>Capital: [[Setting/Settlements/Villages/Arbeg|Arbeg]]
+>Largest Settlement: [[Setting/Settlements/Villages/Arbeg|Arbeg]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Arbeg|Arbeg]]
+- [[Setting/Settlements/Villages/Arbeg|Arbeg]]
 
 # Cultures in Borders
 
-- [[Cultures/Bleduro|Bleduro]]
+- [[Setting/Cultures/Bleduro|Bleduro]]
 

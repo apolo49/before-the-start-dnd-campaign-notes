@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Kiruzhi
 >Civilised
->Capital: [[Villages/Kiruzhi|Kiruzhi]]
->Largest Settlement: [[Villages/Kiruzhi|Kiruzhi]]
+>Capital: [[Setting/Settlements/Villages/Kiruzhi|Kiruzhi]]
+>Largest Settlement: [[Setting/Settlements/Villages/Kiruzhi|Kiruzhi]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Kiruzhi|Kiruzhi]]
+- [[Setting/Settlements/Villages/Kiruzhi|Kiruzhi]]
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Wiewald
 >Tribe
->Capital: [[Villages/Wiewald|Wiewald]]
->Largest Settlement: [[Villages/Wiewald|Wiewald]]
+>Capital: [[Setting/Settlements/Villages/Wiewald|Wiewald]]
+>Largest Settlement: [[Setting/Settlements/Villages/Wiewald|Wiewald]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Wiewald|Wiewald]]
+- [[Setting/Settlements/Villages/Wiewald|Wiewald]]
 
 # Cultures in Borders
 
-- [[Cultures/Ehrstadt|Ehrstadt]]
+- [[Setting/Cultures/Ehrstadt|Ehrstadt]]
 

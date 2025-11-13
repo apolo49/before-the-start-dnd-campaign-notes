@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Skipland
 >Tribe
->Capital: [[Villages/Miden|Miden]]
->Largest Settlement: [[Villages/Miden|Miden]]
+>Capital: [[Setting/Settlements/Villages/Miden|Miden]]
+>Largest Settlement: [[Setting/Settlements/Villages/Miden|Miden]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Miden|Miden]]
+- [[Setting/Settlements/Villages/Miden|Miden]]
 
 # Cultures in Borders
 
-- [[Cultures/Wildlands|Wildlands]]
+- [[Setting/Cultures/Wildlands|Wildlands]]
 

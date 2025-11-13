@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Rhein
 >###### Capital City
->Country: [[Tribes/Gudens|Gudens]]
+>Country: [[Setting/Tribes/Gudens|Gudens]]
 >Established:
 >Area:
 >Elevation: 961m
 >Population: 738
 >Demonym(s):
->Dominant Culture: [[Cultures/Horngenhau|Horngenhau]]
+>Dominant Culture: [[Setting/Cultures/Horngenhau|Horngenhau]]
 >Dominant Religion:
 
 # History

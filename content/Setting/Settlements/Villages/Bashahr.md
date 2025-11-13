@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Bashahr
 >###### Capital City
->Country: [[Nations/Var|Var]]
+>Country: [[Setting/Nations/Var|Var]]
 >Established:
 >Area:
 >Elevation: 1024m
 >Population: 2,228
 >Demonym(s):
->Dominant Culture: [[Cultures/Kufa|Kufa]]
+>Dominant Culture: [[Setting/Cultures/Kufa|Kufa]]
 >Dominant Religion:
 
 # History

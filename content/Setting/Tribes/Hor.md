@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Hor
 >Tribe
->Capital: [[Villages/Unburg|Unburg]]
->Largest Settlement: [[Villages/Unburg|Unburg]]
+>Capital: [[Setting/Settlements/Villages/Unburg|Unburg]]
+>Largest Settlement: [[Setting/Settlements/Villages/Unburg|Unburg]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Unburg|Unburg]]
+- [[Setting/Settlements/Villages/Unburg|Unburg]]
 
 # Cultures in Borders
 
-- [[Cultures/Schilden|Schilden]]
+- [[Setting/Cultures/Schilden|Schilden]]
 

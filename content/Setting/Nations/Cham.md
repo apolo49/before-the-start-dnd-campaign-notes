@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Cham
 >Civilised
->Capital: [[Villages/Dowlavand|Dowlavand]]
->Largest Settlement: [[Villages/Dowlavand|Dowlavand]]
+>Capital: [[Setting/Settlements/Villages/Dowlavand|Dowlavand]]
+>Largest Settlement: [[Setting/Settlements/Villages/Dowlavand|Dowlavand]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Dowlavand|Dowlavand]]
+- [[Setting/Settlements/Villages/Dowlavand|Dowlavand]]
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

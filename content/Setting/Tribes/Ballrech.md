@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Ballrech
 >Tribe
->Capital: [[Villages/Ballrech|Ballrech]]
->Largest Settlement: [[Villages/Ballrech|Ballrech]]
+>Capital: [[Setting/Settlements/Villages/Ballrech|Ballrech]]
+>Largest Settlement: [[Setting/Settlements/Villages/Ballrech|Ballrech]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Ballrech|Ballrech]]
+- [[Setting/Settlements/Villages/Ballrech|Ballrech]]
 
 # Cultures in Borders
 
-- [[Cultures/Lahrwol|Lahrwol]]
+- [[Setting/Cultures/Lahrwol|Lahrwol]]
 

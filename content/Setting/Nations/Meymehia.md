@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Meymehia
 >Civilised
->Capital: [[Cities/Temuzeymeh|Temuzeymeh]]
->Largest Settlement: [[Cities/Temuzeymeh|Temuzeymeh]]
+>Capital: [[Setting/Settlements/Cities/Temuzeymeh|Temuzeymeh]]
+>Largest Settlement: [[Setting/Settlements/Cities/Temuzeymeh|Temuzeymeh]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Temuzeymeh|Temuzeymeh]]
+- [[Setting/Settlements/Cities/Temuzeymeh|Temuzeymeh]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

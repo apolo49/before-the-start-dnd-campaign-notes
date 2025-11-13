@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Takelia
 >Tribe
->Capital: [[Villages/Tuba|Tuba]]
->Largest Settlement: [[Villages/Tuba|Tuba]]
+>Capital: [[Setting/Settlements/Villages/Tuba|Tuba]]
+>Largest Settlement: [[Setting/Settlements/Villages/Tuba|Tuba]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Tuba|Tuba]]
+- [[Setting/Settlements/Villages/Tuba|Tuba]]
 
 # Cultures in Borders
 
-- [[Cultures/Ber|Ber]]
+- [[Setting/Cultures/Ber|Ber]]
 

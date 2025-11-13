@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Alonase
 >Civilised
->Capital: [[Cities/Alonase|Alonase]]
->Largest Settlement: [[Cities/Alonase|Alonase]]
+>Capital: [[Setting/Settlements/Cities/Alonase|Alonase]]
+>Largest Settlement: [[Setting/Settlements/Cities/Alonase|Alonase]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Alonase|Alonase]]
+- [[Setting/Settlements/Cities/Alonase|Alonase]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Athra|Athra]]
+- [[Setting/Cultures/Athra|Athra]]
 

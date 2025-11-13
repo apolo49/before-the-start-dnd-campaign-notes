@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Throtia
 >Civilised
->Capital: [[Cities/Hegai|Hegai]]
->Largest Settlement: [[Cities/Hegai|Hegai]]
+>Capital: [[Setting/Settlements/Cities/Hegai|Hegai]]
+>Largest Settlement: [[Setting/Settlements/Cities/Hegai|Hegai]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Hegai|Hegai]]
+- [[Setting/Settlements/Cities/Hegai|Hegai]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Brauron|Brauron]]
+- [[Setting/Cultures/Brauron|Brauron]]
 

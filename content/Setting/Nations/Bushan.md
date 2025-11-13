@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Bushan
 >Civilised
->Capital: [[Cities/Panadai|Panadai]]
->Largest Settlement: [[Cities/Panadai|Panadai]]
+>Capital: [[Setting/Settlements/Cities/Panadai|Panadai]]
+>Largest Settlement: [[Setting/Settlements/Cities/Panadai|Panadai]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Panadai|Panadai]]
+- [[Setting/Settlements/Cities/Panadai|Panadai]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

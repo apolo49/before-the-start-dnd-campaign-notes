@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Tudecarand
 >###### Capital City
->Country: [[Nations/Bashehia|Bashehia]]
+>Country: [[Setting/Nations/Bashehia|Bashehia]]
 >Established:
 >Area:
 >Elevation: 400m
 >Population: 92,936
 >Demonym(s):
->Dominant Culture: [[Cultures/Kufa|Kufa]]
+>Dominant Culture: [[Setting/Cultures/Kufa|Kufa]]
 >Dominant Religion:
 
 # History

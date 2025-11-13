@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Anshahr
 >###### Capital City
->Country: [[Nations/Anshahria|Anshahria]]
+>Country: [[Setting/Nations/Anshahria|Anshahria]]
 >Established:
 >Area:
 >Elevation: 961m
 >Population: 63,274
 >Demonym(s):
->Dominant Culture: [[Cultures/Kufa|Kufa]]
+>Dominant Culture: [[Setting/Cultures/Kufa|Kufa]]
 >Dominant Religion:
 
 # History

@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Wuberland
 >Tribe
->Capital: [[Villages/Tusachried|Tusachried]]
->Largest Settlement: [[Villages/Tusachried|Tusachried]]
+>Capital: [[Setting/Settlements/Villages/Tusachried|Tusachried]]
+>Largest Settlement: [[Setting/Settlements/Villages/Tusachried|Tusachried]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Tusachried|Tusachried]]
+- [[Setting/Settlements/Villages/Tusachried|Tusachried]]
 
 # Cultures in Borders
 
-- [[Cultures/Schilden|Schilden]]
+- [[Setting/Cultures/Schilden|Schilden]]
 

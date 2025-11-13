@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Turengia
 >Civilised
->Capital: [[Cities/Hashtgerd|Hashtgerd]]
->Largest Settlement: [[Cities/Hashtgerd|Hashtgerd]]
+>Capital: [[Setting/Settlements/Cities/Hashtgerd|Hashtgerd]]
+>Largest Settlement: [[Setting/Settlements/Cities/Hashtgerd|Hashtgerd]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Hashtgerd|Hashtgerd]]
+- [[Setting/Settlements/Cities/Hashtgerd|Hashtgerd]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

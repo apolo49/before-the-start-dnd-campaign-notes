@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Mosiania
 >Civilised
->Capital: [[Cities/Vadpatipa|Vadpatipa]]
->Largest Settlement: [[Cities/Vadpatipa|Vadpatipa]]
+>Capital: [[Setting/Settlements/Cities/Vadpatipa|Vadpatipa]]
+>Largest Settlement: [[Setting/Settlements/Cities/Vadpatipa|Vadpatipa]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Vadpatipa|Vadpatipa]]
+- [[Setting/Settlements/Cities/Vadpatipa|Vadpatipa]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Vaishasi|Vaishasi]]
+- [[Setting/Cultures/Vaishasi|Vaishasi]]
 

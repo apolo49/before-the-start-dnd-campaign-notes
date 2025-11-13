@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Semsaria
 >Civilised
->Capital: [[Cities/Nabad|Nabad]]
->Largest Settlement: [[Cities/Nabad|Nabad]]
+>Capital: [[Setting/Settlements/Cities/Nabad|Nabad]]
+>Largest Settlement: [[Setting/Settlements/Cities/Nabad|Nabad]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Nabad|Nabad]]
+- [[Setting/Settlements/Cities/Nabad|Nabad]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Ebron
 >Tribe
->Capital: [[Villages/Honaueschler|Honaueschler]]
->Largest Settlement: [[Villages/Honaueschler|Honaueschler]]
+>Capital: [[Setting/Settlements/Villages/Honaueschler|Honaueschler]]
+>Largest Settlement: [[Setting/Settlements/Villages/Honaueschler|Honaueschler]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Honaueschler|Honaueschler]]
+- [[Setting/Settlements/Villages/Honaueschler|Honaueschler]]
 
 # Cultures in Borders
 
-- [[Cultures/Briler|Briler]]
+- [[Setting/Cultures/Briler|Briler]]
 

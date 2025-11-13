@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Ifenjane
 >###### Capital City
->Country: [[Tribes/Tada|Tada]]
+>Country: [[Setting/Tribes/Tada|Tada]]
 >Established:
 >Area:
 >Elevation: 961m
 >Population: 413
 >Demonym(s):
->Dominant Culture: [[Cultures/Ber|Ber]]
+>Dominant Culture: [[Setting/Cultures/Ber|Ber]]
 >Dominant Religion:
 
 # History

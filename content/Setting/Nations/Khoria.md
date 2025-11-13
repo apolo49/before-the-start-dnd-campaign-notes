@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Khoria
 >Civilised
->Capital: [[Villages/Zaraj|Zaraj]]
->Largest Settlement: [[Villages/Zaraj|Zaraj]]
+>Capital: [[Setting/Settlements/Villages/Zaraj|Zaraj]]
+>Largest Settlement: [[Setting/Settlements/Villages/Zaraj|Zaraj]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Zaraj|Zaraj]]
+- [[Setting/Settlements/Villages/Zaraj|Zaraj]]
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

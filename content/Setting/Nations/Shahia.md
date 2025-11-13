@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Shahia
 >Civilised
->Capital: [[Villages/Yafahal|Yafahal]]
->Largest Settlement: [[Villages/Yafahal|Yafahal]]
+>Capital: [[Setting/Settlements/Villages/Yafahal|Yafahal]]
+>Largest Settlement: [[Setting/Settlements/Villages/Yafahal|Yafahal]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Yafahal|Yafahal]]
+- [[Setting/Settlements/Villages/Yafahal|Yafahal]]
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

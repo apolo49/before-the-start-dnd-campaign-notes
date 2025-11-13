@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Satareh
 >###### Capital City
->Country: [[Nations/Ronutia|Ronutia]]
+>Country: [[Setting/Nations/Ronutia|Ronutia]]
 >Established:
 >Area:
 >Elevation: 1024m
 >Population: 246
 >Demonym(s):
->Dominant Culture: [[Cultures/Kufa|Kufa]]
+>Dominant Culture: [[Setting/Cultures/Kufa|Kufa]]
 >Dominant Religion:
 
 # History

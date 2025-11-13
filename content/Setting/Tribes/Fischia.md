@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Fischia
 >Tribe
->Capital: [[Villages/Fisch|Fisch]]
->Largest Settlement: [[Villages/Fisch|Fisch]]
+>Capital: [[Setting/Settlements/Villages/Fisch|Fisch]]
+>Largest Settlement: [[Setting/Settlements/Villages/Fisch|Fisch]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Fisch|Fisch]]
+- [[Setting/Settlements/Villages/Fisch|Fisch]]
 
 # Cultures in Borders
 
-- [[Cultures/Bieiamten|Bieiamten]]
+- [[Setting/Cultures/Bieiamten|Bieiamten]]
 

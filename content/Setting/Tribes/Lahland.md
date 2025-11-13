@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Lahland
 >Tribe
->Capital: [[Villages/Monch|Monch]]
->Largest Settlement: [[Villages/Monch|Monch]]
+>Capital: [[Setting/Settlements/Villages/Monch|Monch]]
+>Largest Settlement: [[Setting/Settlements/Villages/Monch|Monch]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Monch|Monch]]
+- [[Setting/Settlements/Villages/Monch|Monch]]
 
 # Cultures in Borders
 
-- [[Cultures/Witenter|Witenter]]
+- [[Setting/Cultures/Witenter|Witenter]]
 

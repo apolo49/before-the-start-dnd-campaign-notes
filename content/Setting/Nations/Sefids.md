@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Sefids
 >Civilised
->Capital: [[Cities/Sialkran|Sialkran]]
->Largest Settlement: [[Cities/Sialkran|Sialkran]]
+>Capital: [[Setting/Settlements/Cities/Sialkran|Sialkran]]
+>Largest Settlement: [[Setting/Settlements/Cities/Sialkran|Sialkran]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Sialkran|Sialkran]]
+- [[Setting/Settlements/Cities/Sialkran|Sialkran]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

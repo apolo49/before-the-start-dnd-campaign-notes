@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Sedeh
 >###### Capital City
->Country: [[Nations/Sedeh|Sedeh]]
+>Country: [[Setting/Nations/Sedeh|Sedeh]]
 >Established:
 >Area:
 >Elevation: 1369m
 >Population: 147
 >Demonym(s):
->Dominant Culture: [[Cultures/Kufa|Kufa]]
+>Dominant Culture: [[Setting/Cultures/Kufa|Kufa]]
 >Dominant Religion:
 
 # History

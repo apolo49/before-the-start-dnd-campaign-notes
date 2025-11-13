@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Kir
 >Tribe
->Capital: [[Villages/Harbotre|Harbotre]]
->Largest Settlement: [[Villages/Harbotre|Harbotre]]
+>Capital: [[Setting/Settlements/Villages/Harbotre|Harbotre]]
+>Largest Settlement: [[Setting/Settlements/Villages/Harbotre|Harbotre]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Harbotre|Harbotre]]
+- [[Setting/Settlements/Villages/Harbotre|Harbotre]]
 
 # Cultures in Borders
 
-- [[Cultures/Wildlands|Wildlands]]
+- [[Setting/Cultures/Wildlands|Wildlands]]
 

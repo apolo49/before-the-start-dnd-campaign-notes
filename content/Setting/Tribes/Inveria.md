@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Inveria
 >Tribe
->Capital: [[Villages/Infart|Infart]]
->Largest Settlement: [[Villages/Infart|Infart]]
+>Capital: [[Setting/Settlements/Villages/Infart|Infart]]
+>Largest Settlement: [[Setting/Settlements/Villages/Infart|Infart]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Infart|Infart]]
+- [[Setting/Settlements/Villages/Infart|Infart]]
 
 # Cultures in Borders
 
-- [[Cultures/Dulegan|Dulegan]]
+- [[Setting/Cultures/Dulegan|Dulegan]]
 

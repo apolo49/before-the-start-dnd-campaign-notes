@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Zareh
 >Civilised
->Capital: [[Cities/Sarasirstan|Sarasirstan]]
->Largest Settlement: [[Cities/Sarasirstan|Sarasirstan]]
+>Capital: [[Setting/Settlements/Cities/Sarasirstan|Sarasirstan]]
+>Largest Settlement: [[Setting/Settlements/Cities/Sarasirstan|Sarasirstan]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Sarasirstan|Sarasirstan]]
+- [[Setting/Settlements/Cities/Sarasirstan|Sarasirstan]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

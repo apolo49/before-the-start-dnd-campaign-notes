@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Phoriontion
 >###### Capital City
->Country: [[Nations/Thia|Thia]]
+>Country: [[Setting/Nations/Thia|Thia]]
 >Established:
 >Area:
 >Elevation: 1024m
 >Population: 65,390
 >Demonym(s):
->Dominant Culture: [[Cultures/Amphi|Amphi]]
+>Dominant Culture: [[Setting/Cultures/Amphi|Amphi]]
 >Dominant Religion:
 
 # History

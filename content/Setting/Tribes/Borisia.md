@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Borisia
 >Tribe
->Capital: [[Villages/Ebhiligaber|Ebhiligaber]]
->Largest Settlement: [[Villages/Ebhiligaber|Ebhiligaber]]
+>Capital: [[Setting/Settlements/Villages/Ebhiligaber|Ebhiligaber]]
+>Largest Settlement: [[Setting/Settlements/Villages/Ebhiligaber|Ebhiligaber]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Ebhiligaber|Ebhiligaber]]
+- [[Setting/Settlements/Villages/Ebhiligaber|Ebhiligaber]]
 
 # Cultures in Borders
 
-- [[Cultures/Duibri|Duibri]]
+- [[Setting/Cultures/Duibri|Duibri]]
 

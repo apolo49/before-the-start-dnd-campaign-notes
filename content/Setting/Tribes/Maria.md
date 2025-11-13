@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Maria
 >Tribe
->Capital: [[Villages/Araberg|Araberg]]
->Largest Settlement: [[Villages/Araberg|Araberg]]
+>Capital: [[Setting/Settlements/Villages/Araberg|Araberg]]
+>Largest Settlement: [[Setting/Settlements/Villages/Araberg|Araberg]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Araberg|Araberg]]
+- [[Setting/Settlements/Villages/Araberg|Araberg]]
 
 # Cultures in Borders
 
-- [[Cultures/Ebheartei|Ebheartei]]
+- [[Setting/Cultures/Ebheartei|Ebheartei]]
 

@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Gawria
 >Civilised
->Capital: [[Cities/Borgurqa|Borgurqa]]
->Largest Settlement: [[Cities/Borgurqa|Borgurqa]]
+>Capital: [[Setting/Settlements/Cities/Borgurqa|Borgurqa]]
+>Largest Settlement: [[Setting/Settlements/Cities/Borgurqa|Borgurqa]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Borgurqa|Borgurqa]]
+- [[Setting/Settlements/Cities/Borgurqa|Borgurqa]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Warmo|Warmo]]
+- [[Setting/Cultures/Warmo|Warmo]]
 

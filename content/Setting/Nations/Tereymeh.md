@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Tereymeh
 >Civilised
->Capital: [[Villages/Tereymeh|Tereymeh]]
->Largest Settlement: [[Villages/Tereymeh|Tereymeh]]
+>Capital: [[Setting/Settlements/Villages/Tereymeh|Tereymeh]]
+>Largest Settlement: [[Setting/Settlements/Villages/Tereymeh|Tereymeh]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Tereymeh|Tereymeh]]
+- [[Setting/Settlements/Villages/Tereymeh|Tereymeh]]
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

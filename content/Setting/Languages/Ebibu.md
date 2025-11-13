@@ -11,7 +11,7 @@ Ebibu was once the lingua franca of the Qatha Sandlands. It has slowly declined 
 ## Writing
 Ebibu is written using the Ebibu Syllabary, a script that was not invented by the Qatha peoples, but instead by a far off land that has since lost contact. It bears resemblance to old elven writing systems found in the far East.
 
-Historically it is written on the leaves of the now-extinct Tusari Palm, but a close relative of the plant has since been found and is heavily farmed in [[Nations/Ebbu|Ebbu]] and its capital [[Ebbu]].
+Historically it is written on the leaves of the now-extinct Tusari Palm, but a close relative of the plant has since been found and is heavily farmed in [[Setting/Nations/Ebbu|Ebbu]] and its capital [[Ebbu]].
 
 # Phonology
 ## Consonants

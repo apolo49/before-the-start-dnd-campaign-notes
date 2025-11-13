@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Shafus
 >###### Capital City
->Country: [[Nations/Shafus|Shafus]]
+>Country: [[Setting/Nations/Shafus|Shafus]]
 >Established:
 >Area:
 >Elevation: 676m
 >Population: 105,470
 >Demonym(s):
->Dominant Culture: [[Cultures/Kufa|Kufa]]
+>Dominant Culture: [[Setting/Cultures/Kufa|Kufa]]
 >Dominant Religion:
 
 # History

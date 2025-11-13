@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Galb
 >Tribe
->Capital: [[Villages/Bounowicowi|Bounowicowi]]
->Largest Settlement: [[Villages/Bounowicowi|Bounowicowi]]
+>Capital: [[Setting/Settlements/Villages/Bounowicowi|Bounowicowi]]
+>Largest Settlement: [[Setting/Settlements/Villages/Bounowicowi|Bounowicowi]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Bounowicowi|Bounowicowi]]
+- [[Setting/Settlements/Villages/Bounowicowi|Bounowicowi]]
 
 # Cultures in Borders
 
-- [[Cultures/Bleduro|Bleduro]]
+- [[Setting/Cultures/Bleduro|Bleduro]]
 

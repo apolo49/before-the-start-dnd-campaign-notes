@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Achartyn
 >###### Capital City
->Country: [[Nations/Alia|Alia]]
+>Country: [[Setting/Nations/Alia|Alia]]
 >Established:
 >Area:
 >Elevation: 1369m
 >Population: 39,707
 >Demonym(s):
->Dominant Culture: [[Cultures/Nerapit|Nerapit]]
+>Dominant Culture: [[Setting/Cultures/Nerapit|Nerapit]]
 >Dominant Religion:
 
 # History

@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Infodu
 >Tribe
->Capital: [[Villages/Agoviodurie|Agoviodurie]]
->Largest Settlement: [[Villages/Agoviodurie|Agoviodurie]]
+>Capital: [[Setting/Settlements/Villages/Agoviodurie|Agoviodurie]]
+>Largest Settlement: [[Setting/Settlements/Villages/Agoviodurie|Agoviodurie]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Agoviodurie|Agoviodurie]]
+- [[Setting/Settlements/Villages/Agoviodurie|Agoviodurie]]
 
 # Cultures in Borders
 
-- [[Cultures/Lerug|Lerug]]
+- [[Setting/Cultures/Lerug|Lerug]]
 

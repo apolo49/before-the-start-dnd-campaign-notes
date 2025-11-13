@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Dunumia
 >Tribe
->Capital: [[Villages/Dunum|Dunum]]
->Largest Settlement: [[Villages/Dunum|Dunum]]
+>Capital: [[Setting/Settlements/Villages/Dunum|Dunum]]
+>Largest Settlement: [[Setting/Settlements/Villages/Dunum|Dunum]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Dunum|Dunum]]
+- [[Setting/Settlements/Villages/Dunum|Dunum]]
 
 # Cultures in Borders
 
-- [[Cultures/Lerug|Lerug]]
+- [[Setting/Cultures/Lerug|Lerug]]
 

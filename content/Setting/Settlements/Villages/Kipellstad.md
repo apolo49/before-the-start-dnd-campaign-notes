@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Kipellstad
 >###### Capital City
->Country: [[Tribes/Kipellstad|Kipellstad]]
+>Country: [[Setting/Tribes/Kipellstad|Kipellstad]]
 >Established:
 >Area:
 >Elevation: 324m
 >Population: 2,105
 >Demonym(s):
->Dominant Culture: [[Cultures/Schilden|Schilden]]
+>Dominant Culture: [[Setting/Cultures/Schilden|Schilden]]
 >Dominant Religion:
 
 # History

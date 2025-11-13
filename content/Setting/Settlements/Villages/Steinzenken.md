@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Steinzenken
 >###### Capital City
->Country: [[Tribes/Walds|Walds]]
+>Country: [[Setting/Tribes/Walds|Walds]]
 >Established:
 >Area:
 >Elevation: 1024m
 >Population: 1,076
 >Demonym(s):
->Dominant Culture: [[Cultures/Briler|Briler]]
+>Dominant Culture: [[Setting/Cultures/Briler|Briler]]
 >Dominant Religion:
 
 # History

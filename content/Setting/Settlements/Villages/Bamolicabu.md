@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Bamolicabu
 >###### Capital City
->Country: [[Nations/Jitis|Jitis]]
+>Country: [[Setting/Nations/Jitis|Jitis]]
 >Established:
 >Area:
 >Elevation: 1369m
 >Population: 1,954
 >Demonym(s):
->Dominant Culture: [[Cultures/Kufa|Kufa]]
+>Dominant Culture: [[Setting/Cultures/Kufa|Kufa]]
 >Dominant Religion:
 
 # History

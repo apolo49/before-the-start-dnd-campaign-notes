@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Fara
 >Civilised
->Capital: [[Cities/Arezkuh|Arezkuh]]
->Largest Settlement: [[Cities/Arezkuh|Arezkuh]]
+>Capital: [[Setting/Settlements/Cities/Arezkuh|Arezkuh]]
+>Largest Settlement: [[Setting/Settlements/Cities/Arezkuh|Arezkuh]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Arezkuh|Arezkuh]]
+- [[Setting/Settlements/Cities/Arezkuh|Arezkuh]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

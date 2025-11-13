@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Yabilia
 >Civilised
->Capital: [[Villages/Habashahr|Habashahr]]
->Largest Settlement: [[Villages/Habashahr|Habashahr]]
+>Capital: [[Setting/Settlements/Villages/Habashahr|Habashahr]]
+>Largest Settlement: [[Setting/Settlements/Villages/Habashahr|Habashahr]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Habashahr|Habashahr]]
+- [[Setting/Settlements/Villages/Habashahr|Habashahr]]
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

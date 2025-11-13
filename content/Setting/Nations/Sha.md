@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Sha
 >Civilised
->Capital: [[Cities/Hariyeh|Hariyeh]]
->Largest Settlement: [[Cities/Hariyeh|Hariyeh]]
+>Capital: [[Setting/Settlements/Cities/Hariyeh|Hariyeh]]
+>Largest Settlement: [[Setting/Settlements/Cities/Hariyeh|Hariyeh]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Hariyeh|Hariyeh]]
+- [[Setting/Settlements/Cities/Hariyeh|Hariyeh]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Armia
 >Tribe
->Capital: [[Villages/Cambhurabert|Cambhurabert]]
->Largest Settlement: [[Villages/Cambhurabert|Cambhurabert]]
+>Capital: [[Setting/Settlements/Villages/Cambhurabert|Cambhurabert]]
+>Largest Settlement: [[Setting/Settlements/Villages/Cambhurabert|Cambhurabert]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Cambhurabert|Cambhurabert]]
+- [[Setting/Settlements/Villages/Cambhurabert|Cambhurabert]]
 
 # Cultures in Borders
 
-- [[Cultures/Lerug|Lerug]]
+- [[Setting/Cultures/Lerug|Lerug]]
 

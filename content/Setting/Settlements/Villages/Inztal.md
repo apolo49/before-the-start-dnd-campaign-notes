@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Inztal
 >###### Capital City
->Country: [[Tribes/Inztal|Inztal]]
+>Country: [[Setting/Tribes/Inztal|Inztal]]
 >Established:
 >Area:
 >Elevation: 1024m
 >Population: 2,608
 >Demonym(s):
->Dominant Culture: [[Cultures/Krozin|Krozin]]
+>Dominant Culture: [[Setting/Cultures/Krozin|Krozin]]
 >Dominant Religion:
 
 # History

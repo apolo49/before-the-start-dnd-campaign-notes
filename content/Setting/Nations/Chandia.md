@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Chandia
 >Civilised
->Capital: [[Cities/Majanyatis|Majanyatis]]
->Largest Settlement: [[Cities/Majanyatis|Majanyatis]]
+>Capital: [[Setting/Settlements/Cities/Majanyatis|Majanyatis]]
+>Largest Settlement: [[Setting/Settlements/Cities/Majanyatis|Majanyatis]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Majanyatis|Majanyatis]]
+- [[Setting/Settlements/Cities/Majanyatis|Majanyatis]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Vaishasi|Vaishasi]]
+- [[Setting/Cultures/Vaishasi|Vaishasi]]
 

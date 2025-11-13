@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Zamolpa
 >###### Capital City
->Country: [[Nations/Zamolpa|Zamolpa]]
+>Country: [[Setting/Nations/Zamolpa|Zamolpa]]
 >Established:
 >Area:
 >Elevation: 1369m
 >Population: 110,650
 >Demonym(s):
->Dominant Culture: [[Cultures/Kufa|Kufa]]
+>Dominant Culture: [[Setting/Cultures/Kufa|Kufa]]
 >Dominant Religion:
 
 # History

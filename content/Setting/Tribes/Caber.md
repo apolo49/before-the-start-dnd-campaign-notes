@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Caber
 >Tribe
->Capital: [[Villages/Inverbargow|Inverbargow]]
->Largest Settlement: [[Villages/Inverbargow|Inverbargow]]
+>Capital: [[Setting/Settlements/Villages/Inverbargow|Inverbargow]]
+>Largest Settlement: [[Setting/Settlements/Villages/Inverbargow|Inverbargow]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Inverbargow|Inverbargow]]
+- [[Setting/Settlements/Villages/Inverbargow|Inverbargow]]
 
 # Cultures in Borders
 
-- [[Cultures/Indyrgow|Indyrgow]]
+- [[Setting/Cultures/Indyrgow|Indyrgow]]
 

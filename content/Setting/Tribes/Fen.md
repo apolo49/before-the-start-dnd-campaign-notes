@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Fen
 >Tribe
->Capital: [[Villages/Wigley|Wigley]]
->Largest Settlement: [[Villages/Wigley|Wigley]]
+>Capital: [[Setting/Settlements/Villages/Wigley|Wigley]]
+>Largest Settlement: [[Setting/Settlements/Villages/Wigley|Wigley]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Wigley|Wigley]]
+- [[Setting/Settlements/Villages/Wigley|Wigley]]
 
 # Cultures in Borders
 
-- [[Cultures/Wildlands|Wildlands]]
+- [[Setting/Cultures/Wildlands|Wildlands]]
 

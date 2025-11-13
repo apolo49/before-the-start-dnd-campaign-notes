@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Laymeh
 >###### Capital City
->Country: [[Nations/Burengia|Burengia]]
+>Country: [[Setting/Nations/Burengia|Burengia]]
 >Established:
 >Area:
 >Elevation: 1296m
 >Population: 94,188
 >Demonym(s):
->Dominant Culture: [[Cultures/Kufa|Kufa]]
+>Dominant Culture: [[Setting/Cultures/Kufa|Kufa]]
 >Dominant Religion:
 
 # History

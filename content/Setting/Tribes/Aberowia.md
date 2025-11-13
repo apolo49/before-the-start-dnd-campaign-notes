@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Aberowia
 >Tribe
->Capital: [[Villages/Aberow|Aberow]]
->Largest Settlement: [[Villages/Aberow|Aberow]]
+>Capital: [[Setting/Settlements/Villages/Aberow|Aberow]]
+>Largest Settlement: [[Setting/Settlements/Villages/Aberow|Aberow]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Aberow|Aberow]]
+- [[Setting/Settlements/Villages/Aberow|Aberow]]
 
 # Cultures in Borders
 
-- [[Cultures/Cedi|Cedi]]
+- [[Setting/Cultures/Cedi|Cedi]]
 

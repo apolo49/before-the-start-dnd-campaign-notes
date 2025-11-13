@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Athosia
 >Civilised
->Capital: [[Villages/Gourgos|Gourgos]]
->Largest Settlement: [[Villages/Gourgos|Gourgos]]
+>Capital: [[Setting/Settlements/Villages/Gourgos|Gourgos]]
+>Largest Settlement: [[Setting/Settlements/Villages/Gourgos|Gourgos]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Gourgos|Gourgos]]
+- [[Setting/Settlements/Villages/Gourgos|Gourgos]]
 
 # Cultures in Borders
 
-- [[Cultures/Hubde|Hubde]]
+- [[Setting/Cultures/Hubde|Hubde]]
 

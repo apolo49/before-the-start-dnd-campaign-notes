@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Dorn
 >Tribe
->Capital: [[Villages/Rench|Rench]]
->Largest Settlement: [[Villages/Rench|Rench]]
+>Capital: [[Setting/Settlements/Villages/Rench|Rench]]
+>Largest Settlement: [[Setting/Settlements/Villages/Rench|Rench]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Rench|Rench]]
+- [[Setting/Settlements/Villages/Rench|Rench]]
 
 # Cultures in Borders
 
-- [[Cultures/Geimons|Geimons]]
+- [[Setting/Cultures/Geimons|Geimons]]
 

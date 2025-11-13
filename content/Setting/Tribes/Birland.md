@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Birland
 >Tribe
->Capital: [[Villages/Otmosfeld|Otmosfeld]]
->Largest Settlement: [[Villages/Otmosfeld|Otmosfeld]]
+>Capital: [[Setting/Settlements/Villages/Otmosfeld|Otmosfeld]]
+>Largest Settlement: [[Setting/Settlements/Villages/Otmosfeld|Otmosfeld]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Otmosfeld|Otmosfeld]]
+- [[Setting/Settlements/Villages/Otmosfeld|Otmosfeld]]
 
 # Cultures in Borders
 
-- [[Cultures/Schilden|Schilden]]
+- [[Setting/Cultures/Schilden|Schilden]]
 

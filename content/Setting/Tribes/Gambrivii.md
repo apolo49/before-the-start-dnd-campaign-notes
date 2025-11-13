@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Gambrivii
 >Tribe
->Capital: [[Villages/Schon|Schon]]
->Largest Settlement: [[Villages/Schon|Schon]]
+>Capital: [[Setting/Settlements/Villages/Schon|Schon]]
+>Largest Settlement: [[Setting/Settlements/Villages/Schon|Schon]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Schon|Schon]]
+- [[Setting/Settlements/Villages/Schon|Schon]]
 
 # Cultures in Borders
 
-- [[Cultures/Briler|Briler]]
+- [[Setting/Cultures/Briler|Briler]]
 

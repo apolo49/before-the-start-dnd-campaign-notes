@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Chaze
 >Civilised
->Capital: [[Cities/Qarchriar|Qarchriar]]
->Largest Settlement: [[Cities/Qarchriar|Qarchriar]]
+>Capital: [[Setting/Settlements/Cities/Qarchriar|Qarchriar]]
+>Largest Settlement: [[Setting/Settlements/Cities/Qarchriar|Qarchriar]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Qarchriar|Qarchriar]]
+- [[Setting/Settlements/Cities/Qarchriar|Qarchriar]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

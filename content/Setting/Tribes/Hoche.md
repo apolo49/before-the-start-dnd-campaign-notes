@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Hoche
 >Tribe
->Capital: [[Villages/Lahrbach|Lahrbach]]
->Largest Settlement: [[Villages/Lahrbach|Lahrbach]]
+>Capital: [[Setting/Settlements/Villages/Lahrbach|Lahrbach]]
+>Largest Settlement: [[Setting/Settlements/Villages/Lahrbach|Lahrbach]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Lahrbach|Lahrbach]]
+- [[Setting/Settlements/Villages/Lahrbach|Lahrbach]]
 
 # Cultures in Borders
 
-- [[Cultures/Lahrwol|Lahrwol]]
+- [[Setting/Cultures/Lahrwol|Lahrwol]]
 

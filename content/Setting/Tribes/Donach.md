@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Donach
 >Tribe
->Capital: [[Villages/Donach|Donach]]
->Largest Settlement: [[Villages/Donach|Donach]]
+>Capital: [[Setting/Settlements/Villages/Donach|Donach]]
+>Largest Settlement: [[Setting/Settlements/Villages/Donach|Donach]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Donach|Donach]]
+- [[Setting/Settlements/Villages/Donach|Donach]]
 
 # Cultures in Borders
 
-- [[Cultures/Ehrstadt|Ehrstadt]]
+- [[Setting/Cultures/Ehrstadt|Ehrstadt]]
 

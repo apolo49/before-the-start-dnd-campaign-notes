@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Kauria
 >Civilised
->Capital: [[Cities/Rakapupal|Rakapupal]]
->Largest Settlement: [[Cities/Rakapupal|Rakapupal]]
+>Capital: [[Setting/Settlements/Cities/Rakapupal|Rakapupal]]
+>Largest Settlement: [[Setting/Settlements/Cities/Rakapupal|Rakapupal]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Rakapupal|Rakapupal]]
+- [[Setting/Settlements/Cities/Rakapupal|Rakapupal]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Vaishasi|Vaishasi]]
+- [[Setting/Cultures/Vaishasi|Vaishasi]]
 

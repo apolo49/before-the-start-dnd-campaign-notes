@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Dadia
 >Civilised
->Capital: [[Villages/Hasht|Hasht]]
->Largest Settlement: [[Villages/Hasht|Hasht]]
+>Capital: [[Setting/Settlements/Villages/Hasht|Hasht]]
+>Largest Settlement: [[Setting/Settlements/Villages/Hasht|Hasht]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Hasht|Hasht]]
+- [[Setting/Settlements/Villages/Hasht|Hasht]]
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

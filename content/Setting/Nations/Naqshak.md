@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Naqshak
 >Civilised
->Capital: [[Cities/Naqshak|Naqshak]]
->Largest Settlement: [[Cities/Naqshak|Naqshak]]
+>Capital: [[Setting/Settlements/Cities/Naqshak|Naqshak]]
+>Largest Settlement: [[Setting/Settlements/Cities/Naqshak|Naqshak]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Naqshak|Naqshak]]
+- [[Setting/Settlements/Cities/Naqshak|Naqshak]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

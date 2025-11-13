@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Bober
 >Tribe
->Capital: [[Villages/Durzar|Durzar]]
->Largest Settlement: [[Villages/Durzar|Durzar]]
+>Capital: [[Setting/Settlements/Villages/Durzar|Durzar]]
+>Largest Settlement: [[Setting/Settlements/Villages/Durzar|Durzar]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Durzar|Durzar]]
+- [[Setting/Settlements/Villages/Durzar|Durzar]]
 
 # Cultures in Borders
 
-- [[Cultures/Schaltens|Schaltens]]
+- [[Setting/Cultures/Schaltens|Schaltens]]
 

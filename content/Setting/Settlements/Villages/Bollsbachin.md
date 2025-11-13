@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Bollsbachin
 >###### Capital City
->Country: [[Tribes/Aich|Aich]]
+>Country: [[Setting/Tribes/Aich|Aich]]
 >Established:
 >Area:
 >Elevation: 1024m
 >Population: 2,400
 >Demonym(s):
->Dominant Culture: [[Cultures/Krozin|Krozin]]
+>Dominant Culture: [[Setting/Cultures/Krozin|Krozin]]
 >Dominant Religion:
 
 # History

@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Fertaber
 >###### Capital City
->Country: [[Tribes/Aberia|Aberia]]
+>Country: [[Setting/Tribes/Aberia|Aberia]]
 >Established:
 >Area:
 >Elevation: 961m
 >Population: 1,733
 >Demonym(s):
->Dominant Culture: [[Cultures/Ebheartei|Ebheartei]]
+>Dominant Culture: [[Setting/Cultures/Ebheartei|Ebheartei]]
 >Dominant Religion:
 
 # History

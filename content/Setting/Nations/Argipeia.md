@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Argipeia
 >Civilised
->Capital: [[Cities/Natenexand|Natenexand]]
->Largest Settlement: [[Cities/Natenexand|Natenexand]]
+>Capital: [[Setting/Settlements/Cities/Natenexand|Natenexand]]
+>Largest Settlement: [[Setting/Settlements/Cities/Natenexand|Natenexand]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Natenexand|Natenexand]]
+- [[Setting/Settlements/Cities/Natenexand|Natenexand]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Amphi|Amphi]]
+- [[Setting/Cultures/Amphi|Amphi]]
 

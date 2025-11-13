@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Jitis
 >Civilised
->Capital: [[Villages/Bamolicabu|Bamolicabu]]
->Largest Settlement: [[Villages/Bamolicabu|Bamolicabu]]
+>Capital: [[Setting/Settlements/Villages/Bamolicabu|Bamolicabu]]
+>Largest Settlement: [[Setting/Settlements/Villages/Bamolicabu|Bamolicabu]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Bamolicabu|Bamolicabu]]
+- [[Setting/Settlements/Villages/Bamolicabu|Bamolicabu]]
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Kyrian
 >Civilised
->Capital: [[Cities/Lamplios|Lamplios]]
->Largest Settlement: [[Cities/Lamplios|Lamplios]]
+>Capital: [[Setting/Settlements/Cities/Lamplios|Lamplios]]
+>Largest Settlement: [[Setting/Settlements/Cities/Lamplios|Lamplios]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Lamplios|Lamplios]]
+- [[Setting/Settlements/Cities/Lamplios|Lamplios]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Amphi|Amphi]]
+- [[Setting/Cultures/Amphi|Amphi]]
 

@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Shushia
 >Civilised
->Capital: [[Cities/Kan Shahr|Kan Shahr]]
->Largest Settlement: [[Cities/Kan Shahr|Kan Shahr]]
+>Capital: [[Setting/Settlements/Cities/Kan Shahr|Kan Shahr]]
+>Largest Settlement: [[Setting/Settlements/Cities/Kan Shahr|Kan Shahr]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Kan Shahr|Kan Shahr]]
+- [[Setting/Settlements/Cities/Kan Shahr|Kan Shahr]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

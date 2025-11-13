@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Rhada
 >Civilised
->Capital: [[Villages/Rhada|Rhada]]
->Largest Settlement: [[Villages/Rhada|Rhada]]
+>Capital: [[Setting/Settlements/Villages/Rhada|Rhada]]
+>Largest Settlement: [[Setting/Settlements/Villages/Rhada|Rhada]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Rhada|Rhada]]
+- [[Setting/Settlements/Villages/Rhada|Rhada]]
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

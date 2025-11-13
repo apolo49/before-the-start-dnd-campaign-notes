@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Orhar
 >Tribe
->Capital: [[Villages/Dornzach|Dornzach]]
->Largest Settlement: [[Villages/Dornzach|Dornzach]]
+>Capital: [[Setting/Settlements/Villages/Dornzach|Dornzach]]
+>Largest Settlement: [[Setting/Settlements/Villages/Dornzach|Dornzach]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Dornzach|Dornzach]]
+- [[Setting/Settlements/Villages/Dornzach|Dornzach]]
 
 # Cultures in Borders
 
-- [[Cultures/Bieiamten|Bieiamten]]
+- [[Setting/Cultures/Bieiamten|Bieiamten]]
 

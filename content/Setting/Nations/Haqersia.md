@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Haqersia
 >Civilised
->Capital: [[Cities/Ecbarabad|Ecbarabad]]
->Largest Settlement: [[Cities/Ecbarabad|Ecbarabad]]
+>Capital: [[Setting/Settlements/Cities/Ecbarabad|Ecbarabad]]
+>Largest Settlement: [[Setting/Settlements/Cities/Ecbarabad|Ecbarabad]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Ecbarabad|Ecbarabad]]
+- [[Setting/Settlements/Cities/Ecbarabad|Ecbarabad]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

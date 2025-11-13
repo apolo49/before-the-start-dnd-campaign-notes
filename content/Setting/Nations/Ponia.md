@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Ponia
 >Civilised
->Capital: [[Cities/Trameipodos|Trameipodos]]
->Largest Settlement: [[Cities/Trameipodos|Trameipodos]]
+>Capital: [[Setting/Settlements/Cities/Trameipodos|Trameipodos]]
+>Largest Settlement: [[Setting/Settlements/Cities/Trameipodos|Trameipodos]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Trameipodos|Trameipodos]]
+- [[Setting/Settlements/Cities/Trameipodos|Trameipodos]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Porigost|Porigost]]
+- [[Setting/Cultures/Porigost|Porigost]]
 

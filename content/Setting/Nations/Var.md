@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Var
 >Civilised
->Capital: [[Villages/Bashahr|Bashahr]]
->Largest Settlement: [[Villages/Bashahr|Bashahr]]
+>Capital: [[Setting/Settlements/Villages/Bashahr|Bashahr]]
+>Largest Settlement: [[Setting/Settlements/Villages/Bashahr|Bashahr]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Bashahr|Bashahr]]
+- [[Setting/Settlements/Villages/Bashahr|Bashahr]]
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

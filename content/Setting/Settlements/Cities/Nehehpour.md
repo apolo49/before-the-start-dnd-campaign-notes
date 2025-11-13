@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Nehehpour
 >###### Capital City
->Country: [[Nations/Adaibia|Adaibia]]
+>Country: [[Setting/Nations/Adaibia|Adaibia]]
 >Established:
 >Area:
 >Elevation: 196m
 >Population: 123,564
 >Demonym(s):
->Dominant Culture: [[Cultures/Kufa|Kufa]]
+>Dominant Culture: [[Setting/Cultures/Kufa|Kufa]]
 >Dominant Religion:
 
 # History

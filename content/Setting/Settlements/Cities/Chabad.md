@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Chabad
 >###### Capital City
->Country: [[Nations/Tarqia|Tarqia]]
+>Country: [[Setting/Nations/Tarqia|Tarqia]]
 >Established:
 >Area:
 >Elevation: 576m
 >Population: 25,324
 >Demonym(s):
->Dominant Culture: [[Cultures/Kufa|Kufa]]
+>Dominant Culture: [[Setting/Cultures/Kufa|Kufa]]
 >Dominant Religion:
 
 # History

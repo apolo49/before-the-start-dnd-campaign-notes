@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Nans
 >Tribe
->Capital: [[Villages/Amannar|Amannar]]
->Largest Settlement: [[Villages/Amannar|Amannar]]
+>Capital: [[Setting/Settlements/Villages/Amannar|Amannar]]
+>Largest Settlement: [[Setting/Settlements/Villages/Amannar|Amannar]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Amannar|Amannar]]
+- [[Setting/Settlements/Villages/Amannar|Amannar]]
 
 # Cultures in Borders
 
-- [[Cultures/Ebheartei|Ebheartei]]
+- [[Setting/Cultures/Ebheartei|Ebheartei]]
 

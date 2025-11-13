@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Kodarojistu
 >###### Capital City
->Country: [[Nations/Kaketia|Kaketia]]
+>Country: [[Setting/Nations/Kaketia|Kaketia]]
 >Established:
 >Area:
 >Elevation: 676m
 >Population: 82,312
 >Demonym(s):
->Dominant Culture: [[Cultures/Vaishasi|Vaishasi]]
+>Dominant Culture: [[Setting/Cultures/Vaishasi|Vaishasi]]
 >Dominant Religion:
 
 # History

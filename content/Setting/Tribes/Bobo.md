@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Bobo
 >Tribe
->Capital: [[Villages/Bobo|Bobo]]
->Largest Settlement: [[Villages/Bobo|Bobo]]
+>Capital: [[Setting/Settlements/Villages/Bobo|Bobo]]
+>Largest Settlement: [[Setting/Settlements/Villages/Bobo|Bobo]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Bobo|Bobo]]
+- [[Setting/Settlements/Villages/Bobo|Bobo]]
 
 # Cultures in Borders
 
-- [[Cultures/Invermayfi|Invermayfi]]
+- [[Setting/Cultures/Invermayfi|Invermayfi]]
 

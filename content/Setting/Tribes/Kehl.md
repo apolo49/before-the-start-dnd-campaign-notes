@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Kehl
 >Tribe
->Capital: [[Villages/Ohlsterbach|Ohlsterbach]]
->Largest Settlement: [[Villages/Ohlsterbach|Ohlsterbach]]
+>Capital: [[Setting/Settlements/Villages/Ohlsterbach|Ohlsterbach]]
+>Largest Settlement: [[Setting/Settlements/Villages/Ohlsterbach|Ohlsterbach]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Ohlsterbach|Ohlsterbach]]
+- [[Setting/Settlements/Villages/Ohlsterbach|Ohlsterbach]]
 
 # Cultures in Borders
 
-- [[Cultures/Ehrstadt|Ehrstadt]]
+- [[Setting/Cultures/Ehrstadt|Ehrstadt]]
 

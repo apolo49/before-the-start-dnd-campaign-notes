@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Anlia
 >Civilised
->Capital: [[Cities/Avatasan|Avatasan]]
->Largest Settlement: [[Cities/Avatasan|Avatasan]]
+>Capital: [[Setting/Settlements/Cities/Avatasan|Avatasan]]
+>Largest Settlement: [[Setting/Settlements/Cities/Avatasan|Avatasan]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Avatasan|Avatasan]]
+- [[Setting/Settlements/Cities/Avatasan|Avatasan]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

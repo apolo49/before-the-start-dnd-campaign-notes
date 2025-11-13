@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Ficasims
 >Civilised
->Capital: [[Villages/Ficasims|Ficasims]]
->Largest Settlement: [[Villages/Ficasims|Ficasims]]
+>Capital: [[Setting/Settlements/Villages/Ficasims|Ficasims]]
+>Largest Settlement: [[Setting/Settlements/Villages/Ficasims|Ficasims]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Ficasims|Ficasims]]
+- [[Setting/Settlements/Villages/Ficasims|Ficasims]]
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

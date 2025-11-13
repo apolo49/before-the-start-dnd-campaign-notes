@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Aberow
 >###### Capital City
->Country: [[Tribes/Aberowia|Aberowia]]
+>Country: [[Setting/Tribes/Aberowia|Aberowia]]
 >Established:
 >Area:
 >Elevation: 1296m
 >Population: 2,663
 >Demonym(s):
->Dominant Culture: [[Cultures/Cedi|Cedi]]
+>Dominant Culture: [[Setting/Cultures/Cedi|Cedi]]
 >Dominant Religion:
 
 # History

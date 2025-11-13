@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Aktas
 >Civilised
->Capital: [[Villages/Aktas|Aktas]]
->Largest Settlement: [[Villages/Aktas|Aktas]]
+>Capital: [[Setting/Settlements/Villages/Aktas|Aktas]]
+>Largest Settlement: [[Setting/Settlements/Villages/Aktas|Aktas]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Aktas|Aktas]]
+- [[Setting/Settlements/Villages/Aktas|Aktas]]
 
 # Cultures in Borders
 
-- [[Cultures/Hubde|Hubde]]
+- [[Setting/Cultures/Hubde|Hubde]]
 

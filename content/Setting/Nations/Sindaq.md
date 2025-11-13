@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Sindaq
 >Civilised
->Capital: [[Cities/Asirshahr|Asirshahr]]
->Largest Settlement: [[Cities/Asirshahr|Asirshahr]]
+>Capital: [[Setting/Settlements/Cities/Asirshahr|Asirshahr]]
+>Largest Settlement: [[Setting/Settlements/Cities/Asirshahr|Asirshahr]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Asirshahr|Asirshahr]]
+- [[Setting/Settlements/Cities/Asirshahr|Asirshahr]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

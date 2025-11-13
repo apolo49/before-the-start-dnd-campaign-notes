@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Hasht
 >Civilised
->Capital: [[Cities/Payan|Payan]]
->Largest Settlement: [[Cities/Payan|Payan]]
+>Capital: [[Setting/Settlements/Cities/Payan|Payan]]
+>Largest Settlement: [[Setting/Settlements/Cities/Payan|Payan]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Payan|Payan]]
+- [[Setting/Settlements/Cities/Payan|Payan]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

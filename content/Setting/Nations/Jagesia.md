@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Jagesia
 >Civilised
->Capital: [[Cities/Balecaneh|Balecaneh]]
->Largest Settlement: [[Cities/Balecaneh|Balecaneh]]
+>Capital: [[Setting/Settlements/Cities/Balecaneh|Balecaneh]]
+>Largest Settlement: [[Setting/Settlements/Cities/Balecaneh|Balecaneh]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Balecaneh|Balecaneh]]
+- [[Setting/Settlements/Cities/Balecaneh|Balecaneh]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

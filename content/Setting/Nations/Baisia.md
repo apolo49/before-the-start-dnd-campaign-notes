@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Baisia
 >Civilised
->Capital: [[Cities/Bhodaga|Bhodaga]]
->Largest Settlement: [[Cities/Bhodaga|Bhodaga]]
+>Capital: [[Setting/Settlements/Cities/Bhodaga|Bhodaga]]
+>Largest Settlement: [[Setting/Settlements/Cities/Bhodaga|Bhodaga]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Bhodaga|Bhodaga]]
+- [[Setting/Settlements/Cities/Bhodaga|Bhodaga]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Vaishasi|Vaishasi]]
+- [[Setting/Cultures/Vaishasi|Vaishasi]]
 

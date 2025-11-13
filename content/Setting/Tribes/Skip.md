@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Skip
 >Tribe
->Capital: [[Villages/Felboleley|Felboleley]]
->Largest Settlement: [[Villages/Felboleley|Felboleley]]
+>Capital: [[Setting/Settlements/Villages/Felboleley|Felboleley]]
+>Largest Settlement: [[Setting/Settlements/Villages/Felboleley|Felboleley]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Felboleley|Felboleley]]
+- [[Setting/Settlements/Villages/Felboleley|Felboleley]]
 
 # Cultures in Borders
 
-- [[Cultures/Wildlands|Wildlands]]
+- [[Setting/Cultures/Wildlands|Wildlands]]
 

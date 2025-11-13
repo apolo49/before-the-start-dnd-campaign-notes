@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Cheria
 >Civilised
->Capital: [[Villages/Sukhtar|Sukhtar]]
->Largest Settlement: [[Villages/Sukhtar|Sukhtar]]
+>Capital: [[Setting/Settlements/Villages/Sukhtar|Sukhtar]]
+>Largest Settlement: [[Setting/Settlements/Villages/Sukhtar|Sukhtar]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Sukhtar|Sukhtar]]
+- [[Setting/Settlements/Villages/Sukhtar|Sukhtar]]
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

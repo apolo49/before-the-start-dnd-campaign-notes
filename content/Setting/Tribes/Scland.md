@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Scland
 >Tribe
->Capital: [[Villages/Rheingen|Rheingen]]
->Largest Settlement: [[Villages/Rheingen|Rheingen]]
+>Capital: [[Setting/Settlements/Villages/Rheingen|Rheingen]]
+>Largest Settlement: [[Setting/Settlements/Villages/Rheingen|Rheingen]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Rheingen|Rheingen]]
+- [[Setting/Settlements/Villages/Rheingen|Rheingen]]
 
 # Cultures in Borders
 
-- [[Cultures/Pemiripo|Pemiripo]]
+- [[Setting/Cultures/Pemiripo|Pemiripo]]
 

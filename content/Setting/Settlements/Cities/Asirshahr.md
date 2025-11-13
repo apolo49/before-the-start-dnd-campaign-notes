@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Asirshahr
 >###### Capital City
->Country: [[Nations/Sindaq|Sindaq]]
+>Country: [[Setting/Nations/Sindaq|Sindaq]]
 >Established:
 >Area:
 >Elevation: 1369m
 >Population: 53,320
 >Demonym(s):
->Dominant Culture: [[Cultures/Kufa|Kufa]]
+>Dominant Culture: [[Setting/Cultures/Kufa|Kufa]]
 >Dominant Religion:
 
 # History

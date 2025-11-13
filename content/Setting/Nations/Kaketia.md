@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Kaketia
 >Civilised
->Capital: [[Cities/Kodarojistu|Kodarojistu]]
->Largest Settlement: [[Cities/Kodarojistu|Kodarojistu]]
+>Capital: [[Setting/Settlements/Cities/Kodarojistu|Kodarojistu]]
+>Largest Settlement: [[Setting/Settlements/Cities/Kodarojistu|Kodarojistu]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Kodarojistu|Kodarojistu]]
+- [[Setting/Settlements/Cities/Kodarojistu|Kodarojistu]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Vaishasi|Vaishasi]]
+- [[Setting/Cultures/Vaishasi|Vaishasi]]
 

@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Oposia
 >Civilised
->Capital: [[Cities/Amaira|Amaira]]
->Largest Settlement: [[Cities/Amaira|Amaira]]
+>Capital: [[Setting/Settlements/Cities/Amaira|Amaira]]
+>Largest Settlement: [[Setting/Settlements/Cities/Amaira|Amaira]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Amaira|Amaira]]
+- [[Setting/Settlements/Cities/Amaira|Amaira]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Brauron|Brauron]]
+- [[Setting/Cultures/Brauron|Brauron]]
 

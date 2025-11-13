@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Ozinland
 >Tribe
->Capital: [[Villages/Waldbrucklos|Waldbrucklos]]
->Largest Settlement: [[Villages/Waldbrucklos|Waldbrucklos]]
+>Capital: [[Setting/Settlements/Villages/Waldbrucklos|Waldbrucklos]]
+>Largest Settlement: [[Setting/Settlements/Villages/Waldbrucklos|Waldbrucklos]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Waldbrucklos|Waldbrucklos]]
+- [[Setting/Settlements/Villages/Waldbrucklos|Waldbrucklos]]
 
 # Cultures in Borders
 
-- [[Cultures/Lahrwol|Lahrwol]]
+- [[Setting/Cultures/Lahrwol|Lahrwol]]
 

@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Sesenland
 >Tribe
->Capital: [[Villages/Steterstett|Steterstett]]
->Largest Settlement: [[Villages/Steterstett|Steterstett]]
+>Capital: [[Setting/Settlements/Villages/Steterstett|Steterstett]]
+>Largest Settlement: [[Setting/Settlements/Villages/Steterstett|Steterstett]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Steterstett|Steterstett]]
+- [[Setting/Settlements/Villages/Steterstett|Steterstett]]
 
 # Cultures in Borders
 
-- [[Cultures/Bieiamten|Bieiamten]]
+- [[Setting/Cultures/Bieiamten|Bieiamten]]
 

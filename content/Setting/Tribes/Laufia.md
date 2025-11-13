@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Laufia
 >Tribe
->Capital: [[Villages/Laufe|Laufe]]
->Largest Settlement: [[Villages/Laufe|Laufe]]
+>Capital: [[Setting/Settlements/Villages/Laufe|Laufe]]
+>Largest Settlement: [[Setting/Settlements/Villages/Laufe|Laufe]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Laufe|Laufe]]
+- [[Setting/Settlements/Villages/Laufe|Laufe]]
 
 # Cultures in Borders
 
-- [[Cultures/Hofswald|Hofswald]]
+- [[Setting/Cultures/Hofswald|Hofswald]]
 

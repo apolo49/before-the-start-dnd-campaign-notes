@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Dunin
 >###### Capital City
->Country: [[Tribes/Berland|Berland]]
+>Country: [[Setting/Tribes/Berland|Berland]]
 >Established:
 >Area:
 >Elevation: 729m
 >Population: 919
 >Demonym(s):
->Dominant Culture: [[Cultures/Pemiripo|Pemiripo]]
+>Dominant Culture: [[Setting/Cultures/Pemiripo|Pemiripo]]
 >Dominant Religion:
 
 # History

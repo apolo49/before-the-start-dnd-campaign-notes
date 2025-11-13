@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Trebia
 >Tribe
->Capital: [[Villages/Hearthinnach|Hearthinnach]]
->Largest Settlement: [[Villages/Hearthinnach|Hearthinnach]]
+>Capital: [[Setting/Settlements/Villages/Hearthinnach|Hearthinnach]]
+>Largest Settlement: [[Setting/Settlements/Villages/Hearthinnach|Hearthinnach]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Hearthinnach|Hearthinnach]]
+- [[Setting/Settlements/Villages/Hearthinnach|Hearthinnach]]
 
 # Cultures in Borders
 
-- [[Cultures/Cedi|Cedi]]
+- [[Setting/Cultures/Cedi|Cedi]]
 

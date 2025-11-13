@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Filahia
 >Civilised
->Capital: [[Villages/Beret|Beret]]
->Largest Settlement: [[Villages/Beret|Beret]]
+>Capital: [[Setting/Settlements/Villages/Beret|Beret]]
+>Largest Settlement: [[Setting/Settlements/Villages/Beret|Beret]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Beret|Beret]]
+- [[Setting/Settlements/Villages/Beret|Beret]]
 
 # Cultures in Borders
 
-- [[Cultures/Carthaginian|Carthaginian]]
+- [[Setting/Cultures/Carthaginian|Carthaginian]]
 

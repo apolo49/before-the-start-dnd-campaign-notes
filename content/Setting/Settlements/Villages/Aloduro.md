@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Aloduro
 >###### Capital City
->Country: [[Tribes/Intia|Intia]]
+>Country: [[Setting/Tribes/Intia|Intia]]
 >Established:
 >Area:
 >Elevation: 1296m
 >Population: 2,905
 >Demonym(s):
->Dominant Culture: [[Cultures/Bleduro|Bleduro]]
+>Dominant Culture: [[Setting/Cultures/Bleduro|Bleduro]]
 >Dominant Religion:
 
 # History

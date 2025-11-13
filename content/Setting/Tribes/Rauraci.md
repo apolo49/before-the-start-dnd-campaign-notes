@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Rauraci
 >Tribe
->Capital: [[Villages/Iubh|Iubh]]
->Largest Settlement: [[Villages/Iubh|Iubh]]
+>Capital: [[Setting/Settlements/Villages/Iubh|Iubh]]
+>Largest Settlement: [[Setting/Settlements/Villages/Iubh|Iubh]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Iubh|Iubh]]
+- [[Setting/Settlements/Villages/Iubh|Iubh]]
 
 # Cultures in Borders
 
-- [[Cultures/Ebheartei|Ebheartei]]
+- [[Setting/Cultures/Ebheartei|Ebheartei]]
 

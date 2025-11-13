@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Sinz
 >Tribe
->Capital: [[Villages/Rohrheim|Rohrheim]]
->Largest Settlement: [[Villages/Rohrheim|Rohrheim]]
+>Capital: [[Setting/Settlements/Villages/Rohrheim|Rohrheim]]
+>Largest Settlement: [[Setting/Settlements/Villages/Rohrheim|Rohrheim]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Rohrheim|Rohrheim]]
+- [[Setting/Settlements/Villages/Rohrheim|Rohrheim]]
 
 # Cultures in Borders
 
-- [[Cultures/Lahrwol|Lahrwol]]
+- [[Setting/Cultures/Lahrwol|Lahrwol]]
 

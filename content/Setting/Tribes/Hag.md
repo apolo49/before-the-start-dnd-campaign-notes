@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Hag
 >Tribe
->Capital: [[Villages/Hastettlin|Hastettlin]]
->Largest Settlement: [[Villages/Hastettlin|Hastettlin]]
+>Capital: [[Setting/Settlements/Villages/Hastettlin|Hastettlin]]
+>Largest Settlement: [[Setting/Settlements/Villages/Hastettlin|Hastettlin]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Hastettlin|Hastettlin]]
+- [[Setting/Settlements/Villages/Hastettlin|Hastettlin]]
 
 # Cultures in Borders
 
-- [[Cultures/Schilden|Schilden]]
+- [[Setting/Cultures/Schilden|Schilden]]
 

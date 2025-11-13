@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Glatland
 >Tribe
->Capital: [[Villages/Hocheterstet|Hocheterstet]]
->Largest Settlement: [[Villages/Hocheterstet|Hocheterstet]]
+>Capital: [[Setting/Settlements/Villages/Hocheterstet|Hocheterstet]]
+>Largest Settlement: [[Setting/Settlements/Villages/Hocheterstet|Hocheterstet]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Hocheterstet|Hocheterstet]]
+- [[Setting/Settlements/Villages/Hocheterstet|Hocheterstet]]
 
 # Cultures in Borders
 
-- [[Cultures/Schilden|Schilden]]
+- [[Setting/Cultures/Schilden|Schilden]]
 

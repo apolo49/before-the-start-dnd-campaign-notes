@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Pardan
 >###### Capital City
->Country: [[Nations/Arin|Arin]]
+>Country: [[Setting/Nations/Arin|Arin]]
 >Established:
 >Area:
 >Elevation: 1024m
 >Population: 40,522
 >Demonym(s):
->Dominant Culture: [[Cultures/Kufa|Kufa]]
+>Dominant Culture: [[Setting/Cultures/Kufa|Kufa]]
 >Dominant Religion:
 
 # History

@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Hajda
 >Civilised
->Capital: [[Cities/Rhadasirs|Rhadasirs]]
->Largest Settlement: [[Cities/Rhadasirs|Rhadasirs]]
+>Capital: [[Setting/Settlements/Cities/Rhadasirs|Rhadasirs]]
+>Largest Settlement: [[Setting/Settlements/Cities/Rhadasirs|Rhadasirs]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Rhadasirs|Rhadasirs]]
+- [[Setting/Settlements/Cities/Rhadasirs|Rhadasirs]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Dezvania
 >Civilised
->Capital: [[Cities/Talparika|Talparika]]
->Largest Settlement: [[Cities/Talparika|Talparika]]
+>Capital: [[Setting/Settlements/Cities/Talparika|Talparika]]
+>Largest Settlement: [[Setting/Settlements/Cities/Talparika|Talparika]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Talparika|Talparika]]
+- [[Setting/Settlements/Cities/Talparika|Talparika]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

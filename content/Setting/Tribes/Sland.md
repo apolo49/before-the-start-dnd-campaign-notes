@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Sland
 >Tribe
->Capital: [[Villages/Hofsburg|Hofsburg]]
->Largest Settlement: [[Villages/Hofsburg|Hofsburg]]
+>Capital: [[Setting/Settlements/Villages/Hofsburg|Hofsburg]]
+>Largest Settlement: [[Setting/Settlements/Villages/Hofsburg|Hofsburg]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Hofsburg|Hofsburg]]
+- [[Setting/Settlements/Villages/Hofsburg|Hofsburg]]
 
 # Cultures in Borders
 
-- [[Cultures/Munsbach|Munsbach]]
+- [[Setting/Cultures/Munsbach|Munsbach]]
 

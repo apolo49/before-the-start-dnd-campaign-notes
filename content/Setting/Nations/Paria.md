@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Paria
 >Civilised
->Capital: [[Cities/Rudeshk|Rudeshk]]
->Largest Settlement: [[Cities/Rudeshk|Rudeshk]]
+>Capital: [[Setting/Settlements/Cities/Rudeshk|Rudeshk]]
+>Largest Settlement: [[Setting/Settlements/Cities/Rudeshk|Rudeshk]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Rudeshk|Rudeshk]]
+- [[Setting/Settlements/Cities/Rudeshk|Rudeshk]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

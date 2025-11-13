@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Marxia
 >Tribe
->Capital: [[Villages/Sasburg|Sasburg]]
->Largest Settlement: [[Villages/Sasburg|Sasburg]]
+>Capital: [[Setting/Settlements/Villages/Sasburg|Sasburg]]
+>Largest Settlement: [[Setting/Settlements/Villages/Sasburg|Sasburg]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Sasburg|Sasburg]]
+- [[Setting/Settlements/Villages/Sasburg|Sasburg]]
 
 # Cultures in Borders
 
-- [[Cultures/Bieiamten|Bieiamten]]
+- [[Setting/Cultures/Bieiamten|Bieiamten]]
 

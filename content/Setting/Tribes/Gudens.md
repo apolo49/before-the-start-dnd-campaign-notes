@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Gudens
 >Tribe
->Capital: [[Villages/Rhein|Rhein]]
->Largest Settlement: [[Villages/Rhein|Rhein]]
+>Capital: [[Setting/Settlements/Villages/Rhein|Rhein]]
+>Largest Settlement: [[Setting/Settlements/Villages/Rhein|Rhein]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Rhein|Rhein]]
+- [[Setting/Settlements/Villages/Rhein|Rhein]]
 
 # Cultures in Borders
 
-- [[Cultures/Horngenhau|Horngenhau]]
+- [[Setting/Cultures/Horngenhau|Horngenhau]]
 

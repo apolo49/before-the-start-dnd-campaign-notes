@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Kerdia
 >Civilised
->Capital: [[Cities/Bagzijan|Bagzijan]]
->Largest Settlement: [[Cities/Bagzijan|Bagzijan]]
+>Capital: [[Setting/Settlements/Cities/Bagzijan|Bagzijan]]
+>Largest Settlement: [[Setting/Settlements/Cities/Bagzijan|Bagzijan]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Bagzijan|Bagzijan]]
+- [[Setting/Settlements/Cities/Bagzijan|Bagzijan]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

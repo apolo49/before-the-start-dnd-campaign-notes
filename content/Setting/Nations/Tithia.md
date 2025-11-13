@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Tithia
 >Civilised
->Capital: [[Cities/Riris|Riris]]
->Largest Settlement: [[Cities/Riris|Riris]]
+>Capital: [[Setting/Settlements/Cities/Riris|Riris]]
+>Largest Settlement: [[Setting/Settlements/Cities/Riris|Riris]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Riris|Riris]]
+- [[Setting/Settlements/Cities/Riris|Riris]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Thes|Thes]]
+- [[Setting/Cultures/Thes|Thes]]
 

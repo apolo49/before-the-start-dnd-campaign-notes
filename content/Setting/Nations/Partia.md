@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Partia
 >Civilised
->Capital: [[Villages/Parta|Parta]]
->Largest Settlement: [[Villages/Parta|Parta]]
+>Capital: [[Setting/Settlements/Villages/Parta|Parta]]
+>Largest Settlement: [[Setting/Settlements/Villages/Parta|Parta]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Parta|Parta]]
+- [[Setting/Settlements/Villages/Parta|Parta]]
 
 # Cultures in Borders
 
-- [[Cultures/Amphi|Amphi]]
+- [[Setting/Cultures/Amphi|Amphi]]
 

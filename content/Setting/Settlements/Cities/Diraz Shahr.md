@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Diraz Shahr
 >###### Capital City
->Country: [[Nations/Saraha|Saraha]]
+>Country: [[Setting/Nations/Saraha|Saraha]]
 >Established:
 >Area:
 >Elevation: 1296m
 >Population: 120,167
 >Demonym(s):
->Dominant Culture: [[Cultures/Kufa|Kufa]]
+>Dominant Culture: [[Setting/Cultures/Kufa|Kufa]]
 >Dominant Religion:
 
 # History

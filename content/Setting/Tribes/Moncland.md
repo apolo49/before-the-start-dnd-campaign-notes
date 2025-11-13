@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Moncland
 >Tribe
->Capital: [[Villages/Reichalden|Reichalden]]
->Largest Settlement: [[Villages/Reichalden|Reichalden]]
+>Capital: [[Setting/Settlements/Villages/Reichalden|Reichalden]]
+>Largest Settlement: [[Setting/Settlements/Villages/Reichalden|Reichalden]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Reichalden|Reichalden]]
+- [[Setting/Settlements/Villages/Reichalden|Reichalden]]
 
 # Cultures in Borders
 
-- [[Cultures/Witenter|Witenter]]
+- [[Setting/Cultures/Witenter|Witenter]]
 

@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Aberan
 >Tribe
->Capital: [[Villages/Aberan|Aberan]]
->Largest Settlement: [[Villages/Aberan|Aberan]]
+>Capital: [[Setting/Settlements/Villages/Aberan|Aberan]]
+>Largest Settlement: [[Setting/Settlements/Villages/Aberan|Aberan]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Aberan|Aberan]]
+- [[Setting/Settlements/Villages/Aberan|Aberan]]
 
 # Cultures in Borders
 
-- [[Cultures/Cabe|Cabe]]
+- [[Setting/Cultures/Cabe|Cabe]]
 

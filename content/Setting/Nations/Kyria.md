@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Kyria
 >Civilised
->Capital: [[Cities/Seleurolynt|Seleurolynt]]
->Largest Settlement: [[Cities/Seleurolynt|Seleurolynt]]
+>Capital: [[Setting/Settlements/Cities/Seleurolynt|Seleurolynt]]
+>Largest Settlement: [[Setting/Settlements/Cities/Seleurolynt|Seleurolynt]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Seleurolynt|Seleurolynt]]
+- [[Setting/Settlements/Cities/Seleurolynt|Seleurolynt]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Lampia|Lampia]]
+- [[Setting/Cultures/Lampia|Lampia]]
 

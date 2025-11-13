@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Khavivia
 >Civilised
->Capital: [[Cities/Shepat|Shepat]]
->Largest Settlement: [[Cities/Shepat|Shepat]]
+>Capital: [[Setting/Settlements/Cities/Shepat|Shepat]]
+>Largest Settlement: [[Setting/Settlements/Cities/Shepat|Shepat]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Shepat|Shepat]]
+- [[Setting/Settlements/Cities/Shepat|Shepat]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Carthaginian|Carthaginian]]
+- [[Setting/Cultures/Carthaginian|Carthaginian]]
 

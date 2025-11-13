@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Hafenland
 >Tribe
->Capital: [[Villages/Wittmosbach|Wittmosbach]]
->Largest Settlement: [[Villages/Wittmosbach|Wittmosbach]]
+>Capital: [[Setting/Settlements/Villages/Wittmosbach|Wittmosbach]]
+>Largest Settlement: [[Setting/Settlements/Villages/Wittmosbach|Wittmosbach]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Wittmosbach|Wittmosbach]]
+- [[Setting/Settlements/Villages/Wittmosbach|Wittmosbach]]
 
 # Cultures in Borders
 
-- [[Cultures/Kusteter|Kusteter]]
+- [[Setting/Cultures/Kusteter|Kusteter]]
 

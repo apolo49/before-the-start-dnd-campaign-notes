@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Aetareare
 >###### City
->Country: [[Nations/Solara|Solara]]
+>Country: [[Setting/Nations/Solara|Solara]]
 >Established:
 >Area:
 >Elevation: 576m
 >Population: 89,365
 >Demonym(s):
->Dominant Culture: [[Cultures/Esanis|Esanis]]
+>Dominant Culture: [[Setting/Cultures/Esanis|Esanis]]
 >Dominant Religion:
 
 # History

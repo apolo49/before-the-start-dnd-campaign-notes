@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Hajica
 >###### Capital City
->Country: [[Nations/Abrizia|Abrizia]]
+>Country: [[Setting/Nations/Abrizia|Abrizia]]
 >Established:
 >Area:
 >Elevation: 1369m
 >Population: 63,485
 >Demonym(s):
->Dominant Culture: [[Cultures/Kufa|Kufa]]
+>Dominant Culture: [[Setting/Cultures/Kufa|Kufa]]
 >Dominant Religion:
 
 # History

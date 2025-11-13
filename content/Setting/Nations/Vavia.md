@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Vavia
 >Civilised
->Capital: [[Villages/Hayundic41|Hayundic41]]
->Largest Settlement: [[Villages/Hayundic41|Hayundic41]]
+>Capital: [[Setting/Settlements/Villages/Hayundic41|Hayundic41]]
+>Largest Settlement: [[Setting/Settlements/Villages/Hayundic41|Hayundic41]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Hayundic41|Hayundic41]]
+- [[Setting/Settlements/Villages/Hayundic41|Hayundic41]]
 
 # Cultures in Borders
 
-- [[Cultures/Vaishasi|Vaishasi]]
+- [[Setting/Cultures/Vaishasi|Vaishasi]]
 

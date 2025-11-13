@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Bhodia
 >Civilised
->Capital: [[Villages/Vaishakubja|Vaishakubja]]
->Largest Settlement: [[Villages/Vaishakubja|Vaishakubja]]
+>Capital: [[Setting/Settlements/Villages/Vaishakubja|Vaishakubja]]
+>Largest Settlement: [[Setting/Settlements/Villages/Vaishakubja|Vaishakubja]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Vaishakubja|Vaishakubja]]
+- [[Setting/Settlements/Villages/Vaishakubja|Vaishakubja]]
 
 # Cultures in Borders
 
-- [[Cultures/Vaishasi|Vaishasi]]
+- [[Setting/Cultures/Vaishasi|Vaishasi]]
 

@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Shilan
 >###### Capital City
->Country: [[Nations/Ecbia|Ecbia]]
+>Country: [[Setting/Nations/Ecbia|Ecbia]]
 >Established:
 >Area:
 >Elevation: 1369m
 >Population: 111,769
 >Demonym(s):
->Dominant Culture: [[Cultures/Kufa|Kufa]]
+>Dominant Culture: [[Setting/Cultures/Kufa|Kufa]]
 >Dominant Religion:
 
 # History

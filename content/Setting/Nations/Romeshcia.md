@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Romeshcia
 >Civilised
->Capital: [[Cities/Dehderan|Dehderan]]
->Largest Settlement: [[Cities/Dehderan|Dehderan]]
+>Capital: [[Setting/Settlements/Cities/Dehderan|Dehderan]]
+>Largest Settlement: [[Setting/Settlements/Cities/Dehderan|Dehderan]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Dehderan|Dehderan]]
+- [[Setting/Settlements/Cities/Dehderan|Dehderan]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Ebronland
 >Tribe
->Capital: [[Villages/Kipen|Kipen]]
->Largest Settlement: [[Villages/Kipen|Kipen]]
+>Capital: [[Setting/Settlements/Villages/Kipen|Kipen]]
+>Largest Settlement: [[Setting/Settlements/Villages/Kipen|Kipen]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Kipen|Kipen]]
+- [[Setting/Settlements/Villages/Kipen|Kipen]]
 
 # Cultures in Borders
 
-- [[Cultures/Schaltens|Schaltens]]
+- [[Setting/Cultures/Schaltens|Schaltens]]
 

@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Deyafia
 >Civilised
->Capital: [[Cities/Qodshahrka|Qodshahrka]]
->Largest Settlement: [[Cities/Qodshahrka|Qodshahrka]]
+>Capital: [[Setting/Settlements/Cities/Qodshahrka|Qodshahrka]]
+>Largest Settlement: [[Setting/Settlements/Cities/Qodshahrka|Qodshahrka]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Qodshahrka|Qodshahrka]]
+- [[Setting/Settlements/Cities/Qodshahrka|Qodshahrka]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

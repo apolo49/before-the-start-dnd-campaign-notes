@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Monut
 >Civilised
->Capital: [[Villages/Monut|Monut]]
->Largest Settlement: [[Villages/Monut|Monut]]
+>Capital: [[Setting/Settlements/Villages/Monut|Monut]]
+>Largest Settlement: [[Setting/Settlements/Villages/Monut|Monut]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Monut|Monut]]
+- [[Setting/Settlements/Villages/Monut|Monut]]
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

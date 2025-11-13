@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Yedrar
 >Tribe
->Capital: [[Villages/Yedrar|Yedrar]]
->Largest Settlement: [[Villages/Yedrar|Yedrar]]
+>Capital: [[Setting/Settlements/Villages/Yedrar|Yedrar]]
+>Largest Settlement: [[Setting/Settlements/Villages/Yedrar|Yedrar]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Yedrar|Yedrar]]
+- [[Setting/Settlements/Villages/Yedrar|Yedrar]]
 
 # Cultures in Borders
 
-- [[Cultures/Ber|Ber]]
+- [[Setting/Cultures/Ber|Ber]]
 

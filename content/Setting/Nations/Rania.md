@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Rania
 >Civilised
->Capital: [[Villages/Gamon|Gamon]]
->Largest Settlement: [[Villages/Gamon|Gamon]]
+>Capital: [[Setting/Settlements/Villages/Gamon|Gamon]]
+>Largest Settlement: [[Setting/Settlements/Villages/Gamon|Gamon]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Gamon|Gamon]]
+- [[Setting/Settlements/Villages/Gamon|Gamon]]
 
 # Cultures in Borders
 
-- [[Cultures/Carthaginian|Carthaginian]]
+- [[Setting/Cultures/Carthaginian|Carthaginian]]
 

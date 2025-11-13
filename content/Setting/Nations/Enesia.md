@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Enesia
 >Civilised
->Capital: [[Cities/Lekha|Lekha]]
->Largest Settlement: [[Cities/Lekha|Lekha]]
+>Capital: [[Setting/Settlements/Cities/Lekha|Lekha]]
+>Largest Settlement: [[Setting/Settlements/Cities/Lekha|Lekha]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Lekha|Lekha]]
+- [[Setting/Settlements/Cities/Lekha|Lekha]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Thurion|Thurion]]
+- [[Setting/Cultures/Thurion|Thurion]]
 

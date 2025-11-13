@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Gobia
 >Civilised
->Capital: [[Cities/Ferdezara|Ferdezara]]
->Largest Settlement: [[Cities/Ferdezara|Ferdezara]]
+>Capital: [[Setting/Settlements/Cities/Ferdezara|Ferdezara]]
+>Largest Settlement: [[Setting/Settlements/Cities/Ferdezara|Ferdezara]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Ferdezara|Ferdezara]]
+- [[Setting/Settlements/Cities/Ferdezara|Ferdezara]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

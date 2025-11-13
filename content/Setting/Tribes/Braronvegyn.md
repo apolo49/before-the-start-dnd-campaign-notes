@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Braronvegyn
 >Tribe
->Capital: [[Villages/Braronvegyn|Braronvegyn]]
->Largest Settlement: [[Villages/Braronvegyn|Braronvegyn]]
+>Capital: [[Setting/Settlements/Villages/Braronvegyn|Braronvegyn]]
+>Largest Settlement: [[Setting/Settlements/Villages/Braronvegyn|Braronvegyn]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Braronvegyn|Braronvegyn]]
+- [[Setting/Settlements/Villages/Braronvegyn|Braronvegyn]]
 
 # Cultures in Borders
 
-- [[Cultures/Indyrgow|Indyrgow]]
+- [[Setting/Cultures/Indyrgow|Indyrgow]]
 

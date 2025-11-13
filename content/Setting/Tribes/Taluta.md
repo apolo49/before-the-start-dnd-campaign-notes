@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Taluta
 >Tribe
->Capital: [[Villages/Talut|Talut]]
->Largest Settlement: [[Villages/Talut|Talut]]
+>Capital: [[Setting/Settlements/Villages/Talut|Talut]]
+>Largest Settlement: [[Setting/Settlements/Villages/Talut|Talut]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Talut|Talut]]
+- [[Setting/Settlements/Villages/Talut|Talut]]
 
 # Cultures in Borders
 
-- [[Cultures/Ber|Ber]]
+- [[Setting/Cultures/Ber|Ber]]
 

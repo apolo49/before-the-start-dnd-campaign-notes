@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Baberen
 >Civilised
->Capital: [[Cities/Baberen|Baberen]]
->Largest Settlement: [[Cities/Baberen|Baberen]]
+>Capital: [[Setting/Settlements/Cities/Baberen|Baberen]]
+>Largest Settlement: [[Setting/Settlements/Cities/Baberen|Baberen]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Baberen|Baberen]]
+- [[Setting/Settlements/Cities/Baberen|Baberen]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Akshan|Akshan]]
+- [[Setting/Cultures/Akshan|Akshan]]
 

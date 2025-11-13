@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Trinia
 >Civilised
->Capital: [[Cities/Naucleaca|Naucleaca]]
->Largest Settlement: [[Cities/Naucleaca|Naucleaca]]
+>Capital: [[Setting/Settlements/Cities/Naucleaca|Naucleaca]]
+>Largest Settlement: [[Setting/Settlements/Cities/Naucleaca|Naucleaca]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Naucleaca|Naucleaca]]
+- [[Setting/Settlements/Cities/Naucleaca|Naucleaca]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Porigost|Porigost]]
+- [[Setting/Cultures/Porigost|Porigost]]
 

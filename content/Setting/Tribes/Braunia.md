@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Braunia
 >Tribe
->Capital: [[Villages/March|March]]
->Largest Settlement: [[Villages/March|March]]
+>Capital: [[Setting/Settlements/Villages/March|March]]
+>Largest Settlement: [[Setting/Settlements/Villages/March|March]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/March|March]]
+- [[Setting/Settlements/Villages/March|March]]
 
 # Cultures in Borders
 
-- [[Cultures/Bieiamten|Bieiamten]]
+- [[Setting/Cultures/Bieiamten|Bieiamten]]
 

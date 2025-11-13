@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Sederia
 >Tribe
->Capital: [[Villages/Pfalzkirch|Pfalzkirch]]
->Largest Settlement: [[Villages/Pfalzkirch|Pfalzkirch]]
+>Capital: [[Setting/Settlements/Villages/Pfalzkirch|Pfalzkirch]]
+>Largest Settlement: [[Setting/Settlements/Villages/Pfalzkirch|Pfalzkirch]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Pfalzkirch|Pfalzkirch]]
+- [[Setting/Settlements/Villages/Pfalzkirch|Pfalzkirch]]
 
 # Cultures in Borders
 
-- [[Cultures/Schilden|Schilden]]
+- [[Setting/Cultures/Schilden|Schilden]]
 

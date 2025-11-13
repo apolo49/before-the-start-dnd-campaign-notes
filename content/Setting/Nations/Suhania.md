@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Suhania
 >Civilised
->Capital: [[Cities/Shussurah|Shussurah]]
->Largest Settlement: [[Cities/Shussurah|Shussurah]]
+>Capital: [[Setting/Settlements/Cities/Shussurah|Shussurah]]
+>Largest Settlement: [[Setting/Settlements/Cities/Shussurah|Shussurah]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Shussurah|Shussurah]]
+- [[Setting/Settlements/Cities/Shussurah|Shussurah]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Warmo|Warmo]]
+- [[Setting/Cultures/Warmo|Warmo]]
 

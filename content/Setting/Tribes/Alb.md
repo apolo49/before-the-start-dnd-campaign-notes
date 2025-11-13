@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Alb
 >Tribe
->Capital: [[Villages/Furtnausen|Furtnausen]]
->Largest Settlement: [[Villages/Furtnausen|Furtnausen]]
+>Capital: [[Setting/Settlements/Villages/Furtnausen|Furtnausen]]
+>Largest Settlement: [[Setting/Settlements/Villages/Furtnausen|Furtnausen]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Furtnausen|Furtnausen]]
+- [[Setting/Settlements/Villages/Furtnausen|Furtnausen]]
 
 # Cultures in Borders
 
-- [[Cultures/Krozin|Krozin]]
+- [[Setting/Cultures/Krozin|Krozin]]
 

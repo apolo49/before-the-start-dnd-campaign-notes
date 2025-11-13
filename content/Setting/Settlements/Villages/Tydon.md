@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Tydon
 >###### Capital City
->Country: [[Nations/Stympia|Stympia]]
+>Country: [[Setting/Nations/Stympia|Stympia]]
 >Established:
 >Area:
 >Elevation: 289m
 >Population: 3,517
 >Demonym(s):
->Dominant Culture: [[Cultures/Nymphid|Nymphid]]
+>Dominant Culture: [[Setting/Cultures/Nymphid|Nymphid]]
 >Dominant Religion:
 
 # History

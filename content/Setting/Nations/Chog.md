@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Chog
 >Civilised
->Capital: [[Villages/Bagzi|Bagzi]]
->Largest Settlement: [[Villages/Bagzi|Bagzi]]
+>Capital: [[Setting/Settlements/Villages/Bagzi|Bagzi]]
+>Largest Settlement: [[Setting/Settlements/Villages/Bagzi|Bagzi]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Bagzi|Bagzi]]
+- [[Setting/Settlements/Villages/Bagzi|Bagzi]]
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

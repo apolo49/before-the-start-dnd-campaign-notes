@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Mul
 >Tribe
->Capital: [[Villages/Nordt|Nordt]]
->Largest Settlement: [[Villages/Nordt|Nordt]]
+>Capital: [[Setting/Settlements/Villages/Nordt|Nordt]]
+>Largest Settlement: [[Setting/Settlements/Villages/Nordt|Nordt]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Nordt|Nordt]]
+- [[Setting/Settlements/Villages/Nordt|Nordt]]
 
 # Cultures in Borders
 
-- [[Cultures/Briler|Briler]]
+- [[Setting/Cultures/Briler|Briler]]
 

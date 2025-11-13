@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Intia
 >Tribe
->Capital: [[Villages/Aloduro|Aloduro]]
->Largest Settlement: [[Villages/Aloduro|Aloduro]]
+>Capital: [[Setting/Settlements/Villages/Aloduro|Aloduro]]
+>Largest Settlement: [[Setting/Settlements/Villages/Aloduro|Aloduro]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Aloduro|Aloduro]]
+- [[Setting/Settlements/Villages/Aloduro|Aloduro]]
 
 # Cultures in Borders
 
-- [[Cultures/Bleduro|Bleduro]]
+- [[Setting/Cultures/Bleduro|Bleduro]]
 

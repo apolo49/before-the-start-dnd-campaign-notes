@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Fhlia
 >Tribe
->Capital: [[Villages/Aberduri|Aberduri]]
->Largest Settlement: [[Villages/Aberduri|Aberduri]]
+>Capital: [[Setting/Settlements/Villages/Aberduri|Aberduri]]
+>Largest Settlement: [[Setting/Settlements/Villages/Aberduri|Aberduri]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Aberduri|Aberduri]]
+- [[Setting/Settlements/Villages/Aberduri|Aberduri]]
 
 # Cultures in Borders
 
-- [[Cultures/Treaberc|Treaberc]]
+- [[Setting/Cultures/Treaberc|Treaberc]]
 

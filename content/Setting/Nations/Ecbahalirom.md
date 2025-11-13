@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Ecbahalirom
 >Civilised
->Capital: [[Cities/Ecbahalirom|Ecbahalirom]]
->Largest Settlement: [[Cities/Ecbahalirom|Ecbahalirom]]
+>Capital: [[Setting/Settlements/Cities/Ecbahalirom|Ecbahalirom]]
+>Largest Settlement: [[Setting/Settlements/Cities/Ecbahalirom|Ecbahalirom]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Ecbahalirom|Ecbahalirom]]
+- [[Setting/Settlements/Cities/Ecbahalirom|Ecbahalirom]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

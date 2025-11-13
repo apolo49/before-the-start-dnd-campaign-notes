@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Chuged
 >###### Capital City
->Country: [[Nations/Dowia|Dowia]]
+>Country: [[Setting/Nations/Dowia|Dowia]]
 >Established:
 >Area:
 >Elevation: 1369m
 >Population: 113,665
 >Demonym(s):
->Dominant Culture: [[Cultures/Kufa|Kufa]]
+>Dominant Culture: [[Setting/Cultures/Kufa|Kufa]]
 >Dominant Religion:
 
 # History

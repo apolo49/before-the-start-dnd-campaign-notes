@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Ec
 >Tribe
->Capital: [[Villages/Kaberporth|Kaberporth]]
->Largest Settlement: [[Villages/Kaberporth|Kaberporth]]
+>Capital: [[Setting/Settlements/Villages/Kaberporth|Kaberporth]]
+>Largest Settlement: [[Setting/Settlements/Villages/Kaberporth|Kaberporth]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Kaberporth|Kaberporth]]
+- [[Setting/Settlements/Villages/Kaberporth|Kaberporth]]
 
 # Cultures in Borders
 
-- [[Cultures/Cedi|Cedi]]
+- [[Setting/Cultures/Cedi|Cedi]]
 

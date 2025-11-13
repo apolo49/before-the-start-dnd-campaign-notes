@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Bahenia
 >Civilised
->Capital: [[Cities/Kuldasht|Kuldasht]]
->Largest Settlement: [[Cities/Kuldasht|Kuldasht]]
+>Capital: [[Setting/Settlements/Cities/Kuldasht|Kuldasht]]
+>Largest Settlement: [[Setting/Settlements/Cities/Kuldasht|Kuldasht]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Kuldasht|Kuldasht]]
+- [[Setting/Settlements/Cities/Kuldasht|Kuldasht]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

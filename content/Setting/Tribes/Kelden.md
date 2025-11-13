@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Kelden
 >Tribe
->Capital: [[Villages/Strausengen|Strausengen]]
->Largest Settlement: [[Villages/Strausengen|Strausengen]]
+>Capital: [[Setting/Settlements/Villages/Strausengen|Strausengen]]
+>Largest Settlement: [[Setting/Settlements/Villages/Strausengen|Strausengen]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Strausengen|Strausengen]]
+- [[Setting/Settlements/Villages/Strausengen|Strausengen]]
 
 # Cultures in Borders
 
-- [[Cultures/Herwihl|Herwihl]]
+- [[Setting/Cultures/Herwihl|Herwihl]]
 

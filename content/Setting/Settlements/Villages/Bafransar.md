@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Bafransar
 >###### Capital City
->Country: [[Nations/Diran|Diran]]
+>Country: [[Setting/Nations/Diran|Diran]]
 >Established:
 >Area:
 >Elevation: 1369m
 >Population: 1,861
 >Demonym(s):
->Dominant Culture: [[Cultures/Kufa|Kufa]]
+>Dominant Culture: [[Setting/Cultures/Kufa|Kufa]]
 >Dominant Religion:
 
 # History

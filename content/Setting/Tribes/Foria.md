@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Foria
 >Tribe
->Capital: [[Villages/Odeckloshut|Odeckloshut]]
->Largest Settlement: [[Villages/Odeckloshut|Odeckloshut]]
+>Capital: [[Setting/Settlements/Villages/Odeckloshut|Odeckloshut]]
+>Largest Settlement: [[Setting/Settlements/Villages/Odeckloshut|Odeckloshut]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Odeckloshut|Odeckloshut]]
+- [[Setting/Settlements/Villages/Odeckloshut|Odeckloshut]]
 
 # Cultures in Borders
 
-- [[Cultures/Kusteter|Kusteter]]
+- [[Setting/Cultures/Kusteter|Kusteter]]
 

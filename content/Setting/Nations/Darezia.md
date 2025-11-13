@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Darezia
 >Civilised
->Capital: [[Cities/Darez|Darez]]
->Largest Settlement: [[Cities/Darez|Darez]]
+>Capital: [[Setting/Settlements/Cities/Darez|Darez]]
+>Largest Settlement: [[Setting/Settlements/Cities/Darez|Darez]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Darez|Darez]]
+- [[Setting/Settlements/Cities/Darez|Darez]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

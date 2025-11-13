@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Hailerland
 >Tribe
->Capital: [[Villages/Uttenheim|Uttenheim]]
->Largest Settlement: [[Villages/Uttenheim|Uttenheim]]
+>Capital: [[Setting/Settlements/Villages/Uttenheim|Uttenheim]]
+>Largest Settlement: [[Setting/Settlements/Villages/Uttenheim|Uttenheim]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Uttenheim|Uttenheim]]
+- [[Setting/Settlements/Villages/Uttenheim|Uttenheim]]
 
 # Cultures in Borders
 
-- [[Cultures/Freiburg|Freiburg]]
+- [[Setting/Cultures/Freiburg|Freiburg]]
 

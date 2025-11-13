@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Vanaria
 >Civilised
->Capital: [[Cities/Hafstarka|Hafstarka]]
->Largest Settlement: [[Cities/Hafstarka|Hafstarka]]
+>Capital: [[Setting/Settlements/Cities/Hafstarka|Hafstarka]]
+>Largest Settlement: [[Setting/Settlements/Cities/Hafstarka|Hafstarka]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Hafstarka|Hafstarka]]
+- [[Setting/Settlements/Cities/Hafstarka|Hafstarka]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

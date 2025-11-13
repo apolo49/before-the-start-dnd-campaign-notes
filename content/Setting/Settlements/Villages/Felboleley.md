@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Felboleley
 >###### Capital City
->Country: [[Tribes/Skip|Skip]]
+>Country: [[Setting/Tribes/Skip|Skip]]
 >Established:
 >Area:
 >Elevation: 1225m
 >Population: 1,254
 >Demonym(s):
->Dominant Culture: [[Cultures/Wildlands|Wildlands]]
+>Dominant Culture: [[Setting/Cultures/Wildlands|Wildlands]]
 >Dominant Religion:
 
 # History

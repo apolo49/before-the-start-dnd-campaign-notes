@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Geria
 >Tribe
->Capital: [[Villages/Viganthin|Viganthin]]
->Largest Settlement: [[Villages/Viganthin|Viganthin]]
+>Capital: [[Setting/Settlements/Villages/Viganthin|Viganthin]]
+>Largest Settlement: [[Setting/Settlements/Villages/Viganthin|Viganthin]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Viganthin|Viganthin]]
+- [[Setting/Settlements/Villages/Viganthin|Viganthin]]
 
 # Cultures in Borders
 
-- [[Cultures/Calaw|Calaw]]
+- [[Setting/Cultures/Calaw|Calaw]]
 

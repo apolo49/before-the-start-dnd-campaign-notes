@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Takh
 >Civilised
->Capital: [[Cities/Barehakhi|Barehakhi]]
->Largest Settlement: [[Cities/Barehakhi|Barehakhi]]
+>Capital: [[Setting/Settlements/Cities/Barehakhi|Barehakhi]]
+>Largest Settlement: [[Setting/Settlements/Cities/Barehakhi|Barehakhi]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Barehakhi|Barehakhi]]
+- [[Setting/Settlements/Cities/Barehakhi|Barehakhi]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

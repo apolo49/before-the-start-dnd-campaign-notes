@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Lympsia
 >Tribe
->Capital: [[Villages/Chisterbury|Chisterbury]]
->Largest Settlement: [[Villages/Chisterbury|Chisterbury]]
+>Capital: [[Setting/Settlements/Villages/Chisterbury|Chisterbury]]
+>Largest Settlement: [[Setting/Settlements/Villages/Chisterbury|Chisterbury]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Chisterbury|Chisterbury]]
+- [[Setting/Settlements/Villages/Chisterbury|Chisterbury]]
 
 # Cultures in Borders
 
-- [[Cultures/Wildlands|Wildlands]]
+- [[Setting/Cultures/Wildlands|Wildlands]]
 

@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Eclesia
 >Tribe
->Capital: [[Villages/Athing|Athing]]
->Largest Settlement: [[Villages/Athing|Athing]]
+>Capital: [[Setting/Settlements/Villages/Athing|Athing]]
+>Largest Settlement: [[Setting/Settlements/Villages/Athing|Athing]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Athing|Athing]]
+- [[Setting/Settlements/Villages/Athing|Athing]]
 
 # Cultures in Borders
 
-- [[Cultures/Bleduro|Bleduro]]
+- [[Setting/Cultures/Bleduro|Bleduro]]
 

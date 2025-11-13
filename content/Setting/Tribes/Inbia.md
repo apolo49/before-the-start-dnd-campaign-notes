@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Inbia
 >Tribe
->Capital: [[Villages/Inver|Inver]]
->Largest Settlement: [[Villages/Inver|Inver]]
+>Capital: [[Setting/Settlements/Villages/Inver|Inver]]
+>Largest Settlement: [[Setting/Settlements/Villages/Inver|Inver]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Inver|Inver]]
+- [[Setting/Settlements/Villages/Inver|Inver]]
 
 # Cultures in Borders
 
-- [[Cultures/Bleduro|Bleduro]]
+- [[Setting/Cultures/Bleduro|Bleduro]]
 

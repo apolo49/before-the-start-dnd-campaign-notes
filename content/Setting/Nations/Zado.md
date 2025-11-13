@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Zado
 >Civilised
->Capital: [[Cities/Urokran|Urokran]]
->Largest Settlement: [[Cities/Urokran|Urokran]]
+>Capital: [[Setting/Settlements/Cities/Urokran|Urokran]]
+>Largest Settlement: [[Setting/Settlements/Cities/Urokran|Urokran]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Urokran|Urokran]]
+- [[Setting/Settlements/Cities/Urokran|Urokran]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

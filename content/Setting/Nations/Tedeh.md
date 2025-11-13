@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Tedeh
 >Civilised
->Capital: [[Cities/Qodshan|Qodshan]]
->Largest Settlement: [[Cities/Qodshan|Qodshan]]
+>Capital: [[Setting/Settlements/Cities/Qodshan|Qodshan]]
+>Largest Settlement: [[Setting/Settlements/Cities/Qodshan|Qodshan]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Qodshan|Qodshan]]
+- [[Setting/Settlements/Cities/Qodshan|Qodshan]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

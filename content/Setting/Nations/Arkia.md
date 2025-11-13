@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Arkia
 >Civilised
->Capital: [[Villages/Robat|Robat]]
->Largest Settlement: [[Villages/Robat|Robat]]
+>Capital: [[Setting/Settlements/Villages/Robat|Robat]]
+>Largest Settlement: [[Setting/Settlements/Villages/Robat|Robat]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Robat|Robat]]
+- [[Setting/Settlements/Villages/Robat|Robat]]
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Shadia
 >Civilised
->Capital: [[Cities/Jaran|Jaran]]
->Largest Settlement: [[Cities/Jaran|Jaran]]
+>Capital: [[Setting/Settlements/Cities/Jaran|Jaran]]
+>Largest Settlement: [[Setting/Settlements/Cities/Jaran|Jaran]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Jaran|Jaran]]
+- [[Setting/Settlements/Cities/Jaran|Jaran]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

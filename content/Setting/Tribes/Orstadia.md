@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Orstadia
 >Tribe
->Capital: [[Villages/Orstad|Orstad]]
->Largest Settlement: [[Villages/Orstad|Orstad]]
+>Capital: [[Setting/Settlements/Villages/Orstad|Orstad]]
+>Largest Settlement: [[Setting/Settlements/Villages/Orstad|Orstad]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Orstad|Orstad]]
+- [[Setting/Settlements/Villages/Orstad|Orstad]]
 
 # Cultures in Borders
 
-- [[Cultures/Horngenhau|Horngenhau]]
+- [[Setting/Cultures/Horngenhau|Horngenhau]]
 

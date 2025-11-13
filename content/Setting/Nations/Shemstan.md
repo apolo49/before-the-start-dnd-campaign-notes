@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Shemstan
 >Civilised
->Capital: [[Cities/Shemstan|Shemstan]]
->Largest Settlement: [[Cities/Shemstan|Shemstan]]
+>Capital: [[Setting/Settlements/Cities/Shemstan|Shemstan]]
+>Largest Settlement: [[Setting/Settlements/Cities/Shemstan|Shemstan]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Shemstan|Shemstan]]
+- [[Setting/Settlements/Cities/Shemstan|Shemstan]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

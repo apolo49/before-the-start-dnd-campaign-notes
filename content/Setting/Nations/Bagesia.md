@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Bagesia
 >Civilised
->Capital: [[Cities/Fashahr|Fashahr]]
->Largest Settlement: [[Cities/Fashahr|Fashahr]]
+>Capital: [[Setting/Settlements/Cities/Fashahr|Fashahr]]
+>Largest Settlement: [[Setting/Settlements/Cities/Fashahr|Fashahr]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Fashahr|Fashahr]]
+- [[Setting/Settlements/Cities/Fashahr|Fashahr]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

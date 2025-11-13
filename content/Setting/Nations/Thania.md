@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Thania
 >Civilised
->Capital: [[Villages/Gwanavardra|Gwanavardra]]
->Largest Settlement: [[Villages/Gwanavardra|Gwanavardra]]
+>Capital: [[Setting/Settlements/Villages/Gwanavardra|Gwanavardra]]
+>Largest Settlement: [[Setting/Settlements/Villages/Gwanavardra|Gwanavardra]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Gwanavardra|Gwanavardra]]
+- [[Setting/Settlements/Villages/Gwanavardra|Gwanavardra]]
 
 # Cultures in Borders
 
-- [[Cultures/Vaishasi|Vaishasi]]
+- [[Setting/Cultures/Vaishasi|Vaishasi]]
 

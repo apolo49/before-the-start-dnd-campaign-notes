@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Jaharia
 >Civilised
->Capital: [[Villages/Kerzarajle|Kerzarajle]]
->Largest Settlement: [[Villages/Kerzarajle|Kerzarajle]]
+>Capital: [[Setting/Settlements/Villages/Kerzarajle|Kerzarajle]]
+>Largest Settlement: [[Setting/Settlements/Villages/Kerzarajle|Kerzarajle]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Kerzarajle|Kerzarajle]]
+- [[Setting/Settlements/Villages/Kerzarajle|Kerzarajle]]
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

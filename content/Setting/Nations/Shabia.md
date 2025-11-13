@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Shabia
 >Civilised
->Capital: [[Cities/Ruged|Ruged]]
->Largest Settlement: [[Cities/Ruged|Ruged]]
+>Capital: [[Setting/Settlements/Cities/Ruged|Ruged]]
+>Largest Settlement: [[Setting/Settlements/Cities/Ruged|Ruged]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Ruged|Ruged]]
+- [[Setting/Settlements/Cities/Ruged|Ruged]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Ishahr
 >Civilised
->Capital: [[Cities/Basan|Basan]]
->Largest Settlement: [[Cities/Basan|Basan]]
+>Capital: [[Setting/Settlements/Cities/Basan|Basan]]
+>Largest Settlement: [[Setting/Settlements/Cities/Basan|Basan]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Basan|Basan]]
+- [[Setting/Settlements/Cities/Basan|Basan]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

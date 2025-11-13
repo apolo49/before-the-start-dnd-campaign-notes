@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Serifia
 >Civilised
->Capital: [[Villages/Chahahabad|Chahahabad]]
->Largest Settlement: [[Villages/Chahahabad|Chahahabad]]
+>Capital: [[Setting/Settlements/Villages/Chahahabad|Chahahabad]]
+>Largest Settlement: [[Setting/Settlements/Villages/Chahahabad|Chahahabad]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Chahahabad|Chahahabad]]
+- [[Setting/Settlements/Villages/Chahahabad|Chahahabad]]
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

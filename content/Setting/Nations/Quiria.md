@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Quiria
 >Civilised
->Capital: [[Villages/Vringan|Vringan]]
->Largest Settlement: [[Villages/Vringan|Vringan]]
+>Capital: [[Setting/Settlements/Villages/Vringan|Vringan]]
+>Largest Settlement: [[Setting/Settlements/Villages/Vringan|Vringan]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Vringan|Vringan]]
+- [[Setting/Settlements/Villages/Vringan|Vringan]]
 
 # Cultures in Borders
 
-- [[Cultures/Vaishasi|Vaishasi]]
+- [[Setting/Cultures/Vaishasi|Vaishasi]]
 

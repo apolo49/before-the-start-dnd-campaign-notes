@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Honaueschler
 >###### Capital City
->Country: [[Tribes/Ebron|Ebron]]
+>Country: [[Setting/Tribes/Ebron|Ebron]]
 >Established:
 >Area:
 >Elevation: 1024m
 >Population: 1,750
 >Demonym(s):
->Dominant Culture: [[Cultures/Briler|Briler]]
+>Dominant Culture: [[Setting/Cultures/Briler|Briler]]
 >Dominant Religion:
 
 # History

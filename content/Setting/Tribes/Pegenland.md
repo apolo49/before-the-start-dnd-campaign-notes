@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Pegenland
 >Tribe
->Capital: [[Villages/Imelheim|Imelheim]]
->Largest Settlement: [[Villages/Imelheim|Imelheim]]
+>Capital: [[Setting/Settlements/Villages/Imelheim|Imelheim]]
+>Largest Settlement: [[Setting/Settlements/Villages/Imelheim|Imelheim]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Imelheim|Imelheim]]
+- [[Setting/Settlements/Villages/Imelheim|Imelheim]]
 
 # Cultures in Borders
 
-- [[Cultures/Hertenwe|Hertenwe]]
+- [[Setting/Cultures/Hertenwe|Hertenwe]]
 

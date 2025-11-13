@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Clitlia
 >Tribe
->Capital: [[Villages/Craftbury|Craftbury]]
->Largest Settlement: [[Villages/Craftbury|Craftbury]]
+>Capital: [[Setting/Settlements/Villages/Craftbury|Craftbury]]
+>Largest Settlement: [[Setting/Settlements/Villages/Craftbury|Craftbury]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Craftbury|Craftbury]]
+- [[Setting/Settlements/Villages/Craftbury|Craftbury]]
 
 # Cultures in Borders
 
-- [[Cultures/Wildlands|Wildlands]]
+- [[Setting/Cultures/Wildlands|Wildlands]]
 

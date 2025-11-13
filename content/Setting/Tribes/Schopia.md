@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Schopia
 >Tribe
->Capital: [[Villages/Todtzenhau|Todtzenhau]]
->Largest Settlement: [[Villages/Todtzenhau|Todtzenhau]]
+>Capital: [[Setting/Settlements/Villages/Todtzenhau|Todtzenhau]]
+>Largest Settlement: [[Setting/Settlements/Villages/Todtzenhau|Todtzenhau]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Todtzenhau|Todtzenhau]]
+- [[Setting/Settlements/Villages/Todtzenhau|Todtzenhau]]
 
 # Cultures in Borders
 
-- [[Cultures/Hofswald|Hofswald]]
+- [[Setting/Cultures/Hofswald|Hofswald]]
 

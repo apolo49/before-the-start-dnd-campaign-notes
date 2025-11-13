@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Zaden
 >###### Capital City
->Country: [[Tribes/Monch|Monch]]
+>Country: [[Setting/Tribes/Monch|Monch]]
 >Established:
 >Area:
 >Elevation: 1024m
 >Population: 3,829
 >Demonym(s):
->Dominant Culture: [[Cultures/Kusgau|Kusgau]]
+>Dominant Culture: [[Setting/Cultures/Kusgau|Kusgau]]
 >Dominant Religion:
 
 # History

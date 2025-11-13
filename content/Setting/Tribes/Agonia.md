@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Agonia
 >Tribe
->Capital: [[Villages/Inti|Inti]]
->Largest Settlement: [[Villages/Inti|Inti]]
+>Capital: [[Setting/Settlements/Villages/Inti|Inti]]
+>Largest Settlement: [[Setting/Settlements/Villages/Inti|Inti]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Inti|Inti]]
+- [[Setting/Settlements/Villages/Inti|Inti]]
 
 # Cultures in Borders
 
-- [[Cultures/Bleduro|Bleduro]]
+- [[Setting/Cultures/Bleduro|Bleduro]]
 

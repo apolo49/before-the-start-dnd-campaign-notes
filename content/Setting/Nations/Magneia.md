@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Magneia
 >Civilised
->Capital: [[Cities/Magneia|Magneia]]
->Largest Settlement: [[Cities/Magneia|Magneia]]
+>Capital: [[Setting/Settlements/Cities/Magneia|Magneia]]
+>Largest Settlement: [[Setting/Settlements/Cities/Magneia|Magneia]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Magneia|Magneia]]
+- [[Setting/Settlements/Cities/Magneia|Magneia]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Leiros|Leiros]]
+- [[Setting/Cultures/Leiros|Leiros]]
 

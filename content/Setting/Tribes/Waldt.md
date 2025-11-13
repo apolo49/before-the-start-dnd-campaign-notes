@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Waldt
 >Tribe
->Capital: [[Villages/Kipfloch|Kipfloch]]
->Largest Settlement: [[Villages/Kipfloch|Kipfloch]]
+>Capital: [[Setting/Settlements/Villages/Kipfloch|Kipfloch]]
+>Largest Settlement: [[Setting/Settlements/Villages/Kipfloch|Kipfloch]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Kipfloch|Kipfloch]]
+- [[Setting/Settlements/Villages/Kipfloch|Kipfloch]]
 
 # Cultures in Borders
 
-- [[Cultures/Krozin|Krozin]]
+- [[Setting/Cultures/Krozin|Krozin]]
 

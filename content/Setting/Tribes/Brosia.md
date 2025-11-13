@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Brosia
 >Tribe
->Capital: [[Villages/Invergorkeit|Invergorkeit]]
->Largest Settlement: [[Villages/Invergorkeit|Invergorkeit]]
+>Capital: [[Setting/Settlements/Villages/Invergorkeit|Invergorkeit]]
+>Largest Settlement: [[Setting/Settlements/Villages/Invergorkeit|Invergorkeit]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Invergorkeit|Invergorkeit]]
+- [[Setting/Settlements/Villages/Invergorkeit|Invergorkeit]]
 
 # Cultures in Borders
 
-- [[Cultures/Duibri|Duibri]]
+- [[Setting/Cultures/Duibri|Duibri]]
 

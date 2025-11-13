@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Braura
 >###### Village
->Country: [[Nations/Solara|Solara]]
+>Country: [[Setting/Nations/Solara|Solara]]
 >Established:
 >Area:
 >Elevation: 289m
 >Population: 374
 >Demonym(s):
->Dominant Culture: [[Cultures/Stympia|Stympia]]
+>Dominant Culture: [[Setting/Cultures/Stympia|Stympia]]
 >Dominant Religion:
 
 # History

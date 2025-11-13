@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Nusia
 >Civilised
->Capital: [[Villages/Sabatgerd|Sabatgerd]]
->Largest Settlement: [[Villages/Sabatgerd|Sabatgerd]]
+>Capital: [[Setting/Settlements/Villages/Sabatgerd|Sabatgerd]]
+>Largest Settlement: [[Setting/Settlements/Villages/Sabatgerd|Sabatgerd]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Sabatgerd|Sabatgerd]]
+- [[Setting/Settlements/Villages/Sabatgerd|Sabatgerd]]
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

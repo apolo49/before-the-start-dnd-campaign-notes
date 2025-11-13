@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Jows
 >Civilised
->Capital: [[Cities/Darand|Darand]]
->Largest Settlement: [[Cities/Darand|Darand]]
+>Capital: [[Setting/Settlements/Cities/Darand|Darand]]
+>Largest Settlement: [[Setting/Settlements/Cities/Darand|Darand]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Darand|Darand]]
+- [[Setting/Settlements/Cities/Darand|Darand]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

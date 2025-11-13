@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Odeck
 >Tribe
->Capital: [[Villages/Odeck|Odeck]]
->Largest Settlement: [[Villages/Odeck|Odeck]]
+>Capital: [[Setting/Settlements/Villages/Odeck|Odeck]]
+>Largest Settlement: [[Setting/Settlements/Villages/Odeck|Odeck]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Odeck|Odeck]]
+- [[Setting/Settlements/Villages/Odeck|Odeck]]
 
 # Cultures in Borders
 
-- [[Cultures/Herwihl|Herwihl]]
+- [[Setting/Cultures/Herwihl|Herwihl]]
 

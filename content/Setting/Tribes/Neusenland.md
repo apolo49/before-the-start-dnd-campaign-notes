@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Neusenland
 >Tribe
->Capital: [[Villages/Neusen|Neusen]]
->Largest Settlement: [[Villages/Neusen|Neusen]]
+>Capital: [[Setting/Settlements/Villages/Neusen|Neusen]]
+>Largest Settlement: [[Setting/Settlements/Villages/Neusen|Neusen]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Neusen|Neusen]]
+- [[Setting/Settlements/Villages/Neusen|Neusen]]
 
 # Cultures in Borders
 
-- [[Cultures/Schilden|Schilden]]
+- [[Setting/Cultures/Schilden|Schilden]]
 

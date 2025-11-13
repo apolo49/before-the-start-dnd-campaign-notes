@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Heinach
 >###### Capital City
->Country: [[Tribes/Pfalz|Pfalz]]
+>Country: [[Setting/Tribes/Pfalz|Pfalz]]
 >Established:
 >Area:
 >Elevation: 1024m
 >Population: 309
 >Demonym(s):
->Dominant Culture: [[Cultures/Kusteter|Kusteter]]
+>Dominant Culture: [[Setting/Cultures/Kusteter|Kusteter]]
 >Dominant Religion:
 
 # History

@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Cochamberid
 >Tribe
->Capital: [[Villages/Cochamberid|Cochamberid]]
->Largest Settlement: [[Villages/Cochamberid|Cochamberid]]
+>Capital: [[Setting/Settlements/Villages/Cochamberid|Cochamberid]]
+>Largest Settlement: [[Setting/Settlements/Villages/Cochamberid|Cochamberid]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Cochamberid|Cochamberid]]
+- [[Setting/Settlements/Villages/Cochamberid|Cochamberid]]
 
 # Cultures in Borders
 
-- [[Cultures/Wildlands|Wildlands]]
+- [[Setting/Cultures/Wildlands|Wildlands]]
 

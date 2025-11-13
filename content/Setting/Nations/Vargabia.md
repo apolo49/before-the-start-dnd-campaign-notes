@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Vargabia
 >Civilised
->Capital: [[Cities/Khvor|Khvor]]
->Largest Settlement: [[Cities/Khvor|Khvor]]
+>Capital: [[Setting/Settlements/Cities/Khvor|Khvor]]
+>Largest Settlement: [[Setting/Settlements/Cities/Khvor|Khvor]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Khvor|Khvor]]
+- [[Setting/Settlements/Cities/Khvor|Khvor]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

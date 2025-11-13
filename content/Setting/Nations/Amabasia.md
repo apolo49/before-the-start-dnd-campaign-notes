@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Amabasia
 >Civilised
->Capital: [[Villages/Tareh|Tareh]]
->Largest Settlement: [[Villages/Tareh|Tareh]]
+>Capital: [[Setting/Settlements/Villages/Tareh|Tareh]]
+>Largest Settlement: [[Setting/Settlements/Villages/Tareh|Tareh]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Tareh|Tareh]]
+- [[Setting/Settlements/Villages/Tareh|Tareh]]
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

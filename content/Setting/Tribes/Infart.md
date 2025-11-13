@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Infart
 >Tribe
->Capital: [[Villages/Ebhijobodu|Ebhijobodu]]
->Largest Settlement: [[Villages/Ebhijobodu|Ebhijobodu]]
+>Capital: [[Setting/Settlements/Villages/Ebhijobodu|Ebhijobodu]]
+>Largest Settlement: [[Setting/Settlements/Villages/Ebhijobodu|Ebhijobodu]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Ebhijobodu|Ebhijobodu]]
+- [[Setting/Settlements/Villages/Ebhijobodu|Ebhijobodu]]
 
 # Cultures in Borders
 
-- [[Cultures/Duibri|Duibri]]
+- [[Setting/Cultures/Duibri|Duibri]]
 

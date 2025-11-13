@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Hocland
 >Tribe
->Capital: [[Villages/Lauch|Lauch]]
->Largest Settlement: [[Villages/Lauch|Lauch]]
+>Capital: [[Setting/Settlements/Villages/Lauch|Lauch]]
+>Largest Settlement: [[Setting/Settlements/Villages/Lauch|Lauch]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Lauch|Lauch]]
+- [[Setting/Settlements/Villages/Lauch|Lauch]]
 
 # Cultures in Borders
 
-- [[Cultures/Lahrwol|Lahrwol]]
+- [[Setting/Cultures/Lahrwol|Lahrwol]]
 

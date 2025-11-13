@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Mania
 >Civilised
->Capital: [[Cities/Shush|Shush]]
->Largest Settlement: [[Cities/Shush|Shush]]
+>Capital: [[Setting/Settlements/Cities/Shush|Shush]]
+>Largest Settlement: [[Setting/Settlements/Cities/Shush|Shush]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Shush|Shush]]
+- [[Setting/Settlements/Cities/Shush|Shush]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

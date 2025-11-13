@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Gehaq
 >###### Capital City
->Country: [[Nations/Ashahria|Ashahria]]
+>Country: [[Setting/Nations/Ashahria|Ashahria]]
 >Established:
 >Area:
 >Elevation: 1369m
 >Population: 1,713
 >Demonym(s):
->Dominant Culture: [[Cultures/Kufa|Kufa]]
+>Dominant Culture: [[Setting/Cultures/Kufa|Kufa]]
 >Dominant Religion:
 
 # History

@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Dowsieh
 >Civilised
->Capital: [[Cities/Dowsieh|Dowsieh]]
->Largest Settlement: [[Cities/Dowsieh|Dowsieh]]
+>Capital: [[Setting/Settlements/Cities/Dowsieh|Dowsieh]]
+>Largest Settlement: [[Setting/Settlements/Cities/Dowsieh|Dowsieh]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Dowsieh|Dowsieh]]
+- [[Setting/Settlements/Cities/Dowsieh|Dowsieh]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

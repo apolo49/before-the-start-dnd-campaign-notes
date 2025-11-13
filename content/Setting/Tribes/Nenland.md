@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Nenland
 >Tribe
->Capital: [[Villages/Nenau|Nenau]]
->Largest Settlement: [[Villages/Nenau|Nenau]]
+>Capital: [[Setting/Settlements/Villages/Nenau|Nenau]]
+>Largest Settlement: [[Setting/Settlements/Villages/Nenau|Nenau]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Nenau|Nenau]]
+- [[Setting/Settlements/Villages/Nenau|Nenau]]
 
 # Cultures in Borders
 
-- [[Cultures/Bieiamten|Bieiamten]]
+- [[Setting/Cultures/Bieiamten|Bieiamten]]
 

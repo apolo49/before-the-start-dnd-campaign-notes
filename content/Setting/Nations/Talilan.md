@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Talilan
 >Civilised
->Capital: [[Cities/Talilan|Talilan]]
->Largest Settlement: [[Cities/Talilan|Talilan]]
+>Capital: [[Setting/Settlements/Cities/Talilan|Talilan]]
+>Largest Settlement: [[Setting/Settlements/Cities/Talilan|Talilan]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Talilan|Talilan]]
+- [[Setting/Settlements/Cities/Talilan|Talilan]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

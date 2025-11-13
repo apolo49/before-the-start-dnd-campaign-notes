@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Baba
 >Civilised
->Capital: [[Cities/Urkesh|Urkesh]]
->Largest Settlement: [[Cities/Urkesh|Urkesh]]
+>Capital: [[Setting/Settlements/Cities/Urkesh|Urkesh]]
+>Largest Settlement: [[Setting/Settlements/Cities/Urkesh|Urkesh]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Urkesh|Urkesh]]
+- [[Setting/Settlements/Cities/Urkesh|Urkesh]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Warmo|Warmo]]
+- [[Setting/Cultures/Warmo|Warmo]]
 

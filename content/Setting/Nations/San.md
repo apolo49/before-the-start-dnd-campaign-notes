@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># San
 >Civilised
->Capital: [[Villages/Sasasaheds|Sasasaheds]]
->Largest Settlement: [[Villages/Sasasaheds|Sasasaheds]]
+>Capital: [[Setting/Settlements/Villages/Sasasaheds|Sasasaheds]]
+>Largest Settlement: [[Setting/Settlements/Villages/Sasasaheds|Sasasaheds]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Sasasaheds|Sasasaheds]]
+- [[Setting/Settlements/Villages/Sasasaheds|Sasasaheds]]
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

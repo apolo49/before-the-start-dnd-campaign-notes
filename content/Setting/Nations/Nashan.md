@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Nashan
 >Civilised
->Capital: [[Cities/Bibashemi|Bibashemi]]
->Largest Settlement: [[Cities/Bibashemi|Bibashemi]]
+>Capital: [[Setting/Settlements/Cities/Bibashemi|Bibashemi]]
+>Largest Settlement: [[Setting/Settlements/Cities/Bibashemi|Bibashemi]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Bibashemi|Bibashemi]]
+- [[Setting/Settlements/Cities/Bibashemi|Bibashemi]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Aberldia
 >Tribe
->Capital: [[Villages/Aberldie|Aberldie]]
->Largest Settlement: [[Villages/Aberldie|Aberldie]]
+>Capital: [[Setting/Settlements/Villages/Aberldie|Aberldie]]
+>Largest Settlement: [[Setting/Settlements/Villages/Aberldie|Aberldie]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Aberldie|Aberldie]]
+- [[Setting/Settlements/Villages/Aberldie|Aberldie]]
 
 # Cultures in Borders
 
-- [[Cultures/Alaw|Alaw]]
+- [[Setting/Cultures/Alaw|Alaw]]
 

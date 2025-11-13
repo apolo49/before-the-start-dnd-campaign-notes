@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Buladshana
 >###### Capital City
->Country: [[Nations/Dugania|Dugania]]
+>Country: [[Setting/Nations/Dugania|Dugania]]
 >Established:
 >Area:
 >Elevation: 1369m
 >Population: 69,557
 >Demonym(s):
->Dominant Culture: [[Cultures/Kufa|Kufa]]
+>Dominant Culture: [[Setting/Cultures/Kufa|Kufa]]
 >Dominant Religion:
 
 # History

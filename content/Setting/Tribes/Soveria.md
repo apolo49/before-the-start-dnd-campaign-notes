@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Soveria
 >Tribe
->Capital: [[Villages/Hatfordgedi|Hatfordgedi]]
->Largest Settlement: [[Villages/Hatfordgedi|Hatfordgedi]]
+>Capital: [[Setting/Settlements/Villages/Hatfordgedi|Hatfordgedi]]
+>Largest Settlement: [[Setting/Settlements/Villages/Hatfordgedi|Hatfordgedi]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Hatfordgedi|Hatfordgedi]]
+- [[Setting/Settlements/Villages/Hatfordgedi|Hatfordgedi]]
 
 # Cultures in Borders
 
-- [[Cultures/Wildlands|Wildlands]]
+- [[Setting/Cultures/Wildlands|Wildlands]]
 

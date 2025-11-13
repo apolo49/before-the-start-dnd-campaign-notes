@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Aberldie
 >###### Capital City
->Country: [[Tribes/Aberldia|Aberldia]]
+>Country: [[Setting/Tribes/Aberldia|Aberldia]]
 >Established:
 >Area:
 >Elevation: 9m
 >Population: 1,807
 >Demonym(s):
->Dominant Culture: [[Cultures/Alaw|Alaw]]
+>Dominant Culture: [[Setting/Cultures/Alaw|Alaw]]
 >Dominant Religion:
 
 # History

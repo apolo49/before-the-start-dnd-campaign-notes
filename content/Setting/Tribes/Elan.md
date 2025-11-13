@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Elan
 >Tribe
->Capital: [[Villages/Elan|Elan]]
->Largest Settlement: [[Villages/Elan|Elan]]
+>Capital: [[Setting/Settlements/Villages/Elan|Elan]]
+>Largest Settlement: [[Setting/Settlements/Villages/Elan|Elan]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Elan|Elan]]
+- [[Setting/Settlements/Villages/Elan|Elan]]
 
 # Cultures in Borders
 
-- [[Cultures/Bleduro|Bleduro]]
+- [[Setting/Cultures/Bleduro|Bleduro]]
 

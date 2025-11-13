@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Lanvia
 >Tribe
->Capital: [[Villages/Sabertlediwa|Sabertlediwa]]
->Largest Settlement: [[Villages/Sabertlediwa|Sabertlediwa]]
+>Capital: [[Setting/Settlements/Villages/Sabertlediwa|Sabertlediwa]]
+>Largest Settlement: [[Setting/Settlements/Villages/Sabertlediwa|Sabertlediwa]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Sabertlediwa|Sabertlediwa]]
+- [[Setting/Settlements/Villages/Sabertlediwa|Sabertlediwa]]
 
 # Cultures in Borders
 
-- [[Cultures/Invermayfi|Invermayfi]]
+- [[Setting/Cultures/Invermayfi|Invermayfi]]
 

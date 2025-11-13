@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Eleurita
 >Civilised
->Capital: [[Villages/Eleurita|Eleurita]]
->Largest Settlement: [[Villages/Eleurita|Eleurita]]
+>Capital: [[Setting/Settlements/Villages/Eleurita|Eleurita]]
+>Largest Settlement: [[Setting/Settlements/Villages/Eleurita|Eleurita]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Eleurita|Eleurita]]
+- [[Setting/Settlements/Villages/Eleurita|Eleurita]]
 
 # Cultures in Borders
 
-- [[Cultures/Nymphid|Nymphid]]
+- [[Setting/Cultures/Nymphid|Nymphid]]
 

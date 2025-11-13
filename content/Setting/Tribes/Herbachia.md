@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Herbachia
 >Tribe
->Capital: [[Villages/Herbach|Herbach]]
->Largest Settlement: [[Villages/Herbach|Herbach]]
+>Capital: [[Setting/Settlements/Villages/Herbach|Herbach]]
+>Largest Settlement: [[Setting/Settlements/Villages/Herbach|Herbach]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Herbach|Herbach]]
+- [[Setting/Settlements/Villages/Herbach|Herbach]]
 
 # Cultures in Borders
 
-- [[Cultures/Freiburg|Freiburg]]
+- [[Setting/Cultures/Freiburg|Freiburg]]
 

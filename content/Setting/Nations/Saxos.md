@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Saxos
 >Civilised
->Capital: [[Cities/Delpha|Delpha]]
->Largest Settlement: [[Cities/Delpha|Delpha]]
+>Capital: [[Setting/Settlements/Cities/Delpha|Delpha]]
+>Largest Settlement: [[Setting/Settlements/Cities/Delpha|Delpha]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Delpha|Delpha]]
+- [[Setting/Settlements/Cities/Delpha|Delpha]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Amphi|Amphi]]
+- [[Setting/Cultures/Amphi|Amphi]]
 

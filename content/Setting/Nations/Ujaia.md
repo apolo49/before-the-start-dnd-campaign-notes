@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Ujaia
 >Civilised
->Capital: [[Villages/Dhalin|Dhalin]]
->Largest Settlement: [[Villages/Dhalin|Dhalin]]
+>Capital: [[Setting/Settlements/Villages/Dhalin|Dhalin]]
+>Largest Settlement: [[Setting/Settlements/Villages/Dhalin|Dhalin]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Dhalin|Dhalin]]
+- [[Setting/Settlements/Villages/Dhalin|Dhalin]]
 
 # Cultures in Borders
 
-- [[Cultures/Vaishasi|Vaishasi]]
+- [[Setting/Cultures/Vaishasi|Vaishasi]]
 

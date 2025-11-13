@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Tareh
 >###### Capital City
->Country: [[Nations/Amabasia|Amabasia]]
+>Country: [[Setting/Nations/Amabasia|Amabasia]]
 >Established:
 >Area:
 >Elevation: 1369m
 >Population: 1,096
 >Demonym(s):
->Dominant Culture: [[Cultures/Kufa|Kufa]]
+>Dominant Culture: [[Setting/Cultures/Kufa|Kufa]]
 >Dominant Religion:
 
 # History

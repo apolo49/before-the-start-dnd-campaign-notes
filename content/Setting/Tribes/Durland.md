@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Durland
 >Tribe
->Capital: [[Villages/Konigsruten|Konigsruten]]
->Largest Settlement: [[Villages/Konigsruten|Konigsruten]]
+>Capital: [[Setting/Settlements/Villages/Konigsruten|Konigsruten]]
+>Largest Settlement: [[Setting/Settlements/Villages/Konigsruten|Konigsruten]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Konigsruten|Konigsruten]]
+- [[Setting/Settlements/Villages/Konigsruten|Konigsruten]]
 
 # Cultures in Borders
 
-- [[Cultures/Krozin|Krozin]]
+- [[Setting/Cultures/Krozin|Krozin]]
 

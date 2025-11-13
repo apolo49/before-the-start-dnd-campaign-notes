@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Schwe
 >Tribe
->Capital: [[Villages/Lofen|Lofen]]
->Largest Settlement: [[Villages/Lofen|Lofen]]
+>Capital: [[Setting/Settlements/Villages/Lofen|Lofen]]
+>Largest Settlement: [[Setting/Settlements/Villages/Lofen|Lofen]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Lofen|Lofen]]
+- [[Setting/Settlements/Villages/Lofen|Lofen]]
 
 # Cultures in Borders
 
-- [[Cultures/Horngenhau|Horngenhau]]
+- [[Setting/Cultures/Horngenhau|Horngenhau]]
 

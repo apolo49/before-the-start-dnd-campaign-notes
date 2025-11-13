@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Loria
 >Tribe
->Capital: [[Villages/Frenschw|Frenschw]]
->Largest Settlement: [[Villages/Frenschw|Frenschw]]
+>Capital: [[Setting/Settlements/Villages/Frenschw|Frenschw]]
+>Largest Settlement: [[Setting/Settlements/Villages/Frenschw|Frenschw]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Frenschw|Frenschw]]
+- [[Setting/Settlements/Villages/Frenschw|Frenschw]]
 
 # Cultures in Borders
 
-- [[Cultures/Briler|Briler]]
+- [[Setting/Cultures/Briler|Briler]]
 

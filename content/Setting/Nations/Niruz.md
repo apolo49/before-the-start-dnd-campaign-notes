@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Niruz
 >Civilised
->Capital: [[Cities/Kahriyeh|Kahriyeh]]
->Largest Settlement: [[Cities/Kahriyeh|Kahriyeh]]
+>Capital: [[Setting/Settlements/Cities/Kahriyeh|Kahriyeh]]
+>Largest Settlement: [[Setting/Settlements/Cities/Kahriyeh|Kahriyeh]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Kahriyeh|Kahriyeh]]
+- [[Setting/Settlements/Cities/Kahriyeh|Kahriyeh]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

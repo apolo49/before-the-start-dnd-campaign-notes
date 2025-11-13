@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Eterland
 >Tribe
->Capital: [[Villages/Bafenin|Bafenin]]
->Largest Settlement: [[Villages/Bafenin|Bafenin]]
+>Capital: [[Setting/Settlements/Villages/Bafenin|Bafenin]]
+>Largest Settlement: [[Setting/Settlements/Villages/Bafenin|Bafenin]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Bafenin|Bafenin]]
+- [[Setting/Settlements/Villages/Bafenin|Bafenin]]
 
 # Cultures in Borders
 
-- [[Cultures/Pemiripo|Pemiripo]]
+- [[Setting/Cultures/Pemiripo|Pemiripo]]
 

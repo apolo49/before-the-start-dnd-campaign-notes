@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Lof
 >Tribe
->Capital: [[Villages/Glatnaufin|Glatnaufin]]
->Largest Settlement: [[Villages/Glatnaufin|Glatnaufin]]
+>Capital: [[Setting/Settlements/Villages/Glatnaufin|Glatnaufin]]
+>Largest Settlement: [[Setting/Settlements/Villages/Glatnaufin|Glatnaufin]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Glatnaufin|Glatnaufin]]
+- [[Setting/Settlements/Villages/Glatnaufin|Glatnaufin]]
 
 # Cultures in Borders
 
-- [[Cultures/Bieiamten|Bieiamten]]
+- [[Setting/Cultures/Bieiamten|Bieiamten]]
 

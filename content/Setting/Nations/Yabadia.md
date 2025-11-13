@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Yabadia
 >Civilised
->Capital: [[Villages/Diranbar|Diranbar]]
->Largest Settlement: [[Villages/Diranbar|Diranbar]]
+>Capital: [[Setting/Settlements/Villages/Diranbar|Diranbar]]
+>Largest Settlement: [[Setting/Settlements/Villages/Diranbar|Diranbar]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Diranbar|Diranbar]]
+- [[Setting/Settlements/Villages/Diranbar|Diranbar]]
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

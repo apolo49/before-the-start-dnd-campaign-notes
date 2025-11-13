@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Dumarez
 >###### Capital City
->Country: [[Nations/Anehia|Anehia]]
+>Country: [[Setting/Nations/Anehia|Anehia]]
 >Established:
 >Area:
 >Elevation: 676m
 >Population: 18,894
 >Demonym(s):
->Dominant Culture: [[Cultures/Kufa|Kufa]]
+>Dominant Culture: [[Setting/Cultures/Kufa|Kufa]]
 >Dominant Religion:
 
 # History

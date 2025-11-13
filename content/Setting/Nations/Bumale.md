@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Bumale
 >Civilised
->Capital: [[Villages/Farzaran|Farzaran]]
->Largest Settlement: [[Villages/Farzaran|Farzaran]]
+>Capital: [[Setting/Settlements/Villages/Farzaran|Farzaran]]
+>Largest Settlement: [[Setting/Settlements/Villages/Farzaran|Farzaran]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Farzaran|Farzaran]]
+- [[Setting/Settlements/Villages/Farzaran|Farzaran]]
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

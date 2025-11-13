@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Asghia
 >Civilised
->Capital: [[Cities/Yahamin|Yahamin]]
->Largest Settlement: [[Cities/Yahamin|Yahamin]]
+>Capital: [[Setting/Settlements/Cities/Yahamin|Yahamin]]
+>Largest Settlement: [[Setting/Settlements/Cities/Yahamin|Yahamin]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Yahamin|Yahamin]]
+- [[Setting/Settlements/Cities/Yahamin|Yahamin]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

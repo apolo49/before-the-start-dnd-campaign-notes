@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Pundra
 >###### Capital City
->Country: [[Nations/Devkotia|Devkotia]]
+>Country: [[Setting/Nations/Devkotia|Devkotia]]
 >Established:
 >Area:
 >Elevation: 1024m
 >Population: 85,605
 >Demonym(s):
->Dominant Culture: [[Cultures/Vaishasi|Vaishasi]]
+>Dominant Culture: [[Setting/Cultures/Vaishasi|Vaishasi]]
 >Dominant Religion:
 
 # History

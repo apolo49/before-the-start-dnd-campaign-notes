@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Muria
 >Civilised
->Capital: [[Cities/Crorea|Crorea]]
->Largest Settlement: [[Cities/Crorea|Crorea]]
+>Capital: [[Setting/Settlements/Cities/Crorea|Crorea]]
+>Largest Settlement: [[Setting/Settlements/Cities/Crorea|Crorea]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Crorea|Crorea]]
+- [[Setting/Settlements/Cities/Crorea|Crorea]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Hubde|Hubde]]
+- [[Setting/Cultures/Hubde|Hubde]]
 

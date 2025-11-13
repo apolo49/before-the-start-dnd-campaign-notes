@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Gania
 >Civilised
->Capital: [[Cities/Roz Bakhi|Roz Bakhi]]
->Largest Settlement: [[Cities/Roz Bakhi|Roz Bakhi]]
+>Capital: [[Setting/Settlements/Cities/Roz Bakhi|Roz Bakhi]]
+>Largest Settlement: [[Setting/Settlements/Cities/Roz Bakhi|Roz Bakhi]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Roz Bakhi|Roz Bakhi]]
+- [[Setting/Settlements/Cities/Roz Bakhi|Roz Bakhi]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

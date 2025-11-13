@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Nas
 >Civilised
->Capital: [[Cities/Buged|Buged]]
->Largest Settlement: [[Cities/Buged|Buged]]
+>Capital: [[Setting/Settlements/Cities/Buged|Buged]]
+>Largest Settlement: [[Setting/Settlements/Cities/Buged|Buged]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Buged|Buged]]
+- [[Setting/Settlements/Cities/Buged|Buged]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

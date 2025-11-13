@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Tefids
 >Civilised
->Capital: [[Villages/Ecbarahen|Ecbarahen]]
->Largest Settlement: [[Villages/Ecbarahen|Ecbarahen]]
+>Capital: [[Setting/Settlements/Villages/Ecbarahen|Ecbarahen]]
+>Largest Settlement: [[Setting/Settlements/Villages/Ecbarahen|Ecbarahen]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Ecbarahen|Ecbarahen]]
+- [[Setting/Settlements/Villages/Ecbarahen|Ecbarahen]]
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

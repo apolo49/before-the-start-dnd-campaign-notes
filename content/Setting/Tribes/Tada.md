@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Tada
 >Tribe
->Capital: [[Villages/Ifenjane|Ifenjane]]
->Largest Settlement: [[Villages/Ifenjane|Ifenjane]]
+>Capital: [[Setting/Settlements/Villages/Ifenjane|Ifenjane]]
+>Largest Settlement: [[Setting/Settlements/Villages/Ifenjane|Ifenjane]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Ifenjane|Ifenjane]]
+- [[Setting/Settlements/Villages/Ifenjane|Ifenjane]]
 
 # Cultures in Borders
 
-- [[Cultures/Ber|Ber]]
+- [[Setting/Cultures/Ber|Ber]]
 

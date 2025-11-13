@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Zahnane
 >###### Capital City
->Country: [[Tribes/Zahnane|Zahnane]]
+>Country: [[Setting/Tribes/Zahnane|Zahnane]]
 >Established:
 >Area:
 >Elevation: 361m
 >Population: 3,100
 >Demonym(s):
->Dominant Culture: [[Cultures/Ber|Ber]]
+>Dominant Culture: [[Setting/Cultures/Ber|Ber]]
 >Dominant Religion:
 
 # History

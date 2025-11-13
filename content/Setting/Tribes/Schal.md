@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Schal
 >Tribe
->Capital: [[Villages/Geilerken|Geilerken]]
->Largest Settlement: [[Villages/Geilerken|Geilerken]]
+>Capital: [[Setting/Settlements/Villages/Geilerken|Geilerken]]
+>Largest Settlement: [[Setting/Settlements/Villages/Geilerken|Geilerken]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Geilerken|Geilerken]]
+- [[Setting/Settlements/Villages/Geilerken|Geilerken]]
 
 # Cultures in Borders
 
-- [[Cultures/Briler|Briler]]
+- [[Setting/Cultures/Briler|Briler]]
 

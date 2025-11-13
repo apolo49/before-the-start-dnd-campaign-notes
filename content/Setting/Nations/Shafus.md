@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Shafus
 >Civilised
->Capital: [[Cities/Shafus|Shafus]]
->Largest Settlement: [[Cities/Shafus|Shafus]]
+>Capital: [[Setting/Settlements/Cities/Shafus|Shafus]]
+>Largest Settlement: [[Setting/Settlements/Cities/Shafus|Shafus]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Shafus|Shafus]]
+- [[Setting/Settlements/Cities/Shafus|Shafus]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

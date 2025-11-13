@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Boranverthin
 >###### Capital City
->Country: [[Tribes/Cambri|Cambri]]
+>Country: [[Setting/Tribes/Cambri|Cambri]]
 >Established:
 >Area:
 >Elevation: 361m
 >Population: 2,602
 >Demonym(s):
->Dominant Culture: [[Cultures/Inverkei|Inverkei]]
+>Dominant Culture: [[Setting/Cultures/Inverkei|Inverkei]]
 >Dominant Religion:
 
 # History

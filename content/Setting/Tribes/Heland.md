@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Heland
 >Tribe
->Capital: [[Villages/Midlington|Midlington]]
->Largest Settlement: [[Villages/Midlington|Midlington]]
+>Capital: [[Setting/Settlements/Villages/Midlington|Midlington]]
+>Largest Settlement: [[Setting/Settlements/Villages/Midlington|Midlington]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Midlington|Midlington]]
+- [[Setting/Settlements/Villages/Midlington|Midlington]]
 
 # Cultures in Borders
 
-- [[Cultures/Wildlands|Wildlands]]
+- [[Setting/Cultures/Wildlands|Wildlands]]
 

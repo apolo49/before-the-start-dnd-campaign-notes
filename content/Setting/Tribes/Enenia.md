@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Enenia
 >Tribe
->Capital: [[Villages/Laufe|Laufe]]
->Largest Settlement: [[Villages/Laufe|Laufe]]
+>Capital: [[Setting/Settlements/Villages/Laufe|Laufe]]
+>Largest Settlement: [[Setting/Settlements/Villages/Laufe|Laufe]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Laufe|Laufe]]
+- [[Setting/Settlements/Villages/Laufe|Laufe]]
 
 # Cultures in Borders
 
-- [[Cultures/Lahrwol|Lahrwol]]
+- [[Setting/Cultures/Lahrwol|Lahrwol]]
 

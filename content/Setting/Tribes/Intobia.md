@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Intobia
 >Tribe
->Capital: [[Villages/Chearbhal|Chearbhal]]
->Largest Settlement: [[Villages/Chearbhal|Chearbhal]]
+>Capital: [[Setting/Settlements/Villages/Chearbhal|Chearbhal]]
+>Largest Settlement: [[Setting/Settlements/Villages/Chearbhal|Chearbhal]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Chearbhal|Chearbhal]]
+- [[Setting/Settlements/Villages/Chearbhal|Chearbhal]]
 
 # Cultures in Borders
 
-- [[Cultures/Ebheartei|Ebheartei]]
+- [[Setting/Cultures/Ebheartei|Ebheartei]]
 

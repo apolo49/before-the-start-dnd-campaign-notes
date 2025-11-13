@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Ashahrmir
 >###### Capital City
->Country: [[Nations/Ansfa|Ansfa]]
+>Country: [[Setting/Nations/Ansfa|Ansfa]]
 >Established:
 >Area:
 >Elevation: 1369m
 >Population: 85,227
 >Demonym(s):
->Dominant Culture: [[Cultures/Kufa|Kufa]]
+>Dominant Culture: [[Setting/Cultures/Kufa|Kufa]]
 >Dominant Religion:
 
 # History

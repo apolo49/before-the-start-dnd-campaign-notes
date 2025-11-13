@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Miania
 >Civilised
->Capital: [[Villages/Laydunshahr|Laydunshahr]]
->Largest Settlement: [[Villages/Laydunshahr|Laydunshahr]]
+>Capital: [[Setting/Settlements/Villages/Laydunshahr|Laydunshahr]]
+>Largest Settlement: [[Setting/Settlements/Villages/Laydunshahr|Laydunshahr]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Laydunshahr|Laydunshahr]]
+- [[Setting/Settlements/Villages/Laydunshahr|Laydunshahr]]
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

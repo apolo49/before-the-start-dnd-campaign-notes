@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Garigia
 >Civilised
->Capital: [[Cities/Gabel|Gabel]]
->Largest Settlement: [[Cities/Gabel|Gabel]]
+>Capital: [[Setting/Settlements/Cities/Gabel|Gabel]]
+>Largest Settlement: [[Setting/Settlements/Cities/Gabel|Gabel]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Gabel|Gabel]]
+- [[Setting/Settlements/Cities/Gabel|Gabel]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Carthaginian|Carthaginian]]
+- [[Setting/Cultures/Carthaginian|Carthaginian]]
 

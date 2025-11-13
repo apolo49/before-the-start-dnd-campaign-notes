@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Sudia
 >Tribe
->Capital: [[Villages/Cleoreby|Cleoreby]]
->Largest Settlement: [[Villages/Cleoreby|Cleoreby]]
+>Capital: [[Setting/Settlements/Villages/Cleoreby|Cleoreby]]
+>Largest Settlement: [[Setting/Settlements/Villages/Cleoreby|Cleoreby]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Cleoreby|Cleoreby]]
+- [[Setting/Settlements/Villages/Cleoreby|Cleoreby]]
 
 # Cultures in Borders
 
-- [[Cultures/Wildlands|Wildlands]]
+- [[Setting/Cultures/Wildlands|Wildlands]]
 

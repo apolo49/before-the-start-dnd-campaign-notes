@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Marxzellfach
 >###### Capital City
->Country: [[Tribes/Breis|Breis]]
+>Country: [[Setting/Tribes/Breis|Breis]]
 >Established:
 >Area:
 >Elevation: 900m
 >Population: 2,967
 >Demonym(s):
->Dominant Culture: [[Cultures/Schilden|Schilden]]
+>Dominant Culture: [[Setting/Cultures/Schilden|Schilden]]
 >Dominant Religion:
 
 # History

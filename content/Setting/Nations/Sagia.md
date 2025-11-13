@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Sagia
 >Civilised
->Capital: [[Villages/Duged|Duged]]
->Largest Settlement: [[Villages/Duged|Duged]]
+>Capital: [[Setting/Settlements/Villages/Duged|Duged]]
+>Largest Settlement: [[Setting/Settlements/Villages/Duged|Duged]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Duged|Duged]]
+- [[Setting/Settlements/Villages/Duged|Duged]]
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

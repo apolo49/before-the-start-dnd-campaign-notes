@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Jowshahr
 >###### Capital City
->Country: [[Nations/Sinia|Sinia]]
+>Country: [[Setting/Nations/Sinia|Sinia]]
 >Established:
 >Area:
 >Elevation: 1369m
 >Population: 82,511
 >Demonym(s):
->Dominant Culture: [[Cultures/Kufa|Kufa]]
+>Dominant Culture: [[Setting/Cultures/Kufa|Kufa]]
 >Dominant Religion:
 
 # History

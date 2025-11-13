@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Dornhan
 >###### Capital City
->Country: [[Tribes/Dornhania|Dornhania]]
+>Country: [[Setting/Tribes/Dornhania|Dornhania]]
 >Established:
 >Area:
 >Elevation: 1024m
 >Population: 1,821
 >Demonym(s):
->Dominant Culture: [[Cultures/Bieiamten|Bieiamten]]
+>Dominant Culture: [[Setting/Cultures/Bieiamten|Bieiamten]]
 >Dominant Religion:
 
 # History

@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Vahr
 >Civilised
->Capital: [[Cities/Ronarin|Ronarin]]
->Largest Settlement: [[Cities/Ronarin|Ronarin]]
+>Capital: [[Setting/Settlements/Cities/Ronarin|Ronarin]]
+>Largest Settlement: [[Setting/Settlements/Cities/Ronarin|Ronarin]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Ronarin|Ronarin]]
+- [[Setting/Settlements/Cities/Ronarin|Ronarin]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Craftia
 >Tribe
->Capital: [[Villages/Newcescom|Newcescom]]
->Largest Settlement: [[Villages/Newcescom|Newcescom]]
+>Capital: [[Setting/Settlements/Villages/Newcescom|Newcescom]]
+>Largest Settlement: [[Setting/Settlements/Villages/Newcescom|Newcescom]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Newcescom|Newcescom]]
+- [[Setting/Settlements/Villages/Newcescom|Newcescom]]
 
 # Cultures in Borders
 
-- [[Cultures/Wildlands|Wildlands]]
+- [[Setting/Cultures/Wildlands|Wildlands]]
 

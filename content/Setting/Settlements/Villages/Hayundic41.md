@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Hayundic41
 >###### Capital City
->Country: [[Nations/Vavia|Vavia]]
+>Country: [[Setting/Nations/Vavia|Vavia]]
 >Established:
 >Area:
 >Elevation: 1156m
 >Population: 3,194
 >Demonym(s):
->Dominant Culture: [[Cultures/Vaishasi|Vaishasi]]
+>Dominant Culture: [[Setting/Cultures/Vaishasi|Vaishasi]]
 >Dominant Religion:
 
 # History

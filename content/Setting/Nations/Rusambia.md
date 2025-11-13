@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Rusambia
 >Civilised
->Capital: [[Villages/Rusambi|Rusambi]]
->Largest Settlement: [[Villages/Rusambi|Rusambi]]
+>Capital: [[Setting/Settlements/Villages/Rusambi|Rusambi]]
+>Largest Settlement: [[Setting/Settlements/Villages/Rusambi|Rusambi]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Rusambi|Rusambi]]
+- [[Setting/Settlements/Villages/Rusambi|Rusambi]]
 
 # Cultures in Borders
 
-- [[Cultures/Vaishasi|Vaishasi]]
+- [[Setting/Cultures/Vaishasi|Vaishasi]]
 

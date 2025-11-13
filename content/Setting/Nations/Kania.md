@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Kania
 >Civilised
->Capital: [[Cities/Kabad|Kabad]]
->Largest Settlement: [[Cities/Kabad|Kabad]]
+>Capital: [[Setting/Settlements/Cities/Kabad|Kabad]]
+>Largest Settlement: [[Setting/Settlements/Cities/Kabad|Kabad]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Kabad|Kabad]]
+- [[Setting/Settlements/Cities/Kabad|Kabad]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

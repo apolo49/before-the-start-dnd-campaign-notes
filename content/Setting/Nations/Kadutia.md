@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Kadutia
 >Civilised
->Capital: [[Cities/Hankadam|Hankadam]]
->Largest Settlement: [[Cities/Hankadam|Hankadam]]
+>Capital: [[Setting/Settlements/Cities/Hankadam|Hankadam]]
+>Largest Settlement: [[Setting/Settlements/Cities/Hankadam|Hankadam]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Hankadam|Hankadam]]
+- [[Setting/Settlements/Cities/Hankadam|Hankadam]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Vaishasi|Vaishasi]]
+- [[Setting/Cultures/Vaishasi|Vaishasi]]
 

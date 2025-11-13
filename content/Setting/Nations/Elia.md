@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Elia
 >Civilised
->Capital: [[Villages/Throryrolis|Throryrolis]]
->Largest Settlement: [[Villages/Throryrolis|Throryrolis]]
+>Capital: [[Setting/Settlements/Villages/Throryrolis|Throryrolis]]
+>Largest Settlement: [[Setting/Settlements/Villages/Throryrolis|Throryrolis]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Throryrolis|Throryrolis]]
+- [[Setting/Settlements/Villages/Throryrolis|Throryrolis]]
 
 # Cultures in Borders
 
-- [[Cultures/Cleolis|Cleolis]]
+- [[Setting/Cultures/Cleolis|Cleolis]]
 

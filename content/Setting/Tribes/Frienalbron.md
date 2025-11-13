@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Frienalbron
 >Tribe
->Capital: [[Villages/Frienalbron|Frienalbron]]
->Largest Settlement: [[Villages/Frienalbron|Frienalbron]]
+>Capital: [[Setting/Settlements/Villages/Frienalbron|Frienalbron]]
+>Largest Settlement: [[Setting/Settlements/Villages/Frienalbron|Frienalbron]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Frienalbron|Frienalbron]]
+- [[Setting/Settlements/Villages/Frienalbron|Frienalbron]]
 
 # Cultures in Borders
 
-- [[Cultures/Kusteter|Kusteter]]
+- [[Setting/Cultures/Kusteter|Kusteter]]
 
