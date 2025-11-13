@@ -4,6 +4,6 @@ The [[Elements|element]] of __Ice__ allows the user to summon ice and freeze and
 ## Progression
 # Other Names
 - [[Qatha]]: N/A
-- [[Eceh]]: N/A
+- [[Setting/Nations/Echeh]]: N/A
 - [[Aeikas]]: N/A
 - [[Solari (Language)]]: Nii

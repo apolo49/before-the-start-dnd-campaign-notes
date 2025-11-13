@@ -1,0 +1,1 @@
+[[Atiri]] famed philosopher, mage, and powerful magical user founded the premier school of magical learning the [[Atiri Centre of Magical Excellence]] in [[Solaum]].

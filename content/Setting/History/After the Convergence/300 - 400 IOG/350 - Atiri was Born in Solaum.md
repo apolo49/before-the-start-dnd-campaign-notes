@@ -1,0 +1,1 @@
+[[Atiri]] was born to ordinary parents in the city of [[Solaum]].

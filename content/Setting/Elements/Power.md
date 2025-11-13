@@ -4,6 +4,6 @@ The [[Elements|element]] of __Power__ allows the user to ???.
 ## Progression
 # Other Names
 - [[Qatha]]: N/A
-- [[Eceh]]: N/A
+- [[Setting/Nations/Echeh]]: N/A
 - [[Aeikas]]: N/A
 - [[Solari (Language)]]: Iti

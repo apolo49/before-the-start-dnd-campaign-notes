@@ -1,0 +1,1 @@
+[[Atiri]], founder of the [[Atiri Centre of Magical Excellence]] and author of the [[Atiric Texts]] dies in [[Solaum]], [[Solara]] at the age of 84. He died of natural causes and his ashes are a part of a timepiece in the centre of the Atiri Centre of Magical Excellence.

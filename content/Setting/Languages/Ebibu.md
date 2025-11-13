@@ -5,13 +5,13 @@ Ebibu is an Eastern Language spoken by the peoples of the [[Qatha]] culture and 
 
 Ebibu is named after the city of [[Ebbu]] an important city to the Southeast of [[Solaum]] in the [[Qatha Sandlands]]. Ebbu was a major centre of civilisation and is considered by the Qatha Culture as their original homeland. It is written using the Ebibu Script, a syllabary used only by this language, it used to be adopted by other languages, but then fell out of favour. In the [[Ebbu Grand Library]] there is a [[Tablet of Ebilari|tablet]] that can be used to transliterate Ebibu, Solari and Latin Characters between each other.
 
-Ebibu was once the lingua franca of the Qatha Sandlands. It has slowly declined in influence after the fall of the [[Nepululma Empire]] which spanned the area. It was the official language of many empires before this though including the [[Ebbu Empire]], [[Nibi Empire]], [[Urkesh Empire]], and the [[Suhania]]. It is still the language of many modern states and a second language in the [[Eceh]] Empire.
+Ebibu was once the lingua franca of the Qatha Sandlands. It has slowly declined in influence after the fall of the [[Nepululma Empire]] which spanned the area. It was the official language of many empires before this though including the [[Ebbu Empire]], [[Nibi Empire]], [[Urkesh Empire]], and the [[Suhania]]. It is still the language of many modern states and a second language in the [[Setting/Nations/Echeh|Echeh]] Empire.
 
 # History and Writing
 ## Writing
 Ebibu is written using the Ebibu Syllabary, a script that was not invented by the Qatha peoples, but instead by a far off land that has since lost contact. It bears resemblance to old elven writing systems found in the far East.
 
-Historically it is written on the leaves of the now-extinct Tusari Palm, but a close relative of the plant has since been found and is heavily farmed in [[Al-Tusaria]] and its capital [[Ebbu]].
+Historically it is written on the leaves of the now-extinct Tusari Palm, but a close relative of the plant has since been found and is heavily farmed in [[Nations/Ebbu|Ebbu]] and its capital [[Ebbu]].
 
 # Phonology
 ## Consonants

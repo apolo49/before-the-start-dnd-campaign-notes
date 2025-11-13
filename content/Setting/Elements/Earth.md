@@ -4,6 +4,6 @@ The [[Elements|element]] of __Earth__ allows the user to control the ground arou
 ## Progression
 # Other Names
 - [[Qatha]]: Aratuname
-- [[Eceh]]: N/A
+- [[Setting/Nations/Echeh]]: N/A
 - [[Aeikas]]: N/A
 - [[Solari (Language)]]: Ami

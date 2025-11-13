@@ -4,6 +4,6 @@ The [[Elements|element]] of __Electricity__ allows the user to summon bolts of e
 ## Progression
 # Other Names
 - [[Qatha]]: N/A
-- [[Eceh]]: N/A
+- [[Setting/Nations/Echeh]]: N/A
 - [[Aeikas]]: N/A
 - [[Solari (Language)]]: Tii
