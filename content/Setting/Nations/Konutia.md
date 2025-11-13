@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Konutia
 >Civilised
->Capital: [[Cities/Nahedstan|Nahedstan]]
->Largest Settlement: [[Cities/Nahedstan|Nahedstan]]
+>Capital: [[Setting/Settlements/Cities/Nahedstan|Nahedstan]]
+>Largest Settlement: [[Setting/Settlements/Cities/Nahedstan|Nahedstan]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Nahedstan|Nahedstan]]
+- [[Setting/Settlements/Cities/Nahedstan|Nahedstan]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

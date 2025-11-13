@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Waland
 >Tribe
->Capital: [[Villages/Lienauheier|Lienauheier]]
->Largest Settlement: [[Villages/Lienauheier|Lienauheier]]
+>Capital: [[Setting/Settlements/Villages/Lienauheier|Lienauheier]]
+>Largest Settlement: [[Setting/Settlements/Villages/Lienauheier|Lienauheier]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Lienauheier|Lienauheier]]
+- [[Setting/Settlements/Villages/Lienauheier|Lienauheier]]
 
 # Cultures in Borders
 
-- [[Cultures/Horngenhau|Horngenhau]]
+- [[Setting/Cultures/Horngenhau|Horngenhau]]
 

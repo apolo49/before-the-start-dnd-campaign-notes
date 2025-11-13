@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Kumb
 >Civilised
->Capital: [[Cities/Kumbhojain|Kumbhojain]]
->Largest Settlement: [[Cities/Kumbhojain|Kumbhojain]]
+>Capital: [[Setting/Settlements/Cities/Kumbhojain|Kumbhojain]]
+>Largest Settlement: [[Setting/Settlements/Cities/Kumbhojain|Kumbhojain]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Kumbhojain|Kumbhojain]]
+- [[Setting/Settlements/Cities/Kumbhojain|Kumbhojain]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Vaishasi|Vaishasi]]
+- [[Setting/Cultures/Vaishasi|Vaishasi]]
 

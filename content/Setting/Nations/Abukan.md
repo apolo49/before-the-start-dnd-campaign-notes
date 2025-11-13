@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Abukan
 >Civilised
->Capital: [[Villages/Vahan|Vahan]]
->Largest Settlement: [[Villages/Vahan|Vahan]]
+>Capital: [[Setting/Settlements/Villages/Vahan|Vahan]]
+>Largest Settlement: [[Setting/Settlements/Villages/Vahan|Vahan]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Vahan|Vahan]]
+- [[Setting/Settlements/Villages/Vahan|Vahan]]
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

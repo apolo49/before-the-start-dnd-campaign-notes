@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Duronia
 >Tribe
->Capital: [[Villages/Duron|Duron]]
->Largest Settlement: [[Villages/Duron|Duron]]
+>Capital: [[Setting/Settlements/Villages/Duron|Duron]]
+>Largest Settlement: [[Setting/Settlements/Villages/Duron|Duron]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Duron|Duron]]
+- [[Setting/Settlements/Villages/Duron|Duron]]
 
 # Cultures in Borders
 
-- [[Cultures/Lerug|Lerug]]
+- [[Setting/Cultures/Lerug|Lerug]]
 

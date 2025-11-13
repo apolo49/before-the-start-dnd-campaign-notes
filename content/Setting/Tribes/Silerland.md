@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Silerland
 >Tribe
->Capital: [[Villages/Balldin|Balldin]]
->Largest Settlement: [[Villages/Balldin|Balldin]]
+>Capital: [[Setting/Settlements/Villages/Balldin|Balldin]]
+>Largest Settlement: [[Setting/Settlements/Villages/Balldin|Balldin]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Balldin|Balldin]]
+- [[Setting/Settlements/Villages/Balldin|Balldin]]
 
 # Cultures in Borders
 
-- [[Cultures/Blum|Blum]]
+- [[Setting/Cultures/Blum|Blum]]
 

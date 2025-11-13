@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Laberia
 >Tribe
->Capital: [[Villages/Lugwesyn|Lugwesyn]]
->Largest Settlement: [[Villages/Lugwesyn|Lugwesyn]]
+>Capital: [[Setting/Settlements/Villages/Lugwesyn|Lugwesyn]]
+>Largest Settlement: [[Setting/Settlements/Villages/Lugwesyn|Lugwesyn]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Lugwesyn|Lugwesyn]]
+- [[Setting/Settlements/Villages/Lugwesyn|Lugwesyn]]
 
 # Cultures in Borders
 
-- [[Cultures/Ebheartei|Ebheartei]]
+- [[Setting/Cultures/Ebheartei|Ebheartei]]
 

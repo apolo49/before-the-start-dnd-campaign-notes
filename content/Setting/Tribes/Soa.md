@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Soa
 >Tribe
->Capital: [[Villages/Ibessa|Ibessa]]
->Largest Settlement: [[Villages/Ibessa|Ibessa]]
+>Capital: [[Setting/Settlements/Villages/Ibessa|Ibessa]]
+>Largest Settlement: [[Setting/Settlements/Villages/Ibessa|Ibessa]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Ibessa|Ibessa]]
+- [[Setting/Settlements/Villages/Ibessa|Ibessa]]
 
 # Cultures in Borders
 
-- [[Cultures/Ber|Ber]]
+- [[Setting/Cultures/Ber|Ber]]
 

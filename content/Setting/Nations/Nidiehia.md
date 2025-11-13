@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Nidiehia
 >Civilised
->Capital: [[Cities/Ardowsieh|Ardowsieh]]
->Largest Settlement: [[Cities/Ardowsieh|Ardowsieh]]
+>Capital: [[Setting/Settlements/Cities/Ardowsieh|Ardowsieh]]
+>Largest Settlement: [[Setting/Settlements/Cities/Ardowsieh|Ardowsieh]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Ardowsieh|Ardowsieh]]
+- [[Setting/Settlements/Cities/Ardowsieh|Ardowsieh]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

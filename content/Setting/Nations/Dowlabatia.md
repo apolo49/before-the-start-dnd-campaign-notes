@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Dowlabatia
 >Civilised
->Capital: [[Cities/Dowlabat|Dowlabat]]
->Largest Settlement: [[Cities/Dowlabat|Dowlabat]]
+>Capital: [[Setting/Settlements/Cities/Dowlabat|Dowlabat]]
+>Largest Settlement: [[Setting/Settlements/Cities/Dowlabat|Dowlabat]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Dowlabat|Dowlabat]]
+- [[Setting/Settlements/Cities/Dowlabat|Dowlabat]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

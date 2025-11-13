@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Yath
 >Civilised
->Capital: [[Cities/Kart Anyamut|Kart Anyamut]]
->Largest Settlement: [[Cities/Kart Anyamut|Kart Anyamut]]
+>Capital: [[Setting/Settlements/Cities/Kart Anyamut|Kart Anyamut]]
+>Largest Settlement: [[Setting/Settlements/Cities/Kart Anyamut|Kart Anyamut]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Kart Anyamut|Kart Anyamut]]
+- [[Setting/Settlements/Cities/Kart Anyamut|Kart Anyamut]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Carthaginian|Carthaginian]]
+- [[Setting/Cultures/Carthaginian|Carthaginian]]
 

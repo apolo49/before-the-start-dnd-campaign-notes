@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Braun
 >Tribe
->Capital: [[Villages/Griesberg|Griesberg]]
->Largest Settlement: [[Villages/Griesberg|Griesberg]]
+>Capital: [[Setting/Settlements/Villages/Griesberg|Griesberg]]
+>Largest Settlement: [[Setting/Settlements/Villages/Griesberg|Griesberg]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Griesberg|Griesberg]]
+- [[Setting/Settlements/Villages/Griesberg|Griesberg]]
 
 # Cultures in Borders
 
-- [[Cultures/Briler|Briler]]
+- [[Setting/Cultures/Briler|Briler]]
 

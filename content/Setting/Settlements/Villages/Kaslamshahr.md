@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Kaslamshahr
 >###### Capital City
->Country: [[Nations/Hages|Hages]]
+>Country: [[Setting/Nations/Hages|Hages]]
 >Established:
 >Area:
 >Elevation: 1369m
 >Population: 3,092
 >Demonym(s):
->Dominant Culture: [[Cultures/Kufa|Kufa]]
+>Dominant Culture: [[Setting/Cultures/Kufa|Kufa]]
 >Dominant Religion:
 
 # History

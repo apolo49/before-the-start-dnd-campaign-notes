@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Behis
 >Civilised
->Capital: [[Cities/Bargahiroft|Bargahiroft]]
->Largest Settlement: [[Cities/Bargahiroft|Bargahiroft]]
+>Capital: [[Setting/Settlements/Cities/Bargahiroft|Bargahiroft]]
+>Largest Settlement: [[Setting/Settlements/Cities/Bargahiroft|Bargahiroft]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Bargahiroft|Bargahiroft]]
+- [[Setting/Settlements/Cities/Bargahiroft|Bargahiroft]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

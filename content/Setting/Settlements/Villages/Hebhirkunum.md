@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Hebhirkunum
 >###### Capital City
->Country: [[Tribes/Winve|Winve]]
+>Country: [[Setting/Tribes/Winve|Winve]]
 >Established:
 >Area:
 >Elevation: 289m
 >Population: 2,000
 >Demonym(s):
->Dominant Culture: [[Cultures/Duibri|Duibri]]
+>Dominant Culture: [[Setting/Cultures/Duibri|Duibri]]
 >Dominant Religion:
 
 # History

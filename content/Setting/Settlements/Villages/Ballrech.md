@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Ballrech
 >###### Capital City
->Country: [[Tribes/Ballrech|Ballrech]]
+>Country: [[Setting/Tribes/Ballrech|Ballrech]]
 >Established:
 >Area:
 >Elevation: 1024m
 >Population: 129
 >Demonym(s):
->Dominant Culture: [[Cultures/Lahrwol|Lahrwol]]
+>Dominant Culture: [[Setting/Cultures/Lahrwol|Lahrwol]]
 >Dominant Religion:
 
 # History

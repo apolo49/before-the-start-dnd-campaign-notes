@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Chisterbury
 >###### Capital City
->Country: [[Tribes/Lympsia|Lympsia]]
+>Country: [[Setting/Tribes/Lympsia|Lympsia]]
 >Established:
 >Area:
 >Elevation: 961m
 >Population: 974
 >Demonym(s):
->Dominant Culture: [[Cultures/Wildlands|Wildlands]]
+>Dominant Culture: [[Setting/Cultures/Wildlands|Wildlands]]
 >Dominant Religion:
 
 # History

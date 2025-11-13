@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Rigania
 >Tribe
->Capital: [[Villages/Inverellnin|Inverellnin]]
->Largest Settlement: [[Villages/Inverellnin|Inverellnin]]
+>Capital: [[Setting/Settlements/Villages/Inverellnin|Inverellnin]]
+>Largest Settlement: [[Setting/Settlements/Villages/Inverellnin|Inverellnin]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Inverellnin|Inverellnin]]
+- [[Setting/Settlements/Villages/Inverellnin|Inverellnin]]
 
 # Cultures in Borders
 
-- [[Cultures/Lerug|Lerug]]
+- [[Setting/Cultures/Lerug|Lerug]]
 

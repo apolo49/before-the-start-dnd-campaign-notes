@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Agos
 >Tribe
->Capital: [[Villages/Agos|Agos]]
->Largest Settlement: [[Villages/Agos|Agos]]
+>Capital: [[Setting/Settlements/Villages/Agos|Agos]]
+>Largest Settlement: [[Setting/Settlements/Villages/Agos|Agos]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Agos|Agos]]
+- [[Setting/Settlements/Villages/Agos|Agos]]
 
 # Cultures in Borders
 
-- [[Cultures/Indyrgow|Indyrgow]]
+- [[Setting/Cultures/Indyrgow|Indyrgow]]
 

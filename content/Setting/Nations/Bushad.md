@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Bushad
 >Civilised
->Capital: [[Cities/Ishahr|Ishahr]]
->Largest Settlement: [[Cities/Ishahr|Ishahr]]
+>Capital: [[Setting/Settlements/Cities/Ishahr|Ishahr]]
+>Largest Settlement: [[Setting/Settlements/Cities/Ishahr|Ishahr]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Ishahr|Ishahr]]
+- [[Setting/Settlements/Cities/Ishahr|Ishahr]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

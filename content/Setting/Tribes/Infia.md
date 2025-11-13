@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Infia
 >Tribe
->Capital: [[Villages/Info|Info]]
->Largest Settlement: [[Villages/Info|Info]]
+>Capital: [[Setting/Settlements/Villages/Info|Info]]
+>Largest Settlement: [[Setting/Settlements/Villages/Info|Info]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Info|Info]]
+- [[Setting/Settlements/Villages/Info|Info]]
 
 # Cultures in Borders
 
-- [[Cultures/Lerug|Lerug]]
+- [[Setting/Cultures/Lerug|Lerug]]
 

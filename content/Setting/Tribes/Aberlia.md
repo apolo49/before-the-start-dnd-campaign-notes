@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Aberlia
 >Tribe
->Capital: [[Villages/Aberfrwd|Aberfrwd]]
->Largest Settlement: [[Villages/Aberfrwd|Aberfrwd]]
+>Capital: [[Setting/Settlements/Villages/Aberfrwd|Aberfrwd]]
+>Largest Settlement: [[Setting/Settlements/Villages/Aberfrwd|Aberfrwd]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Aberfrwd|Aberfrwd]]
+- [[Setting/Settlements/Villages/Aberfrwd|Aberfrwd]]
 
 # Cultures in Borders
 
-- [[Cultures/Bleduro|Bleduro]]
+- [[Setting/Cultures/Bleduro|Bleduro]]
 

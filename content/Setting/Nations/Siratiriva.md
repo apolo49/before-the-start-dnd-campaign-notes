@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Siratiriva
 >Civilised
->Capital: [[Villages/Siratiriva|Siratiriva]]
->Largest Settlement: [[Villages/Siratiriva|Siratiriva]]
+>Capital: [[Setting/Settlements/Villages/Siratiriva|Siratiriva]]
+>Largest Settlement: [[Setting/Settlements/Villages/Siratiriva|Siratiriva]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Siratiriva|Siratiriva]]
+- [[Setting/Settlements/Villages/Siratiriva|Siratiriva]]
 
 # Cultures in Borders
 
-- [[Cultures/Vaishasi|Vaishasi]]
+- [[Setting/Cultures/Vaishasi|Vaishasi]]
 

@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Laia
 >Civilised
->Capital: [[Villages/Byblarascu|Byblarascu]]
->Largest Settlement: [[Villages/Byblarascu|Byblarascu]]
+>Capital: [[Setting/Settlements/Villages/Byblarascu|Byblarascu]]
+>Largest Settlement: [[Setting/Settlements/Villages/Byblarascu|Byblarascu]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Byblarascu|Byblarascu]]
+- [[Setting/Settlements/Villages/Byblarascu|Byblarascu]]
 
 # Cultures in Borders
 
-- [[Cultures/Brauron|Brauron]]
+- [[Setting/Cultures/Brauron|Brauron]]
 

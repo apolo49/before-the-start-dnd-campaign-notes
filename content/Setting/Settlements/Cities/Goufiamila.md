@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Goufiamila
 >###### City
->Country: [[Nations/Solara|Solara]]
+>Country: [[Setting/Nations/Solara|Solara]]
 >Established:
 >Area:
 >Elevation: 324m
 >Population: 99,876
 >Demonym(s):
->Dominant Culture: [[Cultures/Ber|Ber]]
+>Dominant Culture: [[Setting/Cultures/Ber|Ber]]
 >Dominant Religion:
 
 # History

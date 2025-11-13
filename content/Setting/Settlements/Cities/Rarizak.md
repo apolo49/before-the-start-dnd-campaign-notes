@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Rarizak
 >###### City
->Country: [[Nations/Echeh|Echeh]]
+>Country: [[Setting/Nations/Echeh|Echeh]]
 >Established:
 >Area:
 >Elevation: 961m
 >Population: 112,194
 >Demonym(s):
->Dominant Culture: [[Cultures/Kufa|Kufa]]
+>Dominant Culture: [[Setting/Cultures/Kufa|Kufa]]
 >Dominant Religion:
 
 # History

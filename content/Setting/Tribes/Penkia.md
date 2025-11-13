@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Penkia
 >Tribe
->Capital: [[Villages/Altbury|Altbury]]
->Largest Settlement: [[Villages/Altbury|Altbury]]
+>Capital: [[Setting/Settlements/Villages/Altbury|Altbury]]
+>Largest Settlement: [[Setting/Settlements/Villages/Altbury|Altbury]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Altbury|Altbury]]
+- [[Setting/Settlements/Villages/Altbury|Altbury]]
 
 # Cultures in Borders
 
-- [[Cultures/Wildlands|Wildlands]]
+- [[Setting/Cultures/Wildlands|Wildlands]]
 

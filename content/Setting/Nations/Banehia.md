@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Banehia
 >Civilised
->Capital: [[Cities/Bafran|Bafran]]
->Largest Settlement: [[Cities/Bafran|Bafran]]
+>Capital: [[Setting/Settlements/Cities/Bafran|Bafran]]
+>Largest Settlement: [[Setting/Settlements/Cities/Bafran|Bafran]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Bafran|Bafran]]
+- [[Setting/Settlements/Cities/Bafran|Bafran]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

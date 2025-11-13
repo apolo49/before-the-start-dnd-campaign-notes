@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Horn
 >Tribe
->Capital: [[Villages/Schapengen|Schapengen]]
->Largest Settlement: [[Villages/Schapengen|Schapengen]]
+>Capital: [[Setting/Settlements/Villages/Schapengen|Schapengen]]
+>Largest Settlement: [[Setting/Settlements/Villages/Schapengen|Schapengen]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Schapengen|Schapengen]]
+- [[Setting/Settlements/Villages/Schapengen|Schapengen]]
 
 # Cultures in Borders
 
-- [[Cultures/Bieiamten|Bieiamten]]
+- [[Setting/Cultures/Bieiamten|Bieiamten]]
 

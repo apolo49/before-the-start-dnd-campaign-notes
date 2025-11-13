@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Ponsia
 >Tribe
->Capital: [[Villages/Abercasthin|Abercasthin]]
->Largest Settlement: [[Villages/Abercasthin|Abercasthin]]
+>Capital: [[Setting/Settlements/Villages/Abercasthin|Abercasthin]]
+>Largest Settlement: [[Setting/Settlements/Villages/Abercasthin|Abercasthin]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Abercasthin|Abercasthin]]
+- [[Setting/Settlements/Villages/Abercasthin|Abercasthin]]
 
 # Cultures in Borders
 
-- [[Cultures/Calaw|Calaw]]
+- [[Setting/Cultures/Calaw|Calaw]]
 

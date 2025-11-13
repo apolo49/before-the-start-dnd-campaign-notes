@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Tambi
 >Civilised
->Capital: [[Cities/Kanchmaketu|Kanchmaketu]]
->Largest Settlement: [[Cities/Kanchmaketu|Kanchmaketu]]
+>Capital: [[Setting/Settlements/Cities/Kanchmaketu|Kanchmaketu]]
+>Largest Settlement: [[Setting/Settlements/Cities/Kanchmaketu|Kanchmaketu]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Kanchmaketu|Kanchmaketu]]
+- [[Setting/Settlements/Cities/Kanchmaketu|Kanchmaketu]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Vaishasi|Vaishasi]]
+- [[Setting/Cultures/Vaishasi|Vaishasi]]
 

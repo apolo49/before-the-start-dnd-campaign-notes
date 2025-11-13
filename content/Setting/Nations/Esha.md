@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Esha
 >Civilised
->Capital: [[Villages/Saghadafa|Saghadafa]]
->Largest Settlement: [[Villages/Saghadafa|Saghadafa]]
+>Capital: [[Setting/Settlements/Villages/Saghadafa|Saghadafa]]
+>Largest Settlement: [[Setting/Settlements/Villages/Saghadafa|Saghadafa]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Saghadafa|Saghadafa]]
+- [[Setting/Settlements/Villages/Saghadafa|Saghadafa]]
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

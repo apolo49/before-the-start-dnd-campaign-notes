@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Vogts
 >Tribe
->Capital: [[Villages/Schraiersb|Schraiersb]]
->Largest Settlement: [[Villages/Schraiersb|Schraiersb]]
+>Capital: [[Setting/Settlements/Villages/Schraiersb|Schraiersb]]
+>Largest Settlement: [[Setting/Settlements/Villages/Schraiersb|Schraiersb]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Schraiersb|Schraiersb]]
+- [[Setting/Settlements/Villages/Schraiersb|Schraiersb]]
 
 # Cultures in Borders
 
-- [[Cultures/Herwihl|Herwihl]]
+- [[Setting/Cultures/Herwihl|Herwihl]]
 

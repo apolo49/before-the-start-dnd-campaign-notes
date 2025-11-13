@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Saiesia
 >Civilised
->Capital: [[Cities/Myros|Myros]]
->Largest Settlement: [[Cities/Myros|Myros]]
+>Capital: [[Setting/Settlements/Cities/Myros|Myros]]
+>Largest Settlement: [[Setting/Settlements/Cities/Myros|Myros]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Myros|Myros]]
+- [[Setting/Settlements/Cities/Myros|Myros]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Brauron|Brauron]]
+- [[Setting/Cultures/Brauron|Brauron]]
 

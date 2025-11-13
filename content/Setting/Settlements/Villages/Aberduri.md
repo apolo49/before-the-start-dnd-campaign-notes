@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Aberduri
 >###### Capital City
->Country: [[Tribes/Fhlia|Fhlia]]
+>Country: [[Setting/Tribes/Fhlia|Fhlia]]
 >Established:
 >Area:
 >Elevation: 729m
 >Population: 3,396
 >Demonym(s):
->Dominant Culture: [[Cultures/Treaberc|Treaberc]]
+>Dominant Culture: [[Setting/Cultures/Treaberc|Treaberc]]
 >Dominant Religion:
 
 # History

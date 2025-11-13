@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Asja
 >Tribe
->Capital: [[Villages/Souarda|Souarda]]
->Largest Settlement: [[Villages/Souarda|Souarda]]
+>Capital: [[Setting/Settlements/Villages/Souarda|Souarda]]
+>Largest Settlement: [[Setting/Settlements/Villages/Souarda|Souarda]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Souarda|Souarda]]
+- [[Setting/Settlements/Villages/Souarda|Souarda]]
 
 # Cultures in Borders
 
-- [[Cultures/Ber|Ber]]
+- [[Setting/Cultures/Ber|Ber]]
 

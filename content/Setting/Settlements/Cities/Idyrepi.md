@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Idyrepi
 >###### Capital City
->Country: [[Nations/Trizepia|Trizepia]]
+>Country: [[Setting/Nations/Trizepia|Trizepia]]
 >Established:
 >Area:
 >Elevation: 1225m
 >Population: 28,173
 >Demonym(s):
->Dominant Culture: [[Cultures/Nymphid|Nymphid]]
+>Dominant Culture: [[Setting/Cultures/Nymphid|Nymphid]]
 >Dominant Religion:
 
 # History

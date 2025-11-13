@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Bonland
 >Tribe
->Capital: [[Villages/Fortalfach|Fortalfach]]
->Largest Settlement: [[Villages/Fortalfach|Fortalfach]]
+>Capital: [[Setting/Settlements/Villages/Fortalfach|Fortalfach]]
+>Largest Settlement: [[Setting/Settlements/Villages/Fortalfach|Fortalfach]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Fortalfach|Fortalfach]]
+- [[Setting/Settlements/Villages/Fortalfach|Fortalfach]]
 
 # Cultures in Borders
 
-- [[Cultures/Bieiamten|Bieiamten]]
+- [[Setting/Cultures/Bieiamten|Bieiamten]]
 

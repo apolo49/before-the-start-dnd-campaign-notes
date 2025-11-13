@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Losfeldberg
 >Tribe
->Capital: [[Villages/Losfeldberg|Losfeldberg]]
->Largest Settlement: [[Villages/Losfeldberg|Losfeldberg]]
+>Capital: [[Setting/Settlements/Villages/Losfeldberg|Losfeldberg]]
+>Largest Settlement: [[Setting/Settlements/Villages/Losfeldberg|Losfeldberg]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Losfeldberg|Losfeldberg]]
+- [[Setting/Settlements/Villages/Losfeldberg|Losfeldberg]]
 
 # Cultures in Borders
 
-- [[Cultures/Lahrwol|Lahrwol]]
+- [[Setting/Cultures/Lahrwol|Lahrwol]]
 

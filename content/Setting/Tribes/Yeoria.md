@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Yeoria
 >Tribe
->Capital: [[Villages/Noryteston|Noryteston]]
->Largest Settlement: [[Villages/Noryteston|Noryteston]]
+>Capital: [[Setting/Settlements/Villages/Noryteston|Noryteston]]
+>Largest Settlement: [[Setting/Settlements/Villages/Noryteston|Noryteston]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Noryteston|Noryteston]]
+- [[Setting/Settlements/Villages/Noryteston|Noryteston]]
 
 # Cultures in Borders
 
-- [[Cultures/Wildlands|Wildlands]]
+- [[Setting/Cultures/Wildlands|Wildlands]]
 

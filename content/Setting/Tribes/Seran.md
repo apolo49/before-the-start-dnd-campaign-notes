@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Seran
 >Tribe
->Capital: [[Villages/Inbhileanver|Inbhileanver]]
->Largest Settlement: [[Villages/Inbhileanver|Inbhileanver]]
+>Capital: [[Setting/Settlements/Villages/Inbhileanver|Inbhileanver]]
+>Largest Settlement: [[Setting/Settlements/Villages/Inbhileanver|Inbhileanver]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Inbhileanver|Inbhileanver]]
+- [[Setting/Settlements/Villages/Inbhileanver|Inbhileanver]]
 
 # Cultures in Borders
 
-- [[Cultures/Calaw|Calaw]]
+- [[Setting/Cultures/Calaw|Calaw]]
 

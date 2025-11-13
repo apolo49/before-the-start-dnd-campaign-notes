@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Stuh
 >Tribe
->Capital: [[Villages/Waldrach|Waldrach]]
->Largest Settlement: [[Villages/Waldrach|Waldrach]]
+>Capital: [[Setting/Settlements/Villages/Waldrach|Waldrach]]
+>Largest Settlement: [[Setting/Settlements/Villages/Waldrach|Waldrach]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Waldrach|Waldrach]]
+- [[Setting/Settlements/Villages/Waldrach|Waldrach]]
 
 # Cultures in Borders
 
-- [[Cultures/Hofswald|Hofswald]]
+- [[Setting/Cultures/Hofswald|Hofswald]]
 

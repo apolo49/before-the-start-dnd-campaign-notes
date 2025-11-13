@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Nia
 >Civilised
->Capital: [[Villages/Kesh|Kesh]]
->Largest Settlement: [[Villages/Kesh|Kesh]]
+>Capital: [[Setting/Settlements/Villages/Kesh|Kesh]]
+>Largest Settlement: [[Setting/Settlements/Villages/Kesh|Kesh]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Kesh|Kesh]]
+- [[Setting/Settlements/Villages/Kesh|Kesh]]
 
 # Cultures in Borders
 
-- [[Cultures/Sigenos|Sigenos]]
+- [[Setting/Cultures/Sigenos|Sigenos]]
 

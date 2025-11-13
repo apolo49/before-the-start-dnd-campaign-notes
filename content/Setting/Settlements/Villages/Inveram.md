@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Inveram
 >###### Capital City
->Country: [[Tribes/Inve|Inve]]
+>Country: [[Setting/Tribes/Inve|Inve]]
 >Established:
 >Area:
 >Elevation: 1156m
 >Population: 2,871
 >Demonym(s):
->Dominant Culture: [[Cultures/Bleduro|Bleduro]]
+>Dominant Culture: [[Setting/Cultures/Bleduro|Bleduro]]
 >Dominant Religion:
 
 # History

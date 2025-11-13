@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Shafusia
 >Civilised
->Capital: [[Villages/Pishjatig|Pishjatig]]
->Largest Settlement: [[Villages/Pishjatig|Pishjatig]]
+>Capital: [[Setting/Settlements/Villages/Pishjatig|Pishjatig]]
+>Largest Settlement: [[Setting/Settlements/Villages/Pishjatig|Pishjatig]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Pishjatig|Pishjatig]]
+- [[Setting/Settlements/Villages/Pishjatig|Pishjatig]]
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Steinia
 >Tribe
->Capital: [[Villages/Bollstet|Bollstet]]
->Largest Settlement: [[Villages/Bollstet|Bollstet]]
+>Capital: [[Setting/Settlements/Villages/Bollstet|Bollstet]]
+>Largest Settlement: [[Setting/Settlements/Villages/Bollstet|Bollstet]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Bollstet|Bollstet]]
+- [[Setting/Settlements/Villages/Bollstet|Bollstet]]
 
 # Cultures in Borders
 
-- [[Cultures/Hofswald|Hofswald]]
+- [[Setting/Cultures/Hofswald|Hofswald]]
 

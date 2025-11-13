@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Nashad
 >Civilised
->Capital: [[Cities/Absardrud|Absardrud]]
->Largest Settlement: [[Cities/Absardrud|Absardrud]]
+>Capital: [[Setting/Settlements/Cities/Absardrud|Absardrud]]
+>Largest Settlement: [[Setting/Settlements/Cities/Absardrud|Absardrud]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Absardrud|Absardrud]]
+- [[Setting/Settlements/Cities/Absardrud|Absardrud]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Shustun
 >Civilised
->Capital: [[Cities/Shustun|Shustun]]
->Largest Settlement: [[Cities/Shustun|Shustun]]
+>Capital: [[Setting/Settlements/Cities/Shustun|Shustun]]
+>Largest Settlement: [[Setting/Settlements/Cities/Shustun|Shustun]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Shustun|Shustun]]
+- [[Setting/Settlements/Cities/Shustun|Shustun]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

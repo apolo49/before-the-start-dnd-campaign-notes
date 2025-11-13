@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Pfalz
 >Tribe
->Capital: [[Villages/Heinach|Heinach]]
->Largest Settlement: [[Villages/Heinach|Heinach]]
+>Capital: [[Setting/Settlements/Villages/Heinach|Heinach]]
+>Largest Settlement: [[Setting/Settlements/Villages/Heinach|Heinach]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Heinach|Heinach]]
+- [[Setting/Settlements/Villages/Heinach|Heinach]]
 
 # Cultures in Borders
 
-- [[Cultures/Kusteter|Kusteter]]
+- [[Setting/Cultures/Kusteter|Kusteter]]
 

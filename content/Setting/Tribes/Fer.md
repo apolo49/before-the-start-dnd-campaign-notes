@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Fer
 >Tribe
->Capital: [[Villages/Inverdaughi|Inverdaughi]]
->Largest Settlement: [[Villages/Inverdaughi|Inverdaughi]]
+>Capital: [[Setting/Settlements/Villages/Inverdaughi|Inverdaughi]]
+>Largest Settlement: [[Setting/Settlements/Villages/Inverdaughi|Inverdaughi]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Inverdaughi|Inverdaughi]]
+- [[Setting/Settlements/Villages/Inverdaughi|Inverdaughi]]
 
 # Cultures in Borders
 
-- [[Cultures/Indyrgow|Indyrgow]]
+- [[Setting/Cultures/Indyrgow|Indyrgow]]
 

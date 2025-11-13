@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Trizepia
 >Civilised
->Capital: [[Cities/Idyrepi|Idyrepi]]
->Largest Settlement: [[Cities/Idyrepi|Idyrepi]]
+>Capital: [[Setting/Settlements/Cities/Idyrepi|Idyrepi]]
+>Largest Settlement: [[Setting/Settlements/Cities/Idyrepi|Idyrepi]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Idyrepi|Idyrepi]]
+- [[Setting/Settlements/Cities/Idyrepi|Idyrepi]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Nymphid|Nymphid]]
+- [[Setting/Cultures/Nymphid|Nymphid]]
 

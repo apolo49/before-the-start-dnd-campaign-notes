@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Dorngen
 >Tribe
->Capital: [[Villages/Dorngen|Dorngen]]
->Largest Settlement: [[Villages/Dorngen|Dorngen]]
+>Capital: [[Setting/Settlements/Villages/Dorngen|Dorngen]]
+>Largest Settlement: [[Setting/Settlements/Villages/Dorngen|Dorngen]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Dorngen|Dorngen]]
+- [[Setting/Settlements/Villages/Dorngen|Dorngen]]
 
 # Cultures in Borders
 
-- [[Cultures/Steinbach|Steinbach]]
+- [[Setting/Cultures/Steinbach|Steinbach]]
 

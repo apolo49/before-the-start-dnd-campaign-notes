@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Bustun
 >Civilised
->Capital: [[Cities/Shala|Shala]]
->Largest Settlement: [[Cities/Shala|Shala]]
+>Capital: [[Setting/Settlements/Cities/Shala|Shala]]
+>Largest Settlement: [[Setting/Settlements/Cities/Shala|Shala]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Shala|Shala]]
+- [[Setting/Settlements/Cities/Shala|Shala]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

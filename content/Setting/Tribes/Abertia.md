@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Abertia
 >Tribe
->Capital: [[Villages/Brira|Brira]]
->Largest Settlement: [[Villages/Brira|Brira]]
+>Capital: [[Setting/Settlements/Villages/Brira|Brira]]
+>Largest Settlement: [[Setting/Settlements/Villages/Brira|Brira]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Brira|Brira]]
+- [[Setting/Settlements/Villages/Brira|Brira]]
 
 # Cultures in Borders
 
-- [[Cultures/Cedi|Cedi]]
+- [[Setting/Cultures/Cedi|Cedi]]
 

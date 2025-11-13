@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Hali
 >Civilised
->Capital: [[Villages/Hatompybid|Hatompybid]]
->Largest Settlement: [[Villages/Hatompybid|Hatompybid]]
+>Capital: [[Setting/Settlements/Villages/Hatompybid|Hatompybid]]
+>Largest Settlement: [[Setting/Settlements/Villages/Hatompybid|Hatompybid]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Hatompybid|Hatompybid]]
+- [[Setting/Settlements/Villages/Hatompybid|Hatompybid]]
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

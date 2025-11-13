@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Jaha
 >Civilised
->Capital: [[Cities/Negan|Negan]]
->Largest Settlement: [[Cities/Negan|Negan]]
+>Capital: [[Setting/Settlements/Cities/Negan|Negan]]
+>Largest Settlement: [[Setting/Settlements/Cities/Negan|Negan]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Negan|Negan]]
+- [[Setting/Settlements/Cities/Negan|Negan]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

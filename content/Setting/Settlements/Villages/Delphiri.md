@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Delphiri
 >###### Village
->Country: [[Nations/Solara|Solara]]
+>Country: [[Setting/Nations/Solara|Solara]]
 >Established:
 >Area:
 >Elevation: 961m
 >Population: 3,337
 >Demonym(s):
->Dominant Culture: [[Cultures/Kastias|Kastias]]
+>Dominant Culture: [[Setting/Cultures/Kastias|Kastias]]
 >Dominant Religion:
 
 # History

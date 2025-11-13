@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Kehlia
 >Tribe
->Capital: [[Villages/Rheisenfel|Rheisenfel]]
->Largest Settlement: [[Villages/Rheisenfel|Rheisenfel]]
+>Capital: [[Setting/Settlements/Villages/Rheisenfel|Rheisenfel]]
+>Largest Settlement: [[Setting/Settlements/Villages/Rheisenfel|Rheisenfel]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Rheisenfel|Rheisenfel]]
+- [[Setting/Settlements/Villages/Rheisenfel|Rheisenfel]]
 
 # Cultures in Borders
 
-- [[Cultures/Horngenhau|Horngenhau]]
+- [[Setting/Cultures/Horngenhau|Horngenhau]]
 

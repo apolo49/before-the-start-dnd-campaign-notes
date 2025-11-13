@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Blum
 >Tribe
->Capital: [[Villages/Dotlingen|Dotlingen]]
->Largest Settlement: [[Villages/Dotlingen|Dotlingen]]
+>Capital: [[Setting/Settlements/Villages/Dotlingen|Dotlingen]]
+>Largest Settlement: [[Setting/Settlements/Villages/Dotlingen|Dotlingen]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Dotlingen|Dotlingen]]
+- [[Setting/Settlements/Villages/Dotlingen|Dotlingen]]
 
 # Cultures in Borders
 
-- [[Cultures/Lahrwol|Lahrwol]]
+- [[Setting/Cultures/Lahrwol|Lahrwol]]
 

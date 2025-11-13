@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Stuhland
 >Tribe
->Capital: [[Villages/Steingen|Steingen]]
->Largest Settlement: [[Villages/Steingen|Steingen]]
+>Capital: [[Setting/Settlements/Villages/Steingen|Steingen]]
+>Largest Settlement: [[Setting/Settlements/Villages/Steingen|Steingen]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Steingen|Steingen]]
+- [[Setting/Settlements/Villages/Steingen|Steingen]]
 
 # Cultures in Borders
 
-- [[Cultures/Blum|Blum]]
+- [[Setting/Cultures/Blum|Blum]]
 

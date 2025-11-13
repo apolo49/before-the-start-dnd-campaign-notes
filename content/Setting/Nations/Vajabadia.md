@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Vajabadia
 >Civilised
->Capital: [[Villages/Vajabad|Vajabad]]
->Largest Settlement: [[Villages/Vajabad|Vajabad]]
+>Capital: [[Setting/Settlements/Villages/Vajabad|Vajabad]]
+>Largest Settlement: [[Setting/Settlements/Villages/Vajabad|Vajabad]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Vajabad|Vajabad]]
+- [[Setting/Settlements/Villages/Vajabad|Vajabad]]
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

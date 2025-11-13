@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Chaia
 >Civilised
->Capital: [[Cities/Diontilip|Diontilip]]
->Largest Settlement: [[Cities/Diontilip|Diontilip]]
+>Capital: [[Setting/Settlements/Cities/Diontilip|Diontilip]]
+>Largest Settlement: [[Setting/Settlements/Cities/Diontilip|Diontilip]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Diontilip|Diontilip]]
+- [[Setting/Settlements/Cities/Diontilip|Diontilip]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Hubde|Hubde]]
+- [[Setting/Cultures/Hubde|Hubde]]
 

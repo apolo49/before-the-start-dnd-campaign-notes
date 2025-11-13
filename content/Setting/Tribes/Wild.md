@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Wild
 >Tribe
->Capital: [[Villages/Frenbach|Frenbach]]
->Largest Settlement: [[Villages/Frenbach|Frenbach]]
+>Capital: [[Setting/Settlements/Villages/Frenbach|Frenbach]]
+>Largest Settlement: [[Setting/Settlements/Villages/Frenbach|Frenbach]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Frenbach|Frenbach]]
+- [[Setting/Settlements/Villages/Frenbach|Frenbach]]
 
 # Cultures in Borders
 
-- [[Cultures/Hofswald|Hofswald]]
+- [[Setting/Cultures/Hofswald|Hofswald]]
 

@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Ziarsia
 >Civilised
->Capital: [[Cities/Guzey|Guzey]]
->Largest Settlement: [[Cities/Guzey|Guzey]]
+>Capital: [[Setting/Settlements/Cities/Guzey|Guzey]]
+>Largest Settlement: [[Setting/Settlements/Cities/Guzey|Guzey]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Guzey|Guzey]]
+- [[Setting/Settlements/Cities/Guzey|Guzey]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

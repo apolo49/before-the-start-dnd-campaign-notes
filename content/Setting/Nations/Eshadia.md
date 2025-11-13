@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Eshadia
 >Civilised
->Capital: [[Villages/Kuhehregan|Kuhehregan]]
->Largest Settlement: [[Villages/Kuhehregan|Kuhehregan]]
+>Capital: [[Setting/Settlements/Villages/Kuhehregan|Kuhehregan]]
+>Largest Settlement: [[Setting/Settlements/Villages/Kuhehregan|Kuhehregan]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Kuhehregan|Kuhehregan]]
+- [[Setting/Settlements/Villages/Kuhehregan|Kuhehregan]]
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

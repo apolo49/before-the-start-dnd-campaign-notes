@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Banarand
 >###### Capital City
->Country: [[Nations/Estania|Estania]]
+>Country: [[Setting/Nations/Estania|Estania]]
 >Established:
 >Area:
 >Elevation: 1369m
 >Population: 49,573
 >Demonym(s):
->Dominant Culture: [[Cultures/Kufa|Kufa]]
+>Dominant Culture: [[Setting/Cultures/Kufa|Kufa]]
 >Dominant Religion:
 
 # History

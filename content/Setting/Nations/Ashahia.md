@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Ashahia
 >Civilised
->Capital: [[Villages/Depesiziche|Depesiziche]]
->Largest Settlement: [[Villages/Depesiziche|Depesiziche]]
+>Capital: [[Setting/Settlements/Villages/Depesiziche|Depesiziche]]
+>Largest Settlement: [[Setting/Settlements/Villages/Depesiziche|Depesiziche]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Depesiziche|Depesiziche]]
+- [[Setting/Settlements/Villages/Depesiziche|Depesiziche]]
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

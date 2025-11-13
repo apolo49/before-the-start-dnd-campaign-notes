@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Endorf
 >Tribe
->Capital: [[Villages/Geimelternwe|Geimelternwe]]
->Largest Settlement: [[Villages/Geimelternwe|Geimelternwe]]
+>Capital: [[Setting/Settlements/Villages/Geimelternwe|Geimelternwe]]
+>Largest Settlement: [[Setting/Settlements/Villages/Geimelternwe|Geimelternwe]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Geimelternwe|Geimelternwe]]
+- [[Setting/Settlements/Villages/Geimelternwe|Geimelternwe]]
 
 # Cultures in Borders
 
-- [[Cultures/Witenter|Witenter]]
+- [[Setting/Cultures/Witenter|Witenter]]
 

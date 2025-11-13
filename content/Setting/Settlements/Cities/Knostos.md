@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Knostos
 >###### City
->Country: [[Nations/Solara|Solara]]
+>Country: [[Setting/Nations/Solara|Solara]]
 >Established:
 >Area:
 >Elevation: 400m
 >Population: 52,038
 >Demonym(s):
->Dominant Culture: [[Cultures/Thes|Thes]]
+>Dominant Culture: [[Setting/Cultures/Thes|Thes]]
 >Dominant Religion:
 
 # History

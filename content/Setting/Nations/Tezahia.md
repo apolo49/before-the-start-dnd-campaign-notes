@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Tezahia
 >Civilised
->Capital: [[Villages/Baleresheru|Baleresheru]]
->Largest Settlement: [[Villages/Baleresheru|Baleresheru]]
+>Capital: [[Setting/Settlements/Villages/Baleresheru|Baleresheru]]
+>Largest Settlement: [[Setting/Settlements/Villages/Baleresheru|Baleresheru]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Baleresheru|Baleresheru]]
+- [[Setting/Settlements/Villages/Baleresheru|Baleresheru]]
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Dodbia
 >Tribe
->Capital: [[Villages/Fihuldon|Fihuldon]]
->Largest Settlement: [[Villages/Fihuldon|Fihuldon]]
+>Capital: [[Setting/Settlements/Villages/Fihuldon|Fihuldon]]
+>Largest Settlement: [[Setting/Settlements/Villages/Fihuldon|Fihuldon]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Fihuldon|Fihuldon]]
+- [[Setting/Settlements/Villages/Fihuldon|Fihuldon]]
 
 # Cultures in Borders
 
-- [[Cultures/Wildlands|Wildlands]]
+- [[Setting/Cultures/Wildlands|Wildlands]]
 

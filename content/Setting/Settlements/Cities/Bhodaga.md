@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Bhodaga
 >###### Capital City
->Country: [[Nations/Baisia|Baisia]]
+>Country: [[Setting/Nations/Baisia|Baisia]]
 >Established:
 >Area:
 >Elevation: 1024m
 >Population: 48,712
 >Demonym(s):
->Dominant Culture: [[Cultures/Vaishasi|Vaishasi]]
+>Dominant Culture: [[Setting/Cultures/Vaishasi|Vaishasi]]
 >Dominant Religion:
 
 # History

@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Psycheia
 >Civilised
->Capital: [[Cities/Peratos|Peratos]]
->Largest Settlement: [[Cities/Peratos|Peratos]]
+>Capital: [[Setting/Settlements/Cities/Peratos|Peratos]]
+>Largest Settlement: [[Setting/Settlements/Cities/Peratos|Peratos]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Peratos|Peratos]]
+- [[Setting/Settlements/Cities/Peratos|Peratos]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Lampia|Lampia]]
+- [[Setting/Cultures/Lampia|Lampia]]
 

@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Hana
 >Civilised
->Capital: [[Cities/Miandasht|Miandasht]]
->Largest Settlement: [[Cities/Miandasht|Miandasht]]
+>Capital: [[Setting/Settlements/Cities/Miandasht|Miandasht]]
+>Largest Settlement: [[Setting/Settlements/Cities/Miandasht|Miandasht]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Miandasht|Miandasht]]
+- [[Setting/Settlements/Cities/Miandasht|Miandasht]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

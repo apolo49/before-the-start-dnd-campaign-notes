@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Marwolrech
 >Tribe
->Capital: [[Villages/Marwolrech|Marwolrech]]
->Largest Settlement: [[Villages/Marwolrech|Marwolrech]]
+>Capital: [[Setting/Settlements/Villages/Marwolrech|Marwolrech]]
+>Largest Settlement: [[Setting/Settlements/Villages/Marwolrech|Marwolrech]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Marwolrech|Marwolrech]]
+- [[Setting/Settlements/Villages/Marwolrech|Marwolrech]]
 
 # Cultures in Borders
 
-- [[Cultures/Freiburg|Freiburg]]
+- [[Setting/Cultures/Freiburg|Freiburg]]
 

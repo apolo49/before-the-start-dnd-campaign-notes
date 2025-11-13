@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Pons
 >Tribe
->Capital: [[Villages/Bourosadh|Bourosadh]]
->Largest Settlement: [[Villages/Bourosadh|Bourosadh]]
+>Capital: [[Setting/Settlements/Villages/Bourosadh|Bourosadh]]
+>Largest Settlement: [[Setting/Settlements/Villages/Bourosadh|Bourosadh]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Bourosadh|Bourosadh]]
+- [[Setting/Settlements/Villages/Bourosadh|Bourosadh]]
 
 # Cultures in Borders
 
-- [[Cultures/Cabe|Cabe]]
+- [[Setting/Cultures/Cabe|Cabe]]
 

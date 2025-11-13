@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Achicia
 >Tribe
->Capital: [[Villages/Duia|Duia]]
->Largest Settlement: [[Villages/Duia|Duia]]
+>Capital: [[Setting/Settlements/Villages/Duia|Duia]]
+>Largest Settlement: [[Setting/Settlements/Villages/Duia|Duia]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Duia|Duia]]
+- [[Setting/Settlements/Villages/Duia|Duia]]
 
 # Cultures in Borders
 
-- [[Cultures/Invermayfi|Invermayfi]]
+- [[Setting/Cultures/Invermayfi|Invermayfi]]
 

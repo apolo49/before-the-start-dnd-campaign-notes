@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Pabad
 >Civilised
->Capital: [[Cities/Pabad|Pabad]]
->Largest Settlement: [[Cities/Pabad|Pabad]]
+>Capital: [[Setting/Settlements/Cities/Pabad|Pabad]]
+>Largest Settlement: [[Setting/Settlements/Cities/Pabad|Pabad]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Pabad|Pabad]]
+- [[Setting/Settlements/Cities/Pabad|Pabad]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

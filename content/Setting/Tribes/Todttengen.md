@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Todttengen
 >Tribe
->Capital: [[Villages/Todttengen|Todttengen]]
->Largest Settlement: [[Villages/Todttengen|Todttengen]]
+>Capital: [[Setting/Settlements/Villages/Todttengen|Todttengen]]
+>Largest Settlement: [[Setting/Settlements/Villages/Todttengen|Todttengen]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Todttengen|Todttengen]]
+- [[Setting/Settlements/Villages/Todttengen|Todttengen]]
 
 # Cultures in Borders
 
-- [[Cultures/Hofswald|Hofswald]]
+- [[Setting/Cultures/Hofswald|Hofswald]]
 

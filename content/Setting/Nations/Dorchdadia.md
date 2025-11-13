@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Dorchdadia
 >Civilised
->Capital: [[Cities/Dorchdad|Dorchdad]]
->Largest Settlement: [[Cities/Dorchdad|Dorchdad]]
+>Capital: [[Setting/Settlements/Cities/Dorchdad|Dorchdad]]
+>Largest Settlement: [[Setting/Settlements/Cities/Dorchdad|Dorchdad]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Dorchdad|Dorchdad]]
+- [[Setting/Settlements/Cities/Dorchdad|Dorchdad]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

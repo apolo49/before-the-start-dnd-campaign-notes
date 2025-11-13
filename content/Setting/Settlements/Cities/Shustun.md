@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Shustun
 >###### Capital City
->Country: [[Nations/Shustun|Shustun]]
+>Country: [[Setting/Nations/Shustun|Shustun]]
 >Established:
 >Area:
 >Elevation: 1369m
 >Population: 36,359
 >Demonym(s):
->Dominant Culture: [[Cultures/Kufa|Kufa]]
+>Dominant Culture: [[Setting/Cultures/Kufa|Kufa]]
 >Dominant Religion:
 
 # History

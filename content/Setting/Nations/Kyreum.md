@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Kyreum
 >Civilised
->Capital: [[Cities/Neaca|Neaca]]
->Largest Settlement: [[Cities/Neaca|Neaca]]
+>Capital: [[Setting/Settlements/Cities/Neaca|Neaca]]
+>Largest Settlement: [[Setting/Settlements/Cities/Neaca|Neaca]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Neaca|Neaca]]
+- [[Setting/Settlements/Cities/Neaca|Neaca]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Porigost|Porigost]]
+- [[Setting/Cultures/Porigost|Porigost]]
 

@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Abeia
 >Tribe
->Capital: [[Villages/Kranavonver|Kranavonver]]
->Largest Settlement: [[Villages/Kranavonver|Kranavonver]]
+>Capital: [[Setting/Settlements/Villages/Kranavonver|Kranavonver]]
+>Largest Settlement: [[Setting/Settlements/Villages/Kranavonver|Kranavonver]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Kranavonver|Kranavonver]]
+- [[Setting/Settlements/Villages/Kranavonver|Kranavonver]]
 
 # Cultures in Borders
 
-- [[Cultures/Ebheartei|Ebheartei]]
+- [[Setting/Cultures/Ebheartei|Ebheartei]]
 

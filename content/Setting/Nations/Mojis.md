@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Mojis
 >Civilised
->Capital: [[Villages/Kezhanayara|Kezhanayara]]
->Largest Settlement: [[Villages/Kezhanayara|Kezhanayara]]
+>Capital: [[Setting/Settlements/Villages/Kezhanayara|Kezhanayara]]
+>Largest Settlement: [[Setting/Settlements/Villages/Kezhanayara|Kezhanayara]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Kezhanayara|Kezhanayara]]
+- [[Setting/Settlements/Villages/Kezhanayara|Kezhanayara]]
 
 # Cultures in Borders
 
-- [[Cultures/Vaishasi|Vaishasi]]
+- [[Setting/Cultures/Vaishasi|Vaishasi]]
 

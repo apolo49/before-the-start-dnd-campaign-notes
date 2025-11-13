@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Dezkuhia
 >Civilised
->Capital: [[Cities/Gorjobasa|Gorjobasa]]
->Largest Settlement: [[Cities/Gorjobasa|Gorjobasa]]
+>Capital: [[Setting/Settlements/Cities/Gorjobasa|Gorjobasa]]
+>Largest Settlement: [[Setting/Settlements/Cities/Gorjobasa|Gorjobasa]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Gorjobasa|Gorjobasa]]
+- [[Setting/Settlements/Cities/Gorjobasa|Gorjobasa]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

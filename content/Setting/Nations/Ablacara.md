@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Ablacara
 >Civilised
->Capital: [[Cities/Ablacara|Ablacara]]
->Largest Settlement: [[Cities/Ablacara|Ablacara]]
+>Capital: [[Setting/Settlements/Cities/Ablacara|Ablacara]]
+>Largest Settlement: [[Setting/Settlements/Cities/Ablacara|Ablacara]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Ablacara|Ablacara]]
+- [[Setting/Settlements/Cities/Ablacara|Ablacara]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Amphi|Amphi]]
+- [[Setting/Cultures/Amphi|Amphi]]
 

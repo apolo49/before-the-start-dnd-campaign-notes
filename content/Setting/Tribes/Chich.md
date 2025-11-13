@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Chich
 >Tribe
->Capital: [[Villages/Uxbridle|Uxbridle]]
->Largest Settlement: [[Villages/Uxbridle|Uxbridle]]
+>Capital: [[Setting/Settlements/Villages/Uxbridle|Uxbridle]]
+>Largest Settlement: [[Setting/Settlements/Villages/Uxbridle|Uxbridle]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Uxbridle|Uxbridle]]
+- [[Setting/Settlements/Villages/Uxbridle|Uxbridle]]
 
 # Cultures in Borders
 
-- [[Cultures/Wildlands|Wildlands]]
+- [[Setting/Cultures/Wildlands|Wildlands]]
 

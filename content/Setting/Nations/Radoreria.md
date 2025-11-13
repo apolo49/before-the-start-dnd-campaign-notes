@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Radoreria
 >Civilised
->Capital: [[Villages/Radoreri|Radoreri]]
->Largest Settlement: [[Villages/Radoreri|Radoreri]]
+>Capital: [[Setting/Settlements/Villages/Radoreri|Radoreri]]
+>Largest Settlement: [[Setting/Settlements/Villages/Radoreri|Radoreri]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Radoreri|Radoreri]]
+- [[Setting/Settlements/Villages/Radoreri|Radoreri]]
 
 # Cultures in Borders
 
-- [[Cultures/Vaishasi|Vaishasi]]
+- [[Setting/Cultures/Vaishasi|Vaishasi]]
 

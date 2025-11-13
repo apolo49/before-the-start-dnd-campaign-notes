@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Griesia
 >Tribe
->Capital: [[Villages/Lahrkengen|Lahrkengen]]
->Largest Settlement: [[Villages/Lahrkengen|Lahrkengen]]
+>Capital: [[Setting/Settlements/Villages/Lahrkengen|Lahrkengen]]
+>Largest Settlement: [[Setting/Settlements/Villages/Lahrkengen|Lahrkengen]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Lahrkengen|Lahrkengen]]
+- [[Setting/Settlements/Villages/Lahrkengen|Lahrkengen]]
 
 # Cultures in Borders
 
-- [[Cultures/Steinbach|Steinbach]]
+- [[Setting/Cultures/Steinbach|Steinbach]]
 

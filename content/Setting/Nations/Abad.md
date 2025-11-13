@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Abad
 >Civilised
->Capital: [[Cities/Rafus|Rafus]]
->Largest Settlement: [[Cities/Rafus|Rafus]]
+>Capital: [[Setting/Settlements/Cities/Rafus|Rafus]]
+>Largest Settlement: [[Setting/Settlements/Cities/Rafus|Rafus]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Rafus|Rafus]]
+- [[Setting/Settlements/Cities/Rafus|Rafus]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

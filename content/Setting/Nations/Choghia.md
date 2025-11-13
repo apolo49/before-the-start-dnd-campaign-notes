@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Choghia
 >Civilised
->Capital: [[Cities/Chadasht|Chadasht]]
->Largest Settlement: [[Cities/Chadasht|Chadasht]]
+>Capital: [[Setting/Settlements/Cities/Chadasht|Chadasht]]
+>Largest Settlement: [[Setting/Settlements/Cities/Chadasht|Chadasht]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Chadasht|Chadasht]]
+- [[Setting/Settlements/Cities/Chadasht|Chadasht]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

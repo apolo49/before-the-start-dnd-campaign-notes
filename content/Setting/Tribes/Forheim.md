@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Forheim
 >Tribe
->Capital: [[Villages/Forheim|Forheim]]
->Largest Settlement: [[Villages/Forheim|Forheim]]
+>Capital: [[Setting/Settlements/Villages/Forheim|Forheim]]
+>Largest Settlement: [[Setting/Settlements/Villages/Forheim|Forheim]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Forheim|Forheim]]
+- [[Setting/Settlements/Villages/Forheim|Forheim]]
 
 # Cultures in Borders
 
-- [[Cultures/Schilden|Schilden]]
+- [[Setting/Cultures/Schilden|Schilden]]
 

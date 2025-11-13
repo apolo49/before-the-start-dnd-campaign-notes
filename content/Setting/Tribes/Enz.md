@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Enz
 >Tribe
->Capital: [[Villages/Gernsfeldsau|Gernsfeldsau]]
->Largest Settlement: [[Villages/Gernsfeldsau|Gernsfeldsau]]
+>Capital: [[Setting/Settlements/Villages/Gernsfeldsau|Gernsfeldsau]]
+>Largest Settlement: [[Setting/Settlements/Villages/Gernsfeldsau|Gernsfeldsau]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Gernsfeldsau|Gernsfeldsau]]
+- [[Setting/Settlements/Villages/Gernsfeldsau|Gernsfeldsau]]
 
 # Cultures in Borders
 
-- [[Cultures/Horngenhau|Horngenhau]]
+- [[Setting/Cultures/Horngenhau|Horngenhau]]
 

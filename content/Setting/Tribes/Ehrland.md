@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Ehrland
 >Tribe
->Capital: [[Villages/Hofsbachler|Hofsbachler]]
->Largest Settlement: [[Villages/Hofsbachler|Hofsbachler]]
+>Capital: [[Setting/Settlements/Villages/Hofsbachler|Hofsbachler]]
+>Largest Settlement: [[Setting/Settlements/Villages/Hofsbachler|Hofsbachler]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Hofsbachler|Hofsbachler]]
+- [[Setting/Settlements/Villages/Hofsbachler|Hofsbachler]]
 
 # Cultures in Borders
 
-- [[Cultures/Blum|Blum]]
+- [[Setting/Cultures/Blum|Blum]]
 

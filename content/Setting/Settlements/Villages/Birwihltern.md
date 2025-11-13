@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Birwihltern
 >###### Capital City
->Country: [[Tribes/Beria|Beria]]
+>Country: [[Setting/Tribes/Beria|Beria]]
 >Established:
 >Area:
 >Elevation: 1024m
 >Population: 2,326
 >Demonym(s):
->Dominant Culture: [[Cultures/Krozin|Krozin]]
+>Dominant Culture: [[Setting/Cultures/Krozin|Krozin]]
 >Dominant Religion:
 
 # History

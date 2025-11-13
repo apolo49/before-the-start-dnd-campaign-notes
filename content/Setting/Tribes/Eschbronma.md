@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Eschbronma
 >Tribe
->Capital: [[Villages/Eschbronma|Eschbronma]]
->Largest Settlement: [[Villages/Eschbronma|Eschbronma]]
+>Capital: [[Setting/Settlements/Villages/Eschbronma|Eschbronma]]
+>Largest Settlement: [[Setting/Settlements/Villages/Eschbronma|Eschbronma]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Eschbronma|Eschbronma]]
+- [[Setting/Settlements/Villages/Eschbronma|Eschbronma]]
 
 # Cultures in Borders
 
-- [[Cultures/Briler|Briler]]
+- [[Setting/Cultures/Briler|Briler]]
 

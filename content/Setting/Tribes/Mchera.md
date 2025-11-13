@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Mchera
 >Tribe
->Capital: [[Villages/Mcher|Mcher]]
->Largest Settlement: [[Villages/Mcher|Mcher]]
+>Capital: [[Setting/Settlements/Villages/Mcher|Mcher]]
+>Largest Settlement: [[Setting/Settlements/Villages/Mcher|Mcher]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Mcher|Mcher]]
+- [[Setting/Settlements/Villages/Mcher|Mcher]]
 
 # Cultures in Borders
 
-- [[Cultures/Ber|Ber]]
+- [[Setting/Cultures/Ber|Ber]]
 

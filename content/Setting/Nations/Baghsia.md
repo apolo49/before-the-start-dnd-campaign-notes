@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Baghsia
 >Civilised
->Capital: [[Cities/Liyeh|Liyeh]]
->Largest Settlement: [[Cities/Liyeh|Liyeh]]
+>Capital: [[Setting/Settlements/Cities/Liyeh|Liyeh]]
+>Largest Settlement: [[Setting/Settlements/Cities/Liyeh|Liyeh]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Liyeh|Liyeh]]
+- [[Setting/Settlements/Cities/Liyeh|Liyeh]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

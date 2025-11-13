@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Bucland
 >Tribe
->Capital: [[Villages/Neierwihl|Neierwihl]]
->Largest Settlement: [[Villages/Neierwihl|Neierwihl]]
+>Capital: [[Setting/Settlements/Villages/Neierwihl|Neierwihl]]
+>Largest Settlement: [[Setting/Settlements/Villages/Neierwihl|Neierwihl]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Neierwihl|Neierwihl]]
+- [[Setting/Settlements/Villages/Neierwihl|Neierwihl]]
 
 # Cultures in Borders
 
-- [[Cultures/Horngenhau|Horngenhau]]
+- [[Setting/Cultures/Horngenhau|Horngenhau]]
 

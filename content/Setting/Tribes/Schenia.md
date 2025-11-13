@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Schenia
 >Tribe
->Capital: [[Villages/Schen|Schen]]
->Largest Settlement: [[Villages/Schen|Schen]]
+>Capital: [[Setting/Settlements/Villages/Schen|Schen]]
+>Largest Settlement: [[Setting/Settlements/Villages/Schen|Schen]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Schen|Schen]]
+- [[Setting/Settlements/Villages/Schen|Schen]]
 
 # Cultures in Borders
 
-- [[Cultures/Schaltens|Schaltens]]
+- [[Setting/Cultures/Schaltens|Schaltens]]
 

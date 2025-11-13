@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Cadurci
 >Tribe
->Capital: [[Villages/Lochigionver|Lochigionver]]
->Largest Settlement: [[Villages/Lochigionver|Lochigionver]]
+>Capital: [[Setting/Settlements/Villages/Lochigionver|Lochigionver]]
+>Largest Settlement: [[Setting/Settlements/Villages/Lochigionver|Lochigionver]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Lochigionver|Lochigionver]]
+- [[Setting/Settlements/Villages/Lochigionver|Lochigionver]]
 
 # Cultures in Borders
 
-- [[Cultures/Inverkei|Inverkei]]
+- [[Setting/Cultures/Inverkei|Inverkei]]
 

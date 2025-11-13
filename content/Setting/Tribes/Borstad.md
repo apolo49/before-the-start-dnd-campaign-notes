@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Borstad
 >Tribe
->Capital: [[Villages/Borstad|Borstad]]
->Largest Settlement: [[Villages/Borstad|Borstad]]
+>Capital: [[Setting/Settlements/Villages/Borstad|Borstad]]
+>Largest Settlement: [[Setting/Settlements/Villages/Borstad|Borstad]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Borstad|Borstad]]
+- [[Setting/Settlements/Villages/Borstad|Borstad]]
 
 # Cultures in Borders
 
-- [[Cultures/Herwihl|Herwihl]]
+- [[Setting/Cultures/Herwihl|Herwihl]]
 

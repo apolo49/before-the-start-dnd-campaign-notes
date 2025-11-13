@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Rijodule
 >Tribe
->Capital: [[Villages/Rijodule|Rijodule]]
->Largest Settlement: [[Villages/Rijodule|Rijodule]]
+>Capital: [[Setting/Settlements/Villages/Rijodule|Rijodule]]
+>Largest Settlement: [[Setting/Settlements/Villages/Rijodule|Rijodule]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Rijodule|Rijodule]]
+- [[Setting/Settlements/Villages/Rijodule|Rijodule]]
 
 # Cultures in Borders
 
-- [[Cultures/Duibri|Duibri]]
+- [[Setting/Cultures/Duibri|Duibri]]
 

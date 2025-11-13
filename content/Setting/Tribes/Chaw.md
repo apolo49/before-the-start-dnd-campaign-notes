@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Chaw
 >Tribe
->Capital: [[Villages/Savedide|Savedide]]
->Largest Settlement: [[Villages/Savedide|Savedide]]
+>Capital: [[Setting/Settlements/Villages/Savedide|Savedide]]
+>Largest Settlement: [[Setting/Settlements/Villages/Savedide|Savedide]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Savedide|Savedide]]
+- [[Setting/Settlements/Villages/Savedide|Savedide]]
 
 # Cultures in Borders
 
-- [[Cultures/Wildlands|Wildlands]]
+- [[Setting/Cultures/Wildlands|Wildlands]]
 

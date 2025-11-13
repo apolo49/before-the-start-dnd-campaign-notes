@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Ezdania
 >Civilised
->Capital: [[Villages/Nushah|Nushah]]
->Largest Settlement: [[Villages/Nushah|Nushah]]
+>Capital: [[Setting/Settlements/Villages/Nushah|Nushah]]
+>Largest Settlement: [[Setting/Settlements/Villages/Nushah|Nushah]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Nushah|Nushah]]
+- [[Setting/Settlements/Villages/Nushah|Nushah]]
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

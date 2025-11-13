@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Aber
 >###### Capital City
->Country: [[Tribes/Bei|Bei]]
+>Country: [[Setting/Tribes/Bei|Bei]]
 >Established:
 >Area:
 >Elevation: 1024m
 >Population: 1,318
 >Demonym(s):
->Dominant Culture: [[Cultures/Bleduro|Bleduro]]
+>Dominant Culture: [[Setting/Cultures/Bleduro|Bleduro]]
 >Dominant Religion:
 
 # History

@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Papia
 >Civilised
->Capital: [[Cities/Peipotondos|Peipotondos]]
->Largest Settlement: [[Cities/Peipotondos|Peipotondos]]
+>Capital: [[Setting/Settlements/Cities/Peipotondos|Peipotondos]]
+>Largest Settlement: [[Setting/Settlements/Cities/Peipotondos|Peipotondos]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Peipotondos|Peipotondos]]
+- [[Setting/Settlements/Cities/Peipotondos|Peipotondos]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Nerapit|Nerapit]]
+- [[Setting/Cultures/Nerapit|Nerapit]]
 

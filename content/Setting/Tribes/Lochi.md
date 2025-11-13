@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Lochi
 >Tribe
->Capital: [[Villages/Lochi|Lochi]]
->Largest Settlement: [[Villages/Lochi|Lochi]]
+>Capital: [[Setting/Settlements/Villages/Lochi|Lochi]]
+>Largest Settlement: [[Setting/Settlements/Villages/Lochi|Lochi]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Lochi|Lochi]]
+- [[Setting/Settlements/Villages/Lochi|Lochi]]
 
 # Cultures in Borders
 
-- [[Cultures/Ebheartei|Ebheartei]]
+- [[Setting/Cultures/Ebheartei|Ebheartei]]
 

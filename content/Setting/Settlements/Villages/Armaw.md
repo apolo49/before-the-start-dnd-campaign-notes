@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Armaw
 >###### Capital City
->Country: [[Tribes/Armaw|Armaw]]
+>Country: [[Setting/Tribes/Armaw|Armaw]]
 >Established:
 >Area:
 >Elevation: 961m
 >Population: 3,882
 >Demonym(s):
->Dominant Culture: [[Cultures/Cabe|Cabe]]
+>Dominant Culture: [[Setting/Cultures/Cabe|Cabe]]
 >Dominant Religion:
 
 # History

@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Herbenia
 >Tribe
->Capital: [[Villages/Sulzgravels|Sulzgravels]]
->Largest Settlement: [[Villages/Sulzgravels|Sulzgravels]]
+>Capital: [[Setting/Settlements/Villages/Sulzgravels|Sulzgravels]]
+>Largest Settlement: [[Setting/Settlements/Villages/Sulzgravels|Sulzgravels]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Sulzgravels|Sulzgravels]]
+- [[Setting/Settlements/Villages/Sulzgravels|Sulzgravels]]
 
 # Cultures in Borders
 
-- [[Cultures/Pemiripo|Pemiripo]]
+- [[Setting/Cultures/Pemiripo|Pemiripo]]
 

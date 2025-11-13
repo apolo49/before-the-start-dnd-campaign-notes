@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Neusen
 >###### Capital City
->Country: [[Tribes/Neusenland|Neusenland]]
+>Country: [[Setting/Tribes/Neusenland|Neusenland]]
 >Established:
 >Area:
 >Elevation: 16m
 >Population: 1,579
 >Demonym(s):
->Dominant Culture: [[Cultures/Schilden|Schilden]]
+>Dominant Culture: [[Setting/Cultures/Schilden|Schilden]]
 >Dominant Religion:
 
 # History

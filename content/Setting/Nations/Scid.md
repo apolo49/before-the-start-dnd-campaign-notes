@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Scid
 >Civilised
->Capital: [[Villages/Eminonos|Eminonos]]
->Largest Settlement: [[Villages/Eminonos|Eminonos]]
+>Capital: [[Setting/Settlements/Villages/Eminonos|Eminonos]]
+>Largest Settlement: [[Setting/Settlements/Villages/Eminonos|Eminonos]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Eminonos|Eminonos]]
+- [[Setting/Settlements/Villages/Eminonos|Eminonos]]
 
 # Cultures in Borders
 
-- [[Cultures/Hubde|Hubde]]
+- [[Setting/Cultures/Hubde|Hubde]]
 

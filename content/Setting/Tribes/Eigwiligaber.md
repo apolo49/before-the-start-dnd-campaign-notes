@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Eigwiligaber
 >Tribe
->Capital: [[Villages/Eigwiligaber|Eigwiligaber]]
->Largest Settlement: [[Villages/Eigwiligaber|Eigwiligaber]]
+>Capital: [[Setting/Settlements/Villages/Eigwiligaber|Eigwiligaber]]
+>Largest Settlement: [[Setting/Settlements/Villages/Eigwiligaber|Eigwiligaber]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Eigwiligaber|Eigwiligaber]]
+- [[Setting/Settlements/Villages/Eigwiligaber|Eigwiligaber]]
 
 # Cultures in Borders
 
-- [[Cultures/Invermayfi|Invermayfi]]
+- [[Setting/Cultures/Invermayfi|Invermayfi]]
 

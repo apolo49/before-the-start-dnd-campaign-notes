@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Ses
 >Civilised
->Capital: [[Villages/Amphaporita|Amphaporita]]
->Largest Settlement: [[Villages/Amphaporita|Amphaporita]]
+>Capital: [[Setting/Settlements/Villages/Amphaporita|Amphaporita]]
+>Largest Settlement: [[Setting/Settlements/Villages/Amphaporita|Amphaporita]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Amphaporita|Amphaporita]]
+- [[Setting/Settlements/Villages/Amphaporita|Amphaporita]]
 
 # Cultures in Borders
 
-- [[Cultures/Lampia|Lampia]]
+- [[Setting/Cultures/Lampia|Lampia]]
 

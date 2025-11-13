@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Kashkia
 >Civilised
->Capital: [[Cities/Akubjanadam|Akubjanadam]]
->Largest Settlement: [[Cities/Akubjanadam|Akubjanadam]]
+>Capital: [[Setting/Settlements/Cities/Akubjanadam|Akubjanadam]]
+>Largest Settlement: [[Setting/Settlements/Cities/Akubjanadam|Akubjanadam]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Akubjanadam|Akubjanadam]]
+- [[Setting/Settlements/Cities/Akubjanadam|Akubjanadam]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Vaishasi|Vaishasi]]
+- [[Setting/Cultures/Vaishasi|Vaishasi]]
 

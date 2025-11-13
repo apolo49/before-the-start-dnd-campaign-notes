@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Schraiersb
 >###### Capital City
->Country: [[Tribes/Vogts|Vogts]]
+>Country: [[Setting/Tribes/Vogts|Vogts]]
 >Established:
 >Area:
 >Elevation: 1024m
 >Population: 185
 >Demonym(s):
->Dominant Culture: [[Cultures/Herwihl|Herwihl]]
+>Dominant Culture: [[Setting/Cultures/Herwihl|Herwihl]]
 >Dominant Religion:
 
 # History

@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Kelah-Tukish
 >###### Capital City
->Country: [[Nations/Rus|Rus]]
+>Country: [[Setting/Nations/Rus|Rus]]
 >Established:
 >Area:
 >Elevation: 196m
 >Population: 88,931
 >Demonym(s):
->Dominant Culture: [[Cultures/Carthaginian|Carthaginian]]
+>Dominant Culture: [[Setting/Cultures/Carthaginian|Carthaginian]]
 >Dominant Religion:
 
 # History

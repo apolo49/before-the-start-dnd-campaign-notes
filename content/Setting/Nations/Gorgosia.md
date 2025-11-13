@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Gorgosia
 >Civilised
->Capital: [[Cities/Naucleapon|Naucleapon]]
->Largest Settlement: [[Cities/Naucleapon|Naucleapon]]
+>Capital: [[Setting/Settlements/Cities/Naucleapon|Naucleapon]]
+>Largest Settlement: [[Setting/Settlements/Cities/Naucleapon|Naucleapon]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Naucleapon|Naucleapon]]
+- [[Setting/Settlements/Cities/Naucleapon|Naucleapon]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Porigost|Porigost]]
+- [[Setting/Cultures/Porigost|Porigost]]
 

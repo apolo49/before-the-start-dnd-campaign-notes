@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Orchia
 >Civilised
->Capital: [[Villages/Paraleleut|Paraleleut]]
->Largest Settlement: [[Villages/Paraleleut|Paraleleut]]
+>Capital: [[Setting/Settlements/Villages/Paraleleut|Paraleleut]]
+>Largest Settlement: [[Setting/Settlements/Villages/Paraleleut|Paraleleut]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Paraleleut|Paraleleut]]
+- [[Setting/Settlements/Villages/Paraleleut|Paraleleut]]
 
 # Cultures in Borders
 
-- [[Cultures/Hubde|Hubde]]
+- [[Setting/Cultures/Hubde|Hubde]]
 

@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Et
 >Tribe
->Capital: [[Villages/Esengen|Esengen]]
->Largest Settlement: [[Villages/Esengen|Esengen]]
+>Capital: [[Setting/Settlements/Villages/Esengen|Esengen]]
+>Largest Settlement: [[Setting/Settlements/Villages/Esengen|Esengen]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Esengen|Esengen]]
+- [[Setting/Settlements/Villages/Esengen|Esengen]]
 
 # Cultures in Borders
 
-- [[Cultures/Hofswald|Hofswald]]
+- [[Setting/Cultures/Hofswald|Hofswald]]
 

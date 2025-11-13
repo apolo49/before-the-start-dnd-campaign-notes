@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Has
 >Tribe
->Capital: [[Villages/Brisingental|Brisingental]]
->Largest Settlement: [[Villages/Brisingental|Brisingental]]
+>Capital: [[Setting/Settlements/Villages/Brisingental|Brisingental]]
+>Largest Settlement: [[Setting/Settlements/Villages/Brisingental|Brisingental]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Brisingental|Brisingental]]
+- [[Setting/Settlements/Villages/Brisingental|Brisingental]]
 
 # Cultures in Borders
 
-- [[Cultures/Pemiripo|Pemiripo]]
+- [[Setting/Cultures/Pemiripo|Pemiripo]]
 

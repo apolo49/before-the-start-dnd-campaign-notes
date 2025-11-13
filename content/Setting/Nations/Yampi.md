@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Yampi
 >Civilised
->Capital: [[Villages/Gayit|Gayit]]
->Largest Settlement: [[Villages/Gayit|Gayit]]
+>Capital: [[Setting/Settlements/Villages/Gayit|Gayit]]
+>Largest Settlement: [[Setting/Settlements/Villages/Gayit|Gayit]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Gayit|Gayit]]
+- [[Setting/Settlements/Villages/Gayit|Gayit]]
 
 # Cultures in Borders
 
-- [[Cultures/Carthaginian|Carthaginian]]
+- [[Setting/Cultures/Carthaginian|Carthaginian]]
 

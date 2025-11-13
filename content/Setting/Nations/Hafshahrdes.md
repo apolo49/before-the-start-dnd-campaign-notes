@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Hafshahrdes
 >Civilised
->Capital: [[Cities/Hafshahrdes|Hafshahrdes]]
->Largest Settlement: [[Cities/Hafshahrdes|Hafshahrdes]]
+>Capital: [[Setting/Settlements/Cities/Hafshahrdes|Hafshahrdes]]
+>Largest Settlement: [[Setting/Settlements/Cities/Hafshahrdes|Hafshahrdes]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Hafshahrdes|Hafshahrdes]]
+- [[Setting/Settlements/Cities/Hafshahrdes|Hafshahrdes]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

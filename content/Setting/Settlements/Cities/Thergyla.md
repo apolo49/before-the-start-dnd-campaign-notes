@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Thergyla
 >###### City
->Country: [[Nations/Solara|Solara]]
+>Country: [[Setting/Nations/Solara|Solara]]
 >Established:
 >Area:
 >Elevation: 169m
 >Population: 97,183
 >Demonym(s):
->Dominant Culture: [[Cultures/Inalelea|Inalelea]]
+>Dominant Culture: [[Setting/Cultures/Inalelea|Inalelea]]
 >Dominant Religion:
 
 # History

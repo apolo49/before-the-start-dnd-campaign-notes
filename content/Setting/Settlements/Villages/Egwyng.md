@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Egwyng
 >###### Capital City
->Country: [[Tribes/Egwyng|Egwyng]]
+>Country: [[Setting/Tribes/Egwyng|Egwyng]]
 >Established:
 >Area:
 >Elevation: 169m
 >Population: 2,225
 >Demonym(s):
->Dominant Culture: [[Cultures/Calaw|Calaw]]
+>Dominant Culture: [[Setting/Cultures/Calaw|Calaw]]
 >Dominant Religion:
 
 # History

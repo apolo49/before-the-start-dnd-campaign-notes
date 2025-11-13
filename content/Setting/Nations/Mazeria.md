@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Mazeria
 >Civilised
->Capital: [[Cities/Aliran|Aliran]]
->Largest Settlement: [[Cities/Aliran|Aliran]]
+>Capital: [[Setting/Settlements/Cities/Aliran|Aliran]]
+>Largest Settlement: [[Setting/Settlements/Cities/Aliran|Aliran]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Aliran|Aliran]]
+- [[Setting/Settlements/Cities/Aliran|Aliran]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

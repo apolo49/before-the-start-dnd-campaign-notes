@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Feqania
 >Civilised
->Capital: [[Cities/Fastan|Fastan]]
->Largest Settlement: [[Cities/Fastan|Fastan]]
+>Capital: [[Setting/Settlements/Cities/Fastan|Fastan]]
+>Largest Settlement: [[Setting/Settlements/Cities/Fastan|Fastan]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Fastan|Fastan]]
+- [[Setting/Settlements/Cities/Fastan|Fastan]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

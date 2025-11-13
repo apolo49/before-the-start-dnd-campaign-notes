@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Inveresk
 >Tribe
->Capital: [[Villages/Inveresk|Inveresk]]
->Largest Settlement: [[Villages/Inveresk|Inveresk]]
+>Capital: [[Setting/Settlements/Villages/Inveresk|Inveresk]]
+>Largest Settlement: [[Setting/Settlements/Villages/Inveresk|Inveresk]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Inveresk|Inveresk]]
+- [[Setting/Settlements/Villages/Inveresk|Inveresk]]
 
 # Cultures in Borders
 
-- [[Cultures/Duibri|Duibri]]
+- [[Setting/Cultures/Duibri|Duibri]]
 

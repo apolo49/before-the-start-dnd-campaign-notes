@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Paqania
 >Civilised
->Capital: [[Cities/Roleshan|Roleshan]]
->Largest Settlement: [[Cities/Roleshan|Roleshan]]
+>Capital: [[Setting/Settlements/Cities/Roleshan|Roleshan]]
+>Largest Settlement: [[Setting/Settlements/Cities/Roleshan|Roleshan]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Roleshan|Roleshan]]
+- [[Setting/Settlements/Cities/Roleshan|Roleshan]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

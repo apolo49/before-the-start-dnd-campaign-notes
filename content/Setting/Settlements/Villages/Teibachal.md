@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Teibachal
 >###### Capital City
->Country: [[Tribes/Lofland|Lofland]]
+>Country: [[Setting/Tribes/Lofland|Lofland]]
 >Established:
 >Area:
 >Elevation: 676m
 >Population: 2,795
 >Demonym(s):
->Dominant Culture: [[Cultures/Pemiripo|Pemiripo]]
+>Dominant Culture: [[Setting/Cultures/Pemiripo|Pemiripo]]
 >Dominant Religion:
 
 # History

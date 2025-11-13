@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Theoria
 >Tribe
->Capital: [[Villages/Atendodulais|Atendodulais]]
->Largest Settlement: [[Villages/Atendodulais|Atendodulais]]
+>Capital: [[Setting/Settlements/Villages/Atendodulais|Atendodulais]]
+>Largest Settlement: [[Setting/Settlements/Villages/Atendodulais|Atendodulais]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Atendodulais|Atendodulais]]
+- [[Setting/Settlements/Villages/Atendodulais|Atendodulais]]
 
 # Cultures in Borders
 
-- [[Cultures/Duibri|Duibri]]
+- [[Setting/Cultures/Duibri|Duibri]]
 

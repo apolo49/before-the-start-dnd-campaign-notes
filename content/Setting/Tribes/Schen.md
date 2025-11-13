@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Schen
 >Tribe
->Capital: [[Villages/Wildt|Wildt]]
->Largest Settlement: [[Villages/Wildt|Wildt]]
+>Capital: [[Setting/Settlements/Villages/Wildt|Wildt]]
+>Largest Settlement: [[Setting/Settlements/Villages/Wildt|Wildt]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Wildt|Wildt]]
+- [[Setting/Settlements/Villages/Wildt|Wildt]]
 
 # Cultures in Borders
 
-- [[Cultures/Briler|Briler]]
+- [[Setting/Cultures/Briler|Briler]]
 

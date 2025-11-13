@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Stei
 >Tribe
->Capital: [[Villages/Dundin|Dundin]]
->Largest Settlement: [[Villages/Dundin|Dundin]]
+>Capital: [[Setting/Settlements/Villages/Dundin|Dundin]]
+>Largest Settlement: [[Setting/Settlements/Villages/Dundin|Dundin]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Dundin|Dundin]]
+- [[Setting/Settlements/Villages/Dundin|Dundin]]
 
 # Cultures in Borders
 
-- [[Cultures/Lahrwol|Lahrwol]]
+- [[Setting/Cultures/Lahrwol|Lahrwol]]
 

@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Arcia
 >Tribe
->Capital: [[Villages/Infitowinver|Infitowinver]]
->Largest Settlement: [[Villages/Infitowinver|Infitowinver]]
+>Capital: [[Setting/Settlements/Villages/Infitowinver|Infitowinver]]
+>Largest Settlement: [[Setting/Settlements/Villages/Infitowinver|Infitowinver]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Infitowinver|Infitowinver]]
+- [[Setting/Settlements/Villages/Infitowinver|Infitowinver]]
 
 # Cultures in Borders
 
-- [[Cultures/Ebheartei|Ebheartei]]
+- [[Setting/Cultures/Ebheartei|Ebheartei]]
 

@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Invercarn
 >###### Capital City
->Country: [[Tribes/Avonia|Avonia]]
+>Country: [[Setting/Tribes/Avonia|Avonia]]
 >Established:
 >Area:
 >Elevation: 1024m
 >Population: 2,457
 >Demonym(s):
->Dominant Culture: [[Cultures/Inverkei|Inverkei]]
+>Dominant Culture: [[Setting/Cultures/Inverkei|Inverkei]]
 >Dominant Religion:
 
 # History

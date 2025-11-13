@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Schweuen
 >Tribe
->Capital: [[Villages/Schweuen|Schweuen]]
->Largest Settlement: [[Villages/Schweuen|Schweuen]]
+>Capital: [[Setting/Settlements/Villages/Schweuen|Schweuen]]
+>Largest Settlement: [[Setting/Settlements/Villages/Schweuen|Schweuen]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Schweuen|Schweuen]]
+- [[Setting/Settlements/Villages/Schweuen|Schweuen]]
 
 # Cultures in Borders
 
-- [[Cultures/Krozin|Krozin]]
+- [[Setting/Cultures/Krozin|Krozin]]
 

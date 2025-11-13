@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Meybid
 >Civilised
->Capital: [[Cities/Shabad|Shabad]]
->Largest Settlement: [[Cities/Shabad|Shabad]]
+>Capital: [[Setting/Settlements/Cities/Shabad|Shabad]]
+>Largest Settlement: [[Setting/Settlements/Cities/Shabad|Shabad]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Shabad|Shabad]]
+- [[Setting/Settlements/Cities/Shabad|Shabad]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

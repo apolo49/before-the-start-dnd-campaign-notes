@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Onia
 >Tribe
->Capital: [[Villages/Stein|Stein]]
->Largest Settlement: [[Villages/Stein|Stein]]
+>Capital: [[Setting/Settlements/Villages/Stein|Stein]]
+>Largest Settlement: [[Setting/Settlements/Villages/Stein|Stein]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Stein|Stein]]
+- [[Setting/Settlements/Villages/Stein|Stein]]
 
 # Cultures in Borders
 
-- [[Cultures/Geimons|Geimons]]
+- [[Setting/Cultures/Geimons|Geimons]]
 

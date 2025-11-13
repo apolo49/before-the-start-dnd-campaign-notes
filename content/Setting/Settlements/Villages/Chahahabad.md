@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Chahahabad
 >###### Capital City
->Country: [[Nations/Serifia|Serifia]]
+>Country: [[Setting/Nations/Serifia|Serifia]]
 >Established:
 >Area:
 >Elevation: 676m
 >Population: 750
 >Demonym(s):
->Dominant Culture: [[Cultures/Kufa|Kufa]]
+>Dominant Culture: [[Setting/Cultures/Kufa|Kufa]]
 >Dominant Religion:
 
 # History

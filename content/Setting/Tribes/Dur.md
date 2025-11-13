@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Dur
 >Tribe
->Capital: [[Villages/Frample|Frample]]
->Largest Settlement: [[Villages/Frample|Frample]]
+>Capital: [[Setting/Settlements/Villages/Frample|Frample]]
+>Largest Settlement: [[Setting/Settlements/Villages/Frample|Frample]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Frample|Frample]]
+- [[Setting/Settlements/Villages/Frample|Frample]]
 
 # Cultures in Borders
 
-- [[Cultures/Wildlands|Wildlands]]
+- [[Setting/Cultures/Wildlands|Wildlands]]
 

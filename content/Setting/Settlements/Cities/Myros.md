@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Myros
 >###### Capital City
->Country: [[Nations/Saiesia|Saiesia]]
+>Country: [[Setting/Nations/Saiesia|Saiesia]]
 >Established:
 >Area:
 >Elevation: 900m
 >Population: 39,846
 >Demonym(s):
->Dominant Culture: [[Cultures/Brauron|Brauron]]
+>Dominant Culture: [[Setting/Cultures/Brauron|Brauron]]
 >Dominant Religion:
 
 # History

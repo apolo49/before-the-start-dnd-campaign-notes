@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Raith
 >Tribe
->Capital: [[Villages/Chordenver|Chordenver]]
->Largest Settlement: [[Villages/Chordenver|Chordenver]]
+>Capital: [[Setting/Settlements/Villages/Chordenver|Chordenver]]
+>Largest Settlement: [[Setting/Settlements/Villages/Chordenver|Chordenver]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Chordenver|Chordenver]]
+- [[Setting/Settlements/Villages/Chordenver|Chordenver]]
 
 # Cultures in Borders
 
-- [[Cultures/Cedi|Cedi]]
+- [[Setting/Cultures/Cedi|Cedi]]
 

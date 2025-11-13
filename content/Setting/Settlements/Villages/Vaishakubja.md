@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Vaishakubja
 >###### Capital City
->Country: [[Nations/Bhodia|Bhodia]]
+>Country: [[Setting/Nations/Bhodia|Bhodia]]
 >Established:
 >Area:
 >Elevation: 1024m
 >Population: 1,326
 >Demonym(s):
->Dominant Culture: [[Cultures/Vaishasi|Vaishasi]]
+>Dominant Culture: [[Setting/Cultures/Vaishasi|Vaishasi]]
 >Dominant Religion:
 
 # History

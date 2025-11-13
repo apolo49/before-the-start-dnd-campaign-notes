@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Hercuniates
 >Tribe
->Capital: [[Villages/Bros|Bros]]
->Largest Settlement: [[Villages/Bros|Bros]]
+>Capital: [[Setting/Settlements/Villages/Bros|Bros]]
+>Largest Settlement: [[Setting/Settlements/Villages/Bros|Bros]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Bros|Bros]]
+- [[Setting/Settlements/Villages/Bros|Bros]]
 
 # Cultures in Borders
 
-- [[Cultures/Cedi|Cedi]]
+- [[Setting/Cultures/Cedi|Cedi]]
 

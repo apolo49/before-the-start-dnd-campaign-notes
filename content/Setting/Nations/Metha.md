@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Metha
 >Civilised
->Capital: [[Cities/Pyrmenion|Pyrmenion]]
->Largest Settlement: [[Cities/Pyrmenion|Pyrmenion]]
+>Capital: [[Setting/Settlements/Cities/Pyrmenion|Pyrmenion]]
+>Largest Settlement: [[Setting/Settlements/Cities/Pyrmenion|Pyrmenion]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Pyrmenion|Pyrmenion]]
+- [[Setting/Settlements/Cities/Pyrmenion|Pyrmenion]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Amphi|Amphi]]
+- [[Setting/Cultures/Amphi|Amphi]]
 

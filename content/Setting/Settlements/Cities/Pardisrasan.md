@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Pardisrasan
 >###### City
->Country: [[Nations/Echeh|Echeh]]
+>Country: [[Setting/Nations/Echeh|Echeh]]
 >Established:
 >Area:
 >Elevation: 1296m
 >Population: 74,423
 >Demonym(s):
->Dominant Culture: [[Cultures/Kufa|Kufa]]
+>Dominant Culture: [[Setting/Cultures/Kufa|Kufa]]
 >Dominant Religion:
 
 # History

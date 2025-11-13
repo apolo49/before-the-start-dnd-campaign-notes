@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Dowia
 >Civilised
->Capital: [[Cities/Chuged|Chuged]]
->Largest Settlement: [[Cities/Chuged|Chuged]]
+>Capital: [[Setting/Settlements/Cities/Chuged|Chuged]]
+>Largest Settlement: [[Setting/Settlements/Cities/Chuged|Chuged]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Chuged|Chuged]]
+- [[Setting/Settlements/Cities/Chuged|Chuged]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

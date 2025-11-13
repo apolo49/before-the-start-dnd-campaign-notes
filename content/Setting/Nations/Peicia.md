@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Peicia
 >Civilised
->Capital: [[Cities/Pantiochro|Pantiochro]]
->Largest Settlement: [[Cities/Pantiochro|Pantiochro]]
+>Capital: [[Setting/Settlements/Cities/Pantiochro|Pantiochro]]
+>Largest Settlement: [[Setting/Settlements/Cities/Pantiochro|Pantiochro]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Pantiochro|Pantiochro]]
+- [[Setting/Settlements/Cities/Pantiochro|Pantiochro]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Porigost|Porigost]]
+- [[Setting/Cultures/Porigost|Porigost]]
 

@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Behia
 >Civilised
->Capital: [[Cities/Rharirazvan|Rharirazvan]]
->Largest Settlement: [[Cities/Rharirazvan|Rharirazvan]]
+>Capital: [[Setting/Settlements/Cities/Rharirazvan|Rharirazvan]]
+>Largest Settlement: [[Setting/Settlements/Cities/Rharirazvan|Rharirazvan]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Rharirazvan|Rharirazvan]]
+- [[Setting/Settlements/Cities/Rharirazvan|Rharirazvan]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

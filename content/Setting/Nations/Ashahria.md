@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Ashahria
 >Civilised
->Capital: [[Villages/Gehaq|Gehaq]]
->Largest Settlement: [[Villages/Gehaq|Gehaq]]
+>Capital: [[Setting/Settlements/Villages/Gehaq|Gehaq]]
+>Largest Settlement: [[Setting/Settlements/Villages/Gehaq|Gehaq]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Gehaq|Gehaq]]
+- [[Setting/Settlements/Villages/Gehaq|Gehaq]]
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Semvar
 >###### Capital City
->Country: [[Nations/Dastia|Dastia]]
+>Country: [[Setting/Nations/Dastia|Dastia]]
 >Established:
 >Area:
 >Elevation: 1369m
 >Population: 81,546
 >Demonym(s):
->Dominant Culture: [[Cultures/Kufa|Kufa]]
+>Dominant Culture: [[Setting/Cultures/Kufa|Kufa]]
 >Dominant Religion:
 
 # History

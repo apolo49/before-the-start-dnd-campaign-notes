@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Kypia
 >Civilised
->Capital: [[Cities/Nearathum|Nearathum]]
->Largest Settlement: [[Cities/Nearathum|Nearathum]]
+>Capital: [[Setting/Settlements/Cities/Nearathum|Nearathum]]
+>Largest Settlement: [[Setting/Settlements/Cities/Nearathum|Nearathum]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Nearathum|Nearathum]]
+- [[Setting/Settlements/Cities/Nearathum|Nearathum]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Pegalion|Pegalion]]
+- [[Setting/Cultures/Pegalion|Pegalion]]
 

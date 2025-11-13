@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Kamia
 >Civilised
->Capital: [[Villages/Traras|Traras]]
->Largest Settlement: [[Villages/Traras|Traras]]
+>Capital: [[Setting/Settlements/Villages/Traras|Traras]]
+>Largest Settlement: [[Setting/Settlements/Villages/Traras|Traras]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Traras|Traras]]
+- [[Setting/Settlements/Villages/Traras|Traras]]
 
 # Cultures in Borders
 
-- [[Cultures/Hubde|Hubde]]
+- [[Setting/Cultures/Hubde|Hubde]]
 

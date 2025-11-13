@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Bashehia
 >Civilised
->Capital: [[Cities/Tudecarand|Tudecarand]]
->Largest Settlement: [[Cities/Tudecarand|Tudecarand]]
+>Capital: [[Setting/Settlements/Cities/Tudecarand|Tudecarand]]
+>Largest Settlement: [[Setting/Settlements/Cities/Tudecarand|Tudecarand]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Tudecarand|Tudecarand]]
+- [[Setting/Settlements/Cities/Tudecarand|Tudecarand]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Dararatigha
 >###### Capital City
->Country: [[Nations/Bicia|Bicia]]
+>Country: [[Setting/Nations/Bicia|Bicia]]
 >Established:
 >Area:
 >Elevation: 1369m
 >Population: 34,783
 >Demonym(s):
->Dominant Culture: [[Cultures/Kufa|Kufa]]
+>Dominant Culture: [[Setting/Cultures/Kufa|Kufa]]
 >Dominant Religion:
 
 # History

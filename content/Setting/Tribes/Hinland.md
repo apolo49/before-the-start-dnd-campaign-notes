@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Hinland
 >Tribe
->Capital: [[Villages/Bauerngen|Bauerngen]]
->Largest Settlement: [[Villages/Bauerngen|Bauerngen]]
+>Capital: [[Setting/Settlements/Villages/Bauerngen|Bauerngen]]
+>Largest Settlement: [[Setting/Settlements/Villages/Bauerngen|Bauerngen]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Bauerngen|Bauerngen]]
+- [[Setting/Settlements/Villages/Bauerngen|Bauerngen]]
 
 # Cultures in Borders
 
-- [[Cultures/Bieiamten|Bieiamten]]
+- [[Setting/Cultures/Bieiamten|Bieiamten]]
 

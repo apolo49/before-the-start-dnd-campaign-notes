@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Likzib
 >Civilised
->Capital: [[Cities/Betha|Betha]]
->Largest Settlement: [[Cities/Betha|Betha]]
+>Capital: [[Setting/Settlements/Cities/Betha|Betha]]
+>Largest Settlement: [[Setting/Settlements/Cities/Betha|Betha]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Betha|Betha]]
+- [[Setting/Settlements/Cities/Betha|Betha]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Carthaginian|Carthaginian]]
+- [[Setting/Cultures/Carthaginian|Carthaginian]]
 

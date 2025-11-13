@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Rozvehia
 >Civilised
->Capital: [[Cities/Kashatana|Kashatana]]
->Largest Settlement: [[Cities/Kashatana|Kashatana]]
+>Capital: [[Setting/Settlements/Cities/Kashatana|Kashatana]]
+>Largest Settlement: [[Setting/Settlements/Cities/Kashatana|Kashatana]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Kashatana|Kashatana]]
+- [[Setting/Settlements/Cities/Kashatana|Kashatana]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

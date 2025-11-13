@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Vedioria
 >###### Village
->Country: [[Nations/Solara|Solara]]
+>Country: [[Setting/Nations/Solara|Solara]]
 >Established:
 >Area:
 >Elevation: 1225m
 >Population: 3,066
 >Demonym(s):
->Dominant Culture: [[Cultures/Dusenta|Dusenta]]
+>Dominant Culture: [[Setting/Cultures/Dusenta|Dusenta]]
 >Dominant Religion:
 
 # History

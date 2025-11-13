@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Valia
 >Civilised
->Capital: [[Villages/Jiruzvanshe|Jiruzvanshe]]
->Largest Settlement: [[Villages/Jiruzvanshe|Jiruzvanshe]]
+>Capital: [[Setting/Settlements/Villages/Jiruzvanshe|Jiruzvanshe]]
+>Largest Settlement: [[Setting/Settlements/Villages/Jiruzvanshe|Jiruzvanshe]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Jiruzvanshe|Jiruzvanshe]]
+- [[Setting/Settlements/Villages/Jiruzvanshe|Jiruzvanshe]]
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

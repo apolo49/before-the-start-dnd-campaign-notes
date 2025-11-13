@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Euriasia
 >Civilised
->Capital: [[Cities/Eurias|Eurias]]
->Largest Settlement: [[Cities/Eurias|Eurias]]
+>Capital: [[Setting/Settlements/Cities/Eurias|Eurias]]
+>Largest Settlement: [[Setting/Settlements/Cities/Eurias|Eurias]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Eurias|Eurias]]
+- [[Setting/Settlements/Cities/Eurias|Eurias]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Hubde|Hubde]]
+- [[Setting/Cultures/Hubde|Hubde]]
 

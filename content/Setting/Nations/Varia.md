@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Varia
 >Civilised
->Capital: [[Cities/Afabudehieh|Afabudehieh]]
->Largest Settlement: [[Cities/Afabudehieh|Afabudehieh]]
+>Capital: [[Setting/Settlements/Cities/Afabudehieh|Afabudehieh]]
+>Largest Settlement: [[Setting/Settlements/Cities/Afabudehieh|Afabudehieh]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Afabudehieh|Afabudehieh]]
+- [[Setting/Settlements/Cities/Afabudehieh|Afabudehieh]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

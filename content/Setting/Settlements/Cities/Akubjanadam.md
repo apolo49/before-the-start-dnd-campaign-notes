@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Akubjanadam
 >###### Capital City
->Country: [[Nations/Kashkia|Kashkia]]
+>Country: [[Setting/Nations/Kashkia|Kashkia]]
 >Established:
 >Area:
 >Elevation: 1024m
 >Population: 81,225
 >Demonym(s):
->Dominant Culture: [[Cultures/Vaishasi|Vaishasi]]
+>Dominant Culture: [[Setting/Cultures/Vaishasi|Vaishasi]]
 >Dominant Religion:
 
 # History

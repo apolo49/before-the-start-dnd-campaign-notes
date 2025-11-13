@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Tarsia
 >Civilised
->Capital: [[Cities/Kfara|Kfara]]
->Largest Settlement: [[Cities/Kfara|Kfara]]
+>Capital: [[Setting/Settlements/Cities/Kfara|Kfara]]
+>Largest Settlement: [[Setting/Settlements/Cities/Kfara|Kfara]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Kfara|Kfara]]
+- [[Setting/Settlements/Cities/Kfara|Kfara]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Carthaginian|Carthaginian]]
+- [[Setting/Cultures/Carthaginian|Carthaginian]]
 

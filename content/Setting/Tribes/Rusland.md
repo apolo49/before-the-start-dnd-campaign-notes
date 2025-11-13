@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Rusland
 >Tribe
->Capital: [[Villages/Vogtsberge|Vogtsberge]]
->Largest Settlement: [[Villages/Vogtsberge|Vogtsberge]]
+>Capital: [[Setting/Settlements/Villages/Vogtsberge|Vogtsberge]]
+>Largest Settlement: [[Setting/Settlements/Villages/Vogtsberge|Vogtsberge]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Vogtsberge|Vogtsberge]]
+- [[Setting/Settlements/Villages/Vogtsberge|Vogtsberge]]
 
 # Cultures in Borders
 
-- [[Cultures/Briler|Briler]]
+- [[Setting/Cultures/Briler|Briler]]
 

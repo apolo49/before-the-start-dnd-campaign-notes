@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Telisia
 >Civilised
->Capital: [[Cities/Chanafustar|Chanafustar]]
->Largest Settlement: [[Cities/Chanafustar|Chanafustar]]
+>Capital: [[Setting/Settlements/Cities/Chanafustar|Chanafustar]]
+>Largest Settlement: [[Setting/Settlements/Cities/Chanafustar|Chanafustar]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Chanafustar|Chanafustar]]
+- [[Setting/Settlements/Cities/Chanafustar|Chanafustar]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

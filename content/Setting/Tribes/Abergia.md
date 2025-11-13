@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Abergia
 >Tribe
->Capital: [[Villages/Kirgyfili|Kirgyfili]]
->Largest Settlement: [[Villages/Kirgyfili|Kirgyfili]]
+>Capital: [[Setting/Settlements/Villages/Kirgyfili|Kirgyfili]]
+>Largest Settlement: [[Setting/Settlements/Villages/Kirgyfili|Kirgyfili]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Kirgyfili|Kirgyfili]]
+- [[Setting/Settlements/Villages/Kirgyfili|Kirgyfili]]
 
 # Cultures in Borders
 
-- [[Cultures/Brico|Brico]]
+- [[Setting/Cultures/Brico|Brico]]
 

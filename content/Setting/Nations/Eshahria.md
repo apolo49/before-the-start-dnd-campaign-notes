@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Eshahria
 >Civilised
->Capital: [[Villages/Sarazegan|Sarazegan]]
->Largest Settlement: [[Villages/Sarazegan|Sarazegan]]
+>Capital: [[Setting/Settlements/Villages/Sarazegan|Sarazegan]]
+>Largest Settlement: [[Setting/Settlements/Villages/Sarazegan|Sarazegan]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Sarazegan|Sarazegan]]
+- [[Setting/Settlements/Villages/Sarazegan|Sarazegan]]
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

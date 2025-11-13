@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Vazdan
 >Civilised
->Capital: [[Villages/Vazdan|Vazdan]]
->Largest Settlement: [[Villages/Vazdan|Vazdan]]
+>Capital: [[Setting/Settlements/Villages/Vazdan|Vazdan]]
+>Largest Settlement: [[Setting/Settlements/Villages/Vazdan|Vazdan]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Vazdan|Vazdan]]
+- [[Setting/Settlements/Villages/Vazdan|Vazdan]]
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

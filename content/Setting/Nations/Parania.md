@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Parania
 >Civilised
->Capital: [[Cities/Zageshan|Zageshan]]
->Largest Settlement: [[Cities/Zageshan|Zageshan]]
+>Capital: [[Setting/Settlements/Cities/Zageshan|Zageshan]]
+>Largest Settlement: [[Setting/Settlements/Cities/Zageshan|Zageshan]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Zageshan|Zageshan]]
+- [[Setting/Settlements/Cities/Zageshan|Zageshan]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

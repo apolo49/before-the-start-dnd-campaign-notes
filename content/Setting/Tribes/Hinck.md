@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Hinck
 >Tribe
->Capital: [[Villages/Comburgh|Comburgh]]
->Largest Settlement: [[Villages/Comburgh|Comburgh]]
+>Capital: [[Setting/Settlements/Villages/Comburgh|Comburgh]]
+>Largest Settlement: [[Setting/Settlements/Villages/Comburgh|Comburgh]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Comburgh|Comburgh]]
+- [[Setting/Settlements/Villages/Comburgh|Comburgh]]
 
 # Cultures in Borders
 
-- [[Cultures/Wildlands|Wildlands]]
+- [[Setting/Cultures/Wildlands|Wildlands]]
 

@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Pirnamk
 >###### Capital City
->Country: [[Nations/Maran|Maran]]
+>Country: [[Setting/Nations/Maran|Maran]]
 >Established:
 >Area:
 >Elevation: 1369m
 >Population: 129,172
 >Demonym(s):
->Dominant Culture: [[Cultures/Kufa|Kufa]]
+>Dominant Culture: [[Setting/Cultures/Kufa|Kufa]]
 >Dominant Religion:
 
 # History

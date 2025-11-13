@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Vatanzia
 >Civilised
->Capital: [[Cities/Vatanz|Vatanz]]
->Largest Settlement: [[Cities/Vatanz|Vatanz]]
+>Capital: [[Setting/Settlements/Cities/Vatanz|Vatanz]]
+>Largest Settlement: [[Setting/Settlements/Cities/Vatanz|Vatanz]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Vatanz|Vatanz]]
+- [[Setting/Settlements/Cities/Vatanz|Vatanz]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

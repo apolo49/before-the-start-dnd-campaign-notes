@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Rheinland
 >Tribe
->Capital: [[Villages/Friegenheim|Friegenheim]]
->Largest Settlement: [[Villages/Friegenheim|Friegenheim]]
+>Capital: [[Setting/Settlements/Villages/Friegenheim|Friegenheim]]
+>Largest Settlement: [[Setting/Settlements/Villages/Friegenheim|Friegenheim]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Friegenheim|Friegenheim]]
+- [[Setting/Settlements/Villages/Friegenheim|Friegenheim]]
 
 # Cultures in Borders
 
-- [[Cultures/Lahrwol|Lahrwol]]
+- [[Setting/Cultures/Lahrwol|Lahrwol]]
 

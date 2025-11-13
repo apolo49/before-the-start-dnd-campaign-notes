@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Khuria
 >Civilised
->Capital: [[Cities/Shaharand|Shaharand]]
->Largest Settlement: [[Cities/Shaharand|Shaharand]]
+>Capital: [[Setting/Settlements/Cities/Shaharand|Shaharand]]
+>Largest Settlement: [[Setting/Settlements/Cities/Shaharand|Shaharand]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Shaharand|Shaharand]]
+- [[Setting/Settlements/Cities/Shaharand|Shaharand]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

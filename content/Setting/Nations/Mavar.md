@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Mavar
 >Civilised
->Capital: [[Villages/Mavar|Mavar]]
->Largest Settlement: [[Villages/Mavar|Mavar]]
+>Capital: [[Setting/Settlements/Villages/Mavar|Mavar]]
+>Largest Settlement: [[Setting/Settlements/Villages/Mavar|Mavar]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Mavar|Mavar]]
+- [[Setting/Settlements/Villages/Mavar|Mavar]]
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

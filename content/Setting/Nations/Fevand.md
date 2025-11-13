@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Fevand
 >Civilised
->Capital: [[Cities/Takhjabad|Takhjabad]]
->Largest Settlement: [[Cities/Takhjabad|Takhjabad]]
+>Capital: [[Setting/Settlements/Cities/Takhjabad|Takhjabad]]
+>Largest Settlement: [[Setting/Settlements/Cities/Takhjabad|Takhjabad]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Takhjabad|Takhjabad]]
+- [[Setting/Settlements/Cities/Takhjabad|Takhjabad]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

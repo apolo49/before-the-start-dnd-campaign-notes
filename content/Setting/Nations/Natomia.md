@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Natomia
 >Civilised
->Capital: [[Cities/Sardowsieh|Sardowsieh]]
->Largest Settlement: [[Cities/Sardowsieh|Sardowsieh]]
+>Capital: [[Setting/Settlements/Cities/Sardowsieh|Sardowsieh]]
+>Largest Settlement: [[Setting/Settlements/Cities/Sardowsieh|Sardowsieh]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Sardowsieh|Sardowsieh]]
+- [[Setting/Settlements/Cities/Sardowsieh|Sardowsieh]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

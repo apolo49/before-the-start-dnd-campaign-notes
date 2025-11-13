@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Sangro
 >Civilised
->Capital: [[Cities/Bhoha|Bhoha]]
->Largest Settlement: [[Cities/Bhoha|Bhoha]]
+>Capital: [[Setting/Settlements/Cities/Bhoha|Bhoha]]
+>Largest Settlement: [[Setting/Settlements/Cities/Bhoha|Bhoha]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Bhoha|Bhoha]]
+- [[Setting/Settlements/Cities/Bhoha|Bhoha]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Vaishasi|Vaishasi]]
+- [[Setting/Cultures/Vaishasi|Vaishasi]]
 

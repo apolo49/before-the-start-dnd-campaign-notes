@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Pforz
 >Tribe
->Capital: [[Villages/Schopendern|Schopendern]]
->Largest Settlement: [[Villages/Schopendern|Schopendern]]
+>Capital: [[Setting/Settlements/Villages/Schopendern|Schopendern]]
+>Largest Settlement: [[Setting/Settlements/Villages/Schopendern|Schopendern]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Schopendern|Schopendern]]
+- [[Setting/Settlements/Villages/Schopendern|Schopendern]]
 
 # Cultures in Borders
 
-- [[Cultures/Briler|Briler]]
+- [[Setting/Cultures/Briler|Briler]]
 

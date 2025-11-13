@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Kileadia
 >Civilised
->Capital: [[Cities/Betnapamut|Betnapamut]]
->Largest Settlement: [[Cities/Betnapamut|Betnapamut]]
+>Capital: [[Setting/Settlements/Cities/Betnapamut|Betnapamut]]
+>Largest Settlement: [[Setting/Settlements/Cities/Betnapamut|Betnapamut]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Betnapamut|Betnapamut]]
+- [[Setting/Settlements/Cities/Betnapamut|Betnapamut]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Carthaginian|Carthaginian]]
+- [[Setting/Cultures/Carthaginian|Carthaginian]]
 

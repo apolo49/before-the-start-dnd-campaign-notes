@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Peilip
 >Civilised
->Capital: [[Cities/Amphyreum|Amphyreum]]
->Largest Settlement: [[Cities/Amphyreum|Amphyreum]]
+>Capital: [[Setting/Settlements/Cities/Amphyreum|Amphyreum]]
+>Largest Settlement: [[Setting/Settlements/Cities/Amphyreum|Amphyreum]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Amphyreum|Amphyreum]]
+- [[Setting/Settlements/Cities/Amphyreum|Amphyreum]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Stympia|Stympia]]
+- [[Setting/Cultures/Stympia|Stympia]]
 

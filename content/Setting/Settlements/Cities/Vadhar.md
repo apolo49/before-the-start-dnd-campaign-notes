@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Vadhar
 >###### Capital City
->Country: [[Nations/Lot0agia|Lot0agia]]
+>Country: [[Setting/Nations/Lot0agia|Lot0agia]]
 >Established:
 >Area:
 >Elevation: 1296m
 >Population: 41,734
 >Demonym(s):
->Dominant Culture: [[Cultures/Vaishasi|Vaishasi]]
+>Dominant Culture: [[Setting/Cultures/Vaishasi|Vaishasi]]
 >Dominant Religion:
 
 # History

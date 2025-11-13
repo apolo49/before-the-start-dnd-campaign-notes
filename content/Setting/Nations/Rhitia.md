@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Rhitia
 >Civilised
->Capital: [[Cities/Pyraion|Pyraion]]
->Largest Settlement: [[Cities/Pyraion|Pyraion]]
+>Capital: [[Setting/Settlements/Cities/Pyraion|Pyraion]]
+>Largest Settlement: [[Setting/Settlements/Cities/Pyraion|Pyraion]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Pyraion|Pyraion]]
+- [[Setting/Settlements/Cities/Pyraion|Pyraion]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Athra|Athra]]
+- [[Setting/Cultures/Athra|Athra]]
 

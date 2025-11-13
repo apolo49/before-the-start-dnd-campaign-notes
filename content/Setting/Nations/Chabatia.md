@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Chabatia
 >Civilised
->Capital: [[Villages/Chabat|Chabat]]
->Largest Settlement: [[Villages/Chabat|Chabat]]
+>Capital: [[Setting/Settlements/Villages/Chabat|Chabat]]
+>Largest Settlement: [[Setting/Settlements/Villages/Chabat|Chabat]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Chabat|Chabat]]
+- [[Setting/Settlements/Villages/Chabat|Chabat]]
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

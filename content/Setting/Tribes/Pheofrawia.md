@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Pheofrawia
 >Tribe
->Capital: [[Villages/Pheofraw|Pheofraw]]
->Largest Settlement: [[Villages/Pheofraw|Pheofraw]]
+>Capital: [[Setting/Settlements/Villages/Pheofraw|Pheofraw]]
+>Largest Settlement: [[Setting/Settlements/Villages/Pheofraw|Pheofraw]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Pheofraw|Pheofraw]]
+- [[Setting/Settlements/Villages/Pheofraw|Pheofraw]]
 
 # Cultures in Borders
 
-- [[Cultures/Invermayfi|Invermayfi]]
+- [[Setting/Cultures/Invermayfi|Invermayfi]]
 

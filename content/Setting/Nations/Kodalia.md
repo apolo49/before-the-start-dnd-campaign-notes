@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Kodalia
 >Civilised
->Capital: [[Cities/Dhopavastura|Dhopavastura]]
->Largest Settlement: [[Cities/Dhopavastura|Dhopavastura]]
+>Capital: [[Setting/Settlements/Cities/Dhopavastura|Dhopavastura]]
+>Largest Settlement: [[Setting/Settlements/Cities/Dhopavastura|Dhopavastura]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Dhopavastura|Dhopavastura]]
+- [[Setting/Settlements/Cities/Dhopavastura|Dhopavastura]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Vaishasi|Vaishasi]]
+- [[Setting/Cultures/Vaishasi|Vaishasi]]
 

@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Gereydasan
 >Civilised
->Capital: [[Cities/Gereydasan|Gereydasan]]
->Largest Settlement: [[Cities/Gereydasan|Gereydasan]]
+>Capital: [[Setting/Settlements/Cities/Gereydasan|Gereydasan]]
+>Largest Settlement: [[Setting/Settlements/Cities/Gereydasan|Gereydasan]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Gereydasan|Gereydasan]]
+- [[Setting/Settlements/Cities/Gereydasan|Gereydasan]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

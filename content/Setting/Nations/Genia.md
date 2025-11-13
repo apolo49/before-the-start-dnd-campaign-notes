@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Genia
 >Civilised
->Capital: [[Villages/Am Nerizim|Am Nerizim]]
->Largest Settlement: [[Villages/Am Nerizim|Am Nerizim]]
+>Capital: [[Setting/Settlements/Villages/Am Nerizim|Am Nerizim]]
+>Largest Settlement: [[Setting/Settlements/Villages/Am Nerizim|Am Nerizim]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Am Nerizim|Am Nerizim]]
+- [[Setting/Settlements/Villages/Am Nerizim|Am Nerizim]]
 
 # Cultures in Borders
 
-- [[Cultures/Carthaginian|Carthaginian]]
+- [[Setting/Cultures/Carthaginian|Carthaginian]]
 

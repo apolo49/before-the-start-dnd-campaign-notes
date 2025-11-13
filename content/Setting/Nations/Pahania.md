@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Pahania
 >Civilised
->Capital: [[Cities/Kushk|Kushk]]
->Largest Settlement: [[Cities/Kushk|Kushk]]
+>Capital: [[Setting/Settlements/Cities/Kushk|Kushk]]
+>Largest Settlement: [[Setting/Settlements/Cities/Kushk|Kushk]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Kushk|Kushk]]
+- [[Setting/Settlements/Cities/Kushk|Kushk]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

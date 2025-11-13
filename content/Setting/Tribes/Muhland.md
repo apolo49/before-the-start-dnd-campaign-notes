@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Muhland
 >Tribe
->Capital: [[Villages/Schalrodeck|Schalrodeck]]
->Largest Settlement: [[Villages/Schalrodeck|Schalrodeck]]
+>Capital: [[Setting/Settlements/Villages/Schalrodeck|Schalrodeck]]
+>Largest Settlement: [[Setting/Settlements/Villages/Schalrodeck|Schalrodeck]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Schalrodeck|Schalrodeck]]
+- [[Setting/Settlements/Villages/Schalrodeck|Schalrodeck]]
 
 # Cultures in Borders
 
-- [[Cultures/Herwihl|Herwihl]]
+- [[Setting/Cultures/Herwihl|Herwihl]]
 

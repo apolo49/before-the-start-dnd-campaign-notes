@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Pfalzia
 >Tribe
->Capital: [[Villages/Pfafen|Pfafen]]
->Largest Settlement: [[Villages/Pfafen|Pfafen]]
+>Capital: [[Setting/Settlements/Villages/Pfafen|Pfafen]]
+>Largest Settlement: [[Setting/Settlements/Villages/Pfafen|Pfafen]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Pfafen|Pfafen]]
+- [[Setting/Settlements/Villages/Pfafen|Pfafen]]
 
 # Cultures in Borders
 
-- [[Cultures/Briler|Briler]]
+- [[Setting/Cultures/Briler|Briler]]
 

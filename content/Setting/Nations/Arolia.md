@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Arolia
 >Civilised
->Capital: [[Cities/Kashkar|Kashkar]]
->Largest Settlement: [[Cities/Kashkar|Kashkar]]
+>Capital: [[Setting/Settlements/Cities/Kashkar|Kashkar]]
+>Largest Settlement: [[Setting/Settlements/Cities/Kashkar|Kashkar]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Kashkar|Kashkar]]
+- [[Setting/Settlements/Cities/Kashkar|Kashkar]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Makonda|Makonda]]
+- [[Setting/Cultures/Makonda|Makonda]]
 

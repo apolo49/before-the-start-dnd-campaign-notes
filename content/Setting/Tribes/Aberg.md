@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Aberg
 >Tribe
->Capital: [[Villages/Tregurico|Tregurico]]
->Largest Settlement: [[Villages/Tregurico|Tregurico]]
+>Capital: [[Setting/Settlements/Villages/Tregurico|Tregurico]]
+>Largest Settlement: [[Setting/Settlements/Villages/Tregurico|Tregurico]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Tregurico|Tregurico]]
+- [[Setting/Settlements/Villages/Tregurico|Tregurico]]
 
 # Cultures in Borders
 
-- [[Cultures/Bleduro|Bleduro]]
+- [[Setting/Cultures/Bleduro|Bleduro]]
 

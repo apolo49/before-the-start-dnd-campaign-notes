@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Akhia
 >Civilised
->Capital: [[Cities/Rhitria|Rhitria]]
->Largest Settlement: [[Cities/Rhitria|Rhitria]]
+>Capital: [[Setting/Settlements/Cities/Rhitria|Rhitria]]
+>Largest Settlement: [[Setting/Settlements/Cities/Rhitria|Rhitria]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Rhitria|Rhitria]]
+- [[Setting/Settlements/Cities/Rhitria|Rhitria]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Thurion|Thurion]]
+- [[Setting/Cultures/Thurion|Thurion]]
 

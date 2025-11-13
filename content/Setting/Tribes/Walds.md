@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Walds
 >Tribe
->Capital: [[Villages/Steinzenken|Steinzenken]]
->Largest Settlement: [[Villages/Steinzenken|Steinzenken]]
+>Capital: [[Setting/Settlements/Villages/Steinzenken|Steinzenken]]
+>Largest Settlement: [[Setting/Settlements/Villages/Steinzenken|Steinzenken]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Steinzenken|Steinzenken]]
+- [[Setting/Settlements/Villages/Steinzenken|Steinzenken]]
 
 # Cultures in Borders
 
-- [[Cultures/Briler|Briler]]
+- [[Setting/Cultures/Briler|Briler]]
 

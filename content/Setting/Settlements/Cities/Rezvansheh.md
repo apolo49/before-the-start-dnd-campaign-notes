@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Rezvansheh
 >###### Capital City
->Country: [[Nations/Nabatia|Nabatia]]
+>Country: [[Setting/Nations/Nabatia|Nabatia]]
 >Established:
 >Area:
 >Elevation: 1089m
 >Population: 61,301
 >Demonym(s):
->Dominant Culture: [[Cultures/Kufa|Kufa]]
+>Dominant Culture: [[Setting/Cultures/Kufa|Kufa]]
 >Dominant Religion:
 
 # History

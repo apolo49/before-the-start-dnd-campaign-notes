@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Ecbia
 >Civilised
->Capital: [[Cities/Shilan|Shilan]]
->Largest Settlement: [[Cities/Shilan|Shilan]]
+>Capital: [[Setting/Settlements/Cities/Shilan|Shilan]]
+>Largest Settlement: [[Setting/Settlements/Cities/Shilan|Shilan]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Shilan|Shilan]]
+- [[Setting/Settlements/Cities/Shilan|Shilan]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

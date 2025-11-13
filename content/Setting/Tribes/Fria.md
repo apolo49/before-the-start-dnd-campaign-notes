@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Fria
 >Tribe
->Capital: [[Villages/Etzengendin|Etzengendin]]
->Largest Settlement: [[Villages/Etzengendin|Etzengendin]]
+>Capital: [[Setting/Settlements/Villages/Etzengendin|Etzengendin]]
+>Largest Settlement: [[Setting/Settlements/Villages/Etzengendin|Etzengendin]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Etzengendin|Etzengendin]]
+- [[Setting/Settlements/Villages/Etzengendin|Etzengendin]]
 
 # Cultures in Borders
 
-- [[Cultures/Kusgau|Kusgau]]
+- [[Setting/Cultures/Kusgau|Kusgau]]
 

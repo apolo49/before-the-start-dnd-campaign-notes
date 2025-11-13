@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Kuh
 >Civilised
->Capital: [[Villages/Golshangaha|Golshangaha]]
->Largest Settlement: [[Villages/Golshangaha|Golshangaha]]
+>Capital: [[Setting/Settlements/Villages/Golshangaha|Golshangaha]]
+>Largest Settlement: [[Setting/Settlements/Villages/Golshangaha|Golshangaha]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Golshangaha|Golshangaha]]
+- [[Setting/Settlements/Villages/Golshangaha|Golshangaha]]
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

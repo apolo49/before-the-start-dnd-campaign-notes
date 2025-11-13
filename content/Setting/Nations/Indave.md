@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Indave
 >Civilised
->Capital: [[Cities/Lothanjarju|Lothanjarju]]
->Largest Settlement: [[Cities/Lothanjarju|Lothanjarju]]
+>Capital: [[Setting/Settlements/Cities/Lothanjarju|Lothanjarju]]
+>Largest Settlement: [[Setting/Settlements/Cities/Lothanjarju|Lothanjarju]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Lothanjarju|Lothanjarju]]
+- [[Setting/Settlements/Cities/Lothanjarju|Lothanjarju]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Vaishasi|Vaishasi]]
+- [[Setting/Cultures/Vaishasi|Vaishasi]]
 

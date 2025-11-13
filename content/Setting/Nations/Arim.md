@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Arim
 >Civilised
->Capital: [[Villages/Kabriz|Kabriz]]
->Largest Settlement: [[Villages/Kabriz|Kabriz]]
+>Capital: [[Setting/Settlements/Villages/Kabriz|Kabriz]]
+>Largest Settlement: [[Setting/Settlements/Villages/Kabriz|Kabriz]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Kabriz|Kabriz]]
+- [[Setting/Settlements/Villages/Kabriz|Kabriz]]
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Parajia
 >Civilised
->Capital: [[Cities/Ashadatig|Ashadatig]]
->Largest Settlement: [[Cities/Ashadatig|Ashadatig]]
+>Capital: [[Setting/Settlements/Cities/Ashadatig|Ashadatig]]
+>Largest Settlement: [[Setting/Settlements/Cities/Ashadatig|Ashadatig]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Ashadatig|Ashadatig]]
+- [[Setting/Settlements/Cities/Ashadatig|Ashadatig]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

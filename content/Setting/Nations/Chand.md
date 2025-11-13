@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Chand
 >Civilised
->Capital: [[Cities/Kashgagar|Kashgagar]]
->Largest Settlement: [[Cities/Kashgagar|Kashgagar]]
+>Capital: [[Setting/Settlements/Cities/Kashgagar|Kashgagar]]
+>Largest Settlement: [[Setting/Settlements/Cities/Kashgagar|Kashgagar]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Kashgagar|Kashgagar]]
+- [[Setting/Settlements/Cities/Kashgagar|Kashgagar]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Makonda|Makonda]]
+- [[Setting/Cultures/Makonda|Makonda]]
 

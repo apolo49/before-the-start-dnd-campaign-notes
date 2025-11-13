@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Thymia
 >Civilised
->Capital: [[Cities/Tegainion|Tegainion]]
->Largest Settlement: [[Cities/Tegainion|Tegainion]]
+>Capital: [[Setting/Settlements/Cities/Tegainion|Tegainion]]
+>Largest Settlement: [[Setting/Settlements/Cities/Tegainion|Tegainion]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Tegainion|Tegainion]]
+- [[Setting/Settlements/Cities/Tegainion|Tegainion]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Athra|Athra]]
+- [[Setting/Cultures/Athra|Athra]]
 

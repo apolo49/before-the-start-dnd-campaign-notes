@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Aich
 >Tribe
->Capital: [[Villages/Bollsbachin|Bollsbachin]]
->Largest Settlement: [[Villages/Bollsbachin|Bollsbachin]]
+>Capital: [[Setting/Settlements/Villages/Bollsbachin|Bollsbachin]]
+>Largest Settlement: [[Setting/Settlements/Villages/Bollsbachin|Bollsbachin]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Bollsbachin|Bollsbachin]]
+- [[Setting/Settlements/Villages/Bollsbachin|Bollsbachin]]
 
 # Cultures in Borders
 
-- [[Cultures/Krozin|Krozin]]
+- [[Setting/Cultures/Krozin|Krozin]]
 

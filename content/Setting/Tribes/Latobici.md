@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Latobici
 >Tribe
->Capital: [[Villages/Aberdonver|Aberdonver]]
->Largest Settlement: [[Villages/Aberdonver|Aberdonver]]
+>Capital: [[Setting/Settlements/Villages/Aberdonver|Aberdonver]]
+>Largest Settlement: [[Setting/Settlements/Villages/Aberdonver|Aberdonver]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Aberdonver|Aberdonver]]
+- [[Setting/Settlements/Villages/Aberdonver|Aberdonver]]
 
 # Cultures in Borders
 
-- [[Cultures/Bleduro|Bleduro]]
+- [[Setting/Cultures/Bleduro|Bleduro]]
 

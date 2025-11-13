@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Hoca
 >Tribe
->Capital: [[Villages/Tarka|Tarka]]
->Largest Settlement: [[Villages/Tarka|Tarka]]
+>Capital: [[Setting/Settlements/Villages/Tarka|Tarka]]
+>Largest Settlement: [[Setting/Settlements/Villages/Tarka|Tarka]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Tarka|Tarka]]
+- [[Setting/Settlements/Villages/Tarka|Tarka]]
 
 # Cultures in Borders
 
-- [[Cultures/Ber|Ber]]
+- [[Setting/Cultures/Ber|Ber]]
 

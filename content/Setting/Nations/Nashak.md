@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Nashak
 >Civilised
->Capital: [[Cities/Gereybid|Gereybid]]
->Largest Settlement: [[Cities/Gereybid|Gereybid]]
+>Capital: [[Setting/Settlements/Cities/Gereybid|Gereybid]]
+>Largest Settlement: [[Setting/Settlements/Cities/Gereybid|Gereybid]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Gereybid|Gereybid]]
+- [[Setting/Settlements/Cities/Gereybid|Gereybid]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Lofland
 >Tribe
->Capital: [[Villages/Teibachal|Teibachal]]
->Largest Settlement: [[Villages/Teibachal|Teibachal]]
+>Capital: [[Setting/Settlements/Villages/Teibachal|Teibachal]]
+>Largest Settlement: [[Setting/Settlements/Villages/Teibachal|Teibachal]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Teibachal|Teibachal]]
+- [[Setting/Settlements/Villages/Teibachal|Teibachal]]
 
 # Cultures in Borders
 
-- [[Cultures/Pemiripo|Pemiripo]]
+- [[Setting/Cultures/Pemiripo|Pemiripo]]
 

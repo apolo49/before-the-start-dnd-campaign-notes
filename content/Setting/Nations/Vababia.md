@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Vababia
 >Civilised
->Capital: [[Cities/Bawandis|Bawandis]]
->Largest Settlement: [[Cities/Bawandis|Bawandis]]
+>Capital: [[Setting/Settlements/Cities/Bawandis|Bawandis]]
+>Largest Settlement: [[Setting/Settlements/Cities/Bawandis|Bawandis]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Bawandis|Bawandis]]
+- [[Setting/Settlements/Cities/Bawandis|Bawandis]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

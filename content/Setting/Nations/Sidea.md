@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Sidea
 >Civilised
->Capital: [[Cities/Theorydori|Theorydori]]
->Largest Settlement: [[Cities/Theorydori|Theorydori]]
+>Capital: [[Setting/Settlements/Cities/Theorydori|Theorydori]]
+>Largest Settlement: [[Setting/Settlements/Cities/Theorydori|Theorydori]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Theorydori|Theorydori]]
+- [[Setting/Settlements/Cities/Theorydori|Theorydori]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Porigost|Porigost]]
+- [[Setting/Cultures/Porigost|Porigost]]
 

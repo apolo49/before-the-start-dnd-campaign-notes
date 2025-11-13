@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Iacosia
 >Civilised
->Capital: [[Villages/Iacos|Iacos]]
->Largest Settlement: [[Villages/Iacos|Iacos]]
+>Capital: [[Setting/Settlements/Villages/Iacos|Iacos]]
+>Largest Settlement: [[Setting/Settlements/Villages/Iacos|Iacos]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Iacos|Iacos]]
+- [[Setting/Settlements/Villages/Iacos|Iacos]]
 
 # Cultures in Borders
 
-- [[Cultures/Hubde|Hubde]]
+- [[Setting/Cultures/Hubde|Hubde]]
 

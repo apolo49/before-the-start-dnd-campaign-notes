@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Rum
 >Tribe
->Capital: [[Villages/Steisach|Steisach]]
->Largest Settlement: [[Villages/Steisach|Steisach]]
+>Capital: [[Setting/Settlements/Villages/Steisach|Steisach]]
+>Largest Settlement: [[Setting/Settlements/Villages/Steisach|Steisach]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Steisach|Steisach]]
+- [[Setting/Settlements/Villages/Steisach|Steisach]]
 
 # Cultures in Borders
 
-- [[Cultures/Steinbach|Steinbach]]
+- [[Setting/Cultures/Steinbach|Steinbach]]
 

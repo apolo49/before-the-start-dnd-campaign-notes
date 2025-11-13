@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Schwia
 >Tribe
->Capital: [[Villages/Imeldenhardt|Imeldenhardt]]
->Largest Settlement: [[Villages/Imeldenhardt|Imeldenhardt]]
+>Capital: [[Setting/Settlements/Villages/Imeldenhardt|Imeldenhardt]]
+>Largest Settlement: [[Setting/Settlements/Villages/Imeldenhardt|Imeldenhardt]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Imeldenhardt|Imeldenhardt]]
+- [[Setting/Settlements/Villages/Imeldenhardt|Imeldenhardt]]
 
 # Cultures in Borders
 
-- [[Cultures/Horngenhau|Horngenhau]]
+- [[Setting/Cultures/Horngenhau|Horngenhau]]
 

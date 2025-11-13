@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Sachrenin
 >Tribe
->Capital: [[Villages/Sachrenin|Sachrenin]]
->Largest Settlement: [[Villages/Sachrenin|Sachrenin]]
+>Capital: [[Setting/Settlements/Villages/Sachrenin|Sachrenin]]
+>Largest Settlement: [[Setting/Settlements/Villages/Sachrenin|Sachrenin]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Sachrenin|Sachrenin]]
+- [[Setting/Settlements/Villages/Sachrenin|Sachrenin]]
 
 # Cultures in Borders
 
-- [[Cultures/Bieiamten|Bieiamten]]
+- [[Setting/Cultures/Bieiamten|Bieiamten]]
 

@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Aman
 >Tribe
->Capital: [[Villages/Chla|Chla]]
->Largest Settlement: [[Villages/Chla|Chla]]
+>Capital: [[Setting/Settlements/Villages/Chla|Chla]]
+>Largest Settlement: [[Setting/Settlements/Villages/Chla|Chla]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Chla|Chla]]
+- [[Setting/Settlements/Villages/Chla|Chla]]
 
 # Cultures in Borders
 
-- [[Cultures/Invermayfi|Invermayfi]]
+- [[Setting/Cultures/Invermayfi|Invermayfi]]
 

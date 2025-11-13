@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Magriros
 >Civilised
->Capital: [[Cities/Magriros|Magriros]]
->Largest Settlement: [[Cities/Magriros|Magriros]]
+>Capital: [[Setting/Settlements/Cities/Magriros|Magriros]]
+>Largest Settlement: [[Setting/Settlements/Cities/Magriros|Magriros]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Magriros|Magriros]]
+- [[Setting/Settlements/Cities/Magriros|Magriros]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Athra|Athra]]
+- [[Setting/Cultures/Athra|Athra]]
 

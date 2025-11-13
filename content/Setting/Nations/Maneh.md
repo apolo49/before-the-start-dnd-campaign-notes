@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Maneh
 >Civilised
->Capital: [[Cities/Burun|Burun]]
->Largest Settlement: [[Cities/Burun|Burun]]
+>Capital: [[Setting/Settlements/Cities/Burun|Burun]]
+>Largest Settlement: [[Setting/Settlements/Cities/Burun|Burun]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Burun|Burun]]
+- [[Setting/Settlements/Cities/Burun|Burun]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

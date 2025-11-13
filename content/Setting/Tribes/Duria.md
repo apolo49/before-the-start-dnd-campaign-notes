@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Duria
 >Tribe
->Capital: [[Villages/Ettlin|Ettlin]]
->Largest Settlement: [[Villages/Ettlin|Ettlin]]
+>Capital: [[Setting/Settlements/Villages/Ettlin|Ettlin]]
+>Largest Settlement: [[Setting/Settlements/Villages/Ettlin|Ettlin]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Ettlin|Ettlin]]
+- [[Setting/Settlements/Villages/Ettlin|Ettlin]]
 
 # Cultures in Borders
 
-- [[Cultures/Ehrstadt|Ehrstadt]]
+- [[Setting/Cultures/Ehrstadt|Ehrstadt]]
 

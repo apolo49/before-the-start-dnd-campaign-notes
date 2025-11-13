@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Rhein
 >Tribe
->Capital: [[Villages/Wildberg|Wildberg]]
->Largest Settlement: [[Villages/Wildberg|Wildberg]]
+>Capital: [[Setting/Settlements/Villages/Wildberg|Wildberg]]
+>Largest Settlement: [[Setting/Settlements/Villages/Wildberg|Wildberg]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Wildberg|Wildberg]]
+- [[Setting/Settlements/Villages/Wildberg|Wildberg]]
 
 # Cultures in Borders
 
-- [[Cultures/Horngenhau|Horngenhau]]
+- [[Setting/Cultures/Horngenhau|Horngenhau]]
 

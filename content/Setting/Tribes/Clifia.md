@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Clifia
 >Tribe
->Capital: [[Villages/Causmouth|Causmouth]]
->Largest Settlement: [[Villages/Causmouth|Causmouth]]
+>Capital: [[Setting/Settlements/Villages/Causmouth|Causmouth]]
+>Largest Settlement: [[Setting/Settlements/Villages/Causmouth|Causmouth]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Causmouth|Causmouth]]
+- [[Setting/Settlements/Villages/Causmouth|Causmouth]]
 
 # Cultures in Borders
 
-- [[Cultures/Wildlands|Wildlands]]
+- [[Setting/Cultures/Wildlands|Wildlands]]
 

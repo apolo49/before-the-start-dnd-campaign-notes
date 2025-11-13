@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Gonar
 >Civilised
->Capital: [[Villages/Gonar|Gonar]]
->Largest Settlement: [[Villages/Gonar|Gonar]]
+>Capital: [[Setting/Settlements/Villages/Gonar|Gonar]]
+>Largest Settlement: [[Setting/Settlements/Villages/Gonar|Gonar]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Gonar|Gonar]]
+- [[Setting/Settlements/Villages/Gonar|Gonar]]
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

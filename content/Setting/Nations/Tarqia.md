@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Tarqia
 >Civilised
->Capital: [[Cities/Chabad|Chabad]]
->Largest Settlement: [[Cities/Chabad|Chabad]]
+>Capital: [[Setting/Settlements/Cities/Chabad|Chabad]]
+>Largest Settlement: [[Setting/Settlements/Cities/Chabad|Chabad]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Chabad|Chabad]]
+- [[Setting/Settlements/Cities/Chabad|Chabad]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

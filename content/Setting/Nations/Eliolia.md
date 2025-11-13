@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Eliolia
 >Civilised
->Capital: [[Cities/Stymphatis|Stymphatis]]
->Largest Settlement: [[Cities/Stymphatis|Stymphatis]]
+>Capital: [[Setting/Settlements/Cities/Stymphatis|Stymphatis]]
+>Largest Settlement: [[Setting/Settlements/Cities/Stymphatis|Stymphatis]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Stymphatis|Stymphatis]]
+- [[Setting/Settlements/Cities/Stymphatis|Stymphatis]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Thurion|Thurion]]
+- [[Setting/Cultures/Thurion|Thurion]]
 

@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Bol
 >Tribe
->Capital: [[Villages/Karlsteig|Karlsteig]]
->Largest Settlement: [[Villages/Karlsteig|Karlsteig]]
+>Capital: [[Setting/Settlements/Villages/Karlsteig|Karlsteig]]
+>Largest Settlement: [[Setting/Settlements/Villages/Karlsteig|Karlsteig]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Karlsteig|Karlsteig]]
+- [[Setting/Settlements/Villages/Karlsteig|Karlsteig]]
 
 # Cultures in Borders
 
-- [[Cultures/Schaltens|Schaltens]]
+- [[Setting/Cultures/Schaltens|Schaltens]]
 

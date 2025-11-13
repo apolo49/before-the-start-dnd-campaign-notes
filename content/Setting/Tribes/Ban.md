@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Ban
 >Tribe
->Capital: [[Villages/Aberglasky|Aberglasky]]
->Largest Settlement: [[Villages/Aberglasky|Aberglasky]]
+>Capital: [[Setting/Settlements/Villages/Aberglasky|Aberglasky]]
+>Largest Settlement: [[Setting/Settlements/Villages/Aberglasky|Aberglasky]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Aberglasky|Aberglasky]]
+- [[Setting/Settlements/Villages/Aberglasky|Aberglasky]]
 
 # Cultures in Borders
 
-- [[Cultures/Treaberc|Treaberc]]
+- [[Setting/Cultures/Treaberc|Treaberc]]
 

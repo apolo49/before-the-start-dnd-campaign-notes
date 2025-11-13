@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Chlia
 >Tribe
->Capital: [[Villages/Inserurile|Inserurile]]
->Largest Settlement: [[Villages/Inserurile|Inserurile]]
+>Capital: [[Setting/Settlements/Villages/Inserurile|Inserurile]]
+>Largest Settlement: [[Setting/Settlements/Villages/Inserurile|Inserurile]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Inserurile|Inserurile]]
+- [[Setting/Settlements/Villages/Inserurile|Inserurile]]
 
 # Cultures in Borders
 
-- [[Cultures/Calaw|Calaw]]
+- [[Setting/Cultures/Calaw|Calaw]]
 

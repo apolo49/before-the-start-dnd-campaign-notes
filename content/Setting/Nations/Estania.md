@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Estania
 >Civilised
->Capital: [[Cities/Banarand|Banarand]]
->Largest Settlement: [[Cities/Banarand|Banarand]]
+>Capital: [[Setting/Settlements/Cities/Banarand|Banarand]]
+>Largest Settlement: [[Setting/Settlements/Cities/Banarand|Banarand]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Banarand|Banarand]]
+- [[Setting/Settlements/Cities/Banarand|Banarand]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

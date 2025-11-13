@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Cyria
 >Civilised
->Capital: [[Cities/Heleuraca|Heleuraca]]
->Largest Settlement: [[Cities/Heleuraca|Heleuraca]]
+>Capital: [[Setting/Settlements/Cities/Heleuraca|Heleuraca]]
+>Largest Settlement: [[Setting/Settlements/Cities/Heleuraca|Heleuraca]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Heleuraca|Heleuraca]]
+- [[Setting/Settlements/Cities/Heleuraca|Heleuraca]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Athra|Athra]]
+- [[Setting/Cultures/Athra|Athra]]
 

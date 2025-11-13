@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Lenzia
 >Tribe
->Capital: [[Villages/Donigsburg|Donigsburg]]
->Largest Settlement: [[Villages/Donigsburg|Donigsburg]]
+>Capital: [[Setting/Settlements/Villages/Donigsburg|Donigsburg]]
+>Largest Settlement: [[Setting/Settlements/Villages/Donigsburg|Donigsburg]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Donigsburg|Donigsburg]]
+- [[Setting/Settlements/Villages/Donigsburg|Donigsburg]]
 
 # Cultures in Borders
 
-- [[Cultures/Hofswald|Hofswald]]
+- [[Setting/Cultures/Hofswald|Hofswald]]
 

@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Kapen
 >Tribe
->Capital: [[Villages/Biefenb|Biefenb]]
->Largest Settlement: [[Villages/Biefenb|Biefenb]]
+>Capital: [[Setting/Settlements/Villages/Biefenb|Biefenb]]
+>Largest Settlement: [[Setting/Settlements/Villages/Biefenb|Biefenb]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Biefenb|Biefenb]]
+- [[Setting/Settlements/Villages/Biefenb|Biefenb]]
 
 # Cultures in Borders
 
-- [[Cultures/Kusgau|Kusgau]]
+- [[Setting/Cultures/Kusgau|Kusgau]]
 

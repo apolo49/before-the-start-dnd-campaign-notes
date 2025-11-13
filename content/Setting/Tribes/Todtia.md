@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Todtia
 >Tribe
->Capital: [[Villages/Schal|Schal]]
->Largest Settlement: [[Villages/Schal|Schal]]
+>Capital: [[Setting/Settlements/Villages/Schal|Schal]]
+>Largest Settlement: [[Setting/Settlements/Villages/Schal|Schal]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Schal|Schal]]
+- [[Setting/Settlements/Villages/Schal|Schal]]
 
 # Cultures in Borders
 
-- [[Cultures/Witenter|Witenter]]
+- [[Setting/Cultures/Witenter|Witenter]]
 

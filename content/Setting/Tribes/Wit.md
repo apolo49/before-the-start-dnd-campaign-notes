@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Wit
 >Tribe
->Capital: [[Villages/Laufrinter|Laufrinter]]
->Largest Settlement: [[Villages/Laufrinter|Laufrinter]]
+>Capital: [[Setting/Settlements/Villages/Laufrinter|Laufrinter]]
+>Largest Settlement: [[Setting/Settlements/Villages/Laufrinter|Laufrinter]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Laufrinter|Laufrinter]]
+- [[Setting/Settlements/Villages/Laufrinter|Laufrinter]]
 
 # Cultures in Borders
 
-- [[Cultures/Kusgau|Kusgau]]
+- [[Setting/Cultures/Kusgau|Kusgau]]
 

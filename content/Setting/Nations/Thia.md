@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Thia
 >Civilised
->Capital: [[Cities/Phoriontion|Phoriontion]]
->Largest Settlement: [[Cities/Phoriontion|Phoriontion]]
+>Capital: [[Setting/Settlements/Cities/Phoriontion|Phoriontion]]
+>Largest Settlement: [[Setting/Settlements/Cities/Phoriontion|Phoriontion]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Phoriontion|Phoriontion]]
+- [[Setting/Settlements/Cities/Phoriontion|Phoriontion]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Amphi|Amphi]]
+- [[Setting/Cultures/Amphi|Amphi]]
 

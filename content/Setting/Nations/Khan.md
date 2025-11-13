@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Khan
 >Civilised
->Capital: [[Cities/Nasar|Nasar]]
->Largest Settlement: [[Cities/Nasar|Nasar]]
+>Capital: [[Setting/Settlements/Cities/Nasar|Nasar]]
+>Largest Settlement: [[Setting/Settlements/Cities/Nasar|Nasar]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Nasar|Nasar]]
+- [[Setting/Settlements/Cities/Nasar|Nasar]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

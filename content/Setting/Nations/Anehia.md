@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Anehia
 >Civilised
->Capital: [[Cities/Dumarez|Dumarez]]
->Largest Settlement: [[Cities/Dumarez|Dumarez]]
+>Capital: [[Setting/Settlements/Cities/Dumarez|Dumarez]]
+>Largest Settlement: [[Setting/Settlements/Cities/Dumarez|Dumarez]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Dumarez|Dumarez]]
+- [[Setting/Settlements/Cities/Dumarez|Dumarez]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Naqs
 >Civilised
->Capital: [[Villages/Yahen Bak|Yahen Bak]]
->Largest Settlement: [[Villages/Yahen Bak|Yahen Bak]]
+>Capital: [[Setting/Settlements/Villages/Yahen Bak|Yahen Bak]]
+>Largest Settlement: [[Setting/Settlements/Villages/Yahen Bak|Yahen Bak]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Yahen Bak|Yahen Bak]]
+- [[Setting/Settlements/Villages/Yahen Bak|Yahen Bak]]
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

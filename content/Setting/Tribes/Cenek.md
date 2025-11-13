@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Cenek
 >Tribe
->Capital: [[Villages/Cenek|Cenek]]
->Largest Settlement: [[Villages/Cenek|Cenek]]
+>Capital: [[Setting/Settlements/Villages/Cenek|Cenek]]
+>Largest Settlement: [[Setting/Settlements/Villages/Cenek|Cenek]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Cenek|Cenek]]
+- [[Setting/Settlements/Villages/Cenek|Cenek]]
 
 # Cultures in Borders
 
-- [[Cultures/Bleduro|Bleduro]]
+- [[Setting/Cultures/Bleduro|Bleduro]]
 

@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Firan
 >Civilised
->Capital: [[Villages/Firan|Firan]]
->Largest Settlement: [[Villages/Firan|Firan]]
+>Capital: [[Setting/Settlements/Villages/Firan|Firan]]
+>Largest Settlement: [[Setting/Settlements/Villages/Firan|Firan]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Firan|Firan]]
+- [[Setting/Settlements/Villages/Firan|Firan]]
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

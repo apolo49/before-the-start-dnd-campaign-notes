@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Bando
 >###### Capital City
->Country: [[Tribes/Bando|Bando]]
+>Country: [[Setting/Tribes/Bando|Bando]]
 >Established:
 >Area:
 >Elevation: 1024m
 >Population: 590
 >Demonym(s):
->Dominant Culture: [[Cultures/Bleduro|Bleduro]]
+>Dominant Culture: [[Setting/Cultures/Bleduro|Bleduro]]
 >Dominant Religion:
 
 # History

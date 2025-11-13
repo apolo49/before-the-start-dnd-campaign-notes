@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Vadpatipa
 >###### Capital City
->Country: [[Nations/Mosiania|Mosiania]]
+>Country: [[Setting/Nations/Mosiania|Mosiania]]
 >Established:
 >Area:
 >Elevation: 625m
 >Population: 22,439
 >Demonym(s):
->Dominant Culture: [[Cultures/Vaishasi|Vaishasi]]
+>Dominant Culture: [[Setting/Cultures/Vaishasi|Vaishasi]]
 >Dominant Religion:
 
 # History

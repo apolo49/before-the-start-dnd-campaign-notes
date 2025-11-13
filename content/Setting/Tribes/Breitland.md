@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Breitland
 >Tribe
->Capital: [[Villages/Bimeltens|Bimeltens]]
->Largest Settlement: [[Villages/Bimeltens|Bimeltens]]
+>Capital: [[Setting/Settlements/Villages/Bimeltens|Bimeltens]]
+>Largest Settlement: [[Setting/Settlements/Villages/Bimeltens|Bimeltens]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Bimeltens|Bimeltens]]
+- [[Setting/Settlements/Villages/Bimeltens|Bimeltens]]
 
 # Cultures in Borders
 
-- [[Cultures/Lahrwol|Lahrwol]]
+- [[Setting/Cultures/Lahrwol|Lahrwol]]
 

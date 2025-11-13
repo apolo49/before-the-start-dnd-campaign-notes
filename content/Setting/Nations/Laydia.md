@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Laydia
 >Civilised
->Capital: [[Cities/Fanararan|Fanararan]]
->Largest Settlement: [[Cities/Fanararan|Fanararan]]
+>Capital: [[Setting/Settlements/Cities/Fanararan|Fanararan]]
+>Largest Settlement: [[Setting/Settlements/Cities/Fanararan|Fanararan]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Fanararan|Fanararan]]
+- [[Setting/Settlements/Cities/Fanararan|Fanararan]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

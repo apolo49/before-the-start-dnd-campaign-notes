@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Sesia
 >Civilised
->Capital: [[Cities/Tehen|Tehen]]
->Largest Settlement: [[Cities/Tehen|Tehen]]
+>Capital: [[Setting/Settlements/Cities/Tehen|Tehen]]
+>Largest Settlement: [[Setting/Settlements/Cities/Tehen|Tehen]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Tehen|Tehen]]
+- [[Setting/Settlements/Cities/Tehen|Tehen]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Sukhtar
 >###### Capital City
->Country: [[Nations/Cheria|Cheria]]
+>Country: [[Setting/Nations/Cheria|Cheria]]
 >Established:
 >Area:
 >Elevation: 1369m
 >Population: 113
 >Demonym(s):
->Dominant Culture: [[Cultures/Kufa|Kufa]]
+>Dominant Culture: [[Setting/Cultures/Kufa|Kufa]]
 >Dominant Religion:
 
 # History

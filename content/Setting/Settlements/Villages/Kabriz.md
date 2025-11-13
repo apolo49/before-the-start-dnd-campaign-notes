@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Kabriz
 >###### Capital City
->Country: [[Nations/Arim|Arim]]
+>Country: [[Setting/Nations/Arim|Arim]]
 >Established:
 >Area:
 >Elevation: 1369m
 >Population: 948
 >Demonym(s):
->Dominant Culture: [[Cultures/Kufa|Kufa]]
+>Dominant Culture: [[Setting/Cultures/Kufa|Kufa]]
 >Dominant Religion:
 
 # History

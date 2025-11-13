@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Hafs
 >Civilised
->Capital: [[Cities/Fegan|Fegan]]
->Largest Settlement: [[Cities/Fegan|Fegan]]
+>Capital: [[Setting/Settlements/Cities/Fegan|Fegan]]
+>Largest Settlement: [[Setting/Settlements/Cities/Fegan|Fegan]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Fegan|Fegan]]
+- [[Setting/Settlements/Cities/Fegan|Fegan]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

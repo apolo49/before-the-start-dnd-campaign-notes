@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Zafenia
 >Tribe
->Capital: [[Villages/Zafen|Zafen]]
->Largest Settlement: [[Villages/Zafen|Zafen]]
+>Capital: [[Setting/Settlements/Villages/Zafen|Zafen]]
+>Largest Settlement: [[Setting/Settlements/Villages/Zafen|Zafen]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Zafen|Zafen]]
+- [[Setting/Settlements/Villages/Zafen|Zafen]]
 
 # Cultures in Borders
 
-- [[Cultures/Hofswald|Hofswald]]
+- [[Setting/Cultures/Hofswald|Hofswald]]
 

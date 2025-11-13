@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Ajarim
 >Civilised
->Capital: [[Cities/Bukan|Bukan]]
->Largest Settlement: [[Cities/Bukan|Bukan]]
+>Capital: [[Setting/Settlements/Cities/Bukan|Bukan]]
+>Largest Settlement: [[Setting/Settlements/Cities/Bukan|Bukan]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Bukan|Bukan]]
+- [[Setting/Settlements/Cities/Bukan|Bukan]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

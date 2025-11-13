@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Rheingen
 >###### Capital City
->Country: [[Tribes/Scland|Scland]]
+>Country: [[Setting/Tribes/Scland|Scland]]
 >Established:
 >Area:
 >Elevation: 961m
 >Population: 1,467
 >Demonym(s):
->Dominant Culture: [[Cultures/Pemiripo|Pemiripo]]
+>Dominant Culture: [[Setting/Cultures/Pemiripo|Pemiripo]]
 >Dominant Religion:
 
 # History

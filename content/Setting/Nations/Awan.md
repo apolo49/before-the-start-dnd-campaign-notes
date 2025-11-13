@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Awan
 >Civilised
->Capital: [[Villages/Zawan|Zawan]]
->Largest Settlement: [[Villages/Zawan|Zawan]]
+>Capital: [[Setting/Settlements/Villages/Zawan|Zawan]]
+>Largest Settlement: [[Setting/Settlements/Villages/Zawan|Zawan]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Zawan|Zawan]]
+- [[Setting/Settlements/Villages/Zawan|Zawan]]
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

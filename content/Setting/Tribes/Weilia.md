@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Weilia
 >Tribe
->Capital: [[Villages/Buhren|Buhren]]
->Largest Settlement: [[Villages/Buhren|Buhren]]
+>Capital: [[Setting/Settlements/Villages/Buhren|Buhren]]
+>Largest Settlement: [[Setting/Settlements/Villages/Buhren|Buhren]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Buhren|Buhren]]
+- [[Setting/Settlements/Villages/Buhren|Buhren]]
 
 # Cultures in Borders
 
-- [[Cultures/Kusgau|Kusgau]]
+- [[Setting/Cultures/Kusgau|Kusgau]]
 

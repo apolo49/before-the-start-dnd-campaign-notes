@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Gei
 >Tribe
->Capital: [[Villages/Raswaldsau|Raswaldsau]]
->Largest Settlement: [[Villages/Raswaldsau|Raswaldsau]]
+>Capital: [[Setting/Settlements/Villages/Raswaldsau|Raswaldsau]]
+>Largest Settlement: [[Setting/Settlements/Villages/Raswaldsau|Raswaldsau]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Raswaldsau|Raswaldsau]]
+- [[Setting/Settlements/Villages/Raswaldsau|Raswaldsau]]
 
 # Cultures in Borders
 
-- [[Cultures/Blum|Blum]]
+- [[Setting/Cultures/Blum|Blum]]
 

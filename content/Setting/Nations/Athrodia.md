@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Athrodia
 >Civilised
->Capital: [[Cities/Athrodi|Athrodi]]
->Largest Settlement: [[Cities/Athrodi|Athrodi]]
+>Capital: [[Setting/Settlements/Cities/Athrodi|Athrodi]]
+>Largest Settlement: [[Setting/Settlements/Cities/Athrodi|Athrodi]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Athrodi|Athrodi]]
+- [[Setting/Settlements/Cities/Athrodi|Athrodi]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Mortyn|Mortyn]]
+- [[Setting/Cultures/Mortyn|Mortyn]]
 

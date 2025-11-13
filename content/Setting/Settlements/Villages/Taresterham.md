@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Taresterham
 >###### Capital City
->Country: [[Tribes/Persia|Persia]]
+>Country: [[Setting/Tribes/Persia|Persia]]
 >Established:
 >Area:
 >Elevation: 676m
 >Population: 2,943
 >Demonym(s):
->Dominant Culture: [[Cultures/Wildlands|Wildlands]]
+>Dominant Culture: [[Setting/Cultures/Wildlands|Wildlands]]
 >Dominant Religion:
 
 # History

@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Atighia
 >Civilised
->Capital: [[Cities/Shahrgab|Shahrgab]]
->Largest Settlement: [[Cities/Shahrgab|Shahrgab]]
+>Capital: [[Setting/Settlements/Cities/Shahrgab|Shahrgab]]
+>Largest Settlement: [[Setting/Settlements/Cities/Shahrgab|Shahrgab]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Shahrgab|Shahrgab]]
+- [[Setting/Settlements/Cities/Shahrgab|Shahrgab]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

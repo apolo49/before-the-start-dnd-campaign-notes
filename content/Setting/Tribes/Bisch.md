@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Bisch
 >Tribe
->Capital: [[Villages/Ofengenzeln|Ofengenzeln]]
->Largest Settlement: [[Villages/Ofengenzeln|Ofengenzeln]]
+>Capital: [[Setting/Settlements/Villages/Ofengenzeln|Ofengenzeln]]
+>Largest Settlement: [[Setting/Settlements/Villages/Ofengenzeln|Ofengenzeln]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Ofengenzeln|Ofengenzeln]]
+- [[Setting/Settlements/Villages/Ofengenzeln|Ofengenzeln]]
 
 # Cultures in Borders
 
-- [[Cultures/Bieiamten|Bieiamten]]
+- [[Setting/Cultures/Bieiamten|Bieiamten]]
 

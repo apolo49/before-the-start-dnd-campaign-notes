@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Pan
 >Civilised
->Capital: [[Cities/Sesos|Sesos]]
->Largest Settlement: [[Cities/Sesos|Sesos]]
+>Capital: [[Setting/Settlements/Cities/Sesos|Sesos]]
+>Largest Settlement: [[Setting/Settlements/Cities/Sesos|Sesos]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Sesos|Sesos]]
+- [[Setting/Settlements/Cities/Sesos|Sesos]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Thes|Thes]]
+- [[Setting/Cultures/Thes|Thes]]
 

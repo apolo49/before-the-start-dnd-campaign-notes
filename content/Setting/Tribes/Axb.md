@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Axb
 >Tribe
->Capital: [[Villages/Brover|Brover]]
->Largest Settlement: [[Villages/Brover|Brover]]
+>Capital: [[Setting/Settlements/Villages/Brover|Brover]]
+>Largest Settlement: [[Setting/Settlements/Villages/Brover|Brover]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Brover|Brover]]
+- [[Setting/Settlements/Villages/Brover|Brover]]
 
 # Cultures in Borders
 
-- [[Cultures/Wildlands|Wildlands]]
+- [[Setting/Cultures/Wildlands|Wildlands]]
 

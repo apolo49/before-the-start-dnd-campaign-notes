@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Timans
 >Civilised
->Capital: [[Cities/Navaqers|Navaqers]]
->Largest Settlement: [[Cities/Navaqers|Navaqers]]
+>Capital: [[Setting/Settlements/Cities/Navaqers|Navaqers]]
+>Largest Settlement: [[Setting/Settlements/Cities/Navaqers|Navaqers]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Navaqers|Navaqers]]
+- [[Setting/Settlements/Cities/Navaqers|Navaqers]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Berg
 >Tribe
->Capital: [[Villages/Gernstetnau|Gernstetnau]]
->Largest Settlement: [[Villages/Gernstetnau|Gernstetnau]]
+>Capital: [[Setting/Settlements/Villages/Gernstetnau|Gernstetnau]]
+>Largest Settlement: [[Setting/Settlements/Villages/Gernstetnau|Gernstetnau]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Gernstetnau|Gernstetnau]]
+- [[Setting/Settlements/Villages/Gernstetnau|Gernstetnau]]
 
 # Cultures in Borders
 
-- [[Cultures/Schaltens|Schaltens]]
+- [[Setting/Cultures/Schaltens|Schaltens]]
 

@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Tolymna
 >Civilised
->Capital: [[Villages/Tolymna|Tolymna]]
->Largest Settlement: [[Villages/Tolymna|Tolymna]]
+>Capital: [[Setting/Settlements/Villages/Tolymna|Tolymna]]
+>Largest Settlement: [[Setting/Settlements/Villages/Tolymna|Tolymna]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Tolymna|Tolymna]]
+- [[Setting/Settlements/Villages/Tolymna|Tolymna]]
 
 # Cultures in Borders
 
-- [[Cultures/Athra|Athra]]
+- [[Setting/Cultures/Athra|Athra]]
 

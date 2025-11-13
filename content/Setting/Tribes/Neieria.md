@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Neieria
 >Tribe
->Capital: [[Villages/Wutach|Wutach]]
->Largest Settlement: [[Villages/Wutach|Wutach]]
+>Capital: [[Setting/Settlements/Villages/Wutach|Wutach]]
+>Largest Settlement: [[Setting/Settlements/Villages/Wutach|Wutach]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Wutach|Wutach]]
+- [[Setting/Settlements/Villages/Wutach|Wutach]]
 
 # Cultures in Borders
 
-- [[Cultures/Herwihl|Herwihl]]
+- [[Setting/Cultures/Herwihl|Herwihl]]
 

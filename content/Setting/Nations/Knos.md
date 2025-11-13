@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Knos
 >Civilised
->Capital: [[Villages/Sikontion|Sikontion]]
->Largest Settlement: [[Villages/Sikontion|Sikontion]]
+>Capital: [[Setting/Settlements/Villages/Sikontion|Sikontion]]
+>Largest Settlement: [[Setting/Settlements/Villages/Sikontion|Sikontion]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Sikontion|Sikontion]]
+- [[Setting/Settlements/Villages/Sikontion|Sikontion]]
 
 # Cultures in Borders
 
-- [[Cultures/Athra|Athra]]
+- [[Setting/Cultures/Athra|Athra]]
 

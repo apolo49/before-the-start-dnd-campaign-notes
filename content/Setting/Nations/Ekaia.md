@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Ekaia
 >Civilised
->Capital: [[Villages/Ilohlerot|Ilohlerot]]
->Largest Settlement: [[Villages/Ilohlerot|Ilohlerot]]
+>Capital: [[Setting/Settlements/Villages/Ilohlerot|Ilohlerot]]
+>Largest Settlement: [[Setting/Settlements/Villages/Ilohlerot|Ilohlerot]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Ilohlerot|Ilohlerot]]
+- [[Setting/Settlements/Villages/Ilohlerot|Ilohlerot]]
 
 # Cultures in Borders
 
-- [[Cultures/Carthaginian|Carthaginian]]
+- [[Setting/Cultures/Carthaginian|Carthaginian]]
 

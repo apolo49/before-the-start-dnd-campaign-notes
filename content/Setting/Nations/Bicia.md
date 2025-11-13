@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Bicia
 >Civilised
->Capital: [[Cities/Dararatigha|Dararatigha]]
->Largest Settlement: [[Cities/Dararatigha|Dararatigha]]
+>Capital: [[Setting/Settlements/Cities/Dararatigha|Dararatigha]]
+>Largest Settlement: [[Setting/Settlements/Cities/Dararatigha|Dararatigha]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Dararatigha|Dararatigha]]
+- [[Setting/Settlements/Cities/Dararatigha|Dararatigha]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

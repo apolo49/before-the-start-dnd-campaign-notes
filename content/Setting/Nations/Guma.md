@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Guma
 >Civilised
->Capital: [[Villages/Asghesheres|Asghesheres]]
->Largest Settlement: [[Villages/Asghesheres|Asghesheres]]
+>Capital: [[Setting/Settlements/Villages/Asghesheres|Asghesheres]]
+>Largest Settlement: [[Setting/Settlements/Villages/Asghesheres|Asghesheres]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Asghesheres|Asghesheres]]
+- [[Setting/Settlements/Villages/Asghesheres|Asghesheres]]
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

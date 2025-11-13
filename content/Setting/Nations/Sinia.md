@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Sinia
 >Civilised
->Capital: [[Cities/Jowshahr|Jowshahr]]
->Largest Settlement: [[Cities/Jowshahr|Jowshahr]]
+>Capital: [[Setting/Settlements/Cities/Jowshahr|Jowshahr]]
+>Largest Settlement: [[Setting/Settlements/Cities/Jowshahr|Jowshahr]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Jowshahr|Jowshahr]]
+- [[Setting/Settlements/Cities/Jowshahr|Jowshahr]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

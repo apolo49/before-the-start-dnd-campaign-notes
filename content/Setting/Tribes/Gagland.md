@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Gagland
 >Tribe
->Capital: [[Villages/Freilermers|Freilermers]]
->Largest Settlement: [[Villages/Freilermers|Freilermers]]
+>Capital: [[Setting/Settlements/Villages/Freilermers|Freilermers]]
+>Largest Settlement: [[Setting/Settlements/Villages/Freilermers|Freilermers]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Freilermers|Freilermers]]
+- [[Setting/Settlements/Villages/Freilermers|Freilermers]]
 
 # Cultures in Borders
 
-- [[Cultures/Kusteter|Kusteter]]
+- [[Setting/Cultures/Kusteter|Kusteter]]
 

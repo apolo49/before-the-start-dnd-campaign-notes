@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Myrmia
 >Civilised
->Capital: [[Villages/Scidriapa|Scidriapa]]
->Largest Settlement: [[Villages/Scidriapa|Scidriapa]]
+>Capital: [[Setting/Settlements/Villages/Scidriapa|Scidriapa]]
+>Largest Settlement: [[Setting/Settlements/Villages/Scidriapa|Scidriapa]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Scidriapa|Scidriapa]]
+- [[Setting/Settlements/Villages/Scidriapa|Scidriapa]]
 
 # Cultures in Borders
 
-- [[Cultures/Hubde|Hubde]]
+- [[Setting/Cultures/Hubde|Hubde]]
 

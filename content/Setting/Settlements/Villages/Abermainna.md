@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Abermainna
 >###### Capital City
->Country: [[Tribes/Rait|Rait]]
+>Country: [[Setting/Tribes/Rait|Rait]]
 >Established:
 >Area:
 >Elevation: 256m
 >Population: 1,147
 >Demonym(s):
->Dominant Culture: [[Cultures/Ebheartei|Ebheartei]]
+>Dominant Culture: [[Setting/Cultures/Ebheartei|Ebheartei]]
 >Dominant Religion:
 
 # History

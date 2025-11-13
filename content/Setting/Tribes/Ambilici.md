@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Ambilici
 >Tribe
->Capital: [[Villages/Eicorisnach|Eicorisnach]]
->Largest Settlement: [[Villages/Eicorisnach|Eicorisnach]]
+>Capital: [[Setting/Settlements/Villages/Eicorisnach|Eicorisnach]]
+>Largest Settlement: [[Setting/Settlements/Villages/Eicorisnach|Eicorisnach]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Eicorisnach|Eicorisnach]]
+- [[Setting/Settlements/Villages/Eicorisnach|Eicorisnach]]
 
 # Cultures in Borders
 
-- [[Cultures/Brico|Brico]]
+- [[Setting/Cultures/Brico|Brico]]
 

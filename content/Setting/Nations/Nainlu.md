@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Nainlu
 >Civilised
->Capital: [[Villages/Zabad|Zabad]]
->Largest Settlement: [[Villages/Zabad|Zabad]]
+>Capital: [[Setting/Settlements/Villages/Zabad|Zabad]]
+>Largest Settlement: [[Setting/Settlements/Villages/Zabad|Zabad]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Zabad|Zabad]]
+- [[Setting/Settlements/Villages/Zabad|Zabad]]
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

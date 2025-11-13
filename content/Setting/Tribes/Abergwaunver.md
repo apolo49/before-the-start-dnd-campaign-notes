@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Abergwaunver
 >Tribe
->Capital: [[Villages/Abergwaunver|Abergwaunver]]
->Largest Settlement: [[Villages/Abergwaunver|Abergwaunver]]
+>Capital: [[Setting/Settlements/Villages/Abergwaunver|Abergwaunver]]
+>Largest Settlement: [[Setting/Settlements/Villages/Abergwaunver|Abergwaunver]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Abergwaunver|Abergwaunver]]
+- [[Setting/Settlements/Villages/Abergwaunver|Abergwaunver]]
 
 # Cultures in Borders
 
-- [[Cultures/Lerug|Lerug]]
+- [[Setting/Cultures/Lerug|Lerug]]
 

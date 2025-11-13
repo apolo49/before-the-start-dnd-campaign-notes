@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Belin
 >Tribe
->Capital: [[Villages/Lieden|Lieden]]
->Largest Settlement: [[Villages/Lieden|Lieden]]
+>Capital: [[Setting/Settlements/Villages/Lieden|Lieden]]
+>Largest Settlement: [[Setting/Settlements/Villages/Lieden|Lieden]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Lieden|Lieden]]
+- [[Setting/Settlements/Villages/Lieden|Lieden]]
 
 # Cultures in Borders
 
-- [[Cultures/Bieiamten|Bieiamten]]
+- [[Setting/Cultures/Bieiamten|Bieiamten]]
 

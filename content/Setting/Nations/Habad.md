@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Habad
 >Civilised
->Capital: [[Villages/Habad|Habad]]
->Largest Settlement: [[Villages/Habad|Habad]]
+>Capital: [[Setting/Settlements/Villages/Habad|Habad]]
+>Largest Settlement: [[Setting/Settlements/Villages/Habad|Habad]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Habad|Habad]]
+- [[Setting/Settlements/Villages/Habad|Habad]]
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

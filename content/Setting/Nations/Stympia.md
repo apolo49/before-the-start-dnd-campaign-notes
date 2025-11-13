@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Stympia
 >Civilised
->Capital: [[Villages/Tydon|Tydon]]
->Largest Settlement: [[Villages/Tydon|Tydon]]
+>Capital: [[Setting/Settlements/Villages/Tydon|Tydon]]
+>Largest Settlement: [[Setting/Settlements/Villages/Tydon|Tydon]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Tydon|Tydon]]
+- [[Setting/Settlements/Villages/Tydon|Tydon]]
 
 # Cultures in Borders
 
-- [[Cultures/Nymphid|Nymphid]]
+- [[Setting/Cultures/Nymphid|Nymphid]]
 

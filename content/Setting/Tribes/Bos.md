@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Bos
 >Tribe
->Capital: [[Villages/Arainnervie|Arainnervie]]
->Largest Settlement: [[Villages/Arainnervie|Arainnervie]]
+>Capital: [[Setting/Settlements/Villages/Arainnervie|Arainnervie]]
+>Largest Settlement: [[Setting/Settlements/Villages/Arainnervie|Arainnervie]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Arainnervie|Arainnervie]]
+- [[Setting/Settlements/Villages/Arainnervie|Arainnervie]]
 
 # Cultures in Borders
 
-- [[Cultures/Bleduro|Bleduro]]
+- [[Setting/Cultures/Bleduro|Bleduro]]
 

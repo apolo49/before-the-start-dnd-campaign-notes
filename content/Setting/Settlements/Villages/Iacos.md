@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Iacos
 >###### Capital City
->Country: [[Nations/Iacosia|Iacosia]]
+>Country: [[Setting/Nations/Iacosia|Iacosia]]
 >Established:
 >Area:
 >Elevation: 1089m
 >Population: 1,628
 >Demonym(s):
->Dominant Culture: [[Cultures/Hubde|Hubde]]
+>Dominant Culture: [[Setting/Cultures/Hubde|Hubde]]
 >Dominant Religion:
 
 # History

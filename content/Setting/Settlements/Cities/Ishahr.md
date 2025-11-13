@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Ishahr
 >###### Capital City
->Country: [[Nations/Bushad|Bushad]]
+>Country: [[Setting/Nations/Bushad|Bushad]]
 >Established:
 >Area:
 >Elevation: 1024m
 >Population: 112,298
 >Demonym(s):
->Dominant Culture: [[Cultures/Kufa|Kufa]]
+>Dominant Culture: [[Setting/Cultures/Kufa|Kufa]]
 >Dominant Religion:
 
 # History

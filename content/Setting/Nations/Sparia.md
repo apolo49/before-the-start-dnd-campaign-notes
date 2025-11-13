@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Sparia
 >Civilised
->Capital: [[Villages/Magripathym|Magripathym]]
->Largest Settlement: [[Villages/Magripathym|Magripathym]]
+>Capital: [[Setting/Settlements/Villages/Magripathym|Magripathym]]
+>Largest Settlement: [[Setting/Settlements/Villages/Magripathym|Magripathym]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Magripathym|Magripathym]]
+- [[Setting/Settlements/Villages/Magripathym|Magripathym]]
 
 # Cultures in Borders
 
-- [[Cultures/Hubde|Hubde]]
+- [[Setting/Cultures/Hubde|Hubde]]
 

@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Arjo
 >Civilised
->Capital: [[Cities/Qampydanana|Qampydanana]]
->Largest Settlement: [[Cities/Qampydanana|Qampydanana]]
+>Capital: [[Setting/Settlements/Cities/Qampydanana|Qampydanana]]
+>Largest Settlement: [[Setting/Settlements/Cities/Qampydanana|Qampydanana]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Qampydanana|Qampydanana]]
+- [[Setting/Settlements/Cities/Qampydanana|Qampydanana]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

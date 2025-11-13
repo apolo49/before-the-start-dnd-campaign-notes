@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Inbhia
 >Tribe
->Capital: [[Villages/Aberkeitheru|Aberkeitheru]]
->Largest Settlement: [[Villages/Aberkeitheru|Aberkeitheru]]
+>Capital: [[Setting/Settlements/Villages/Aberkeitheru|Aberkeitheru]]
+>Largest Settlement: [[Setting/Settlements/Villages/Aberkeitheru|Aberkeitheru]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Aberkeitheru|Aberkeitheru]]
+- [[Setting/Settlements/Villages/Aberkeitheru|Aberkeitheru]]
 
 # Cultures in Borders
 
-- [[Cultures/Ebheartei|Ebheartei]]
+- [[Setting/Cultures/Ebheartei|Ebheartei]]
 

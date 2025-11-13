@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Sas
 >Tribe
->Capital: [[Villages/Sulzheim|Sulzheim]]
->Largest Settlement: [[Villages/Sulzheim|Sulzheim]]
+>Capital: [[Setting/Settlements/Villages/Sulzheim|Sulzheim]]
+>Largest Settlement: [[Setting/Settlements/Villages/Sulzheim|Sulzheim]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Sulzheim|Sulzheim]]
+- [[Setting/Settlements/Villages/Sulzheim|Sulzheim]]
 
 # Cultures in Borders
 
-- [[Cultures/Schaltens|Schaltens]]
+- [[Setting/Cultures/Schaltens|Schaltens]]
 

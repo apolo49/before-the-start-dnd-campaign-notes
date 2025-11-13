@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Stap
 >Tribe
->Capital: [[Villages/Hamerston|Hamerston]]
->Largest Settlement: [[Villages/Hamerston|Hamerston]]
+>Capital: [[Setting/Settlements/Villages/Hamerston|Hamerston]]
+>Largest Settlement: [[Setting/Settlements/Villages/Hamerston|Hamerston]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Hamerston|Hamerston]]
+- [[Setting/Settlements/Villages/Hamerston|Hamerston]]
 
 # Cultures in Borders
 
-- [[Cultures/Wildlands|Wildlands]]
+- [[Setting/Cultures/Wildlands|Wildlands]]
 

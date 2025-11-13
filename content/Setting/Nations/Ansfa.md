@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Ansfa
 >Civilised
->Capital: [[Cities/Ashahrmir|Ashahrmir]]
->Largest Settlement: [[Cities/Ashahrmir|Ashahrmir]]
+>Capital: [[Setting/Settlements/Cities/Ashahrmir|Ashahrmir]]
+>Largest Settlement: [[Setting/Settlements/Cities/Ashahrmir|Ashahrmir]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Ashahrmir|Ashahrmir]]
+- [[Setting/Settlements/Cities/Ashahrmir|Ashahrmir]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

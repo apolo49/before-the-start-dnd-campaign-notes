@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Hazezia
 >Civilised
->Capital: [[Cities/Felishahr|Felishahr]]
->Largest Settlement: [[Cities/Felishahr|Felishahr]]
+>Capital: [[Setting/Settlements/Cities/Felishahr|Felishahr]]
+>Largest Settlement: [[Setting/Settlements/Cities/Felishahr|Felishahr]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Felishahr|Felishahr]]
+- [[Setting/Settlements/Cities/Felishahr|Felishahr]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

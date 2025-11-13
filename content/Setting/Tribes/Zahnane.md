@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Zahnane
 >Tribe
->Capital: [[Villages/Zahnane|Zahnane]]
->Largest Settlement: [[Villages/Zahnane|Zahnane]]
+>Capital: [[Setting/Settlements/Villages/Zahnane|Zahnane]]
+>Largest Settlement: [[Setting/Settlements/Villages/Zahnane|Zahnane]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Zahnane|Zahnane]]
+- [[Setting/Settlements/Villages/Zahnane|Zahnane]]
 
 # Cultures in Borders
 
-- [[Cultures/Ber|Ber]]
+- [[Setting/Cultures/Ber|Ber]]
 

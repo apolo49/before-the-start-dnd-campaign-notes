@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Dinia
 >Tribe
->Capital: [[Villages/Llanver|Llanver]]
->Largest Settlement: [[Villages/Llanver|Llanver]]
+>Capital: [[Setting/Settlements/Villages/Llanver|Llanver]]
+>Largest Settlement: [[Setting/Settlements/Villages/Llanver|Llanver]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Llanver|Llanver]]
+- [[Setting/Settlements/Villages/Llanver|Llanver]]
 
 # Cultures in Borders
 
-- [[Cultures/Cedi|Cedi]]
+- [[Setting/Cultures/Cedi|Cedi]]
 

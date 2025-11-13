@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Wiscom
 >Tribe
->Capital: [[Villages/Wiscom|Wiscom]]
->Largest Settlement: [[Villages/Wiscom|Wiscom]]
+>Capital: [[Setting/Settlements/Villages/Wiscom|Wiscom]]
+>Largest Settlement: [[Setting/Settlements/Villages/Wiscom|Wiscom]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Wiscom|Wiscom]]
+- [[Setting/Settlements/Villages/Wiscom|Wiscom]]
 
 # Cultures in Borders
 
-- [[Cultures/Wildlands|Wildlands]]
+- [[Setting/Cultures/Wildlands|Wildlands]]
 

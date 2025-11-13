@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Sanzia
 >Civilised
->Capital: [[Villages/Derikosh|Derikosh]]
->Largest Settlement: [[Villages/Derikosh|Derikosh]]
+>Capital: [[Setting/Settlements/Villages/Derikosh|Derikosh]]
+>Largest Settlement: [[Setting/Settlements/Villages/Derikosh|Derikosh]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Derikosh|Derikosh]]
+- [[Setting/Settlements/Villages/Derikosh|Derikosh]]
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

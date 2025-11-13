@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Aharigia
 >Tribe
->Capital: [[Villages/Tudobhulais|Tudobhulais]]
->Largest Settlement: [[Villages/Tudobhulais|Tudobhulais]]
+>Capital: [[Setting/Settlements/Villages/Tudobhulais|Tudobhulais]]
+>Largest Settlement: [[Setting/Settlements/Villages/Tudobhulais|Tudobhulais]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Tudobhulais|Tudobhulais]]
+- [[Setting/Settlements/Villages/Tudobhulais|Tudobhulais]]
 
 # Cultures in Borders
 
-- [[Cultures/Ebheartei|Ebheartei]]
+- [[Setting/Cultures/Ebheartei|Ebheartei]]
 

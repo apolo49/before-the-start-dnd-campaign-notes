@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Bilerland
 >Tribe
->Capital: [[Villages/Lautach|Lautach]]
->Largest Settlement: [[Villages/Lautach|Lautach]]
+>Capital: [[Setting/Settlements/Villages/Lautach|Lautach]]
+>Largest Settlement: [[Setting/Settlements/Villages/Lautach|Lautach]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Lautach|Lautach]]
+- [[Setting/Settlements/Villages/Lautach|Lautach]]
 
 # Cultures in Borders
 
-- [[Cultures/Herwihl|Herwihl]]
+- [[Setting/Cultures/Herwihl|Herwihl]]
 

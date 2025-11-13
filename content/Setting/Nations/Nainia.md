@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Nainia
 >Civilised
->Capital: [[Cities/Derey-Shahr|Derey-Shahr]]
->Largest Settlement: [[Cities/Derey-Shahr|Derey-Shahr]]
+>Capital: [[Setting/Settlements/Cities/Derey-Shahr|Derey-Shahr]]
+>Largest Settlement: [[Setting/Settlements/Cities/Derey-Shahr|Derey-Shahr]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Derey-Shahr|Derey-Shahr]]
+- [[Setting/Settlements/Cities/Derey-Shahr|Derey-Shahr]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

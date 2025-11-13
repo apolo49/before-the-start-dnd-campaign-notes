@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Ohls
 >Tribe
->Capital: [[Villages/Buhachlen|Buhachlen]]
->Largest Settlement: [[Villages/Buhachlen|Buhachlen]]
+>Capital: [[Setting/Settlements/Villages/Buhachlen|Buhachlen]]
+>Largest Settlement: [[Setting/Settlements/Villages/Buhachlen|Buhachlen]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Buhachlen|Buhachlen]]
+- [[Setting/Settlements/Villages/Buhachlen|Buhachlen]]
 
 # Cultures in Borders
 
-- [[Cultures/Blum|Blum]]
+- [[Setting/Cultures/Blum|Blum]]
 

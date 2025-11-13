@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Winve
 >Tribe
->Capital: [[Villages/Hebhirkunum|Hebhirkunum]]
->Largest Settlement: [[Villages/Hebhirkunum|Hebhirkunum]]
+>Capital: [[Setting/Settlements/Villages/Hebhirkunum|Hebhirkunum]]
+>Largest Settlement: [[Setting/Settlements/Villages/Hebhirkunum|Hebhirkunum]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Hebhirkunum|Hebhirkunum]]
+- [[Setting/Settlements/Villages/Hebhirkunum|Hebhirkunum]]
 
 # Cultures in Borders
 
-- [[Cultures/Duibri|Duibri]]
+- [[Setting/Cultures/Duibri|Duibri]]
 

@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Pydrosia
 >Civilised
->Capital: [[Villages/Pydros|Pydros]]
->Largest Settlement: [[Villages/Pydros|Pydros]]
+>Capital: [[Setting/Settlements/Villages/Pydros|Pydros]]
+>Largest Settlement: [[Setting/Settlements/Villages/Pydros|Pydros]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Pydros|Pydros]]
+- [[Setting/Settlements/Villages/Pydros|Pydros]]
 
 # Cultures in Borders
 
-- [[Cultures/Thes|Thes]]
+- [[Setting/Cultures/Thes|Thes]]
 

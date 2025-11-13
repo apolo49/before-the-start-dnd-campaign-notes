@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Thyrada
 >###### Capital City
->Country: [[Nations/Psych|Psych]]
+>Country: [[Setting/Nations/Psych|Psych]]
 >Established:
 >Area:
 >Elevation: 324m
 >Population: 1,502
 >Demonym(s):
->Dominant Culture: [[Cultures/Nerapit|Nerapit]]
+>Dominant Culture: [[Setting/Cultures/Nerapit|Nerapit]]
 >Dominant Religion:
 
 # History

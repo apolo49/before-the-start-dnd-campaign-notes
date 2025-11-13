@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Bando
 >Tribe
->Capital: [[Villages/Bando|Bando]]
->Largest Settlement: [[Villages/Bando|Bando]]
+>Capital: [[Setting/Settlements/Villages/Bando|Bando]]
+>Largest Settlement: [[Setting/Settlements/Villages/Bando|Bando]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Bando|Bando]]
+- [[Setting/Settlements/Villages/Bando|Bando]]
 
 # Cultures in Borders
 
-- [[Cultures/Bleduro|Bleduro]]
+- [[Setting/Cultures/Bleduro|Bleduro]]
 

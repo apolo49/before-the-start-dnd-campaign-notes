@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Nasheh
 >Civilised
->Capital: [[Cities/Saricanak|Saricanak]]
->Largest Settlement: [[Cities/Saricanak|Saricanak]]
+>Capital: [[Setting/Settlements/Cities/Saricanak|Saricanak]]
+>Largest Settlement: [[Setting/Settlements/Cities/Saricanak|Saricanak]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Saricanak|Saricanak]]
+- [[Setting/Settlements/Cities/Saricanak|Saricanak]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

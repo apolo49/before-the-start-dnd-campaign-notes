@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Golsia
 >Civilised
->Capital: [[Cities/Takhrifabad|Takhrifabad]]
->Largest Settlement: [[Cities/Takhrifabad|Takhrifabad]]
+>Capital: [[Setting/Settlements/Cities/Takhrifabad|Takhrifabad]]
+>Largest Settlement: [[Setting/Settlements/Cities/Takhrifabad|Takhrifabad]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Takhrifabad|Takhrifabad]]
+- [[Setting/Settlements/Cities/Takhrifabad|Takhrifabad]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

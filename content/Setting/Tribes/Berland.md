@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Berland
 >Tribe
->Capital: [[Villages/Dunin|Dunin]]
->Largest Settlement: [[Villages/Dunin|Dunin]]
+>Capital: [[Setting/Settlements/Villages/Dunin|Dunin]]
+>Largest Settlement: [[Setting/Settlements/Villages/Dunin|Dunin]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Dunin|Dunin]]
+- [[Setting/Settlements/Villages/Dunin|Dunin]]
 
 # Cultures in Borders
 
-- [[Cultures/Pemiripo|Pemiripo]]
+- [[Setting/Cultures/Pemiripo|Pemiripo]]
 

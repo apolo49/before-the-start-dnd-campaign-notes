@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Kupeldenia
 >Tribe
->Capital: [[Villages/Kupelden|Kupelden]]
->Largest Settlement: [[Villages/Kupelden|Kupelden]]
+>Capital: [[Setting/Settlements/Villages/Kupelden|Kupelden]]
+>Largest Settlement: [[Setting/Settlements/Villages/Kupelden|Kupelden]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Kupelden|Kupelden]]
+- [[Setting/Settlements/Villages/Kupelden|Kupelden]]
 
 # Cultures in Borders
 
-- [[Cultures/Herwihl|Herwihl]]
+- [[Setting/Cultures/Herwihl|Herwihl]]
 

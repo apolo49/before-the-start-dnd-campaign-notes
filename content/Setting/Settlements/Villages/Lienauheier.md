@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Lienauheier
 >###### Capital City
->Country: [[Tribes/Waland|Waland]]
+>Country: [[Setting/Tribes/Waland|Waland]]
 >Established:
 >Area:
 >Elevation: 961m
 >Population: 2,761
 >Demonym(s):
->Dominant Culture: [[Cultures/Horngenhau|Horngenhau]]
+>Dominant Culture: [[Setting/Cultures/Horngenhau|Horngenhau]]
 >Dominant Religion:
 
 # History

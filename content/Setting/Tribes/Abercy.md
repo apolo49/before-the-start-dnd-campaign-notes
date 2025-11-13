@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Abercy
 >Tribe
->Capital: [[Villages/Aberfrwdhe|Aberfrwdhe]]
->Largest Settlement: [[Villages/Aberfrwdhe|Aberfrwdhe]]
+>Capital: [[Setting/Settlements/Villages/Aberfrwdhe|Aberfrwdhe]]
+>Largest Settlement: [[Setting/Settlements/Villages/Aberfrwdhe|Aberfrwdhe]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Aberfrwdhe|Aberfrwdhe]]
+- [[Setting/Settlements/Villages/Aberfrwdhe|Aberfrwdhe]]
 
 # Cultures in Borders
 
-- [[Cultures/Lantobhu|Lantobhu]]
+- [[Setting/Cultures/Lantobhu|Lantobhu]]
 

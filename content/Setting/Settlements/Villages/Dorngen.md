@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Dorngen
 >###### Capital City
->Country: [[Tribes/Dorngen|Dorngen]]
+>Country: [[Setting/Tribes/Dorngen|Dorngen]]
 >Established:
 >Area:
 >Elevation: 1024m
 >Population: 2,670
 >Demonym(s):
->Dominant Culture: [[Cultures/Steinbach|Steinbach]]
+>Dominant Culture: [[Setting/Cultures/Steinbach|Steinbach]]
 >Dominant Religion:
 
 # History

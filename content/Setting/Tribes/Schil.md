@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Schil
 >Tribe
->Capital: [[Villages/Enterisch|Enterisch]]
->Largest Settlement: [[Villages/Enterisch|Enterisch]]
+>Capital: [[Setting/Settlements/Villages/Enterisch|Enterisch]]
+>Largest Settlement: [[Setting/Settlements/Villages/Enterisch|Enterisch]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Enterisch|Enterisch]]
+- [[Setting/Settlements/Villages/Enterisch|Enterisch]]
 
 # Cultures in Borders
 
-- [[Cultures/Herwihl|Herwihl]]
+- [[Setting/Cultures/Herwihl|Herwihl]]
 

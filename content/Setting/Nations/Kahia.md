@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Kahia
 >Civilised
->Capital: [[Cities/Vatigzirom|Vatigzirom]]
->Largest Settlement: [[Cities/Vatigzirom|Vatigzirom]]
+>Capital: [[Setting/Settlements/Cities/Vatigzirom|Vatigzirom]]
+>Largest Settlement: [[Setting/Settlements/Cities/Vatigzirom|Vatigzirom]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Vatigzirom|Vatigzirom]]
+- [[Setting/Settlements/Cities/Vatigzirom|Vatigzirom]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

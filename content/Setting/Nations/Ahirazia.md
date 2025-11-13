@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Ahirazia
 >Civilised
->Capital: [[Cities/Konar|Konar]]
->Largest Settlement: [[Cities/Konar|Konar]]
+>Capital: [[Setting/Settlements/Cities/Konar|Konar]]
+>Largest Settlement: [[Setting/Settlements/Cities/Konar|Konar]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Konar|Konar]]
+- [[Setting/Settlements/Cities/Konar|Konar]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

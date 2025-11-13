@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Marzuqia
 >Civilised
->Capital: [[Cities/Chamvar|Chamvar]]
->Largest Settlement: [[Cities/Chamvar|Chamvar]]
+>Capital: [[Setting/Settlements/Cities/Chamvar|Chamvar]]
+>Largest Settlement: [[Setting/Settlements/Cities/Chamvar|Chamvar]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Chamvar|Chamvar]]
+- [[Setting/Settlements/Cities/Chamvar|Chamvar]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

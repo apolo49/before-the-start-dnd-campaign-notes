@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Paphi
 >###### City
->Country: [[Nations/Solara|Solara]]
+>Country: [[Setting/Nations/Solara|Solara]]
 >Established:
 >Area:
 >Elevation: 1156m
 >Population: 115,679
 >Demonym(s):
->Dominant Culture: [[Cultures/Kastias|Kastias]]
+>Dominant Culture: [[Setting/Cultures/Kastias|Kastias]]
 >Dominant Religion:
 
 # History

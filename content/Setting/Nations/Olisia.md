@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Olisia
 >Civilised
->Capital: [[Cities/Trikontos|Trikontos]]
->Largest Settlement: [[Cities/Trikontos|Trikontos]]
+>Capital: [[Setting/Settlements/Cities/Trikontos|Trikontos]]
+>Largest Settlement: [[Setting/Settlements/Cities/Trikontos|Trikontos]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Trikontos|Trikontos]]
+- [[Setting/Settlements/Cities/Trikontos|Trikontos]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Hubde|Hubde]]
+- [[Setting/Cultures/Hubde|Hubde]]
 

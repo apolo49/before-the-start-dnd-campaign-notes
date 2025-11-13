@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Pelia
 >Civilised
->Capital: [[Villages/Thaphiraca|Thaphiraca]]
->Largest Settlement: [[Villages/Thaphiraca|Thaphiraca]]
+>Capital: [[Setting/Settlements/Villages/Thaphiraca|Thaphiraca]]
+>Largest Settlement: [[Setting/Settlements/Villages/Thaphiraca|Thaphiraca]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Thaphiraca|Thaphiraca]]
+- [[Setting/Settlements/Villages/Thaphiraca|Thaphiraca]]
 
 # Cultures in Borders
 
-- [[Cultures/Amphi|Amphi]]
+- [[Setting/Cultures/Amphi|Amphi]]
 

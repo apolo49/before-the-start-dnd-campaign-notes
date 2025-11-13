@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Braia
 >Civilised
->Capital: [[Villages/Stymphilip|Stymphilip]]
->Largest Settlement: [[Villages/Stymphilip|Stymphilip]]
+>Capital: [[Setting/Settlements/Villages/Stymphilip|Stymphilip]]
+>Largest Settlement: [[Setting/Settlements/Villages/Stymphilip|Stymphilip]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Stymphilip|Stymphilip]]
+- [[Setting/Settlements/Villages/Stymphilip|Stymphilip]]
 
 # Cultures in Borders
 
-- [[Cultures/Leiros|Leiros]]
+- [[Setting/Cultures/Leiros|Leiros]]
 

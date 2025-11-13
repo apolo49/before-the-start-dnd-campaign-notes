@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Libavia
 >Civilised
->Capital: [[Cities/Talkran|Talkran]]
->Largest Settlement: [[Cities/Talkran|Talkran]]
+>Capital: [[Setting/Settlements/Cities/Talkran|Talkran]]
+>Largest Settlement: [[Setting/Settlements/Cities/Talkran|Talkran]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Talkran|Talkran]]
+- [[Setting/Settlements/Cities/Talkran|Talkran]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

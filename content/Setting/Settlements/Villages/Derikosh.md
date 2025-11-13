@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Derikosh
 >###### Capital City
->Country: [[Nations/Sanzia|Sanzia]]
+>Country: [[Setting/Nations/Sanzia|Sanzia]]
 >Established:
 >Area:
 >Elevation: 1369m
 >Population: 2,178
 >Demonym(s):
->Dominant Culture: [[Cultures/Kufa|Kufa]]
+>Dominant Culture: [[Setting/Cultures/Kufa|Kufa]]
 >Dominant Religion:
 
 # History

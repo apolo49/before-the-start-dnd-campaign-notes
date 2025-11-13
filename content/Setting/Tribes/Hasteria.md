@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Hasteria
 >Tribe
->Capital: [[Villages/Sigach|Sigach]]
->Largest Settlement: [[Villages/Sigach|Sigach]]
+>Capital: [[Setting/Settlements/Villages/Sigach|Sigach]]
+>Largest Settlement: [[Setting/Settlements/Villages/Sigach|Sigach]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Sigach|Sigach]]
+- [[Setting/Settlements/Villages/Sigach|Sigach]]
 
 # Cultures in Borders
 
-- [[Cultures/Hertenwe|Hertenwe]]
+- [[Setting/Cultures/Hertenwe|Hertenwe]]
 

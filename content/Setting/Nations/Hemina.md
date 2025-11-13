@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Hemina
 >Civilised
->Capital: [[Cities/Tithyrian|Tithyrian]]
->Largest Settlement: [[Cities/Tithyrian|Tithyrian]]
+>Capital: [[Setting/Settlements/Cities/Tithyrian|Tithyrian]]
+>Largest Settlement: [[Setting/Settlements/Cities/Tithyrian|Tithyrian]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Tithyrian|Tithyrian]]
+- [[Setting/Settlements/Cities/Tithyrian|Tithyrian]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Leiros|Leiros]]
+- [[Setting/Cultures/Leiros|Leiros]]
 

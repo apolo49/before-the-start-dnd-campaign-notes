@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Strausengen
 >###### Capital City
->Country: [[Tribes/Kelden|Kelden]]
+>Country: [[Setting/Tribes/Kelden|Kelden]]
 >Established:
 >Area:
 >Elevation: 1156m
 >Population: 965
 >Demonym(s):
->Dominant Culture: [[Cultures/Herwihl|Herwihl]]
+>Dominant Culture: [[Setting/Cultures/Herwihl|Herwihl]]
 >Dominant Religion:
 
 # History

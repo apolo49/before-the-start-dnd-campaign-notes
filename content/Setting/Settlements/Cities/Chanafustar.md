@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Chanafustar
 >###### Capital City
->Country: [[Nations/Telisia|Telisia]]
+>Country: [[Setting/Nations/Telisia|Telisia]]
 >Established:
 >Area:
 >Elevation: 441m
 >Population: 66,650
 >Demonym(s):
->Dominant Culture: [[Cultures/Kufa|Kufa]]
+>Dominant Culture: [[Setting/Cultures/Kufa|Kufa]]
 >Dominant Religion:
 
 # History

@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Geri
 >Civilised
->Capital: [[Cities/Bafajan|Bafajan]]
->Largest Settlement: [[Cities/Bafajan|Bafajan]]
+>Capital: [[Setting/Settlements/Cities/Bafajan|Bafajan]]
+>Largest Settlement: [[Setting/Settlements/Cities/Bafajan|Bafajan]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Bafajan|Bafajan]]
+- [[Setting/Settlements/Cities/Bafajan|Bafajan]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

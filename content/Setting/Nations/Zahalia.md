@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Zahalia
 >Civilised
->Capital: [[Cities/Chogha|Chogha]]
->Largest Settlement: [[Cities/Chogha|Chogha]]
+>Capital: [[Setting/Settlements/Cities/Chogha|Chogha]]
+>Largest Settlement: [[Setting/Settlements/Cities/Chogha|Chogha]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Chogha|Chogha]]
+- [[Setting/Settlements/Cities/Chogha|Chogha]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Aktasia
 >Civilised
->Capital: [[Cities/Aktas|Aktas]]
->Largest Settlement: [[Cities/Aktas|Aktas]]
+>Capital: [[Setting/Settlements/Cities/Aktas|Aktas]]
+>Largest Settlement: [[Setting/Settlements/Cities/Aktas|Aktas]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Aktas|Aktas]]
+- [[Setting/Settlements/Cities/Aktas|Aktas]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Amphi|Amphi]]
+- [[Setting/Cultures/Amphi|Amphi]]
 

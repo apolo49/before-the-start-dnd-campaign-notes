@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Nabatia
 >Civilised
->Capital: [[Cities/Rezvansheh|Rezvansheh]]
->Largest Settlement: [[Cities/Rezvansheh|Rezvansheh]]
+>Capital: [[Setting/Settlements/Cities/Rezvansheh|Rezvansheh]]
+>Largest Settlement: [[Setting/Settlements/Cities/Rezvansheh|Rezvansheh]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Rezvansheh|Rezvansheh]]
+- [[Setting/Settlements/Cities/Rezvansheh|Rezvansheh]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

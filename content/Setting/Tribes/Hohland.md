@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Hohland
 >Tribe
->Capital: [[Villages/Tienaubuhau|Tienaubuhau]]
->Largest Settlement: [[Villages/Tienaubuhau|Tienaubuhau]]
+>Capital: [[Setting/Settlements/Villages/Tienaubuhau|Tienaubuhau]]
+>Largest Settlement: [[Setting/Settlements/Villages/Tienaubuhau|Tienaubuhau]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Tienaubuhau|Tienaubuhau]]
+- [[Setting/Settlements/Villages/Tienaubuhau|Tienaubuhau]]
 
 # Cultures in Borders
 
-- [[Cultures/Schaltens|Schaltens]]
+- [[Setting/Cultures/Schaltens|Schaltens]]
 

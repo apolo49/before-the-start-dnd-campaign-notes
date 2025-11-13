@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Dropicia
 >Civilised
->Capital: [[Villages/Komeshcheh|Komeshcheh]]
->Largest Settlement: [[Villages/Komeshcheh|Komeshcheh]]
+>Capital: [[Setting/Settlements/Villages/Komeshcheh|Komeshcheh]]
+>Largest Settlement: [[Setting/Settlements/Villages/Komeshcheh|Komeshcheh]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Komeshcheh|Komeshcheh]]
+- [[Setting/Settlements/Villages/Komeshcheh|Komeshcheh]]
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

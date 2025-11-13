@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Wingenia
 >Tribe
->Capital: [[Villages/Monchlen|Monchlen]]
->Largest Settlement: [[Villages/Monchlen|Monchlen]]
+>Capital: [[Setting/Settlements/Villages/Monchlen|Monchlen]]
+>Largest Settlement: [[Setting/Settlements/Villages/Monchlen|Monchlen]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Monchlen|Monchlen]]
+- [[Setting/Settlements/Villages/Monchlen|Monchlen]]
 
 # Cultures in Borders
 
-- [[Cultures/Steinbach|Steinbach]]
+- [[Setting/Cultures/Steinbach|Steinbach]]
 

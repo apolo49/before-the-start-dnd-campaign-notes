@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Ottenia
 >Tribe
->Capital: [[Villages/Otten|Otten]]
->Largest Settlement: [[Villages/Otten|Otten]]
+>Capital: [[Setting/Settlements/Villages/Otten|Otten]]
+>Largest Settlement: [[Setting/Settlements/Villages/Otten|Otten]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Otten|Otten]]
+- [[Setting/Settlements/Villages/Otten|Otten]]
 
 # Cultures in Borders
 
-- [[Cultures/Bieiamten|Bieiamten]]
+- [[Setting/Cultures/Bieiamten|Bieiamten]]
 

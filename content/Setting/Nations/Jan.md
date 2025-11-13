@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Jan
 >Civilised
->Capital: [[Villages/Echeh|Echeh]]
->Largest Settlement: [[Villages/Echeh|Echeh]]
+>Capital: [[Setting/Settlements/Villages/Echeh|Echeh]]
+>Largest Settlement: [[Setting/Settlements/Villages/Echeh|Echeh]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Echeh|Echeh]]
+- [[Setting/Settlements/Villages/Echeh|Echeh]]
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

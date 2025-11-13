@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Valpi
 >###### Capital City
->Country: [[Nations/Uneria|Uneria]]
+>Country: [[Setting/Nations/Uneria|Uneria]]
 >Established:
 >Area:
 >Elevation: 1024m
 >Population: 533
 >Demonym(s):
->Dominant Culture: [[Cultures/Vaishasi|Vaishasi]]
+>Dominant Culture: [[Setting/Cultures/Vaishasi|Vaishasi]]
 >Dominant Religion:
 
 # History

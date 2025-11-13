@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Mahland
 >Tribe
->Capital: [[Villages/Renchlin|Renchlin]]
->Largest Settlement: [[Villages/Renchlin|Renchlin]]
+>Capital: [[Setting/Settlements/Villages/Renchlin|Renchlin]]
+>Largest Settlement: [[Setting/Settlements/Villages/Renchlin|Renchlin]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Renchlin|Renchlin]]
+- [[Setting/Settlements/Villages/Renchlin|Renchlin]]
 
 # Cultures in Borders
 
-- [[Cultures/Horngenhau|Horngenhau]]
+- [[Setting/Cultures/Horngenhau|Horngenhau]]
 

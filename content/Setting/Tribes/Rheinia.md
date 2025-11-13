@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Rheinia
 >Tribe
->Capital: [[Villages/Lofedengen|Lofedengen]]
->Largest Settlement: [[Villages/Lofedengen|Lofedengen]]
+>Capital: [[Setting/Settlements/Villages/Lofedengen|Lofedengen]]
+>Largest Settlement: [[Setting/Settlements/Villages/Lofedengen|Lofedengen]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Lofedengen|Lofedengen]]
+- [[Setting/Settlements/Villages/Lofedengen|Lofedengen]]
 
 # Cultures in Borders
 
-- [[Cultures/Briler|Briler]]
+- [[Setting/Cultures/Briler|Briler]]
 

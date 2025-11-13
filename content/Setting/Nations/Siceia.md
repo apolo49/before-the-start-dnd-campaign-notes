@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Siceia
 >Civilised
->Capital: [[Villages/Chiostos|Chiostos]]
->Largest Settlement: [[Villages/Chiostos|Chiostos]]
+>Capital: [[Setting/Settlements/Villages/Chiostos|Chiostos]]
+>Largest Settlement: [[Setting/Settlements/Villages/Chiostos|Chiostos]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Chiostos|Chiostos]]
+- [[Setting/Settlements/Villages/Chiostos|Chiostos]]
 
 # Cultures in Borders
 
-- [[Cultures/Thes|Thes]]
+- [[Setting/Cultures/Thes|Thes]]
 

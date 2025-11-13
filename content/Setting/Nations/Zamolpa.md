@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Zamolpa
 >Civilised
->Capital: [[Cities/Zamolpa|Zamolpa]]
->Largest Settlement: [[Cities/Zamolpa|Zamolpa]]
+>Capital: [[Setting/Settlements/Cities/Zamolpa|Zamolpa]]
+>Largest Settlement: [[Setting/Settlements/Cities/Zamolpa|Zamolpa]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Zamolpa|Zamolpa]]
+- [[Setting/Settlements/Cities/Zamolpa|Zamolpa]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

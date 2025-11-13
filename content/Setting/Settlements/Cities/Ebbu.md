@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Ebbu
 >###### Capital City
->Country: [[Nations/Ebbu|Ebbu]]
+>Country: [[Setting/Nations/Ebbu|Ebbu]]
 >Established:
 >Area:
 >Elevation: 441m
 >Population: 150,367
 >Demonym(s):
->Dominant Culture: [[Cultures/Akshan|Akshan]]
+>Dominant Culture: [[Setting/Cultures/Akshan|Akshan]]
 >Dominant Religion:
 
 # History

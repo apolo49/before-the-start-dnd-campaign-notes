@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Runer
 >Civilised
->Capital: [[Cities/Sakakondali|Sakakondali]]
->Largest Settlement: [[Cities/Sakakondali|Sakakondali]]
+>Capital: [[Setting/Settlements/Cities/Sakakondali|Sakakondali]]
+>Largest Settlement: [[Setting/Settlements/Cities/Sakakondali|Sakakondali]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Sakakondali|Sakakondali]]
+- [[Setting/Settlements/Cities/Sakakondali|Sakakondali]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Vaishasi|Vaishasi]]
+- [[Setting/Cultures/Vaishasi|Vaishasi]]
 

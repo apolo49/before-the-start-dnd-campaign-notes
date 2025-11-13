@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Aveny
 >Tribe
->Capital: [[Villages/Intilmonddon|Intilmonddon]]
->Largest Settlement: [[Villages/Intilmonddon|Intilmonddon]]
+>Capital: [[Setting/Settlements/Villages/Intilmonddon|Intilmonddon]]
+>Largest Settlement: [[Setting/Settlements/Villages/Intilmonddon|Intilmonddon]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Intilmonddon|Intilmonddon]]
+- [[Setting/Settlements/Villages/Intilmonddon|Intilmonddon]]
 
 # Cultures in Borders
 
-- [[Cultures/Lerug|Lerug]]
+- [[Setting/Cultures/Lerug|Lerug]]
 

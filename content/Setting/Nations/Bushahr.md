@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Bushahr
 >Civilised
->Capital: [[Villages/Bushahr|Bushahr]]
->Largest Settlement: [[Villages/Bushahr|Bushahr]]
+>Capital: [[Setting/Settlements/Villages/Bushahr|Bushahr]]
+>Largest Settlement: [[Setting/Settlements/Villages/Bushahr|Bushahr]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Bushahr|Bushahr]]
+- [[Setting/Settlements/Villages/Bushahr|Bushahr]]
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

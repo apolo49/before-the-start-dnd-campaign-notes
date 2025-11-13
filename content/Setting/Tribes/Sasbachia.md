@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Sasbachia
 >Tribe
->Capital: [[Villages/Sasbach|Sasbach]]
->Largest Settlement: [[Villages/Sasbach|Sasbach]]
+>Capital: [[Setting/Settlements/Villages/Sasbach|Sasbach]]
+>Largest Settlement: [[Setting/Settlements/Villages/Sasbach|Sasbach]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Sasbach|Sasbach]]
+- [[Setting/Settlements/Villages/Sasbach|Sasbach]]
 
 # Cultures in Borders
 
-- [[Cultures/Hertenwe|Hertenwe]]
+- [[Setting/Cultures/Hertenwe|Hertenwe]]
 

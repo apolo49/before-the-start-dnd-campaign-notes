@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Sakehak
 >Civilised
->Capital: [[Villages/Sakehak|Sakehak]]
->Largest Settlement: [[Villages/Sakehak|Sakehak]]
+>Capital: [[Setting/Settlements/Villages/Sakehak|Sakehak]]
+>Largest Settlement: [[Setting/Settlements/Villages/Sakehak|Sakehak]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Sakehak|Sakehak]]
+- [[Setting/Settlements/Villages/Sakehak|Sakehak]]
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

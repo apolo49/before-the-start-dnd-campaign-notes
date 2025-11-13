@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Majania
 >Civilised
->Capital: [[Villages/Abashad|Abashad]]
->Largest Settlement: [[Villages/Abashad|Abashad]]
+>Capital: [[Setting/Settlements/Villages/Abashad|Abashad]]
+>Largest Settlement: [[Setting/Settlements/Villages/Abashad|Abashad]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Abashad|Abashad]]
+- [[Setting/Settlements/Villages/Abashad|Abashad]]
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

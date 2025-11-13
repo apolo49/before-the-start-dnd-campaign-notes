@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Aberkia
 >Tribe
->Capital: [[Villages/Alainveruno|Alainveruno]]
->Largest Settlement: [[Villages/Alainveruno|Alainveruno]]
+>Capital: [[Setting/Settlements/Villages/Alainveruno|Alainveruno]]
+>Largest Settlement: [[Setting/Settlements/Villages/Alainveruno|Alainveruno]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Alainveruno|Alainveruno]]
+- [[Setting/Settlements/Villages/Alainveruno|Alainveruno]]
 
 # Cultures in Borders
 
-- [[Cultures/Bleduro|Bleduro]]
+- [[Setting/Cultures/Bleduro|Bleduro]]
 

@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Iyatia
 >Civilised
->Capital: [[Cities/Merfat|Merfat]]
->Largest Settlement: [[Cities/Merfat|Merfat]]
+>Capital: [[Setting/Settlements/Cities/Merfat|Merfat]]
+>Largest Settlement: [[Setting/Settlements/Cities/Merfat|Merfat]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Merfat|Merfat]]
+- [[Setting/Settlements/Cities/Merfat|Merfat]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Carthaginian|Carthaginian]]
+- [[Setting/Cultures/Carthaginian|Carthaginian]]
 

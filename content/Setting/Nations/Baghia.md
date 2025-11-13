@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Baghia
 >Civilised
->Capital: [[Villages/Zijan|Zijan]]
->Largest Settlement: [[Villages/Zijan|Zijan]]
+>Capital: [[Setting/Settlements/Villages/Zijan|Zijan]]
+>Largest Settlement: [[Setting/Settlements/Villages/Zijan|Zijan]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Zijan|Zijan]]
+- [[Setting/Settlements/Villages/Zijan|Zijan]]
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

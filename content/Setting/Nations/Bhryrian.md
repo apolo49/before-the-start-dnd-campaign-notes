@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Bhryrian
 >Civilised
->Capital: [[Cities/Bhryrian|Bhryrian]]
->Largest Settlement: [[Cities/Bhryrian|Bhryrian]]
+>Capital: [[Setting/Settlements/Cities/Bhryrian|Bhryrian]]
+>Largest Settlement: [[Setting/Settlements/Cities/Bhryrian|Bhryrian]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Bhryrian|Bhryrian]]
+- [[Setting/Settlements/Cities/Bhryrian|Bhryrian]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Cleolis|Cleolis]]
+- [[Setting/Cultures/Cleolis|Cleolis]]
 

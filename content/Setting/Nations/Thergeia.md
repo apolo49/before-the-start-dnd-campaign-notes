@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Thergeia
 >Civilised
->Capital: [[Cities/Pitanos|Pitanos]]
->Largest Settlement: [[Cities/Pitanos|Pitanos]]
+>Capital: [[Setting/Settlements/Cities/Pitanos|Pitanos]]
+>Largest Settlement: [[Setting/Settlements/Cities/Pitanos|Pitanos]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Pitanos|Pitanos]]
+- [[Setting/Settlements/Cities/Pitanos|Pitanos]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Gourgos|Gourgos]]
+- [[Setting/Cultures/Gourgos|Gourgos]]
 

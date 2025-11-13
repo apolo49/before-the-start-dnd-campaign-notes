@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Gomehriar
 >###### Capital City
->Country: [[Nations/Pargia|Pargia]]
+>Country: [[Setting/Nations/Pargia|Pargia]]
 >Established:
 >Area:
 >Elevation: 1369m
 >Population: 82,699
 >Demonym(s):
->Dominant Culture: [[Cultures/Kufa|Kufa]]
+>Dominant Culture: [[Setting/Cultures/Kufa|Kufa]]
 >Dominant Religion:
 
 # History

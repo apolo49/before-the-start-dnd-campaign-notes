@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Efenland
 >Tribe
->Capital: [[Villages/Efen|Efen]]
->Largest Settlement: [[Villages/Efen|Efen]]
+>Capital: [[Setting/Settlements/Villages/Efen|Efen]]
+>Largest Settlement: [[Setting/Settlements/Villages/Efen|Efen]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Efen|Efen]]
+- [[Setting/Settlements/Villages/Efen|Efen]]
 
 # Cultures in Borders
 
-- [[Cultures/Krozin|Krozin]]
+- [[Setting/Cultures/Krozin|Krozin]]
 

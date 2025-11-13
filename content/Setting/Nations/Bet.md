@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Bet
 >Civilised
->Capital: [[Cities/Ayitsa|Ayitsa]]
->Largest Settlement: [[Cities/Ayitsa|Ayitsa]]
+>Capital: [[Setting/Settlements/Cities/Ayitsa|Ayitsa]]
+>Largest Settlement: [[Setting/Settlements/Cities/Ayitsa|Ayitsa]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Ayitsa|Ayitsa]]
+- [[Setting/Settlements/Cities/Ayitsa|Ayitsa]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Carthaginian|Carthaginian]]
+- [[Setting/Cultures/Carthaginian|Carthaginian]]
 

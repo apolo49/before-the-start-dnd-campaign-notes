@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Vihalip
 >Civilised
->Capital: [[Cities/Vihalip|Vihalip]]
->Largest Settlement: [[Cities/Vihalip|Vihalip]]
+>Capital: [[Setting/Settlements/Cities/Vihalip|Vihalip]]
+>Largest Settlement: [[Setting/Settlements/Cities/Vihalip|Vihalip]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Vihalip|Vihalip]]
+- [[Setting/Settlements/Cities/Vihalip|Vihalip]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Vaishasi|Vaishasi]]
+- [[Setting/Cultures/Vaishasi|Vaishasi]]
 

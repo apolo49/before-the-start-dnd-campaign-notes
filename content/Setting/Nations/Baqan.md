@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Baqan
 >Civilised
->Capital: [[Villages/Tariroft|Tariroft]]
->Largest Settlement: [[Villages/Tariroft|Tariroft]]
+>Capital: [[Setting/Settlements/Villages/Tariroft|Tariroft]]
+>Largest Settlement: [[Setting/Settlements/Villages/Tariroft|Tariroft]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Tariroft|Tariroft]]
+- [[Setting/Settlements/Villages/Tariroft|Tariroft]]
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

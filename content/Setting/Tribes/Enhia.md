@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Enhia
 >Tribe
->Capital: [[Villages/Wiesen|Wiesen]]
->Largest Settlement: [[Villages/Wiesen|Wiesen]]
+>Capital: [[Setting/Settlements/Villages/Wiesen|Wiesen]]
+>Largest Settlement: [[Setting/Settlements/Villages/Wiesen|Wiesen]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Wiesen|Wiesen]]
+- [[Setting/Settlements/Villages/Wiesen|Wiesen]]
 
 # Cultures in Borders
 
-- [[Cultures/Hertenwe|Hertenwe]]
+- [[Setting/Cultures/Hertenwe|Hertenwe]]
 

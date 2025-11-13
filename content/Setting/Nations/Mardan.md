@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Mardan
 >Civilised
->Capital: [[Cities/Gonar|Gonar]]
->Largest Settlement: [[Cities/Gonar|Gonar]]
+>Capital: [[Setting/Settlements/Cities/Gonar|Gonar]]
+>Largest Settlement: [[Setting/Settlements/Cities/Gonar|Gonar]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Gonar|Gonar]]
+- [[Setting/Settlements/Cities/Gonar|Gonar]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

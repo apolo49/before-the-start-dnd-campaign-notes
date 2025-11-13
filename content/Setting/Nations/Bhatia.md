@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Bhatia
 >Civilised
->Capital: [[Cities/Anjoga|Anjoga]]
->Largest Settlement: [[Cities/Anjoga|Anjoga]]
+>Capital: [[Setting/Settlements/Cities/Anjoga|Anjoga]]
+>Largest Settlement: [[Setting/Settlements/Cities/Anjoga|Anjoga]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Anjoga|Anjoga]]
+- [[Setting/Settlements/Cities/Anjoga|Anjoga]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Vaishasi|Vaishasi]]
+- [[Setting/Cultures/Vaishasi|Vaishasi]]
 

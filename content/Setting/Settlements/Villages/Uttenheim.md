@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Uttenheim
 >###### Capital City
->Country: [[Tribes/Hailerland|Hailerland]]
+>Country: [[Setting/Tribes/Hailerland|Hailerland]]
 >Established:
 >Area:
 >Elevation: 1369m
 >Population: 1,204
 >Demonym(s):
->Dominant Culture: [[Cultures/Freiburg|Freiburg]]
+>Dominant Culture: [[Setting/Cultures/Freiburg|Freiburg]]
 >Dominant Religion:
 
 # History

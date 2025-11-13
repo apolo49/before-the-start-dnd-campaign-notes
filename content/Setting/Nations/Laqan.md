@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Laqan
 >Civilised
->Capital: [[Cities/Laqan|Laqan]]
->Largest Settlement: [[Cities/Laqan|Laqan]]
+>Capital: [[Setting/Settlements/Cities/Laqan|Laqan]]
+>Largest Settlement: [[Setting/Settlements/Cities/Laqan|Laqan]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Laqan|Laqan]]
+- [[Setting/Settlements/Cities/Laqan|Laqan]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

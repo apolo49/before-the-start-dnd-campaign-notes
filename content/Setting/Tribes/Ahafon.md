@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Ahafon
 >Tribe
->Capital: [[Villages/Llanwenveru|Llanwenveru]]
->Largest Settlement: [[Villages/Llanwenveru|Llanwenveru]]
+>Capital: [[Setting/Settlements/Villages/Llanwenveru|Llanwenveru]]
+>Largest Settlement: [[Setting/Settlements/Villages/Llanwenveru|Llanwenveru]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Llanwenveru|Llanwenveru]]
+- [[Setting/Settlements/Villages/Llanwenveru|Llanwenveru]]
 
 # Cultures in Borders
 
-- [[Cultures/Duibri|Duibri]]
+- [[Setting/Cultures/Duibri|Duibri]]
 

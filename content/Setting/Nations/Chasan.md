@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Chasan
 >Civilised
->Capital: [[Villages/Datig|Datig]]
->Largest Settlement: [[Villages/Datig|Datig]]
+>Capital: [[Setting/Settlements/Villages/Datig|Datig]]
+>Largest Settlement: [[Setting/Settlements/Villages/Datig|Datig]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Datig|Datig]]
+- [[Setting/Settlements/Villages/Datig|Datig]]
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

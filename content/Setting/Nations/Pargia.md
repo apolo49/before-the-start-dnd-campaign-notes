@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Pargia
 >Civilised
->Capital: [[Cities/Gomehriar|Gomehriar]]
->Largest Settlement: [[Cities/Gomehriar|Gomehriar]]
+>Capital: [[Setting/Settlements/Cities/Gomehriar|Gomehriar]]
+>Largest Settlement: [[Setting/Settlements/Cities/Gomehriar|Gomehriar]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Gomehriar|Gomehriar]]
+- [[Setting/Settlements/Cities/Gomehriar|Gomehriar]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Fashejania
 >Civilised
->Capital: [[Cities/Fashejan|Fashejan]]
->Largest Settlement: [[Cities/Fashejan|Fashejan]]
+>Capital: [[Setting/Settlements/Cities/Fashejan|Fashejan]]
+>Largest Settlement: [[Setting/Settlements/Cities/Fashejan|Fashejan]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Fashejan|Fashejan]]
+- [[Setting/Settlements/Cities/Fashejan|Fashejan]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

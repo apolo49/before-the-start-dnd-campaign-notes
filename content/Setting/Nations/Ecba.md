@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Ecba
 >Civilised
->Capital: [[Cities/Deqan|Deqan]]
->Largest Settlement: [[Cities/Deqan|Deqan]]
+>Capital: [[Setting/Settlements/Cities/Deqan|Deqan]]
+>Largest Settlement: [[Setting/Settlements/Cities/Deqan|Deqan]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Deqan|Deqan]]
+- [[Setting/Settlements/Cities/Deqan|Deqan]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

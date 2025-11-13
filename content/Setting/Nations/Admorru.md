@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Admorru
 >Civilised
->Capital: [[Cities/Admorru|Admorru]]
->Largest Settlement: [[Cities/Admorru|Admorru]]
+>Capital: [[Setting/Settlements/Cities/Admorru|Admorru]]
+>Largest Settlement: [[Setting/Settlements/Cities/Admorru|Admorru]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Admorru|Admorru]]
+- [[Setting/Settlements/Cities/Admorru|Admorru]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Sigenos|Sigenos]]
+- [[Setting/Cultures/Sigenos|Sigenos]]
 

@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Aliran
 >###### Capital City
->Country: [[Nations/Mazeria|Mazeria]]
+>Country: [[Setting/Nations/Mazeria|Mazeria]]
 >Established:
 >Area:
 >Elevation: 1296m
 >Population: 70,324
 >Demonym(s):
->Dominant Culture: [[Cultures/Kufa|Kufa]]
+>Dominant Culture: [[Setting/Cultures/Kufa|Kufa]]
 >Dominant Religion:
 
 # History

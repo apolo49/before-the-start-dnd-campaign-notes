@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Qahkatia
 >Civilised
->Capital: [[Cities/Shaneh|Shaneh]]
->Largest Settlement: [[Cities/Shaneh|Shaneh]]
+>Capital: [[Setting/Settlements/Cities/Shaneh|Shaneh]]
+>Largest Settlement: [[Setting/Settlements/Cities/Shaneh|Shaneh]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Shaneh|Shaneh]]
+- [[Setting/Settlements/Cities/Shaneh|Shaneh]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

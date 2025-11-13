@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Ebbu
 >Civilised
->Capital: [[Cities/Ebbu|Ebbu]]
->Largest Settlement: [[Cities/Ebbu|Ebbu]]
+>Capital: [[Setting/Settlements/Cities/Ebbu|Ebbu]]
+>Largest Settlement: [[Setting/Settlements/Cities/Ebbu|Ebbu]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Ebbu|Ebbu]]
+- [[Setting/Settlements/Cities/Ebbu|Ebbu]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Akshan|Akshan]]
+- [[Setting/Cultures/Akshan|Akshan]]
 

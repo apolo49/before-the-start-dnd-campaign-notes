@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Ectia
 >Tribe
->Capital: [[Villages/Inverbegled|Inverbegled]]
->Largest Settlement: [[Villages/Inverbegled|Inverbegled]]
+>Capital: [[Setting/Settlements/Villages/Inverbegled|Inverbegled]]
+>Largest Settlement: [[Setting/Settlements/Villages/Inverbegled|Inverbegled]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Inverbegled|Inverbegled]]
+- [[Setting/Settlements/Villages/Inverbegled|Inverbegled]]
 
 # Cultures in Borders
 
-- [[Cultures/Invermayfi|Invermayfi]]
+- [[Setting/Cultures/Invermayfi|Invermayfi]]
 

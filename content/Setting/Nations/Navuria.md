@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Navuria
 >Civilised
->Capital: [[Cities/Bainabhodaha|Bainabhodaha]]
->Largest Settlement: [[Cities/Bainabhodaha|Bainabhodaha]]
+>Capital: [[Setting/Settlements/Cities/Bainabhodaha|Bainabhodaha]]
+>Largest Settlement: [[Setting/Settlements/Cities/Bainabhodaha|Bainabhodaha]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Bainabhodaha|Bainabhodaha]]
+- [[Setting/Settlements/Cities/Bainabhodaha|Bainabhodaha]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Vaishasi|Vaishasi]]
+- [[Setting/Cultures/Vaishasi|Vaishasi]]
 

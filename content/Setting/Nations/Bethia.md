@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Bethia
 >Civilised
->Capital: [[Cities/Beth|Beth]]
->Largest Settlement: [[Cities/Beth|Beth]]
+>Capital: [[Setting/Settlements/Cities/Beth|Beth]]
+>Largest Settlement: [[Setting/Settlements/Cities/Beth|Beth]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Beth|Beth]]
+- [[Setting/Settlements/Cities/Beth|Beth]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Carthaginian|Carthaginian]]
+- [[Setting/Cultures/Carthaginian|Carthaginian]]
 

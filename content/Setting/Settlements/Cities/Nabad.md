@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Nabad
 >###### City
->Country: [[Nations/Echeh|Echeh]]
+>Country: [[Setting/Nations/Echeh|Echeh]]
 >Established:
 >Area:
 >Elevation: 196m
 >Population: 78,462
 >Demonym(s):
->Dominant Culture: [[Cultures/Kufa|Kufa]]
+>Dominant Culture: [[Setting/Cultures/Kufa|Kufa]]
 >Dominant Religion:
 
 # History

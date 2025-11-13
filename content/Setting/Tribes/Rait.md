@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Rait
 >Tribe
->Capital: [[Villages/Abermainna|Abermainna]]
->Largest Settlement: [[Villages/Abermainna|Abermainna]]
+>Capital: [[Setting/Settlements/Villages/Abermainna|Abermainna]]
+>Largest Settlement: [[Setting/Settlements/Villages/Abermainna|Abermainna]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Abermainna|Abermainna]]
+- [[Setting/Settlements/Villages/Abermainna|Abermainna]]
 
 # Cultures in Borders
 
-- [[Cultures/Ebheartei|Ebheartei]]
+- [[Setting/Cultures/Ebheartei|Ebheartei]]
 

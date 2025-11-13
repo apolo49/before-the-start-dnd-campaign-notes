@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Aeia
 >Civilised
->Capital: [[Villages/Tithikon|Tithikon]]
->Largest Settlement: [[Villages/Tithikon|Tithikon]]
+>Capital: [[Setting/Settlements/Villages/Tithikon|Tithikon]]
+>Largest Settlement: [[Setting/Settlements/Villages/Tithikon|Tithikon]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Tithikon|Tithikon]]
+- [[Setting/Settlements/Villages/Tithikon|Tithikon]]
 
 # Cultures in Borders
 
-- [[Cultures/Leiros|Leiros]]
+- [[Setting/Cultures/Leiros|Leiros]]
 

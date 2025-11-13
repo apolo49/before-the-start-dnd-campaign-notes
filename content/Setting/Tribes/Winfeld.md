@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Winfeld
 >Tribe
->Capital: [[Villages/Winfeld|Winfeld]]
->Largest Settlement: [[Villages/Winfeld|Winfeld]]
+>Capital: [[Setting/Settlements/Villages/Winfeld|Winfeld]]
+>Largest Settlement: [[Setting/Settlements/Villages/Winfeld|Winfeld]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Winfeld|Winfeld]]
+- [[Setting/Settlements/Villages/Winfeld|Winfeld]]
 
 # Cultures in Borders
 
-- [[Cultures/Steinbach|Steinbach]]
+- [[Setting/Cultures/Steinbach|Steinbach]]
 

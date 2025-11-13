@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Takhrifabad
 >###### Capital City
->Country: [[Nations/Golsia|Golsia]]
+>Country: [[Setting/Nations/Golsia|Golsia]]
 >Established:
 >Area:
 >Elevation: 1369m
 >Population: 124,403
 >Demonym(s):
->Dominant Culture: [[Cultures/Kufa|Kufa]]
+>Dominant Culture: [[Setting/Cultures/Kufa|Kufa]]
 >Dominant Religion:
 
 # History

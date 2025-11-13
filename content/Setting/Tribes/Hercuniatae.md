@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Hercuniatae
 >Tribe
->Capital: [[Villages/Llanvert|Llanvert]]
->Largest Settlement: [[Villages/Llanvert|Llanvert]]
+>Capital: [[Setting/Settlements/Villages/Llanvert|Llanvert]]
+>Largest Settlement: [[Setting/Settlements/Villages/Llanvert|Llanvert]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Llanvert|Llanvert]]
+- [[Setting/Settlements/Villages/Llanvert|Llanvert]]
 
 # Cultures in Borders
 
-- [[Cultures/Indyrgow|Indyrgow]]
+- [[Setting/Cultures/Indyrgow|Indyrgow]]
 

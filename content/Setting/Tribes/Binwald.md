@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Binwald
 >Tribe
->Capital: [[Villages/Binwald|Binwald]]
->Largest Settlement: [[Villages/Binwald|Binwald]]
+>Capital: [[Setting/Settlements/Villages/Binwald|Binwald]]
+>Largest Settlement: [[Setting/Settlements/Villages/Binwald|Binwald]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Binwald|Binwald]]
+- [[Setting/Settlements/Villages/Binwald|Binwald]]
 
 # Cultures in Borders
 
-- [[Cultures/Bieiamten|Bieiamten]]
+- [[Setting/Cultures/Bieiamten|Bieiamten]]
 

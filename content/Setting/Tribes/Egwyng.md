@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Egwyng
 >Tribe
->Capital: [[Villages/Egwyng|Egwyng]]
->Largest Settlement: [[Villages/Egwyng|Egwyng]]
+>Capital: [[Setting/Settlements/Villages/Egwyng|Egwyng]]
+>Largest Settlement: [[Setting/Settlements/Villages/Egwyng|Egwyng]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Egwyng|Egwyng]]
+- [[Setting/Settlements/Villages/Egwyng|Egwyng]]
 
 # Cultures in Borders
 
-- [[Cultures/Calaw|Calaw]]
+- [[Setting/Cultures/Calaw|Calaw]]
 

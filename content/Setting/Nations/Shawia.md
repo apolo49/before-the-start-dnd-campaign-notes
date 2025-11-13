@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Shawia
 >Civilised
->Capital: [[Cities/Shushak|Shushak]]
->Largest Settlement: [[Cities/Shushak|Shushak]]
+>Capital: [[Setting/Settlements/Cities/Shushak|Shushak]]
+>Largest Settlement: [[Setting/Settlements/Cities/Shushak|Shushak]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Shushak|Shushak]]
+- [[Setting/Settlements/Cities/Shushak|Shushak]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Sigenos|Sigenos]]
+- [[Setting/Cultures/Sigenos|Sigenos]]
 

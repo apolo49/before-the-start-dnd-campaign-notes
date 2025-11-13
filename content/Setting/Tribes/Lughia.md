@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Lughia
 >Tribe
->Capital: [[Villages/Kirgar|Kirgar]]
->Largest Settlement: [[Villages/Kirgar|Kirgar]]
+>Capital: [[Setting/Settlements/Villages/Kirgar|Kirgar]]
+>Largest Settlement: [[Setting/Settlements/Villages/Kirgar|Kirgar]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Kirgar|Kirgar]]
+- [[Setting/Settlements/Villages/Kirgar|Kirgar]]
 
 # Cultures in Borders
 
-- [[Cultures/Lerug|Lerug]]
+- [[Setting/Cultures/Lerug|Lerug]]
 

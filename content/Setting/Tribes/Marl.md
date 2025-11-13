@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Marl
 >Tribe
->Capital: [[Villages/Tutfordbury|Tutfordbury]]
->Largest Settlement: [[Villages/Tutfordbury|Tutfordbury]]
+>Capital: [[Setting/Settlements/Villages/Tutfordbury|Tutfordbury]]
+>Largest Settlement: [[Setting/Settlements/Villages/Tutfordbury|Tutfordbury]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Tutfordbury|Tutfordbury]]
+- [[Setting/Settlements/Villages/Tutfordbury|Tutfordbury]]
 
 # Cultures in Borders
 
-- [[Cultures/Wildlands|Wildlands]]
+- [[Setting/Cultures/Wildlands|Wildlands]]
 

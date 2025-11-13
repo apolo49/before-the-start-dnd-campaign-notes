@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Schapengen
 >###### Capital City
->Country: [[Tribes/Horn|Horn]]
+>Country: [[Setting/Tribes/Horn|Horn]]
 >Established:
 >Area:
 >Elevation: 961m
 >Population: 757
 >Demonym(s):
->Dominant Culture: [[Cultures/Bieiamten|Bieiamten]]
+>Dominant Culture: [[Setting/Cultures/Bieiamten|Bieiamten]]
 >Dominant Religion:
 
 # History

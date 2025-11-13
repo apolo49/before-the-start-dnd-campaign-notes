@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Ebland
 >Tribe
->Capital: [[Villages/Tiexautosch|Tiexautosch]]
->Largest Settlement: [[Villages/Tiexautosch|Tiexautosch]]
+>Capital: [[Setting/Settlements/Villages/Tiexautosch|Tiexautosch]]
+>Largest Settlement: [[Setting/Settlements/Villages/Tiexautosch|Tiexautosch]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Tiexautosch|Tiexautosch]]
+- [[Setting/Settlements/Villages/Tiexautosch|Tiexautosch]]
 
 # Cultures in Borders
 
-- [[Cultures/Herwihl|Herwihl]]
+- [[Setting/Cultures/Herwihl|Herwihl]]
 

@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Gomandia
 >Civilised
->Capital: [[Villages/Fuladshad|Fuladshad]]
->Largest Settlement: [[Villages/Fuladshad|Fuladshad]]
+>Capital: [[Setting/Settlements/Villages/Fuladshad|Fuladshad]]
+>Largest Settlement: [[Setting/Settlements/Villages/Fuladshad|Fuladshad]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Fuladshad|Fuladshad]]
+- [[Setting/Settlements/Villages/Fuladshad|Fuladshad]]
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

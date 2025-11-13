@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Momehia
 >Civilised
->Capital: [[Cities/Gemibajan|Gemibajan]]
->Largest Settlement: [[Cities/Gemibajan|Gemibajan]]
+>Capital: [[Setting/Settlements/Cities/Gemibajan|Gemibajan]]
+>Largest Settlement: [[Setting/Settlements/Cities/Gemibajan|Gemibajan]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Gemibajan|Gemibajan]]
+- [[Setting/Settlements/Cities/Gemibajan|Gemibajan]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Ecbanada
 >###### Capital City
->Country: [[Nations/Qah|Qah]]
+>Country: [[Setting/Nations/Qah|Qah]]
 >Established:
 >Area:
 >Elevation: 1369m
 >Population: 128
 >Demonym(s):
->Dominant Culture: [[Cultures/Kufa|Kufa]]
+>Dominant Culture: [[Setting/Cultures/Kufa|Kufa]]
 >Dominant Religion:
 
 # History

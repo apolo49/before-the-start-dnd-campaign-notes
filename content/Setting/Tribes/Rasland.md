@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Rasland
 >Tribe
->Capital: [[Villages/Ormersbach|Ormersbach]]
->Largest Settlement: [[Villages/Ormersbach|Ormersbach]]
+>Capital: [[Setting/Settlements/Villages/Ormersbach|Ormersbach]]
+>Largest Settlement: [[Setting/Settlements/Villages/Ormersbach|Ormersbach]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Ormersbach|Ormersbach]]
+- [[Setting/Settlements/Villages/Ormersbach|Ormersbach]]
 
 # Cultures in Borders
 
-- [[Cultures/Herwihl|Herwihl]]
+- [[Setting/Cultures/Herwihl|Herwihl]]
 

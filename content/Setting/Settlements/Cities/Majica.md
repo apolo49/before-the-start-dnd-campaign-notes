@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Majica
 >###### Capital City
->Country: [[Nations/Majica|Majica]]
+>Country: [[Setting/Nations/Majica|Majica]]
 >Established:
 >Area:
 >Elevation: 1369m
 >Population: 68,454
 >Demonym(s):
->Dominant Culture: [[Cultures/Kufa|Kufa]]
+>Dominant Culture: [[Setting/Cultures/Kufa|Kufa]]
 >Dominant Religion:
 
 # History

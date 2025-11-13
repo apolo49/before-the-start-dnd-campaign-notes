@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Cambri
 >Tribe
->Capital: [[Villages/Boranverthin|Boranverthin]]
->Largest Settlement: [[Villages/Boranverthin|Boranverthin]]
+>Capital: [[Setting/Settlements/Villages/Boranverthin|Boranverthin]]
+>Largest Settlement: [[Setting/Settlements/Villages/Boranverthin|Boranverthin]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Boranverthin|Boranverthin]]
+- [[Setting/Settlements/Villages/Boranverthin|Boranverthin]]
 
 # Cultures in Borders
 
-- [[Cultures/Inverkei|Inverkei]]
+- [[Setting/Cultures/Inverkei|Inverkei]]
 

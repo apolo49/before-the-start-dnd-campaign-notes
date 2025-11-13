@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Chichia
 >Tribe
->Capital: [[Villages/Kehamberne|Kehamberne]]
->Largest Settlement: [[Villages/Kehamberne|Kehamberne]]
+>Capital: [[Setting/Settlements/Villages/Kehamberne|Kehamberne]]
+>Largest Settlement: [[Setting/Settlements/Villages/Kehamberne|Kehamberne]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Kehamberne|Kehamberne]]
+- [[Setting/Settlements/Villages/Kehamberne|Kehamberne]]
 
 # Cultures in Borders
 
-- [[Cultures/Wildlands|Wildlands]]
+- [[Setting/Cultures/Wildlands|Wildlands]]
 

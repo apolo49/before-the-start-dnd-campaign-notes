@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Aionia
 >Civilised
->Capital: [[Villages/Gornasenes|Gornasenes]]
->Largest Settlement: [[Villages/Gornasenes|Gornasenes]]
+>Capital: [[Setting/Settlements/Villages/Gornasenes|Gornasenes]]
+>Largest Settlement: [[Setting/Settlements/Villages/Gornasenes|Gornasenes]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Gornasenes|Gornasenes]]
+- [[Setting/Settlements/Villages/Gornasenes|Gornasenes]]
 
 # Cultures in Borders
 
-- [[Cultures/Porigost|Porigost]]
+- [[Setting/Cultures/Porigost|Porigost]]
 

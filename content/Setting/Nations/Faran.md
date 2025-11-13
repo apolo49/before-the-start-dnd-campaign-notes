@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Faran
 >Civilised
->Capital: [[Cities/Barmiadoles|Barmiadoles]]
->Largest Settlement: [[Cities/Barmiadoles|Barmiadoles]]
+>Capital: [[Setting/Settlements/Cities/Barmiadoles|Barmiadoles]]
+>Largest Settlement: [[Setting/Settlements/Cities/Barmiadoles|Barmiadoles]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Barmiadoles|Barmiadoles]]
+- [[Setting/Settlements/Cities/Barmiadoles|Barmiadoles]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

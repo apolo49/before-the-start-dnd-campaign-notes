@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Azemi
 >Civilised
->Capital: [[Villages/Kardejanzak|Kardejanzak]]
->Largest Settlement: [[Villages/Kardejanzak|Kardejanzak]]
+>Capital: [[Setting/Settlements/Villages/Kardejanzak|Kardejanzak]]
+>Largest Settlement: [[Setting/Settlements/Villages/Kardejanzak|Kardejanzak]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Kardejanzak|Kardejanzak]]
+- [[Setting/Settlements/Villages/Kardejanzak|Kardejanzak]]
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

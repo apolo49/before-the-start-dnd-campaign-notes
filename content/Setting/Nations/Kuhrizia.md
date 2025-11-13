@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Kuhrizia
 >Civilised
->Capital: [[Cities/Jabad|Jabad]]
->Largest Settlement: [[Cities/Jabad|Jabad]]
+>Capital: [[Setting/Settlements/Cities/Jabad|Jabad]]
+>Largest Settlement: [[Setting/Settlements/Cities/Jabad|Jabad]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Jabad|Jabad]]
+- [[Setting/Settlements/Cities/Jabad|Jabad]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

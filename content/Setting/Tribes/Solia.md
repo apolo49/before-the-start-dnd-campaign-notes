@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Solia
 >Tribe
->Capital: [[Villages/Gusen|Gusen]]
->Largest Settlement: [[Villages/Gusen|Gusen]]
+>Capital: [[Setting/Settlements/Villages/Gusen|Gusen]]
+>Largest Settlement: [[Setting/Settlements/Villages/Gusen|Gusen]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Gusen|Gusen]]
+- [[Setting/Settlements/Villages/Gusen|Gusen]]
 
 # Cultures in Borders
 
-- [[Cultures/Lahrwol|Lahrwol]]
+- [[Setting/Cultures/Lahrwol|Lahrwol]]
 

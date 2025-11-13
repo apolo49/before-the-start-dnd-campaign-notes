@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Kuhia
 >Civilised
->Capital: [[Cities/Rudecatigzi|Rudecatigzi]]
->Largest Settlement: [[Cities/Rudecatigzi|Rudecatigzi]]
+>Capital: [[Setting/Settlements/Cities/Rudecatigzi|Rudecatigzi]]
+>Largest Settlement: [[Setting/Settlements/Cities/Rudecatigzi|Rudecatigzi]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Rudecatigzi|Rudecatigzi]]
+- [[Setting/Settlements/Cities/Rudecatigzi|Rudecatigzi]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

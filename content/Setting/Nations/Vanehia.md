@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Vanehia
 >Civilised
->Capital: [[Cities/Yaraj|Yaraj]]
->Largest Settlement: [[Cities/Yaraj|Yaraj]]
+>Capital: [[Setting/Settlements/Cities/Yaraj|Yaraj]]
+>Largest Settlement: [[Setting/Settlements/Cities/Yaraj|Yaraj]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Yaraj|Yaraj]]
+- [[Setting/Settlements/Cities/Yaraj|Yaraj]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

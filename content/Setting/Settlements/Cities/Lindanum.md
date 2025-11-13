@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Lindanum
 >###### City
->Country: [[Nations/Solara|Solara]]
+>Country: [[Setting/Nations/Solara|Solara]]
 >Established:
 >Area:
 >Elevation: 676m
 >Population: 54,872
 >Demonym(s):
->Dominant Culture: [[Cultures/Vincum|Vincum]]
+>Dominant Culture: [[Setting/Cultures/Vincum|Vincum]]
 >Dominant Religion:
 
 # History

@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Feld
 >Tribe
->Capital: [[Villages/Eimel|Eimel]]
->Largest Settlement: [[Villages/Eimel|Eimel]]
+>Capital: [[Setting/Settlements/Villages/Eimel|Eimel]]
+>Largest Settlement: [[Setting/Settlements/Villages/Eimel|Eimel]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Eimel|Eimel]]
+- [[Setting/Settlements/Villages/Eimel|Eimel]]
 
 # Cultures in Borders
 
-- [[Cultures/Herwihl|Herwihl]]
+- [[Setting/Cultures/Herwihl|Herwihl]]
 

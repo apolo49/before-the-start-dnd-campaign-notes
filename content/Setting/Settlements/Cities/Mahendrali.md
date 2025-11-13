@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Mahendrali
 >###### Capital City
->Country: [[Nations/Ataia|Ataia]]
+>Country: [[Setting/Nations/Ataia|Ataia]]
 >Established:
 >Area:
 >Elevation: 1296m
 >Population: 82,678
 >Demonym(s):
->Dominant Culture: [[Cultures/Vaishasi|Vaishasi]]
+>Dominant Culture: [[Setting/Cultures/Vaishasi|Vaishasi]]
 >Dominant Religion:
 
 # History

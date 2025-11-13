@@ -28,7 +28,7 @@ The next conversation starts during 700 IOG.
 
 *Main Article: [[Aeia Foundation Calendar]]*
 
-The Aeia Foundation Calendar is an integral part of [[Cultures/Aeia|Aeia]] Culture and all cultures descended from it maintain this calendar.
+The Aeia Foundation Calendar is an integral part of [[Setting/Cultures/Aeia|Aeia]] Culture and all cultures descended from it maintain this calendar.
 
 The Aeia believe this calendar marks the date of the start of humankind and their habitation of the planet. In reality it marks the date of [[The Convergence]] wherein most magical life was eradicated from the planet, and life was given the power of [[Elements|the elements]].
 

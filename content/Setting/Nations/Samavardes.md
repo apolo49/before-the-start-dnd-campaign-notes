@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Samavardes
 >Civilised
->Capital: [[Cities/Samavardes|Samavardes]]
->Largest Settlement: [[Cities/Samavardes|Samavardes]]
+>Capital: [[Setting/Settlements/Cities/Samavardes|Samavardes]]
+>Largest Settlement: [[Setting/Settlements/Cities/Samavardes|Samavardes]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Samavardes|Samavardes]]
+- [[Setting/Settlements/Cities/Samavardes|Samavardes]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

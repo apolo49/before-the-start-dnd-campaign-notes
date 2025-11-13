@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Kasalia
 >Civilised
->Capital: [[Cities/Vaboleshad|Vaboleshad]]
->Largest Settlement: [[Cities/Vaboleshad|Vaboleshad]]
+>Capital: [[Setting/Settlements/Cities/Vaboleshad|Vaboleshad]]
+>Largest Settlement: [[Setting/Settlements/Cities/Vaboleshad|Vaboleshad]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Vaboleshad|Vaboleshad]]
+- [[Setting/Settlements/Cities/Vaboleshad|Vaboleshad]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

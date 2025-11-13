@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Lelia
 >Civilised
->Capital: [[Cities/Kala|Kala]]
->Largest Settlement: [[Cities/Kala|Kala]]
+>Capital: [[Setting/Settlements/Cities/Kala|Kala]]
+>Largest Settlement: [[Setting/Settlements/Cities/Kala|Kala]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Kala|Kala]]
+- [[Setting/Settlements/Cities/Kala|Kala]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Nerapit|Nerapit]]
+- [[Setting/Cultures/Nerapit|Nerapit]]
 

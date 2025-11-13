@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Enbach
 >Tribe
->Capital: [[Villages/Enbach|Enbach]]
->Largest Settlement: [[Villages/Enbach|Enbach]]
+>Capital: [[Setting/Settlements/Villages/Enbach|Enbach]]
+>Largest Settlement: [[Setting/Settlements/Villages/Enbach|Enbach]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Enbach|Enbach]]
+- [[Setting/Settlements/Villages/Enbach|Enbach]]
 
 # Cultures in Borders
 
-- [[Cultures/Ehrstadt|Ehrstadt]]
+- [[Setting/Cultures/Ehrstadt|Ehrstadt]]
 

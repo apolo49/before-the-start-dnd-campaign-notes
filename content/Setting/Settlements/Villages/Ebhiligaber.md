@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Ebhiligaber
 >###### Capital City
->Country: [[Tribes/Borisia|Borisia]]
+>Country: [[Setting/Tribes/Borisia|Borisia]]
 >Established:
 >Area:
 >Elevation: 4m
 >Population: 3,528
 >Demonym(s):
->Dominant Culture: [[Cultures/Duibri|Duibri]]
+>Dominant Culture: [[Setting/Cultures/Duibri|Duibri]]
 >Dominant Religion:
 
 # History

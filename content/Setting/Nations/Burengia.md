@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Burengia
 >Civilised
->Capital: [[Cities/Laymeh|Laymeh]]
->Largest Settlement: [[Cities/Laymeh|Laymeh]]
+>Capital: [[Setting/Settlements/Cities/Laymeh|Laymeh]]
+>Largest Settlement: [[Setting/Settlements/Cities/Laymeh|Laymeh]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Laymeh|Laymeh]]
+- [[Setting/Settlements/Cities/Laymeh|Laymeh]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

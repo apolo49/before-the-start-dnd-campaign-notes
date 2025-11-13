@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Enessa
 >###### Capital City
->Country: [[Nations/Thyria|Thyria]]
+>Country: [[Setting/Nations/Thyria|Thyria]]
 >Established:
 >Area:
 >Elevation: 625m
 >Population: 1,305
 >Demonym(s):
->Dominant Culture: [[Cultures/Thes|Thes]]
+>Dominant Culture: [[Setting/Cultures/Thes|Thes]]
 >Dominant Religion:
 
 # History

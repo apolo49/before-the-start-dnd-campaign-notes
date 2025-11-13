@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Shahabasia
 >Civilised
->Capital: [[Cities/Shahabas|Shahabas]]
->Largest Settlement: [[Cities/Shahabas|Shahabas]]
+>Capital: [[Setting/Settlements/Cities/Shahabas|Shahabas]]
+>Largest Settlement: [[Setting/Settlements/Cities/Shahabas|Shahabas]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Shahabas|Shahabas]]
+- [[Setting/Settlements/Cities/Shahabas|Shahabas]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

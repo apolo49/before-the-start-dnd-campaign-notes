@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Persia
 >Tribe
->Capital: [[Villages/Taresterham|Taresterham]]
->Largest Settlement: [[Villages/Taresterham|Taresterham]]
+>Capital: [[Setting/Settlements/Villages/Taresterham|Taresterham]]
+>Largest Settlement: [[Setting/Settlements/Villages/Taresterham|Taresterham]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Taresterham|Taresterham]]
+- [[Setting/Settlements/Villages/Taresterham|Taresterham]]
 
 # Cultures in Borders
 
-- [[Cultures/Wildlands|Wildlands]]
+- [[Setting/Cultures/Wildlands|Wildlands]]
 

@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Pitria
 >Civilised
->Capital: [[Villages/Cleolis|Cleolis]]
->Largest Settlement: [[Villages/Cleolis|Cleolis]]
+>Capital: [[Setting/Settlements/Villages/Cleolis|Cleolis]]
+>Largest Settlement: [[Setting/Settlements/Villages/Cleolis|Cleolis]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Cleolis|Cleolis]]
+- [[Setting/Settlements/Villages/Cleolis|Cleolis]]
 
 # Cultures in Borders
 
-- [[Cultures/Hubde|Hubde]]
+- [[Setting/Cultures/Hubde|Hubde]]
 

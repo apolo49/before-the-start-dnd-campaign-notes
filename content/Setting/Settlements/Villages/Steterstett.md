@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Steterstett
 >###### Capital City
->Country: [[Tribes/Sesenland|Sesenland]]
+>Country: [[Setting/Tribes/Sesenland|Sesenland]]
 >Established:
 >Area:
 >Elevation: 961m
 >Population: 748
 >Demonym(s):
->Dominant Culture: [[Cultures/Bieiamten|Bieiamten]]
+>Dominant Culture: [[Setting/Cultures/Bieiamten|Bieiamten]]
 >Dominant Religion:
 
 # History

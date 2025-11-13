@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Esedia
 >Civilised
->Capital: [[Villages/Anim|Anim]]
->Largest Settlement: [[Villages/Anim|Anim]]
+>Capital: [[Setting/Settlements/Villages/Anim|Anim]]
+>Largest Settlement: [[Setting/Settlements/Villages/Anim|Anim]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Anim|Anim]]
+- [[Setting/Settlements/Villages/Anim|Anim]]
 
 # Cultures in Borders
 
-- [[Cultures/Carthaginian|Carthaginian]]
+- [[Setting/Cultures/Carthaginian|Carthaginian]]
 

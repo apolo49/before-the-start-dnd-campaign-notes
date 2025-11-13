@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Ishia
 >Civilised
->Capital: [[Villages/Sabad|Sabad]]
->Largest Settlement: [[Villages/Sabad|Sabad]]
+>Capital: [[Setting/Settlements/Villages/Sabad|Sabad]]
+>Largest Settlement: [[Setting/Settlements/Villages/Sabad|Sabad]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Sabad|Sabad]]
+- [[Setting/Settlements/Villages/Sabad|Sabad]]
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

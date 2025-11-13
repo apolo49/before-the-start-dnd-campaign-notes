@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Schiland
 >Tribe
->Capital: [[Villages/Schil|Schil]]
->Largest Settlement: [[Villages/Schil|Schil]]
+>Capital: [[Setting/Settlements/Villages/Schil|Schil]]
+>Largest Settlement: [[Setting/Settlements/Villages/Schil|Schil]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Schil|Schil]]
+- [[Setting/Settlements/Villages/Schil|Schil]]
 
 # Cultures in Borders
 
-- [[Cultures/Ehrstadt|Ehrstadt]]
+- [[Setting/Cultures/Ehrstadt|Ehrstadt]]
 

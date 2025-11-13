@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Gagusia
 >Civilised
->Capital: [[Cities/Irnahmagarad|Irnahmagarad]]
->Largest Settlement: [[Cities/Irnahmagarad|Irnahmagarad]]
+>Capital: [[Setting/Settlements/Cities/Irnahmagarad|Irnahmagarad]]
+>Largest Settlement: [[Setting/Settlements/Cities/Irnahmagarad|Irnahmagarad]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Irnahmagarad|Irnahmagarad]]
+- [[Setting/Settlements/Cities/Irnahmagarad|Irnahmagarad]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Carthaginian|Carthaginian]]
+- [[Setting/Cultures/Carthaginian|Carthaginian]]
 

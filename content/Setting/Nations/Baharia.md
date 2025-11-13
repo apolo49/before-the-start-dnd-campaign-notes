@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Baharia
 >Civilised
->Capital: [[Villages/Bahar|Bahar]]
->Largest Settlement: [[Villages/Bahar|Bahar]]
+>Capital: [[Setting/Settlements/Villages/Bahar|Bahar]]
+>Largest Settlement: [[Setting/Settlements/Villages/Bahar|Bahar]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Bahar|Bahar]]
+- [[Setting/Settlements/Villages/Bahar|Bahar]]
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

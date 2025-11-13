@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Qarch
 >Civilised
->Capital: [[Cities/Qarch|Qarch]]
->Largest Settlement: [[Cities/Qarch|Qarch]]
+>Capital: [[Setting/Settlements/Cities/Qarch|Qarch]]
+>Largest Settlement: [[Setting/Settlements/Cities/Qarch|Qarch]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Qarch|Qarch]]
+- [[Setting/Settlements/Cities/Qarch|Qarch]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

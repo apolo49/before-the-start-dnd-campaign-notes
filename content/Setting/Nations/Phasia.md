@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Phasia
 >Civilised
->Capital: [[Villages/Troriros|Troriros]]
->Largest Settlement: [[Villages/Troriros|Troriros]]
+>Capital: [[Setting/Settlements/Villages/Troriros|Troriros]]
+>Largest Settlement: [[Setting/Settlements/Villages/Troriros|Troriros]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Troriros|Troriros]]
+- [[Setting/Settlements/Villages/Troriros|Troriros]]
 
 # Cultures in Borders
 
-- [[Cultures/Thurion|Thurion]]
+- [[Setting/Cultures/Thurion|Thurion]]
 

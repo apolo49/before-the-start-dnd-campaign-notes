@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Hyeceia
 >Civilised
->Capital: [[Cities/Hyeceia|Hyeceia]]
->Largest Settlement: [[Cities/Hyeceia|Hyeceia]]
+>Capital: [[Setting/Settlements/Cities/Hyeceia|Hyeceia]]
+>Largest Settlement: [[Setting/Settlements/Cities/Hyeceia|Hyeceia]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Hyeceia|Hyeceia]]
+- [[Setting/Settlements/Cities/Hyeceia|Hyeceia]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Lampia|Lampia]]
+- [[Setting/Cultures/Lampia|Lampia]]
 

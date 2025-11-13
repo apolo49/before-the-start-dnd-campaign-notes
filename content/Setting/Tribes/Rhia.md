@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Rhia
 >Tribe
->Capital: [[Villages/Saslach|Saslach]]
->Largest Settlement: [[Villages/Saslach|Saslach]]
+>Capital: [[Setting/Settlements/Villages/Saslach|Saslach]]
+>Largest Settlement: [[Setting/Settlements/Villages/Saslach|Saslach]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Saslach|Saslach]]
+- [[Setting/Settlements/Villages/Saslach|Saslach]]
 
 # Cultures in Borders
 
-- [[Cultures/Kusteter|Kusteter]]
+- [[Setting/Cultures/Kusteter|Kusteter]]
 

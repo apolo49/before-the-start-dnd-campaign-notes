@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Uxbridle
 >###### Capital City
->Country: [[Tribes/Chich|Chich]]
+>Country: [[Setting/Tribes/Chich|Chich]]
 >Established:
 >Area:
 >Elevation: 25m
 >Population: 3,586
 >Demonym(s):
->Dominant Culture: [[Cultures/Wildlands|Wildlands]]
+>Dominant Culture: [[Setting/Cultures/Wildlands|Wildlands]]
 >Dominant Religion:
 
 # History

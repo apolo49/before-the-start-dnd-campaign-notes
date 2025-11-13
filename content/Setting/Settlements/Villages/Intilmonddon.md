@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Intilmonddon
 >###### Capital City
->Country: [[Tribes/Aveny|Aveny]]
+>Country: [[Setting/Tribes/Aveny|Aveny]]
 >Established:
 >Area:
 >Elevation: 841m
 >Population: 734
 >Demonym(s):
->Dominant Culture: [[Cultures/Lerug|Lerug]]
+>Dominant Culture: [[Setting/Cultures/Lerug|Lerug]]
 >Dominant Religion:
 
 # History

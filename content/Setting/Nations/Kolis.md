@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Kolis
 >Civilised
->Capital: [[Villages/Lepicearta|Lepicearta]]
->Largest Settlement: [[Villages/Lepicearta|Lepicearta]]
+>Capital: [[Setting/Settlements/Villages/Lepicearta|Lepicearta]]
+>Largest Settlement: [[Setting/Settlements/Villages/Lepicearta|Lepicearta]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Lepicearta|Lepicearta]]
+- [[Setting/Settlements/Villages/Lepicearta|Lepicearta]]
 
 # Cultures in Borders
 
-- [[Cultures/Hubde|Hubde]]
+- [[Setting/Cultures/Hubde|Hubde]]
 

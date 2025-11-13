@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Lahal
 >Civilised
->Capital: [[Villages/Ansheh|Ansheh]]
->Largest Settlement: [[Villages/Ansheh|Ansheh]]
+>Capital: [[Setting/Settlements/Villages/Ansheh|Ansheh]]
+>Largest Settlement: [[Setting/Settlements/Villages/Ansheh|Ansheh]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Ansheh|Ansheh]]
+- [[Setting/Settlements/Villages/Ansheh|Ansheh]]
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

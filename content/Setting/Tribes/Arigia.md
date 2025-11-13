@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Arigia
 >Tribe
->Capital: [[Villages/Treron|Treron]]
->Largest Settlement: [[Villages/Treron|Treron]]
+>Capital: [[Setting/Settlements/Villages/Treron|Treron]]
+>Largest Settlement: [[Setting/Settlements/Villages/Treron|Treron]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Treron|Treron]]
+- [[Setting/Settlements/Villages/Treron|Treron]]
 
 # Cultures in Borders
 
-- [[Cultures/Cedi|Cedi]]
+- [[Setting/Cultures/Cedi|Cedi]]
 

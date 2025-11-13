@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Bania
 >Civilised
->Capital: [[Cities/Khvorzuq|Khvorzuq]]
->Largest Settlement: [[Cities/Khvorzuq|Khvorzuq]]
+>Capital: [[Setting/Settlements/Cities/Khvorzuq|Khvorzuq]]
+>Largest Settlement: [[Setting/Settlements/Cities/Khvorzuq|Khvorzuq]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Khvorzuq|Khvorzuq]]
+- [[Setting/Settlements/Cities/Khvorzuq|Khvorzuq]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

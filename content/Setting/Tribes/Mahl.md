@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Mahl
 >Tribe
->Capital: [[Villages/Breit|Breit]]
->Largest Settlement: [[Villages/Breit|Breit]]
+>Capital: [[Setting/Settlements/Villages/Breit|Breit]]
+>Largest Settlement: [[Setting/Settlements/Villages/Breit|Breit]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Breit|Breit]]
+- [[Setting/Settlements/Villages/Breit|Breit]]
 
 # Cultures in Borders
 
-- [[Cultures/Herwihl|Herwihl]]
+- [[Setting/Cultures/Herwihl|Herwihl]]
 

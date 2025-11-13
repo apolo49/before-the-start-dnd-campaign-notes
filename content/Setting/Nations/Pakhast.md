@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Pakhast
 >Civilised
->Capital: [[Villages/Pakhast|Pakhast]]
->Largest Settlement: [[Villages/Pakhast|Pakhast]]
+>Capital: [[Setting/Settlements/Villages/Pakhast|Pakhast]]
+>Largest Settlement: [[Setting/Settlements/Villages/Pakhast|Pakhast]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Pakhast|Pakhast]]
+- [[Setting/Settlements/Villages/Pakhast|Pakhast]]
 
 # Cultures in Borders
 
-- [[Cultures/Kufa|Kufa]]
+- [[Setting/Cultures/Kufa|Kufa]]
 

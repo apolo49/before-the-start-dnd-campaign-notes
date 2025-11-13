@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Waldsia
 >Tribe
->Capital: [[Villages/Freimel|Freimel]]
->Largest Settlement: [[Villages/Freimel|Freimel]]
+>Capital: [[Setting/Settlements/Villages/Freimel|Freimel]]
+>Largest Settlement: [[Setting/Settlements/Villages/Freimel|Freimel]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Freimel|Freimel]]
+- [[Setting/Settlements/Villages/Freimel|Freimel]]
 
 # Cultures in Borders
 
-- [[Cultures/Herwihl|Herwihl]]
+- [[Setting/Cultures/Herwihl|Herwihl]]
 

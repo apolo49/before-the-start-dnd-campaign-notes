@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Ecbarahen
 >###### Capital City
->Country: [[Nations/Tefids|Tefids]]
+>Country: [[Setting/Nations/Tefids|Tefids]]
 >Established:
 >Area:
 >Elevation: 1089m
 >Population: 1,533
 >Demonym(s):
->Dominant Culture: [[Cultures/Kufa|Kufa]]
+>Dominant Culture: [[Setting/Cultures/Kufa|Kufa]]
 >Dominant Religion:
 
 # History

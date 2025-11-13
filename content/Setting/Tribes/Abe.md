@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Abe
 >Tribe
->Capital: [[Villages/Aman|Aman]]
->Largest Settlement: [[Villages/Aman|Aman]]
+>Capital: [[Setting/Settlements/Villages/Aman|Aman]]
+>Largest Settlement: [[Setting/Settlements/Villages/Aman|Aman]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Aman|Aman]]
+- [[Setting/Settlements/Villages/Aman|Aman]]
 
 # Cultures in Borders
 
-- [[Cultures/Indyrgow|Indyrgow]]
+- [[Setting/Cultures/Indyrgow|Indyrgow]]
 

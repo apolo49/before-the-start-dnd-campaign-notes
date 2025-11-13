@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Aron
 >Tribe
->Capital: [[Villages/Llaberleigh|Llaberleigh]]
->Largest Settlement: [[Villages/Llaberleigh|Llaberleigh]]
+>Capital: [[Setting/Settlements/Villages/Llaberleigh|Llaberleigh]]
+>Largest Settlement: [[Setting/Settlements/Villages/Llaberleigh|Llaberleigh]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -33,9 +33,9 @@
 
 # List of Villages
 
-- [[Villages/Llaberleigh|Llaberleigh]]
+- [[Setting/Settlements/Villages/Llaberleigh|Llaberleigh]]
 
 # Cultures in Borders
 
-- [[Cultures/Brico|Brico]]
+- [[Setting/Cultures/Brico|Brico]]
 

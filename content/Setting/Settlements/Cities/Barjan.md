@@ -2,13 +2,13 @@
 >[!infobox|wikipedia]
 ># Barjan
 >###### City
->Country: [[Nations/Echeh|Echeh]]
+>Country: [[Setting/Nations/Echeh|Echeh]]
 >Established:
 >Area:
 >Elevation: 361m
 >Population: 126,966
 >Demonym(s):
->Dominant Culture: [[Cultures/Kufa|Kufa]]
+>Dominant Culture: [[Setting/Cultures/Kufa|Kufa]]
 >Dominant Religion:
 
 # History

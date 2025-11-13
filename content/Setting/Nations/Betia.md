@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Betia
 >Civilised
->Capital: [[Cities/Zeyman|Zeyman]]
->Largest Settlement: [[Cities/Zeyman|Zeyman]]
+>Capital: [[Setting/Settlements/Cities/Zeyman|Zeyman]]
+>Largest Settlement: [[Setting/Settlements/Cities/Zeyman|Zeyman]]
 >Native Culture: [[]]
 >Official Language: [[]]
 >Official Religion: [[]]
@@ -30,12 +30,12 @@
 
 # List of Cities
 
-- [[Cities/Zeyman|Zeyman]]
+- [[Setting/Settlements/Cities/Zeyman|Zeyman]]
 
 # List of Villages
 
 
 # Cultures in Borders
 
-- [[Cultures/Carthaginian|Carthaginian]]
+- [[Setting/Cultures/Carthaginian|Carthaginian]]
 
