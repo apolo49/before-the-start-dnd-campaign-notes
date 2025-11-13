@@ -20,7 +20,7 @@ Player Characters are not allowed to be fully proficient in [[Solari (Language)|
 - [[Ebibu]],
 - [[Ek]]
 ## Cultures
-Player Characters are not allowed to be [[Solari (Culture)|Solari]], [[Qatha]], [[Aeia]], or [[Kufa]]. Players are encouraged to be of a [[Freiburg]] OR [[Dulegan]] culture.
+Player Characters are not allowed to be [[Solari (Culture)|Solari]], [[Cultures/Qatha]], [[Cultures/Aeia]], or [[Cultures/Kufa]]. Players are encouraged to be of a [[Cultures/Freiburg]] OR [[Cultures/Dulegan]] culture.
 ## Race
 Due to race politics in [[Solara]] the player characters are allowed to be whatever race they want, but they have to be humanoid and have to have a good disguise to make them appear human at all times. Elves, dwarves and halflings do not have this limitation but may be seen as lesser and an oddity.
 ## Elements

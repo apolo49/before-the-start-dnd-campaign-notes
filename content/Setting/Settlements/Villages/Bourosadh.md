@@ -1,0 +1,28 @@
+
+>[!infobox|wikipedia]
+># Bourosadh
+>###### Capital City
+>Country: [[Tribes/Pons|Pons]]
+>Established:
+>Area:
+>Elevation: 1024m
+>Population: 3,811
+>Demonym(s):
+>Dominant Culture: [[Cultures/Cabe|Cabe]]
+>Dominant Religion:
+
+# History
+
+...
+
+# Geography
+
+...
+
+# Demography
+
+...
+
+# Economy
+
+...

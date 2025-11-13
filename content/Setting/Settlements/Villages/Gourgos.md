@@ -1,0 +1,28 @@
+
+>[!infobox|wikipedia]
+># Gourgos
+>###### Capital City
+>Country: [[Nations/Athosia|Athosia]]
+>Established:
+>Area:
+>Elevation: 1369m
+>Population: 534
+>Demonym(s):
+>Dominant Culture: [[Cultures/Hubde|Hubde]]
+>Dominant Religion:
+
+# History
+
+...
+
+# Geography
+
+...
+
+# Demography
+
+...
+
+# Economy
+
+...

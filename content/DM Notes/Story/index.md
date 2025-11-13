@@ -17,7 +17,7 @@ This page contains the links to all the story points and sessions. The entire st
 - Party is sent to do the 12 trials
 	1. Medusa
 	2. Elimination of the [[Kararuneme]]
-	3. False Hydra in [[Eceh]]
+	3. False Hydra in [[Setting/Nations/Echeh]]
 	4. Golden Dragon
 	5. Guardian of the [[Hanging Gardens of Babaren]]
 	6. [[Raru]] Kraken
@@ -27,7 +27,7 @@ This page contains the links to all the story points and sessions. The entire st
 	10. Retrieval of the [[Shield of Etara]]
 	11. Retrieval of the [[Scales of Lug]]
 	12. Destruction of the [[Obelisks of Elements]] and retrieval of the Shards
-- Party is directed to Mount Aemi, reach the spirit oasis at the peak and begins the ritual for [[The Convergence]]. Forcing the party to battle the gods.
+- Party is directed to [[Mount Aemi]], reach the spirit oasis at the peak and begins the ritual for [[The Convergence]]. Forcing the party to battle the gods.
 # Timeline of Events
 
 >[!timeline|t-l] **Founding of Ebbu** _3815 BOG - 05 - 19_

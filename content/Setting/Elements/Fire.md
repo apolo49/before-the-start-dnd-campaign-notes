@@ -4,6 +4,6 @@ The [[Elements|element]] of __Fire__ allows the user to flames and fire.
 ## Progression
 # Other Names
 - [[Qatha]]: Ejatuni
-- [[Eceh]]: N/A
+- [[Setting/Nations/Echeh]]: N/A
 - [[Aeikas]]: N/A
 - [[Solari (Language)]]: Iri

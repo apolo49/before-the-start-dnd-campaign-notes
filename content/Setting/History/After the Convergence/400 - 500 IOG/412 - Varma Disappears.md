@@ -1,0 +1,1 @@
+[[Varma]], [[Atiri|Atiri's]] teacher vanishes. He is not believed to be dead by Atiri and instead thinks he must've taken solitude elsewhere in the world. Atiri decides to head to [[Solaum]] to finally build his [[Atiri Centre of Magical Excellence|school]].

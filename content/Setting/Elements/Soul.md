@@ -4,6 +4,6 @@ The [[Elements|element]] of __Soul__ allows the user to commune with the dead an
 ## Progression
 # Other Names
 - [[Qatha]]: N/A
-- [[Eceh]]: N/A
+- [[Setting/Nations/Echeh]]: N/A
 - [[Aeikas]]: N/A
 - [[Solari (Language)]]: Uni

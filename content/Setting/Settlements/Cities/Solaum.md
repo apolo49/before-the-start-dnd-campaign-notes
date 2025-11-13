@@ -1,11 +1,27 @@
 ---
 lastSync: Wed Nov 06 2024 18:43:01 GMT+0000 (Greenwich Mean Time)
 ---
-Population: 1,000,000
-Nation: [[Solara]]
-Established: 0 [[Setting/Semantics/Dating/index|IOG]]
-Area: 12 km<sup>2</sup>
-GDP: 500,000,000[[Rosist|R]]
+
+>[!infobox|wikipedia]
+># Solaum
+>Solaumi ([[Solari (Language)|Solari]])
+>###### Capital City
+>Country: [[Nations/Solara|Solara]]
+>
+>Established: 0 [[Dating|IOG]]
+>Founded By: [[Arksi Soli]]
+>
+>Area: 12km<sup>2</sup>
+>
+>Elevation: 1225m
+>
+>Population: 1,000,000
+>
+>Demonym(s): Solari
+>Dominant Culture: [[Solari (Culture)|Solari]]
+>Dominant Religion: [[Solari Religion|Solari]]
+>
+>GDP: 500,000,000[[Rosist|R]]
 
 Solaum is the capital, and largest city of the [[Solara|Solara Republic]], it is also the largest and richest city in the world at the time of the campaign. It has a population of around 1,000,000 people. It stands at the centre of the [[Vincum Peninsula]]. The city was founded by the [[Solari (Culture)]] exactly 670 years ago at the start of the campaign. In the centre of the city stands a forum wherein the [[Senate of Solara]] lies as well as other major landmarks.
 
@@ -36,7 +52,7 @@ Being the most advanced and developed city in the world at time, Solaum is home 
 - Various Temples
 # History
 ## Founding
-Solaum, though an old city, is one of the more recent cities to be founded in the world being only 670 years old at the campaign start. The oldest surviving structure in the city is the Obelisk of Origin and was built by [[Aeia]] people before the gradual displacement by the Solari people.
+Solaum, though an old city, is one of the more recent cities to be founded in the world being only 670 years old at the campaign start. The oldest surviving structure in the city is the Obelisk of Origin and was built by [[Cultures/Aeia|Aeia]] people before the gradual displacement by the Solari people.
 
 Solaum was built over the [[Atri River]], one side of the river was inhabited by the Aeia, the other side had another settlement by a since extinct group (the [[Bon]]) called "Sol". After [[The Convergence]] and the extinction of the Bon, the Aeia built the Obelisk of Origin containing a shard of the energy of The Convergence which spawned the [[Elements/Power|Power Element]] in the world. Once the Aeia gained this element they wiped themselves out from the site of Solaum.
 
@@ -54,7 +70,7 @@ In 241 IOG the final king of Solara, [[Fastui Buni Linoki]], was overthrown by t
 Main Overview: [[Solara]]
 From the [[5th Century IOG]] Solaum and the Solari Republic began expanding rapidly through conquests of the surrounding peoples especially the [[Vincum]], [[Bigente]], [[Khalgal]], [[Rine]], and [[Esanis]] peoples. Through their invasion of the [[Confluen]] tribes they entered a struggle against the [[Raru]], primarily the [[Yaf]] who owned most of the lands in the [[Moli Ikozinao]].
 
-The [[6th Century IOG]] saw Solaum and the Solari Republic expand eastwards conquering groups such as the [[Margos]], [[Smyrtega]], [[Thes]], [[Kastias]], [[Nanekion]], [[Durum]], [[Inalelea]], [[Naucra]], [[Smyrmaras]], [[Ephe]], [[Juktas]], [[Itami]] and [[Aeia]]. The conquering of the [[Itami]] saw the acquisition of [[Mount Aemi]] a major religious holy site, said to be the home of [[Solari Religion|the gods]]. Additionally economic struggles across the conquered lands saw mass-migration in to the city in hopes of a better life. The continuous warfare saw the creation of a professional army and the first [[Rikati]]. This era brought much prosperity to the city.
+The [[6th Century IOG]] saw Solaum and the Solari Republic expand eastwards conquering groups such as the [[Margos]], [[Smyrtega]], [[Thes]], [[Kastias]], [[Nanekion]], [[Durum]], [[Inalelea]], [[Naucra]], [[Smyrmaras]], [[Ephe]], [[Juktas]], [[Itami]] and [[Cultures/Aeia|Aeia]]. The conquering of the [[Itami]] saw the acquisition of [[Mount Aemi]] a major religious holy site, said to be the home of [[Solari Religion|the gods]]. Additionally economic struggles across the conquered lands saw mass-migration in to the city in hopes of a better life. The continuous warfare saw the creation of a professional army and the first [[Rikati]]. This era brought much prosperity to the city.
 
 The [[7th Century IOG]] (the last 90 years) saw massive unrest as the persecution of [[Elementals|elementals]] began. The Solari Consul, [[Rai Puli Ozi]], oversaw the extermination of 20,000 inhabitants of the city (which had a population of just over 800,000 people) all of whom he proclaimed were elementals. The edict also applied across the republic resulting in millions of deaths.
 
@@ -163,7 +179,7 @@ Aeikas will only be used in the campaign when it is appropriate. As the campaign
 *Main Article: [[Solari Religion]]*
 Religion is extremely important in Solaum, with it being a holy city for the Solari religion and a historical centre of pilgrimage as it was important during The Convergence though this knowledge has been lost to time. This religion is shared across most of the Vincum peninsula it is the base of the Arksi Shilo and the [[Bunditi Makosa]].
 
-The most sacred god in Solaum is the goddess Solaum, the goddess of the city. This does not mean the other gods are not revered to a near equal level in the city especially the King and Queen of the pantheon, Sumi and Shunmi. There are several underground mystery cults in the city including the cult of [[Mikri]]. 
+The most sacred god in Solaum is the goddess Solaum, the goddess of the city. This does not mean the other gods are not revered to a near equal level in the city especially the King and Queen of the pantheon, Sumi and Shunmi. There are several underground mystery cults in the city including the cult of [[Mikri]].
 # Economy
 ## Industry
 Solaum has a massive industrial complex consisting of Iron and Steel Works as well as construction and other industries. This sort of practice is mostly made up of small independent workshops. Military workshops are sponsored by the state.
@@ -183,7 +199,7 @@ Education is free for all in Solara and it is expected all children get educatio
 ## Schools
 ### Atiri Centre of Magical Excellence
 *Main Article: [[Atiri Centre of Magical Excellence]]*
-The Atiri Centre of Magical Excellence was founded by an old philosopher in the year 416 IOG called [[Atiri]] (meaning wise man). He had a great amount of [[Mana|mana]] and was an incredible mage. He was taught by a great [[Aeia]] elf out by [[Mount Aemi]]. He would found the magic school to pass on his original works, but there are many fake grimoires attributed to his name.
+The Atiri Centre of Magical Excellence was founded by an old philosopher in the year 416 IOG called [[Atiri]] (meaning wise man). He had a great amount of [[Mana|mana]] and was an incredible mage. He was taught by a great [[Cultures/Aeia|Aeia]] elf out by [[Mount Aemi]]. He would found the magic school to pass on his original works, but there are many fake grimoires attributed to his name.
 
 The school itself is believed to be the premier magic school in the world and attracts many mages from across the lands. Despite its history it tends to only allow Human students, though will allow students of other races under exceptional circumstance.
 

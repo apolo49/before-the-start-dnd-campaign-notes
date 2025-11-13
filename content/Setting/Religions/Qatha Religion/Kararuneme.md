@@ -3,7 +3,7 @@ The __Kararunena__ (sg. __kararuneme__) are a major part of the [[Qatha Religion
 # Role in Mythology
 __Kararunena__ demons hauled victims to the underworld, some prematurely, some because they had died. This ritual almost seemed random until the [[Qatha]] started to appease the __Kararunena__ through animal sacrifice which fed the __Kararunena__ and quenched their hunger.
 
-They are one of the seven [[Offsprings of the Underworld|offsprings of the underworld]] of the world.
+They are one of the seven [[Offsprings of the Underworld|offsprings of the underworld]].
 
 It is said in old texts that:
 > They know no food nor drink.
