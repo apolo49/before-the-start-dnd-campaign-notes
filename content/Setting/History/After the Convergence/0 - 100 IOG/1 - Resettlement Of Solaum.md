@@ -6,6 +6,6 @@ fc-calendar: Solari Calendar
 aat-render-enabled: true
 timelines:
   - timeline
-aat-event-body: After the [[Desertion of Solaum]], [[Solaum]] has been resettled by the [[Solari (Culture)|Solari]].
+aat-event-body: After the [[Desertion of Solaum]], [[Solaum]] has been resettled by the [[Setting/Cultures/Solari|Solari]].
 ---
 ![[resettlement-of-solaum.png]]

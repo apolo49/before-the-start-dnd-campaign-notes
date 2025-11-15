@@ -30,7 +30,7 @@ This then leads to them being brought to [[Solaum]] and executed on the spot (al
 # Story
 The party celebrates the end of the struggle they had been facing for countless days, adventuring across the lands of the [[Stormshroud Legion]]. As they begin to celebrate, [[Decimus]], one of the members of the [[Solaris Vanguard]] (the secret society emulating the practices of the old nation of [[Solara]]), tells them stories of the forgotten nation, in which [[Aelius]] happily divulges. They then retreat to their chambers to sleep.
 
-They awake to see the camp deserted. This desertion is not typical of The Solaris Vanguard, as it is not a part of the virtue of hospitality honoured by the nation of Solara, thusly Aelius is shocked. On the floor is a circle of the [[Elements]], a symbol distrusted by the [[Solari (Culture)|Solari]] as recounted by Aelius.
+They awake to see the camp deserted. This desertion is not typical of The Solaris Vanguard, as it is not a part of the virtue of hospitality honoured by the nation of Solara, thusly Aelius is shocked. On the floor is a circle of the [[Elements]], a symbol distrusted by the [[Setting/Cultures/Solari|Solari]] as recounted by Aelius.
 
 The party proceeds to stand in their places, [[Thandoril Sunfire|Thandoril]] follows suit. Once this happens the circle begins to emanate a strange light and the sun begins to be eclipsed by the moon. A beam of light envelops the elementals and the [[Third Convergence]] takes place, sending the party back in time to just before the [[Second Convergence]].
 
@@ -60,7 +60,7 @@ The screen turns black.
 - The party awaken to find a forest around them
 - The party find smoke in the distance and follow it to a road
 - The party is discovered by the 20th [[Military of Solara|Rikati]] of Solara
-	- Upon being contacted by the [[Solari (Culture)|Solari]], [[Aelius]] realises he can understand them a little bit.
+	- Upon being contacted by the [[Setting/Cultures/Solari|Solari]], [[Aelius]] realises he can understand them a little bit.
 - The party enters combat against the 20th Rikati of Solara, reveal they are elementals, and lose.
 - The party is captured and taken back to the [[Camp of the 20th Rikati of Solara]]
 	- The party is questioned but cannot understand [[Solari (Language)|Solari]]

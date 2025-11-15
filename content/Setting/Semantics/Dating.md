@@ -20,7 +20,7 @@ Other systems include:
 
 [[Freiburg]] and [[Dulegan]] cultures have no dating systems or calendars.
 
-The starting date of the campaign is 698 IOG.
+The starting date of the campaign is 693 IOG.
 
 The next conversation starts during 700 IOG.
 
@@ -54,25 +54,25 @@ The Eceh Royal Calendar was created to be rid of the limitations of the Qatha Ca
 
 The Solari Calendar is the primary campaign calendar and uses IOG (Ip Osurbaiko Gumdit) and BOG (Bri Osurbaiko Gumdit) dating. Year 0 is the year Solaum was founded by the Solari.
 
-The Solari Calendar was created by the second Arksi of Solaum [[Puli Numini]] as a way to track sacrifices and feasts to the gods of the [[Solari (Culture)]].
+The Solari Calendar was created by the second Arksi of Solaum [[Puli Numini]] as a way to track sacrifices and feasts to the gods of the [[Setting/Cultures/Solari|Solari]].
 
 ## Months
 
 The Solari Calendar has 13 months of 28 days, each named after a god of their pantheon.
 
-1. Hanomi - named for the god of doors, beginnings and passageways, [[Hanoshi]]
-2. Solumi - named for the god of Solaum, [[Solaum (god)|Solaum]]
-3. Narimi - named for the god of war, [[Nari]]
-4. Minumi - named for the goddess of wisdom, [[Minuzi]]
-5. Gamami - named for the goddess of science and writing, [[Gamamti]]
-6. Garimi - named for the goddess of growth, crops and farming, [[Garishi]]
-7. Ebolumi - named for the god of good and health, [[Eboluni]]
-8. Bomi - named for the goddess of flowers, Spring and plants, [[Bozi]]
-9. Flami - named for the goddess of springs and wells, [[Flairi]]
-10. Atmi - named for the goddess of the [[Atri River]], [[Atri]]
-11. Irnumi - named for the god of the forge, fire and volcanoes, [[Irnuti]]
-12. Shumi - named for the god of the sky, [[Shuzi]]
-13. Shunmi - named for the queen of the gods [[Shuni]]
+1. Hanomi - named for the god of doors, beginnings and passageways, [[Setting/Religions/Solari Religion/Gods/Hanoshi|Hanoshi]]
+2. Solumi - named for the god of Solaum, [[Setting/Religions/Solari Religion/Gods/Solaum|Solaum]]
+3. Narimi - named for the god of war, [[Setting/Religions/Solari Religion/Gods/Nari|Nari]]
+4. Minumi - named for the goddess of wisdom, [[Setting/Religions/Solari Religion/Gods/Minuzi|Minuzi]]
+5. Gamami - named for the goddess of science and writing, [[Setting/Religions/Solari Religion/Gods/Gamamti|Gamamti]]
+6. Garimi - named for the goddess of growth, crops and farming, [[Setting/Religions/Solari Religion/Gods/Garishi|Garishi]]
+7. Ebolumi - named for the god of good and health, [[Setting/Religions/Solari Religion/Gods/Eboluni|Eboluni]]
+8. Bomi - named for the goddess of flowers, Spring and plants, [[Setting/Religions/Solari Religion/Gods/Bozi|Bozi]]
+9. Flami - named for the goddess of springs and wells, [[Setting/Religions/Solari Religion/Gods/Flairi|Flairi]]
+10. Atmi - named for the goddess of the [[Atri River]], [[Setting/Religions/Solari Religion/Gods/Atri|Atri]]
+11. Irnumi - named for the god of the forge, fire and volcanoes, [[Setting/Religions/Solari Religion/Gods/Irnuti|Irnuti]]
+12. Shumi - named for the god of the sky, [[Setting/Religions/Solari Religion/Gods/Shuzi|Shuzi]]
+13. Shunmi - named for the queen of the gods [[Setting/Religions/Solari Religion/Gods/Shuni|Shuni]]
 
 | Hanomi | Solumi | Narimi | Minumi | Gamami | Garimi | Ebolumi | Bomi | Flami | Atmi | Irnumi | Shumi | Shunmi |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------- | ---- | ----- | ---- | ------ | ----- | ------ |
@@ -95,5 +95,5 @@ Like the Soa Calendar, the Makdonda Calendar was created purely for flavour and 
 | 3800 | Cycle 241 Year 8 | 2300  | 0 IOG    | -684  | -689             | 693                         | 753 BC                |
 | 4484 | Cycle 298 Year 8 | 2984  | 684 IOG  | 0     | -5               | 9                           | 69 BC                 |
 | 4489 | Cycle 299 Year 1 | 2989  | 689 IOG  | 5     | 0                | 4                           | 64 BC                 |
-| 4492 | Cycle 299 Year 5 | 2993  | 693 IOG  | 9     | 4                | 0                           | 59 BC                 |
+| 4493 | Cycle 299 Year 5 | 2993  | 693 IOG  | 9     | 4                | 0                           | 60 BC                 |
 

@@ -1,3 +1,3 @@
 Native Name: Solama
-Native Culture: [[Solari (Culture)|Solari (Culture)]]
+Native Culture: [[Setting/Cultures/Solari|Solari]]
 
