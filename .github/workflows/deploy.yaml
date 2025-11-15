@@ -19,14 +19,14 @@ concurrency:
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-slim
     steps:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0 # Fetch all history for git info
       - uses: oven-sh/setup-bun@v2
         with:
-          bun-version: canary
+          bun-version: latest
       - name: Install Dependencies
         run: bun i --frozen-lockfile
       - name: Fetch Quartz Theme

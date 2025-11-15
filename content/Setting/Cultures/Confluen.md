@@ -1,4 +1,4 @@
-Origin Culture: [[Solari (Culture)|Solari (Culture)]]
+Origin Culture: [[Setting/Cultures/Solari|Solari]]
 
 | Categories | [[Cultures]] | [[Extant Cultures]] | [[Post-Convergence Cultures]] |
 | ---------- | ------------ | ------------------- | ----------------------------- |

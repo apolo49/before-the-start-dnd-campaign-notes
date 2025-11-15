@@ -13,12 +13,12 @@ aat-event-body: The Convergence was a major historical disaster that took place 
 
 The Convergence was a major historical disaster that took place on 3800 BOG (0 [[Aeia Foundation Calendar|AFC]], by definition) at [[Mount Aemi]], destroying most magical life on the planet, and various human cultures.
 
-It was thought at the time to be the judgement of the then present [[Solari Religion|gods]], however it took place because the effect is echoed throughout history (both past and future) due to the collision of the elements in 700 [[Dating|IOG]] (5000 AFC). Before, and after, the event the planet was calm and peaceful. During The Convergence many magical creatures were driven insane by the amount of power displayed by The Convergence. The event introduced [[Elements|elements]] into the world in the form of [[Elemental Remnants|elemental remnants]] and [[Elementals|elementals]] (people with the power of the elements). The [[Setting/Cultures/Aeia|Aeia]] took these elements and placed them in obelisks all over the world (such as the [[Obelisk of Origin]], which houses the [[Power Element|element of power]]).
+It was thought at the time to be the judgement of the then present [[Solari Religion|gods]], however it took place because the effect is echoed throughout history (both past and future) due to the collision of the elements in 700 [[Dating|IOG]] (5000 AFC). Before, and after, the event the planet was calm and peaceful. During The Convergence many magical creatures were driven insane by the amount of power displayed by The Convergence. The event introduced [[Elements|elements]] into the world in the form of [[Elemental Remnants|elemental remnants]] and [[Elementals|elementals]] (people with the power of the elements). The [[Setting/Cultures/Aeia|Aeia]] took these elements and placed them in obelisks all over the world (such as the [[Obelisk of Origin]], which houses the [[Setting/Elements/Power|element of power]]).
 
 The effects of the event can be seen throughout the land with the lack of elves, dwarves, tieflings and other magical creatures. The Aeia were forever shaped by the event; the first elementals were all from the Aeia culture.
 
 # The World Before The Convergence
-Before the Convergence the world was filled with magic and magical creatures who were at peace with the human population of the world. The land was filled with arcane plants and magic spawned into people freely. The gods were also present on the land at this time and [[Spirits|spirits]] were at peace with the land and its inhabitants.
+Before the Convergence the world was filled with magic and magical creatures who were at peace with the human population of the world. The land was filled with arcane plants, and magic spawned into people freely. The gods were also present on the land at this time and [[Spirits|spirits]] were at peace with the land and its inhabitants.
 
 The spirits would guide humans and other sentient races to utilise magic for their own means in harmony with the world, only the Aeia have this [[Overcoming Wild Magic|knowledge]] retained in their scrolls.
 
@@ -38,7 +38,7 @@ Creatures became irate and started attacking each other as many gained unnatural
 
 As a result of these new behaviours, the Spirits become angry and start fighting the creatures causing mass devastation. The graveyards of these spirits become spirit oases as their energies are absorbed into the surrounding area.
 
-Human settlements were destroyed by the beam and the stone the [[Qatha Calendar]] was carved into was marked with an elemental shard ([[Electric Element|Electricity]]).
+Human settlements were destroyed by the beam and the stone the [[Qatha Calendar]] was carved into was marked with an elemental shard ([[Setting/Elements/Electricity|Electricity]]).
 
 | Categories | [[Major Historical Events]] | [[Magic]] | [[Aeia History]] |
 | ---------- | --------------------------- | --------- | ---------------- |

@@ -4,7 +4,7 @@
 >Civilised
 >Capital: [[Setting/Settlements/Cities/Solaum|Solaum]]
 >Largest Settlement: [[Setting/Settlements/Cities/Solaum|Solaum]]
->Native Culture: [[Setting/Cultures/Solari (Culture)|Solari]]
+>Native Culture: [[Setting/Cultures/Solari|Solari]]
 >Official Language: [[Languages/Solari|Solari (Language)|Solari]]
 >Official Religion: [[Religions/Solari Religion|Solari]]
 >Demonym(s): Solari
