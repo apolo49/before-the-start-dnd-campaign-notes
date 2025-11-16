@@ -4,9 +4,9 @@
 >Civilised
 >Capital: [[Setting/Settlements/Cities/Naubeagios|Naubeagios]]
 >Largest Settlement: [[Setting/Settlements/Cities/Naubeagios|Naubeagios]]
->Native Culture: [[]]
->Official Language: [[]]
->Official Religion: [[]]
+>Native Culture:
+>Official Language:
+>Official Religion:
 >Demonym(s):
 >Government:
 >Population: 89,262

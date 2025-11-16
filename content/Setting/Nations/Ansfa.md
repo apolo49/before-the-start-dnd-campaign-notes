@@ -4,9 +4,9 @@
 >Civilised
 >Capital: [[Setting/Settlements/Cities/Ashahrmir|Ashahrmir]]
 >Largest Settlement: [[Setting/Settlements/Cities/Ashahrmir|Ashahrmir]]
->Native Culture: [[]]
->Official Language: [[]]
->Official Religion: [[]]
+>Native Culture:
+>Official Language:
+>Official Religion:
 >Demonym(s):
 >Government:
 >Population: 85,227

@@ -4,9 +4,9 @@
 >Civilised
 >Capital: [[Setting/Settlements/Cities/Barmiadoles|Barmiadoles]]
 >Largest Settlement: [[Setting/Settlements/Cities/Barmiadoles|Barmiadoles]]
->Native Culture: [[]]
->Official Language: [[]]
->Official Religion: [[]]
+>Native Culture:
+>Official Language:
+>Official Religion:
 >Demonym(s):
 >Government:
 >Population: 37,220

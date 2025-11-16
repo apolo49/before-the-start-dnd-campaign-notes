@@ -4,9 +4,9 @@
 >Civilised
 >Capital: [[Setting/Settlements/Cities/Qodshahrka|Qodshahrka]]
 >Largest Settlement: [[Setting/Settlements/Cities/Qodshahrka|Qodshahrka]]
->Native Culture: [[]]
->Official Language: [[]]
->Official Religion: [[]]
+>Native Culture:
+>Official Language:
+>Official Religion:
 >Demonym(s):
 >Government:
 >Population: 45,204

@@ -4,9 +4,9 @@
 >Civilised
 >Capital: [[Setting/Settlements/Villages/Gwanavardra|Gwanavardra]]
 >Largest Settlement: [[Setting/Settlements/Villages/Gwanavardra|Gwanavardra]]
->Native Culture: [[]]
->Official Language: [[]]
->Official Religion: [[]]
+>Native Culture:
+>Official Language:
+>Official Religion:
 >Demonym(s):
 >Government:
 >Population: 2,579

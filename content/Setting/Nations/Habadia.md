@@ -4,9 +4,9 @@
 >Civilised
 >Capital: [[Setting/Settlements/Cities/Khur Sang|Khur Sang]]
 >Largest Settlement: [[Setting/Settlements/Cities/Khur Sang|Khur Sang]]
->Native Culture: [[]]
->Official Language: [[]]
->Official Religion: [[]]
+>Native Culture:
+>Official Language:
+>Official Religion:
 >Demonym(s):
 >Government:
 >Population: 93,012

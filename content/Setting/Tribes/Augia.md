@@ -4,9 +4,9 @@
 >Tribe
 >Capital: [[Setting/Settlements/Villages/Muhwenengen|Muhwenengen]]
 >Largest Settlement: [[Setting/Settlements/Villages/Muhwenengen|Muhwenengen]]
->Native Culture: [[]]
->Official Language: [[]]
->Official Religion: [[]]
+>Native Culture:
+>Official Language:
+>Official Religion:
 >Demonym(s):
 >Government:
 >Population: 3,371

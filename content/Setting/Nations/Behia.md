@@ -4,9 +4,9 @@
 >Civilised
 >Capital: [[Setting/Settlements/Cities/Rharirazvan|Rharirazvan]]
 >Largest Settlement: [[Setting/Settlements/Cities/Rharirazvan|Rharirazvan]]
->Native Culture: [[]]
->Official Language: [[]]
->Official Religion: [[]]
+>Native Culture:
+>Official Language:
+>Official Religion:
 >Demonym(s):
 >Government:
 >Population: 45,672

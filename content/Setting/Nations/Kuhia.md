@@ -4,9 +4,9 @@
 >Civilised
 >Capital: [[Setting/Settlements/Cities/Rudecatigzi|Rudecatigzi]]
 >Largest Settlement: [[Setting/Settlements/Cities/Rudecatigzi|Rudecatigzi]]
->Native Culture: [[]]
->Official Language: [[]]
->Official Religion: [[]]
+>Native Culture:
+>Official Language:
+>Official Religion:
 >Demonym(s):
 >Government:
 >Population: 133,551

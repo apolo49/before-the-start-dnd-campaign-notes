@@ -4,9 +4,9 @@
 >Civilised
 >Capital: [[Setting/Settlements/Cities/Diraz Shahr|Diraz Shahr]]
 >Largest Settlement: [[Setting/Settlements/Cities/Diraz Shahr|Diraz Shahr]]
->Native Culture: [[]]
->Official Language: [[]]
->Official Religion: [[]]
+>Native Culture:
+>Official Language:
+>Official Religion:
 >Demonym(s):
 >Government:
 >Population: 120,167

@@ -4,9 +4,9 @@
 >Tribe
 >Capital: [[Setting/Settlements/Villages/Sulzgravels|Sulzgravels]]
 >Largest Settlement: [[Setting/Settlements/Villages/Sulzgravels|Sulzgravels]]
->Native Culture: [[]]
->Official Language: [[]]
->Official Religion: [[]]
+>Native Culture:
+>Official Language:
+>Official Religion:
 >Demonym(s):
 >Government:
 >Population: 1,145

@@ -4,9 +4,9 @@
 >Tribe
 >Capital: [[Setting/Settlements/Villages/Otmosfeld|Otmosfeld]]
 >Largest Settlement: [[Setting/Settlements/Villages/Otmosfeld|Otmosfeld]]
->Native Culture: [[]]
->Official Language: [[]]
->Official Religion: [[]]
+>Native Culture:
+>Official Language:
+>Official Religion:
 >Demonym(s):
 >Government:
 >Population: 30

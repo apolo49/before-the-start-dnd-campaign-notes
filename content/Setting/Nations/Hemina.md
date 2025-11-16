@@ -4,9 +4,9 @@
 >Civilised
 >Capital: [[Setting/Settlements/Cities/Tithyrian|Tithyrian]]
 >Largest Settlement: [[Setting/Settlements/Cities/Tithyrian|Tithyrian]]
->Native Culture: [[]]
->Official Language: [[]]
->Official Religion: [[]]
+>Native Culture:
+>Official Language:
+>Official Religion:
 >Demonym(s):
 >Government:
 >Population: 52,932

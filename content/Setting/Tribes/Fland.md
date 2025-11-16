@@ -4,9 +4,9 @@
 >Tribe
 >Capital: [[Setting/Settlements/Villages/Vogtsterbach|Vogtsterbach]]
 >Largest Settlement: [[Setting/Settlements/Villages/Vogtsterbach|Vogtsterbach]]
->Native Culture: [[]]
->Official Language: [[]]
->Official Religion: [[]]
+>Native Culture:
+>Official Language:
+>Official Religion:
 >Demonym(s):
 >Government:
 >Population: 3,830

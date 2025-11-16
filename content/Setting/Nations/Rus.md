@@ -4,9 +4,9 @@
 >Civilised
 >Capital: [[Setting/Settlements/Cities/Kelah-Tukish|Kelah-Tukish]]
 >Largest Settlement: [[Setting/Settlements/Cities/Kelah-Tukish|Kelah-Tukish]]
->Native Culture: [[]]
->Official Language: [[]]
->Official Religion: [[]]
+>Native Culture:
+>Official Language:
+>Official Religion:
 >Demonym(s):
 >Government:
 >Population: 88,931

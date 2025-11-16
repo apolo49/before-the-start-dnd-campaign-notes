@@ -4,9 +4,9 @@
 >Civilised
 >Capital: [[Setting/Settlements/Cities/Vatigzirom|Vatigzirom]]
 >Largest Settlement: [[Setting/Settlements/Cities/Vatigzirom|Vatigzirom]]
->Native Culture: [[]]
->Official Language: [[]]
->Official Religion: [[]]
+>Native Culture:
+>Official Language:
+>Official Religion:
 >Demonym(s):
 >Government:
 >Population: 45,337

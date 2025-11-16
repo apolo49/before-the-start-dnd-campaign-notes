@@ -4,9 +4,9 @@
 >Civilised
 >Capital: [[Setting/Settlements/Cities/Roz Bakhi|Roz Bakhi]]
 >Largest Settlement: [[Setting/Settlements/Cities/Roz Bakhi|Roz Bakhi]]
->Native Culture: [[]]
->Official Language: [[]]
->Official Religion: [[]]
+>Native Culture:
+>Official Language:
+>Official Religion:
 >Demonym(s):
 >Government:
 >Population: 71,893

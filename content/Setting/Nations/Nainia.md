@@ -4,9 +4,9 @@
 >Civilised
 >Capital: [[Setting/Settlements/Cities/Derey-Shahr|Derey-Shahr]]
 >Largest Settlement: [[Setting/Settlements/Cities/Derey-Shahr|Derey-Shahr]]
->Native Culture: [[]]
->Official Language: [[]]
->Official Religion: [[]]
+>Native Culture:
+>Official Language:
+>Official Religion:
 >Demonym(s):
 >Government:
 >Population: 101,087

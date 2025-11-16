@@ -4,9 +4,9 @@
 >Civilised
 >Capital: [[Setting/Settlements/Villages/Sabatgerd|Sabatgerd]]
 >Largest Settlement: [[Setting/Settlements/Villages/Sabatgerd|Sabatgerd]]
->Native Culture: [[]]
->Official Language: [[]]
->Official Religion: [[]]
+>Native Culture:
+>Official Language:
+>Official Religion:
 >Demonym(s):
 >Government:
 >Population: 597

@@ -4,9 +4,9 @@
 >Civilised
 >Capital: [[Setting/Settlements/Cities/Lothanjarju|Lothanjarju]]
 >Largest Settlement: [[Setting/Settlements/Cities/Lothanjarju|Lothanjarju]]
->Native Culture: [[]]
->Official Language: [[]]
->Official Religion: [[]]
+>Native Culture:
+>Official Language:
+>Official Religion:
 >Demonym(s):
 >Government:
 >Population: 71,363

@@ -4,9 +4,9 @@
 >Civilised
 >Capital: [[Setting/Settlements/Cities/Bet Hapet|Bet Hapet]]
 >Largest Settlement: [[Setting/Settlements/Cities/Bet Hapet|Bet Hapet]]
->Native Culture: [[]]
->Official Language: [[]]
->Official Religion: [[]]
+>Native Culture:
+>Official Language:
+>Official Religion:
 >Demonym(s):
 >Government:
 >Population: 76,194

@@ -4,9 +4,9 @@
 >Civilised
 >Capital: [[Setting/Settlements/Cities/Naucleaca|Naucleaca]]
 >Largest Settlement: [[Setting/Settlements/Cities/Naucleaca|Naucleaca]]
->Native Culture: [[]]
->Official Language: [[]]
->Official Religion: [[]]
+>Native Culture:
+>Official Language:
+>Official Religion:
 >Demonym(s):
 >Government:
 >Population: 95,905

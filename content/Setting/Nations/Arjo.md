@@ -4,9 +4,9 @@
 >Civilised
 >Capital: [[Setting/Settlements/Cities/Qampydanana|Qampydanana]]
 >Largest Settlement: [[Setting/Settlements/Cities/Qampydanana|Qampydanana]]
->Native Culture: [[]]
->Official Language: [[]]
->Official Religion: [[]]
+>Native Culture:
+>Official Language:
+>Official Religion:
 >Demonym(s):
 >Government:
 >Population: 91,481

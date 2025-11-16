@@ -4,9 +4,9 @@
 >Civilised
 >Capital: [[Setting/Settlements/Cities/Majanyatis|Majanyatis]]
 >Largest Settlement: [[Setting/Settlements/Cities/Majanyatis|Majanyatis]]
->Native Culture: [[]]
->Official Language: [[]]
->Official Religion: [[]]
+>Native Culture:
+>Official Language:
+>Official Religion:
 >Demonym(s):
 >Government:
 >Population: 49,140

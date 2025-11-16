@@ -4,9 +4,9 @@
 >Civilised
 >Capital: [[Setting/Settlements/Cities/Purambikaram|Purambikaram]]
 >Largest Settlement: [[Setting/Settlements/Cities/Purambikaram|Purambikaram]]
->Native Culture: [[]]
->Official Language: [[]]
->Official Religion: [[]]
+>Native Culture:
+>Official Language:
+>Official Religion:
 >Demonym(s):
 >Government:
 >Population: 73,231

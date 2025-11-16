@@ -4,9 +4,9 @@
 >Civilised
 >Capital: [[Setting/Settlements/Villages/Jiruzvanshe|Jiruzvanshe]]
 >Largest Settlement: [[Setting/Settlements/Villages/Jiruzvanshe|Jiruzvanshe]]
->Native Culture: [[]]
->Official Language: [[]]
->Official Religion: [[]]
+>Native Culture:
+>Official Language:
+>Official Religion:
 >Demonym(s):
 >Government:
 >Population: 3,989

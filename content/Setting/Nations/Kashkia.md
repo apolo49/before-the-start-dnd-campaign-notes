@@ -4,9 +4,9 @@
 >Civilised
 >Capital: [[Setting/Settlements/Cities/Akubjanadam|Akubjanadam]]
 >Largest Settlement: [[Setting/Settlements/Cities/Akubjanadam|Akubjanadam]]
->Native Culture: [[]]
->Official Language: [[]]
->Official Religion: [[]]
+>Native Culture:
+>Official Language:
+>Official Religion:
 >Demonym(s):
 >Government:
 >Population: 81,225

@@ -4,9 +4,9 @@
 >Civilised
 >Capital: [[Setting/Settlements/Cities/Stymphatis|Stymphatis]]
 >Largest Settlement: [[Setting/Settlements/Cities/Stymphatis|Stymphatis]]
->Native Culture: [[]]
->Official Language: [[]]
->Official Religion: [[]]
+>Native Culture:
+>Official Language:
+>Official Religion:
 >Demonym(s):
 >Government:
 >Population: 114,346

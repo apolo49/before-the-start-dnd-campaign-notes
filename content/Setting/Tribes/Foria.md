@@ -4,9 +4,9 @@
 >Tribe
 >Capital: [[Setting/Settlements/Villages/Odeckloshut|Odeckloshut]]
 >Largest Settlement: [[Setting/Settlements/Villages/Odeckloshut|Odeckloshut]]
->Native Culture: [[]]
->Official Language: [[]]
->Official Religion: [[]]
+>Native Culture:
+>Official Language:
+>Official Religion:
 >Demonym(s):
 >Government:
 >Population: 1,818

@@ -4,9 +4,9 @@
 >Civilised
 >Capital: [[Setting/Settlements/Cities/Hafshahrdes|Hafshahrdes]]
 >Largest Settlement: [[Setting/Settlements/Cities/Hafshahrdes|Hafshahrdes]]
->Native Culture: [[]]
->Official Language: [[]]
->Official Religion: [[]]
+>Native Culture:
+>Official Language:
+>Official Religion:
 >Demonym(s):
 >Government:
 >Population: 83,953

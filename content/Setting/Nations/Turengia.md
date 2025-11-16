@@ -4,9 +4,9 @@
 >Civilised
 >Capital: [[Setting/Settlements/Cities/Hashtgerd|Hashtgerd]]
 >Largest Settlement: [[Setting/Settlements/Cities/Hashtgerd|Hashtgerd]]
->Native Culture: [[]]
->Official Language: [[]]
->Official Religion: [[]]
+>Native Culture:
+>Official Language:
+>Official Religion:
 >Demonym(s):
 >Government:
 >Population: 56,872

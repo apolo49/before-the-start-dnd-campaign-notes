@@ -4,9 +4,9 @@
 >Civilised
 >Capital: [[Setting/Settlements/Cities/Aksos-Ha|Aksos-Ha]]
 >Largest Settlement: [[Setting/Settlements/Cities/Aksos-Ha|Aksos-Ha]]
->Native Culture: [[]]
->Official Language: [[]]
->Official Religion: [[]]
+>Native Culture:
+>Official Language:
+>Official Religion:
 >Demonym(s):
 >Government:
 >Population: 16,780

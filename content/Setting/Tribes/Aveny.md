@@ -4,9 +4,9 @@
 >Tribe
 >Capital: [[Setting/Settlements/Villages/Intilmonddon|Intilmonddon]]
 >Largest Settlement: [[Setting/Settlements/Villages/Intilmonddon|Intilmonddon]]
->Native Culture: [[]]
->Official Language: [[]]
->Official Religion: [[]]
+>Native Culture:
+>Official Language:
+>Official Religion:
 >Demonym(s):
 >Government:
 >Population: 734

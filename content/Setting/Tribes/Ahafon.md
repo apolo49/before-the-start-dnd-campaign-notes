@@ -4,9 +4,9 @@
 >Tribe
 >Capital: [[Setting/Settlements/Villages/Llanwenveru|Llanwenveru]]
 >Largest Settlement: [[Setting/Settlements/Villages/Llanwenveru|Llanwenveru]]
->Native Culture: [[]]
->Official Language: [[]]
->Official Religion: [[]]
+>Native Culture:
+>Official Language:
+>Official Religion:
 >Demonym(s):
 >Government:
 >Population: 1,703

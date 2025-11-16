@@ -4,9 +4,9 @@
 >Civilised
 >Capital: [[Setting/Settlements/Cities/Rhatomvar|Rhatomvar]]
 >Largest Settlement: [[Setting/Settlements/Cities/Rhatomvar|Rhatomvar]]
->Native Culture: [[]]
->Official Language: [[]]
->Official Religion: [[]]
+>Native Culture:
+>Official Language:
+>Official Religion:
 >Demonym(s):
 >Government:
 >Population: 52,188

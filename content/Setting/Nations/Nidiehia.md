@@ -4,9 +4,9 @@
 >Civilised
 >Capital: [[Setting/Settlements/Cities/Ardowsieh|Ardowsieh]]
 >Largest Settlement: [[Setting/Settlements/Cities/Ardowsieh|Ardowsieh]]
->Native Culture: [[]]
->Official Language: [[]]
->Official Religion: [[]]
+>Native Culture:
+>Official Language:
+>Official Religion:
 >Demonym(s):
 >Government:
 >Population: 70,577

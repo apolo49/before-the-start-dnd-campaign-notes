@@ -4,9 +4,9 @@
 >Civilised
 >Capital: [[Setting/Settlements/Cities/Betnapamut|Betnapamut]]
 >Largest Settlement: [[Setting/Settlements/Cities/Betnapamut|Betnapamut]]
->Native Culture: [[]]
->Official Language: [[]]
->Official Religion: [[]]
+>Native Culture:
+>Official Language:
+>Official Religion:
 >Demonym(s):
 >Government:
 >Population: 49,058

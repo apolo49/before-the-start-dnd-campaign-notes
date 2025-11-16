@@ -4,9 +4,9 @@
 >Tribe
 >Capital: [[Setting/Settlements/Villages/Kirgyfili|Kirgyfili]]
 >Largest Settlement: [[Setting/Settlements/Villages/Kirgyfili|Kirgyfili]]
->Native Culture: [[]]
->Official Language: [[]]
->Official Religion: [[]]
+>Native Culture:
+>Official Language:
+>Official Religion:
 >Demonym(s):
 >Government:
 >Population: 539
