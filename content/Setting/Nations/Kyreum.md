@@ -4,9 +4,9 @@
 >Civilised
 >Capital: [[Setting/Settlements/Cities/Neaca|Neaca]]
 >Largest Settlement: [[Setting/Settlements/Cities/Neaca|Neaca]]
->Native Culture: [[]]
->Official Language: [[]]
->Official Religion: [[]]
+>Native Culture:
+>Official Language:
+>Official Religion:
 >Demonym(s):
 >Government:
 >Population: 88,475

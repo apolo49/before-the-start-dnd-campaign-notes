@@ -4,9 +4,9 @@
 >Tribe
 >Capital: [[Setting/Settlements/Villages/Tiexautosch|Tiexautosch]]
 >Largest Settlement: [[Setting/Settlements/Villages/Tiexautosch|Tiexautosch]]
->Native Culture: [[]]
->Official Language: [[]]
->Official Religion: [[]]
+>Native Culture:
+>Official Language:
+>Official Religion:
 >Demonym(s):
 >Government:
 >Population: 729

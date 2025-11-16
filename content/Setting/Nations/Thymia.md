@@ -4,9 +4,9 @@
 >Civilised
 >Capital: [[Setting/Settlements/Cities/Tegainion|Tegainion]]
 >Largest Settlement: [[Setting/Settlements/Cities/Tegainion|Tegainion]]
->Native Culture: [[]]
->Official Language: [[]]
->Official Religion: [[]]
+>Native Culture:
+>Official Language:
+>Official Religion:
 >Demonym(s):
 >Government:
 >Population: 43,263

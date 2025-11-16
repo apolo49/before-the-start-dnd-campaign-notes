@@ -4,9 +4,9 @@
 >Tribe
 >Capital: [[Setting/Settlements/Villages/Athing|Athing]]
 >Largest Settlement: [[Setting/Settlements/Villages/Athing|Athing]]
->Native Culture: [[]]
->Official Language: [[]]
->Official Religion: [[]]
+>Native Culture:
+>Official Language:
+>Official Religion:
 >Demonym(s):
 >Government:
 >Population: 712

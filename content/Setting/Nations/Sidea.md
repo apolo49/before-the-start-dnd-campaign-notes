@@ -4,9 +4,9 @@
 >Civilised
 >Capital: [[Setting/Settlements/Cities/Theorydori|Theorydori]]
 >Largest Settlement: [[Setting/Settlements/Cities/Theorydori|Theorydori]]
->Native Culture: [[]]
->Official Language: [[]]
->Official Religion: [[]]
+>Native Culture:
+>Official Language:
+>Official Religion:
 >Demonym(s):
 >Government:
 >Population: 96,608

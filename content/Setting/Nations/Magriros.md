@@ -4,9 +4,9 @@
 >Civilised
 >Capital: [[Setting/Settlements/Cities/Magriros|Magriros]]
 >Largest Settlement: [[Setting/Settlements/Cities/Magriros|Magriros]]
->Native Culture: [[]]
->Official Language: [[]]
->Official Religion: [[]]
+>Native Culture:
+>Official Language:
+>Official Religion:
 >Demonym(s):
 >Government:
 >Population: 71,580

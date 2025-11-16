@@ -4,9 +4,9 @@
 >Civilised
 >Capital: [[Setting/Settlements/Cities/Kemurun|Kemurun]]
 >Largest Settlement: [[Setting/Settlements/Cities/Kemurun|Kemurun]]
->Native Culture: [[]]
->Official Language: [[]]
->Official Religion: [[]]
+>Native Culture:
+>Official Language:
+>Official Religion:
 >Demonym(s):
 >Government:
 >Population: 114,790

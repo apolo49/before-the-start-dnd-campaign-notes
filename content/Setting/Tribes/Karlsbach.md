@@ -4,9 +4,9 @@
 >Tribe
 >Capital: [[Setting/Settlements/Villages/Karlsbach|Karlsbach]]
 >Largest Settlement: [[Setting/Settlements/Villages/Karlsbach|Karlsbach]]
->Native Culture: [[]]
->Official Language: [[]]
->Official Religion: [[]]
+>Native Culture:
+>Official Language:
+>Official Religion:
 >Demonym(s):
 >Government:
 >Population: 3,467

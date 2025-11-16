@@ -4,9 +4,9 @@
 >Civilised
 >Capital: [[Setting/Settlements/Cities/Rudeshk|Rudeshk]]
 >Largest Settlement: [[Setting/Settlements/Cities/Rudeshk|Rudeshk]]
->Native Culture: [[]]
->Official Language: [[]]
->Official Religion: [[]]
+>Native Culture:
+>Official Language:
+>Official Religion:
 >Demonym(s):
 >Government:
 >Population: 68,234

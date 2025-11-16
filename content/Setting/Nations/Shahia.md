@@ -4,9 +4,9 @@
 >Civilised
 >Capital: [[Setting/Settlements/Villages/Yafahal|Yafahal]]
 >Largest Settlement: [[Setting/Settlements/Villages/Yafahal|Yafahal]]
->Native Culture: [[]]
->Official Language: [[]]
->Official Religion: [[]]
+>Native Culture:
+>Official Language:
+>Official Religion:
 >Demonym(s):
 >Government:
 >Population: 1,132

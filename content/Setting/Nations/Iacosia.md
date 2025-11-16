@@ -4,9 +4,9 @@
 >Civilised
 >Capital: [[Setting/Settlements/Villages/Iacos|Iacos]]
 >Largest Settlement: [[Setting/Settlements/Villages/Iacos|Iacos]]
->Native Culture: [[]]
->Official Language: [[]]
->Official Religion: [[]]
+>Native Culture:
+>Official Language:
+>Official Religion:
 >Demonym(s):
 >Government:
 >Population: 1,628

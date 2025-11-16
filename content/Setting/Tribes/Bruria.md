@@ -4,9 +4,9 @@
 >Tribe
 >Capital: [[Setting/Settlements/Villages/Buntatester|Buntatester]]
 >Largest Settlement: [[Setting/Settlements/Villages/Buntatester|Buntatester]]
->Native Culture: [[]]
->Official Language: [[]]
->Official Religion: [[]]
+>Native Culture:
+>Official Language:
+>Official Religion:
 >Demonym(s):
 >Government:
 >Population: 2,013

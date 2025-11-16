@@ -4,9 +4,9 @@
 >Civilised
 >Capital: [[Setting/Settlements/Villages/Tydon|Tydon]]
 >Largest Settlement: [[Setting/Settlements/Villages/Tydon|Tydon]]
->Native Culture: [[]]
->Official Language: [[]]
->Official Religion: [[]]
+>Native Culture:
+>Official Language:
+>Official Religion:
 >Demonym(s):
 >Government:
 >Population: 3,517

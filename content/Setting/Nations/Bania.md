@@ -4,9 +4,9 @@
 >Civilised
 >Capital: [[Setting/Settlements/Cities/Khvorzuq|Khvorzuq]]
 >Largest Settlement: [[Setting/Settlements/Cities/Khvorzuq|Khvorzuq]]
->Native Culture: [[]]
->Official Language: [[]]
->Official Religion: [[]]
+>Native Culture:
+>Official Language:
+>Official Religion:
 >Demonym(s):
 >Government:
 >Population: 62,948

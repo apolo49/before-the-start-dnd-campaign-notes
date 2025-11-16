@@ -4,9 +4,9 @@
 >Civilised
 >Capital: [[Setting/Settlements/Cities/Dorchdad|Dorchdad]]
 >Largest Settlement: [[Setting/Settlements/Cities/Dorchdad|Dorchdad]]
->Native Culture: [[]]
->Official Language: [[]]
->Official Religion: [[]]
+>Native Culture:
+>Official Language:
+>Official Religion:
 >Demonym(s):
 >Government:
 >Population: 91,398

@@ -4,9 +4,9 @@
 >Tribe
 >Capital: [[Setting/Settlements/Villages/Wigley|Wigley]]
 >Largest Settlement: [[Setting/Settlements/Villages/Wigley|Wigley]]
->Native Culture: [[]]
->Official Language: [[]]
->Official Religion: [[]]
+>Native Culture:
+>Official Language:
+>Official Religion:
 >Demonym(s):
 >Government:
 >Population: 3,969

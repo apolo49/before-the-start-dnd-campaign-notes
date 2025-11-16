@@ -4,9 +4,9 @@
 >Civilised
 >Capital: [[Setting/Settlements/Cities/Gan Kaha|Gan Kaha]]
 >Largest Settlement: [[Setting/Settlements/Cities/Gan Kaha|Gan Kaha]]
->Native Culture: [[]]
->Official Language: [[]]
->Official Religion: [[]]
+>Native Culture:
+>Official Language:
+>Official Religion:
 >Demonym(s):
 >Government:
 >Population: 23,210

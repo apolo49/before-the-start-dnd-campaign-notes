@@ -4,9 +4,9 @@
 >Tribe
 >Capital: [[Setting/Settlements/Villages/Vogtsberge|Vogtsberge]]
 >Largest Settlement: [[Setting/Settlements/Villages/Vogtsberge|Vogtsberge]]
->Native Culture: [[]]
->Official Language: [[]]
->Official Religion: [[]]
+>Native Culture:
+>Official Language:
+>Official Religion:
 >Demonym(s):
 >Government:
 >Population: 3,859

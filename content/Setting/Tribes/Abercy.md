@@ -4,9 +4,9 @@
 >Tribe
 >Capital: [[Setting/Settlements/Villages/Aberfrwdhe|Aberfrwdhe]]
 >Largest Settlement: [[Setting/Settlements/Villages/Aberfrwdhe|Aberfrwdhe]]
->Native Culture: [[]]
->Official Language: [[]]
->Official Religion: [[]]
+>Native Culture:
+>Official Language:
+>Official Religion:
 >Demonym(s):
 >Government:
 >Population: 12

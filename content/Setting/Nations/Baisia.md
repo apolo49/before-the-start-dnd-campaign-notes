@@ -4,9 +4,9 @@
 >Civilised
 >Capital: [[Setting/Settlements/Cities/Bhodaga|Bhodaga]]
 >Largest Settlement: [[Setting/Settlements/Cities/Bhodaga|Bhodaga]]
->Native Culture: [[]]
->Official Language: [[]]
->Official Religion: [[]]
+>Native Culture:
+>Official Language:
+>Official Religion:
 >Demonym(s):
 >Government:
 >Population: 48,712

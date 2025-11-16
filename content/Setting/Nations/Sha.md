@@ -4,9 +4,9 @@
 >Civilised
 >Capital: [[Setting/Settlements/Cities/Hariyeh|Hariyeh]]
 >Largest Settlement: [[Setting/Settlements/Cities/Hariyeh|Hariyeh]]
->Native Culture: [[]]
->Official Language: [[]]
->Official Religion: [[]]
+>Native Culture:
+>Official Language:
+>Official Religion:
 >Demonym(s):
 >Government:
 >Population: 75,311

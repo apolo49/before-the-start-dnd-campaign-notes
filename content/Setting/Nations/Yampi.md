@@ -4,9 +4,9 @@
 >Civilised
 >Capital: [[Setting/Settlements/Villages/Gayit|Gayit]]
 >Largest Settlement: [[Setting/Settlements/Villages/Gayit|Gayit]]
->Native Culture: [[]]
->Official Language: [[]]
->Official Religion: [[]]
+>Native Culture:
+>Official Language:
+>Official Religion:
 >Demonym(s):
 >Government:
 >Population: 3,387

@@ -4,9 +4,9 @@
 >Civilised
 >Capital: [[Setting/Settlements/Villages/Satareh|Satareh]]
 >Largest Settlement: [[Setting/Settlements/Villages/Satareh|Satareh]]
->Native Culture: [[]]
->Official Language: [[]]
->Official Religion: [[]]
+>Native Culture:
+>Official Language:
+>Official Religion:
 >Demonym(s):
 >Government:
 >Population: 246

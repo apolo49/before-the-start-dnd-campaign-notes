@@ -4,9 +4,9 @@
 >Tribe
 >Capital: [[Setting/Settlements/Villages/Raswaldsau|Raswaldsau]]
 >Largest Settlement: [[Setting/Settlements/Villages/Raswaldsau|Raswaldsau]]
->Native Culture: [[]]
->Official Language: [[]]
->Official Religion: [[]]
+>Native Culture:
+>Official Language:
+>Official Religion:
 >Demonym(s):
 >Government:
 >Population: 1,850

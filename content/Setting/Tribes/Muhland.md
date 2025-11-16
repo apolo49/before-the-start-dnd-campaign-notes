@@ -4,9 +4,9 @@
 >Tribe
 >Capital: [[Setting/Settlements/Villages/Schalrodeck|Schalrodeck]]
 >Largest Settlement: [[Setting/Settlements/Villages/Schalrodeck|Schalrodeck]]
->Native Culture: [[]]
->Official Language: [[]]
->Official Religion: [[]]
+>Native Culture:
+>Official Language:
+>Official Religion:
 >Demonym(s):
 >Government:
 >Population: 2,231

@@ -4,9 +4,9 @@
 >Civilised
 >Capital: [[Setting/Settlements/Cities/Irnahmagarad|Irnahmagarad]]
 >Largest Settlement: [[Setting/Settlements/Cities/Irnahmagarad|Irnahmagarad]]
->Native Culture: [[]]
->Official Language: [[]]
->Official Religion: [[]]
+>Native Culture:
+>Official Language:
+>Official Religion:
 >Demonym(s):
 >Government:
 >Population: 41,444

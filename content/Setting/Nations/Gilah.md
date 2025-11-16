@@ -4,9 +4,9 @@
 >Civilised
 >Capital: [[Setting/Settlements/Cities/Masanyanaan|Masanyanaan]]
 >Largest Settlement: [[Setting/Settlements/Cities/Masanyanaan|Masanyanaan]]
->Native Culture: [[]]
->Official Language: [[]]
->Official Religion: [[]]
+>Native Culture:
+>Official Language:
+>Official Religion:
 >Demonym(s):
 >Government:
 >Population: 66,220

@@ -4,9 +4,9 @@
 >Tribe
 >Capital: [[Setting/Settlements/Villages/Eigwiligaber|Eigwiligaber]]
 >Largest Settlement: [[Setting/Settlements/Villages/Eigwiligaber|Eigwiligaber]]
->Native Culture: [[]]
->Official Language: [[]]
->Official Religion: [[]]
+>Native Culture:
+>Official Language:
+>Official Religion:
 >Demonym(s):
 >Government:
 >Population: 2,794

@@ -4,9 +4,9 @@
 >Tribe
 >Capital: [[Setting/Settlements/Villages/Honengenzeln|Honengenzeln]]
 >Largest Settlement: [[Setting/Settlements/Villages/Honengenzeln|Honengenzeln]]
->Native Culture: [[]]
->Official Language: [[]]
->Official Religion: [[]]
+>Native Culture:
+>Official Language:
+>Official Religion:
 >Demonym(s):
 >Government:
 >Population: 938

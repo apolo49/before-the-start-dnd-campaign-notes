@@ -4,9 +4,9 @@
 >Tribe
 >Capital: [[Setting/Settlements/Villages/Pfalzkirch|Pfalzkirch]]
 >Largest Settlement: [[Setting/Settlements/Villages/Pfalzkirch|Pfalzkirch]]
->Native Culture: [[]]
->Official Language: [[]]
->Official Religion: [[]]
+>Native Culture:
+>Official Language:
+>Official Religion:
 >Demonym(s):
 >Government:
 >Population: 2,478

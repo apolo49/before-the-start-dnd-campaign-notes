@@ -4,9 +4,9 @@
 >Tribe
 >Capital: [[Setting/Settlements/Villages/Kaberkeithin|Kaberkeithin]]
 >Largest Settlement: [[Setting/Settlements/Villages/Kaberkeithin|Kaberkeithin]]
->Native Culture: [[]]
->Official Language: [[]]
->Official Religion: [[]]
+>Native Culture:
+>Official Language:
+>Official Religion:
 >Demonym(s):
 >Government:
 >Population: 640

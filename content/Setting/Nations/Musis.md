@@ -4,9 +4,9 @@
 >Civilised
 >Capital: [[Setting/Settlements/Cities/Throrysthos|Throrysthos]]
 >Largest Settlement: [[Setting/Settlements/Cities/Throrysthos|Throrysthos]]
->Native Culture: [[]]
->Official Language: [[]]
->Official Religion: [[]]
+>Native Culture:
+>Official Language:
+>Official Religion:
 >Demonym(s):
 >Government:
 >Population: 51,174

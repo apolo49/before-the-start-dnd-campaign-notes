@@ -4,9 +4,9 @@
 >Civilised
 >Capital: [[Setting/Settlements/Cities/Afabudehieh|Afabudehieh]]
 >Largest Settlement: [[Setting/Settlements/Cities/Afabudehieh|Afabudehieh]]
->Native Culture: [[]]
->Official Language: [[]]
->Official Religion: [[]]
+>Native Culture:
+>Official Language:
+>Official Religion:
 >Demonym(s):
 >Government:
 >Population: 106,268

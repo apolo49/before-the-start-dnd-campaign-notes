@@ -4,9 +4,9 @@
 >Civilised
 >Capital: [[Setting/Settlements/Cities/Hanehtecana|Hanehtecana]]
 >Largest Settlement: [[Setting/Settlements/Cities/Hanehtecana|Hanehtecana]]
->Native Culture: [[]]
->Official Language: [[]]
->Official Religion: [[]]
+>Native Culture:
+>Official Language:
+>Official Religion:
 >Demonym(s):
 >Government:
 >Population: 37,384

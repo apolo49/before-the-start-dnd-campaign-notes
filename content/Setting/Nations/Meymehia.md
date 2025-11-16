@@ -4,9 +4,9 @@
 >Civilised
 >Capital: [[Setting/Settlements/Cities/Temuzeymeh|Temuzeymeh]]
 >Largest Settlement: [[Setting/Settlements/Cities/Temuzeymeh|Temuzeymeh]]
->Native Culture: [[]]
->Official Language: [[]]
->Official Religion: [[]]
+>Native Culture:
+>Official Language:
+>Official Religion:
 >Demonym(s):
 >Government:
 >Population: 104,914

@@ -4,9 +4,9 @@
 >Civilised
 >Capital: [[Setting/Settlements/Cities/Sardowsieh|Sardowsieh]]
 >Largest Settlement: [[Setting/Settlements/Cities/Sardowsieh|Sardowsieh]]
->Native Culture: [[]]
->Official Language: [[]]
->Official Religion: [[]]
+>Native Culture:
+>Official Language:
+>Official Religion:
 >Demonym(s):
 >Government:
 >Population: 132,076

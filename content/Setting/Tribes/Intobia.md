@@ -4,9 +4,9 @@
 >Tribe
 >Capital: [[Setting/Settlements/Villages/Chearbhal|Chearbhal]]
 >Largest Settlement: [[Setting/Settlements/Villages/Chearbhal|Chearbhal]]
->Native Culture: [[]]
->Official Language: [[]]
->Official Religion: [[]]
+>Native Culture:
+>Official Language:
+>Official Religion:
 >Demonym(s):
 >Government:
 >Population: 2,921

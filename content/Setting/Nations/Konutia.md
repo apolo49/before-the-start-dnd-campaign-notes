@@ -4,9 +4,9 @@
 >Civilised
 >Capital: [[Setting/Settlements/Cities/Nahedstan|Nahedstan]]
 >Largest Settlement: [[Setting/Settlements/Cities/Nahedstan|Nahedstan]]
->Native Culture: [[]]
->Official Language: [[]]
->Official Religion: [[]]
+>Native Culture:
+>Official Language:
+>Official Religion:
 >Demonym(s):
 >Government:
 >Population: 52,541

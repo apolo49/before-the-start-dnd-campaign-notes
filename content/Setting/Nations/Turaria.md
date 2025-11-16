@@ -4,9 +4,9 @@
 >Civilised
 >Capital: [[Setting/Settlements/Villages/Ziargaviche|Ziargaviche]]
 >Largest Settlement: [[Setting/Settlements/Villages/Ziargaviche|Ziargaviche]]
->Native Culture: [[]]
->Official Language: [[]]
->Official Religion: [[]]
+>Native Culture:
+>Official Language:
+>Official Religion:
 >Demonym(s):
 >Government:
 >Population: 184

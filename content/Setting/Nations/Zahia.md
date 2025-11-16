@@ -4,9 +4,9 @@
 >Civilised
 >Capital: [[Setting/Settlements/Cities/Arzasujle|Arzasujle]]
 >Largest Settlement: [[Setting/Settlements/Cities/Arzasujle|Arzasujle]]
->Native Culture: [[]]
->Official Language: [[]]
->Official Religion: [[]]
+>Native Culture:
+>Official Language:
+>Official Religion:
 >Demonym(s):
 >Government:
 >Population: 63,637

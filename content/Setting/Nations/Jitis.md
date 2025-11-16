@@ -4,9 +4,9 @@
 >Civilised
 >Capital: [[Setting/Settlements/Villages/Bamolicabu|Bamolicabu]]
 >Largest Settlement: [[Setting/Settlements/Villages/Bamolicabu|Bamolicabu]]
->Native Culture: [[]]
->Official Language: [[]]
->Official Religion: [[]]
+>Native Culture:
+>Official Language:
+>Official Religion:
 >Demonym(s):
 >Government:
 >Population: 1,954

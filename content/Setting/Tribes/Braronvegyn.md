@@ -4,9 +4,9 @@
 >Tribe
 >Capital: [[Setting/Settlements/Villages/Braronvegyn|Braronvegyn]]
 >Largest Settlement: [[Setting/Settlements/Villages/Braronvegyn|Braronvegyn]]
->Native Culture: [[]]
->Official Language: [[]]
->Official Religion: [[]]
+>Native Culture:
+>Official Language:
+>Official Religion:
 >Demonym(s):
 >Government:
 >Population: 1,846

@@ -4,9 +4,9 @@
 >Tribe
 >Capital: [[Setting/Settlements/Villages/Hatfordgedi|Hatfordgedi]]
 >Largest Settlement: [[Setting/Settlements/Villages/Hatfordgedi|Hatfordgedi]]
->Native Culture: [[]]
->Official Language: [[]]
->Official Religion: [[]]
+>Native Culture:
+>Official Language:
+>Official Religion:
 >Demonym(s):
 >Government:
 >Population: 1,483

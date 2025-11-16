@@ -4,9 +4,9 @@
 >Civilised
 >Capital: [[Setting/Settlements/Villages/Kaslamshahr|Kaslamshahr]]
 >Largest Settlement: [[Setting/Settlements/Villages/Kaslamshahr|Kaslamshahr]]
->Native Culture: [[]]
->Official Language: [[]]
->Official Religion: [[]]
+>Native Culture:
+>Official Language:
+>Official Religion:
 >Demonym(s):
 >Government:
 >Population: 3,092

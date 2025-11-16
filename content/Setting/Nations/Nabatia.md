@@ -4,9 +4,9 @@
 >Civilised
 >Capital: [[Setting/Settlements/Cities/Rezvansheh|Rezvansheh]]
 >Largest Settlement: [[Setting/Settlements/Cities/Rezvansheh|Rezvansheh]]
->Native Culture: [[]]
->Official Language: [[]]
->Official Religion: [[]]
+>Native Culture:
+>Official Language:
+>Official Religion:
 >Demonym(s):
 >Government:
 >Population: 61,301

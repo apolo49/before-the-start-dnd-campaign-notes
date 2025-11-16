@@ -4,9 +4,9 @@
 >Civilised
 >Capital: [[Setting/Settlements/Cities/Trameipodos|Trameipodos]]
 >Largest Settlement: [[Setting/Settlements/Cities/Trameipodos|Trameipodos]]
->Native Culture: [[]]
->Official Language: [[]]
->Official Religion: [[]]
+>Native Culture:
+>Official Language:
+>Official Religion:
 >Demonym(s):
 >Government:
 >Population: 56,637

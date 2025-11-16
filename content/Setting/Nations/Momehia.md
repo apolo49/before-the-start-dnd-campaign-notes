@@ -4,9 +4,9 @@
 >Civilised
 >Capital: [[Setting/Settlements/Cities/Gemibajan|Gemibajan]]
 >Largest Settlement: [[Setting/Settlements/Cities/Gemibajan|Gemibajan]]
->Native Culture: [[]]
->Official Language: [[]]
->Official Religion: [[]]
+>Native Culture:
+>Official Language:
+>Official Religion:
 >Demonym(s):
 >Government:
 >Population: 41,387

@@ -4,9 +4,9 @@
 >Civilised
 >Capital: [[Setting/Settlements/Cities/Pirnamk|Pirnamk]]
 >Largest Settlement: [[Setting/Settlements/Cities/Pirnamk|Pirnamk]]
->Native Culture: [[]]
->Official Language: [[]]
->Official Religion: [[]]
+>Native Culture:
+>Official Language:
+>Official Religion:
 >Demonym(s):
 >Government:
 >Population: 129,172

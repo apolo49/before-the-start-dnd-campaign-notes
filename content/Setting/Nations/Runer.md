@@ -4,9 +4,9 @@
 >Civilised
 >Capital: [[Setting/Settlements/Cities/Sakakondali|Sakakondali]]
 >Largest Settlement: [[Setting/Settlements/Cities/Sakakondali|Sakakondali]]
->Native Culture: [[]]
->Official Language: [[]]
->Official Religion: [[]]
+>Native Culture:
+>Official Language:
+>Official Religion:
 >Demonym(s):
 >Government:
 >Population: 50,745

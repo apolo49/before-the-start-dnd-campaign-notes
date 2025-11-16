@@ -4,9 +4,9 @@
 >Civilised
 >Capital: [[Setting/Settlements/Cities/Kanchmaketu|Kanchmaketu]]
 >Largest Settlement: [[Setting/Settlements/Cities/Kanchmaketu|Kanchmaketu]]
->Native Culture: [[]]
->Official Language: [[]]
->Official Religion: [[]]
+>Native Culture:
+>Official Language:
+>Official Religion:
 >Demonym(s):
 >Government:
 >Population: 53,253

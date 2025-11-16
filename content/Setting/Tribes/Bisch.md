@@ -4,9 +4,9 @@
 >Tribe
 >Capital: [[Setting/Settlements/Villages/Ofengenzeln|Ofengenzeln]]
 >Largest Settlement: [[Setting/Settlements/Villages/Ofengenzeln|Ofengenzeln]]
->Native Culture: [[]]
->Official Language: [[]]
->Official Religion: [[]]
+>Native Culture:
+>Official Language:
+>Official Religion:
 >Demonym(s):
 >Government:
 >Population: 2,072

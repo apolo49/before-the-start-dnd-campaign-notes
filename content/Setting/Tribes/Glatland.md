@@ -4,9 +4,9 @@
 >Tribe
 >Capital: [[Setting/Settlements/Villages/Hocheterstet|Hocheterstet]]
 >Largest Settlement: [[Setting/Settlements/Villages/Hocheterstet|Hocheterstet]]
->Native Culture: [[]]
->Official Language: [[]]
->Official Religion: [[]]
+>Native Culture:
+>Official Language:
+>Official Religion:
 >Demonym(s):
 >Government:
 >Population: 3,374

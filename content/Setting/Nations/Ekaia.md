@@ -4,9 +4,9 @@
 >Civilised
 >Capital: [[Setting/Settlements/Villages/Ilohlerot|Ilohlerot]]
 >Largest Settlement: [[Setting/Settlements/Villages/Ilohlerot|Ilohlerot]]
->Native Culture: [[]]
->Official Language: [[]]
->Official Religion: [[]]
+>Native Culture:
+>Official Language:
+>Official Religion:
 >Demonym(s):
 >Government:
 >Population: 778

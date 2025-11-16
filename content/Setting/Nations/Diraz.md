@@ -4,9 +4,9 @@
 >Civilised
 >Capital: [[Setting/Settlements/Cities/Hafushahr|Hafushahr]]
 >Largest Settlement: [[Setting/Settlements/Cities/Hafushahr|Hafushahr]]
->Native Culture: [[]]
->Official Language: [[]]
->Official Religion: [[]]
+>Native Culture:
+>Official Language:
+>Official Religion:
 >Demonym(s):
 >Government:
 >Population: 99,834

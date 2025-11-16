@@ -4,9 +4,9 @@
 >Civilised
 >Capital: [[Setting/Settlements/Cities/Tipumatipuri|Tipumatipuri]]
 >Largest Settlement: [[Setting/Settlements/Cities/Tipumatipuri|Tipumatipuri]]
->Native Culture: [[]]
->Official Language: [[]]
->Official Religion: [[]]
+>Native Culture:
+>Official Language:
+>Official Religion:
 >Demonym(s):
 >Government:
 >Population: 61,628

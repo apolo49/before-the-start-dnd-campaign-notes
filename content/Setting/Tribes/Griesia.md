@@ -4,9 +4,9 @@
 >Tribe
 >Capital: [[Setting/Settlements/Villages/Lahrkengen|Lahrkengen]]
 >Largest Settlement: [[Setting/Settlements/Villages/Lahrkengen|Lahrkengen]]
->Native Culture: [[]]
->Official Language: [[]]
->Official Religion: [[]]
+>Native Culture:
+>Official Language:
+>Official Religion:
 >Demonym(s):
 >Government:
 >Population: 1,096

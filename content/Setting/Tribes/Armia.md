@@ -4,9 +4,9 @@
 >Tribe
 >Capital: [[Setting/Settlements/Villages/Cambhurabert|Cambhurabert]]
 >Largest Settlement: [[Setting/Settlements/Villages/Cambhurabert|Cambhurabert]]
->Native Culture: [[]]
->Official Language: [[]]
->Official Religion: [[]]
+>Native Culture:
+>Official Language:
+>Official Religion:
 >Demonym(s):
 >Government:
 >Population: 2,666

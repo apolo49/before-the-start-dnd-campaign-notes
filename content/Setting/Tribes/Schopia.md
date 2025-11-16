@@ -4,9 +4,9 @@
 >Tribe
 >Capital: [[Setting/Settlements/Villages/Todtzenhau|Todtzenhau]]
 >Largest Settlement: [[Setting/Settlements/Villages/Todtzenhau|Todtzenhau]]
->Native Culture: [[]]
->Official Language: [[]]
->Official Religion: [[]]
+>Native Culture:
+>Official Language:
+>Official Religion:
 >Demonym(s):
 >Government:
 >Population: 2,410

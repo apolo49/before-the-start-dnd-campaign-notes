@@ -4,9 +4,9 @@
 >Tribe
 >Capital: [[Setting/Settlements/Villages/Sabertlediwa|Sabertlediwa]]
 >Largest Settlement: [[Setting/Settlements/Villages/Sabertlediwa|Sabertlediwa]]
->Native Culture: [[]]
->Official Language: [[]]
->Official Religion: [[]]
+>Native Culture:
+>Official Language:
+>Official Religion:
 >Demonym(s):
 >Government:
 >Population: 2,683

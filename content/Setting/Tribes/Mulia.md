@@ -4,9 +4,9 @@
 >Tribe
 >Capital: [[Setting/Settlements/Villages/Mahlheimberg|Mahlheimberg]]
 >Largest Settlement: [[Setting/Settlements/Villages/Mahlheimberg|Mahlheimberg]]
->Native Culture: [[]]
->Official Language: [[]]
->Official Religion: [[]]
+>Native Culture:
+>Official Language:
+>Official Religion:
 >Demonym(s):
 >Government:
 >Population: 1,922

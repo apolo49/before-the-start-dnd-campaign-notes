@@ -4,9 +4,9 @@
 >Civilised
 >Capital: [[Setting/Settlements/Cities/Vaboleshad|Vaboleshad]]
 >Largest Settlement: [[Setting/Settlements/Cities/Vaboleshad|Vaboleshad]]
->Native Culture: [[]]
->Official Language: [[]]
->Official Religion: [[]]
+>Native Culture:
+>Official Language:
+>Official Religion:
 >Demonym(s):
 >Government:
 >Population: 110,096

@@ -4,9 +4,9 @@
 >Civilised
 >Capital: [[Setting/Settlements/Cities/Averuladsha|Averuladsha]]
 >Largest Settlement: [[Setting/Settlements/Cities/Averuladsha|Averuladsha]]
->Native Culture: [[]]
->Official Language: [[]]
->Official Religion: [[]]
+>Native Culture:
+>Official Language:
+>Official Religion:
 >Demonym(s):
 >Government:
 >Population: 90,908

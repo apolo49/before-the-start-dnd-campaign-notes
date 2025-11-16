@@ -4,9 +4,9 @@
 >Civilised
 >Capital: [[Setting/Settlements/Cities/Pyrmenion|Pyrmenion]]
 >Largest Settlement: [[Setting/Settlements/Cities/Pyrmenion|Pyrmenion]]
->Native Culture: [[]]
->Official Language: [[]]
->Official Religion: [[]]
+>Native Culture:
+>Official Language:
+>Official Religion:
 >Demonym(s):
 >Government:
 >Population: 45,507

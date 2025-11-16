@@ -4,9 +4,9 @@
 >Civilised
 >Capital: [[Setting/Settlements/Cities/Idyrepi|Idyrepi]]
 >Largest Settlement: [[Setting/Settlements/Cities/Idyrepi|Idyrepi]]
->Native Culture: [[]]
->Official Language: [[]]
->Official Religion: [[]]
+>Native Culture:
+>Official Language:
+>Official Religion:
 >Demonym(s):
 >Government:
 >Population: 28,173

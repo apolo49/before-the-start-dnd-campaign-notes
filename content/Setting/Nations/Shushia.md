@@ -4,9 +4,9 @@
 >Civilised
 >Capital: [[Setting/Settlements/Cities/Kan Shahr|Kan Shahr]]
 >Largest Settlement: [[Setting/Settlements/Cities/Kan Shahr|Kan Shahr]]
->Native Culture: [[]]
->Official Language: [[]]
->Official Religion: [[]]
+>Native Culture:
+>Official Language:
+>Official Religion:
 >Demonym(s):
 >Government:
 >Population: 109,027

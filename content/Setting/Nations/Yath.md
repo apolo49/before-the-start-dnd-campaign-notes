@@ -4,9 +4,9 @@
 >Civilised
 >Capital: [[Setting/Settlements/Cities/Kart Anyamut|Kart Anyamut]]
 >Largest Settlement: [[Setting/Settlements/Cities/Kart Anyamut|Kart Anyamut]]
->Native Culture: [[]]
->Official Language: [[]]
->Official Religion: [[]]
+>Native Culture:
+>Official Language:
+>Official Religion:
 >Demonym(s):
 >Government:
 >Population: 46,282

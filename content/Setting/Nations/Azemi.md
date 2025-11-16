@@ -4,9 +4,9 @@
 >Civilised
 >Capital: [[Setting/Settlements/Villages/Kardejanzak|Kardejanzak]]
 >Largest Settlement: [[Setting/Settlements/Villages/Kardejanzak|Kardejanzak]]
->Native Culture: [[]]
->Official Language: [[]]
->Official Religion: [[]]
+>Native Culture:
+>Official Language:
+>Official Religion:
 >Demonym(s):
 >Government:
 >Population: 2,155

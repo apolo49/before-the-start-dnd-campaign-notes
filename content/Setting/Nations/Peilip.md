@@ -4,9 +4,9 @@
 >Civilised
 >Capital: [[Setting/Settlements/Cities/Amphyreum|Amphyreum]]
 >Largest Settlement: [[Setting/Settlements/Cities/Amphyreum|Amphyreum]]
->Native Culture: [[]]
->Official Language: [[]]
->Official Religion: [[]]
+>Native Culture:
+>Official Language:
+>Official Religion:
 >Demonym(s):
 >Government:
 >Population: 93,713

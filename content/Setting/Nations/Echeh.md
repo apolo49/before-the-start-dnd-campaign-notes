@@ -6,7 +6,7 @@
 >Largest Settlement: [[Setting/Settlements/Cities/Tiroft|Tiroft]]
 >Native Culture: [[Setting/Cultures/Kufa|Kufa]]
 >Official Language: [[Languages/Ek|Ek]]
->Official Religion: [[]]
+>Official Religion:
 >Demonym(s):
 >Government:
 >Population: 6,047,832

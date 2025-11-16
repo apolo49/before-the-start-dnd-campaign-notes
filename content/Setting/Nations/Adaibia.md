@@ -4,9 +4,9 @@
 >Civilised
 >Capital: [[Setting/Settlements/Cities/Nehehpour|Nehehpour]]
 >Largest Settlement: [[Setting/Settlements/Cities/Nehehpour|Nehehpour]]
->Native Culture: [[]]
->Official Language: [[]]
->Official Religion: [[]]
+>Native Culture:
+>Official Language:
+>Official Religion:
 >Demonym(s):
 >Government:
 >Population: 123,564

@@ -4,9 +4,9 @@
 >Tribe
 >Capital: [[Setting/Settlements/Villages/Fhlaigaracre|Fhlaigaracre]]
 >Largest Settlement: [[Setting/Settlements/Villages/Fhlaigaracre|Fhlaigaracre]]
->Native Culture: [[]]
->Official Language: [[]]
->Official Religion: [[]]
+>Native Culture:
+>Official Language:
+>Official Religion:
 >Demonym(s):
 >Government:
 >Population: 1,296

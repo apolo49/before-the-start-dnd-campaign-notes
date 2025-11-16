@@ -4,9 +4,9 @@
 >Civilised
 >Capital: [[Setting/Settlements/Cities/Rhadasirs|Rhadasirs]]
 >Largest Settlement: [[Setting/Settlements/Cities/Rhadasirs|Rhadasirs]]
->Native Culture: [[]]
->Official Language: [[]]
->Official Religion: [[]]
+>Native Culture:
+>Official Language:
+>Official Religion:
 >Demonym(s):
 >Government:
 >Population: 39,615

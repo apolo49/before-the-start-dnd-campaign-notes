@@ -4,9 +4,9 @@
 >Civilised
 >Capital: [[Setting/Settlements/Cities/Ganjleres|Ganjleres]]
 >Largest Settlement: [[Setting/Settlements/Cities/Ganjleres|Ganjleres]]
->Native Culture: [[]]
->Official Language: [[]]
->Official Religion: [[]]
+>Native Culture:
+>Official Language:
+>Official Religion:
 >Demonym(s):
 >Government:
 >Population: 65,906

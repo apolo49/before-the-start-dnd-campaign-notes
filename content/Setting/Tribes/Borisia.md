@@ -4,9 +4,9 @@
 >Tribe
 >Capital: [[Setting/Settlements/Villages/Ebhiligaber|Ebhiligaber]]
 >Largest Settlement: [[Setting/Settlements/Villages/Ebhiligaber|Ebhiligaber]]
->Native Culture: [[]]
->Official Language: [[]]
->Official Religion: [[]]
+>Native Culture:
+>Official Language:
+>Official Religion:
 >Demonym(s):
 >Government:
 >Population: 3,528
