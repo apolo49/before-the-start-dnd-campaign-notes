@@ -2,8 +2,8 @@
 >[!infobox|wikipedia]
 ># Rhein
 >Tribe
->Capital: [[Setting/Settlements/Villages/Wildberg|Wildberg]]
->Largest Settlement: [[Setting/Settlements/Villages/Wildberg|Wildberg]]
+>Capital: [[Mareden|Mareden]]
+>Largest Settlement: [[Mareden|Mareden]]
 >Native Culture:
 >Official Language:
 >Official Religion:
@@ -33,7 +33,7 @@
 
 # List of Villages
 
-- [[Setting/Settlements/Villages/Wildberg|Wildberg]]
+- [[Mareden|Mareden]]
 
 # Cultures in Borders
 
