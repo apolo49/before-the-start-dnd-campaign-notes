@@ -17,7 +17,7 @@ This page contains the links to all the story points and sessions. The entire st
 - Party is sent to do the 12 trials
 	1. Medusa
 	2. Elimination of the [[Kararuneme]]
-	3. False Hydra in [[Setting/Nations/Echeh]]
+	3. False Hydra in [[Setting/Nations/Echeh|Echeh]]
 	4. Golden Dragon
 	5. Guardian of the [[Hanging Gardens of Babaren]]
 	6. [[Raru]] Kraken
