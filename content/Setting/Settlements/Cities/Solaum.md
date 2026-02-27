@@ -65,7 +65,7 @@ Solaum and Solara weren't always republics, instead, initially they were monarch
 
 Over this time many practices of the religion were established especially by the second king, [[Puli Numini]] and during this period the city saw rapid expansion to over 20,000 inhabitants. He also facilitated trade with the various peoples across the [[Itami Sea]].
 
-In 241 IOG the final king of Solara, [[Fastui Buni Linoki]], was overthrown by the Solari people. They then proceeded to establish the Republic of Solara. Despite this he made massive infrastructure improvements including new walls and an extensive catacombs in the city.
+In 244 IOG the final king of Solara, [[Fastui Buni Linoki]], was overthrown by the Solari people. They then proceeded to establish the Republic of Solara. Despite this he made massive infrastructure improvements including new walls and an extensive catacombs in the city.
 ## Republic
 Main Overview: [[Solara]]
 From the [[5th Century IOG]] Solaum and the Solari Republic began expanding rapidly through conquests of the surrounding peoples especially the [[Vincum]], [[Bigente]], [[Khalgal]], [[Rine]], and [[Esanis]] peoples. Through their invasion of the [[Confluen]] tribes they entered a struggle against the [[Raru]], primarily the [[Yaf]] who owned most of the lands in the [[Moli Ikozinao]].
