@@ -1,10 +1,10 @@
 
-_Translated from Solari and Aeikas marginalia_
+_Translated from [[Solari]] and Aeikas_
 
 # Fragment I: “On the Shaping of My Soul”
 
-> **I write these words not for praise, nor for remembrance,  
-> but because memory is a wound that will not seal unless ink binds it.**  
+> **I write these words not for fame, nor praise, nor fortune,  
+> but because the world cannot forget the vows that are carved onto the page.**  
 > —Atiri
 
 ---
@@ -16,13 +16,13 @@ A name given, but lost, as one loses their youth, their soul.
 I remember losses more clearly than the name my mother whispered to me on the morning of my birth.  
 Memory abandons kindness first; cruelty is loyal.
 
-I knew nothing of the Buno Walls except the dust that gathered beneath them,  
-and the noise of the city that lived on the other side—  
+I knew nothing of the [[Buno Walls]] except the dust that gathered beneath them,  
+and the noise of [[Setting/Settlements/Cities/Solaum|the city]] that lived on the other side;  
 a world I believed distant as the stars.  
 My parents were unremarkable, they told me.  
 I remember little of them except the ordinary quiet of their lives.  
 And perhaps it is right I remember so little.  
-When the Margos tore apart our door I did not understand  
+When the [[Setting/Cultures/Margos|Margos]] tore apart our door I did not understand  
 that the fate of empires had already decided their death.
 
 I was seven.  
@@ -33,7 +33,7 @@ And so I learned both at once.
 
 ## **II. On Chains and the Holy City**
 
-Itrea was beautiful.  
+[[Itrea]] was beautiful.  
 A cruel lesson: beauty and suffering often share a roof.  
 The temples gleamed like the teeth of a beast that meant to swallow me.  
 My masters beat me as one swats a fly  
@@ -76,7 +76,7 @@ I knew only that wood burns.
 
 ## **IV. The Stranger of the Mountain**
 
-When Varma found me,  
+When [[Varma]] found me,  
 I was little more than a frightened beast with a spark in its chest.  
 He chastised me for upsetting the harmony of the forest.  
 I laughed,  
