@@ -23,7 +23,7 @@ lastSync: Wed Nov 06 2024 18:43:01 GMT+0000 (Greenwich Mean Time)
 >
 >GDP: 500,000,000[[Rosist|R]]
 
-Solaum is the capital, and largest city of the [[Solara|Solara Republic]], it is also the largest and richest city in the world at the time of the campaign. It has a population of around 1,000,000 people. It stands at the centre of the [[Vincum Peninsula]]. The city was founded by the [[Setting/Cultures/Solari]] exactly 670 years ago at the start of the campaign. In the centre of the city stands a forum wherein the [[Senate of Solara]] lies as well as other major landmarks.
+Solaum is the capital, and largest city of the [[Solara|Solara Republic]], it is also the largest and richest city in the world at the time of the campaign. It has a population of around 1,000,000 people. It stands at the centre of the [[Vincum Peninsula]]. The city was founded by the [[Setting/Cultures/Solari]] exactly 693 years ago at the start of the first campaign. In the centre of the city stands a forum wherein the [[Senate of Solara]] lies as well as other major landmarks.
 
 Solaum, being the most important city in the world at this time, exerts massive influence over the rest of Solara in respect to trends, education, military, science, technology, magic and tourism. It is home to the most prestigious schools in the world including the [[Solaum Centre of Sciences]] and the [[Atiri Centre of Magical Excellence]]. It is the single most visited city in the world.
 
@@ -52,7 +52,7 @@ Being the most advanced and developed city in the world at time, Solaum is home 
 - Various Temples
 # History
 ## Founding
-Solaum, though an old city, is one of the more recent cities to be founded in the world being only 670 years old at the campaign start. The oldest surviving structure in the city is the Obelisk of Origin and was built by [[Setting/Cultures/Aeia|Aeia]] people before the gradual displacement by the Solari people.
+Solaum, though an old city, is one of the more recent cities to be founded in the world being only 693 years old at the start of the first campaign. The oldest surviving structure in the city is the Obelisk of Origin and was built by [[Setting/Cultures/Aeia|Aeia]] people before the gradual displacement by the Solari people.
 
 Solaum was built over the [[Atri River]], one side of the river was inhabited by the Aeia, the other side had another settlement by a since extinct group (the [[Bon]]) called "Sol". After [[The Convergence]] and the extinction of the Bon, the Aeia built the Obelisk of Origin containing a shard of the energy of The Convergence which spawned the [[Elements/Power|Power Element]] in the world. Once the Aeia gained this element they wiped themselves out from the site of Solaum.
 
@@ -77,7 +77,7 @@ The [[7th Century IOG]] (the last 90 years) saw massive unrest as the persecutio
 In the campaigns present day the strength of the city is waning and the people are growing tired of the rampant political corruption. The current consul is out waging unjust wars against the northern [[Dulegan]] descended peoples in the name of "defence against [[The Elements|the elements]]." He has been in power much longer than the original term length because of his extended absence. It is expected he should relinquish his power upon return.
 # Geography
 ## Topography
-The area of Solaum proper, the area inside the Walls Rivino encompasses an land area of 14 km<sup>2</sup>. The area outside the walls brings this to over 20 km<sup>2</sup>. This area accounts for around 1,000,000 people at the time of the start of the campaign, meaning a population density of around 71,420 people per square kilometre or ~50,000 people per square kilometre accounting for the larger area.
+The area of Solaum proper, the area inside the Walls Rivino encompasses an land area of 14 km<sup>2</sup>. The area outside the walls brings this to over 20 km<sup>2</sup>. This area accounts for around 1,000,000 people at the time of the start of the first campaign, meaning a population density of around 71,420 people per square kilometre or ~50,000 people per square kilometre accounting for the larger area.
 
 Solaum sits on the Atri River, this is a navigable river that leads to [[Condobonia]], the second most important city in the republic, and then into the [[Moli Aurirorinao]]. This provides access to eastern lands and has an inland river passing through into the [[Moli Aeianao]].
 ## Parks and Gardens
