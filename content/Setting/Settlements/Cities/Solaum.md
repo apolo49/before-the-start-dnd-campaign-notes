@@ -23,7 +23,7 @@ lastSync: Wed Nov 06 2024 18:43:01 GMT+0000 (Greenwich Mean Time)
 >
 >GDP: 500,000,000[[Rosist|R]]
 
-Solaum is the capital, and largest city of the [[Solara|Solara Republic]], it is also the largest and richest city in the world at the time of the campaign. It has a population of around 1,000,000 people. It stands at the centre of the [[Vincum Peninsula]]. The city was founded by the [[Setting/Cultures/Solari]] exactly 693 years ago at the start of the first campaign. In the centre of the city stands a forum wherein the [[Senate of Solara]] lies as well as other major landmarks.
+Solaum is the capital, and largest city of the [[Solara|Solara Republic]], it is also the largest and richest city in the world at the time of the campaign. It has a population of around 1,000,000 people. It stands at the centre of the [[Vincum Peninsula]]. The city was founded by the [[Setting/Cultures/Solari|Solari]] exactly 693 years ago at the start of the first campaign. In the centre of the city stands a forum wherein the [[Senate of Solara]] lies as well as other major landmarks.
 
 Solaum, being the most important city in the world at this time, exerts massive influence over the rest of Solara in respect to trends, education, military, science, technology, magic and tourism. It is home to the most prestigious schools in the world including the [[Solaum Centre of Sciences]] and the [[Atiri Centre of Magical Excellence]]. It is the single most visited city in the world.
 

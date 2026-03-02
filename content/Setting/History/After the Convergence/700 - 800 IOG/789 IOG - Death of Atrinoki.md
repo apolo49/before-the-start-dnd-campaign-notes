@@ -1,6 +1,6 @@
-[[Atrinoki]] died in [[Shiki]], like his adoptive father, on 16th of Narimi 789 IOG, months before his 78th birthday.
+[[Atrinoki Rai Puli Ailushi|Atrinoki]] died in [[Shiki]], like his adoptive father, on 16th of Narimi 789 IOG, months before his 78th birthday.
 
-[[Kitii]] relates that the emperor appeared to have stopped breathing, and that [[Garikili]], who was at [[Atrinoki]]'s villa, was being congratulated on his succession to the empire, when news arrived that the emperor had revived and was recovering his faculties. He goes on to report that those who had moments before recognized Garikili as [[Ailushi]] fled in fear of the emperor's wrath, while a member of the [[Solaris Vanguard]] took advantage of the chaos to have Atrinoki smothered with his own bedclothes.
+[[Kitii]] relates that the emperor appeared to have stopped breathing, and that [[Rai Puli Ailushi Freidaki|Garikili]], who was at [[Atrinoki Rai Puli Ailushi|Atrinoki]]'s villa, was being congratulated on his succession to the empire, when news arrived that the emperor had revived and was recovering his faculties. He goes on to report that those who had moments before recognized Garikili as [[Ailushi]] fled in fear of the emperor's wrath, while a member of the [[Solaris Vanguard]] took advantage of the chaos to have Atrinoki smothered with his own bedclothes.
 
 After his death, the [[Senate of Solara|Senate]] refused to vote Atrinoki the divine honours that had been paid to [[Aelius|Ailushi]], and mobs filled the streets yelling "To the [[Atri]] with Atrinoki!" (the bodies of criminals were typically thrown into the river, instead of being buried or burnt). However, the emperor was cremated, and his ashes were placed in the [[Mausoleum of Ailuhsi]].
 
