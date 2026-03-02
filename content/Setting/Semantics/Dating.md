@@ -20,9 +20,9 @@ Other systems include:
 
 [[Freiburg]] and [[Dulegan]] cultures have no dating systems or calendars.
 
-The starting date of the campaign is 693 IOG.
+The starting date of the first campaign is 693 IOG.
 
-The next conversation starts during 700 IOG.
+The next convergence ([[Second Convergence]]) for campaign 1 starts during 700 IOG.
 
 # Aeia Foundation Calendar
 
@@ -32,7 +32,7 @@ The Aeia Foundation Calendar is an integral part of [[Setting/Cultures/Aeia|Aeia
 
 The Aeia believe this calendar marks the date of the start of humankind and their habitation of the planet. In reality it marks the date of [[The Convergence]] wherein most magical life was eradicated from the planet, and life was given the power of [[Elements|the elements]].
 
-Every 5000 years on the Aeia calendar marks another convergence. This is 2 years from the campaign start date.
+Every 5000 years on the Aeia calendar marks another convergence.
 
 # Qatha Calendar
 
@@ -87,13 +87,13 @@ Like the Soa Calendar, the Makdonda Calendar was created purely for flavour and 
 
 # Conversion Table
 
-| AFC  | QC               | ERC   | IOG      | Soa   | Makonda Calendar | Years Before Campaign Start | Real World Equivalent |
-| ---- | ---------------- | ----- | -------- | ----- | ---------------- | --------------------------- | --------------------- |
-| 0    | N/A              | -1500 | 3800 BOG | -4483 | -4488            | 4992                        | 5053 BC               |
-| 900  | 1C-0Y            | -600  | 2900 BOG | -3584 | -3589            | 3598                        | 3653 BC               |
-| 1500 | Cycle 50 Year 0  | 0     | 2300 BOG | -2984 | -2989            | 2998                        | 3053 BC               |
-| 3800 | Cycle 241 Year 8 | 2300  | 0 IOG    | -684  | -689             | 693                         | 753 BC                |
-| 4484 | Cycle 298 Year 8 | 2984  | 684 IOG  | 0     | -5               | 9                           | 69 BC                 |
-| 4489 | Cycle 299 Year 1 | 2989  | 689 IOG  | 5     | 0                | 4                           | 64 BC                 |
-| 4493 | Cycle 299 Year 5 | 2993  | 693 IOG  | 9     | 4                | 0                           | 60 BC                 |
+| AFC  | QC               | ERC   | IOG      | Soa   | Makonda Calendar | Real World Equivalent |
+| ---- | ---------------- | ----- | -------- | ----- | ---------------- | --------------------- |
+| 0    | N/A              | -1500 | 3800 BOG | -4483 | -4488            | 5053 BC               |
+| 900  | 1C-0Y            | -600  | 2900 BOG | -3584 | -3589            | 3653 BC               |
+| 1500 | Cycle 50 Year 0  | 0     | 2300 BOG | -2984 | -2989            | 3053 BC               |
+| 3800 | Cycle 241 Year 8 | 2300  | 0 IOG    | -684  | -689             | 753 BC                |
+| 4484 | Cycle 298 Year 8 | 2984  | 684 IOG  | 0     | -5               | 69 BC                 |
+| 4489 | Cycle 299 Year 1 | 2989  | 689 IOG  | 5     | 0                | 64 BC                 |
+| 4493 | Cycle 299 Year 5 | 2993  | 693 IOG  | 9     | 4                | 60 BC                 |
 
