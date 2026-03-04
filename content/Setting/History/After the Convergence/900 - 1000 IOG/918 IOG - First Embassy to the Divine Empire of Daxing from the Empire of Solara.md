@@ -1,0 +1,1 @@
+On the [[Dating|4th of Minumi 918 IOG]] the first ambassadorial mission of [[Setting/Cultures/Solari|Solari]] to the [[Divine Empire of Daxing]] was recorded as having arrived in their capital of [[Lilinlu]]. This was recorded by [[Linhua]] scholars of the time. The embassy came to [[Emperor Liuxian of Daxing|Emperor Liuxian]] from ""

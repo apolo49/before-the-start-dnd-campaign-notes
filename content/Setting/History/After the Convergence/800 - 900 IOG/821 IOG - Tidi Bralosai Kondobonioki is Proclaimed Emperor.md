@@ -1,0 +1,1 @@
+On the [[Dating|11th of Ebolumi 821 IOG]], [[Anparashi Puli Kondobonioki Ailushi|Tidi Bralosai Kondobonioki]] is proclaimed emperor by various [[Rikati]] in the East as well as the prefect of [[Admorru]]. Upon ascension he adopts the name *Anparashi Puli Kondobonioki Ailushi*.

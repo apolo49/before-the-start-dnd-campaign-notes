@@ -156,7 +156,7 @@
 - [[Setting/Settlements/Cities/Thassos|Thassos]]
 - [[Setting/Settlements/Cities/Posiaion|Posiaion]]
 - [[Setting/Settlements/Cities/Pithertara|Pithertara]]
-- [[Setting/Settlements/Cities/Vigentesto|Vigentesto]]
+- [[Viguntasto|Viguntesto]]
 - [[Setting/Settlements/Cities/Nelionti|Nelionti]]
 - [[Setting/Settlements/Cities/Contum|Contum]]
 - [[Setting/Settlements/Cities/Chaligost|Chaligost]]

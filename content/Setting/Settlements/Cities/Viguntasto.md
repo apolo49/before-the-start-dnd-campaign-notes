@@ -1,6 +1,6 @@
 
 >[!infobox|wikipedia]
-># Vigentesto
+># Viguntasto
 >###### City
 >Country: [[Setting/Nations/Solara|Solara]]
 >Established:
