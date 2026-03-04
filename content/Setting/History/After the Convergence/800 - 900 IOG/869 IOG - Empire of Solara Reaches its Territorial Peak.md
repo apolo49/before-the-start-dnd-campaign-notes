@@ -1,0 +1,1 @@
+Controlling most of the world's population and more territory than any empire in history before it, the Empire of [[Solara]] reaches its territorial peak in [[Dating|869 IOG]] with [[Anparashi Puli Mabosi Floligaiki Ailushi]] as its emperor, control territory in all three known lands to the Solari, [[Shul]], [[As]], [[Ararukoi]]. 

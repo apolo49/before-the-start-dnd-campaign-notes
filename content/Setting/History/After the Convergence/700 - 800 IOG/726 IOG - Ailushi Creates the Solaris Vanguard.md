@@ -1,0 +1,7 @@
+The [[Solaris Vanguard]] was the imperial guard of the Imperial Solari army that served various roles for the Solari emperor including being a bodyguard unit, counterintelligence, crowd control and gathering military intelligence.
+
+For three centuries, the guards of the Solari emperor were also known for their palace intrigues, by whose influence upon imperial politics the members of the Vanguard could overthrow an emperor and then proclaim his successor as the new [[Puli]] of [[Solara]].
+
+The legionaries known as the Solaris Vanguard were first hand-picked veterans of the Solari army who served as bodyguards to the emperor. First established by [[Aelius|Ailushi]], members of the Guard accompanied him on active campaign, protecting the civic administrations and rule of law imposed by the [[Senate of Solara|Senate]] and the emperor. They were distinct from the [[Freidburg Guard]] which provided close personal protection for the early Solari emperors. They benefited from several advantages via their close proximity with the emperor: the Vanguard were the only ones admitted while bearing arms in the centre of sacred [[Solaum]].
+
+Feared and dreaded by the population and by the [[Senate of Solara|Solari Senate]], the Praetorians received no sympathy from the Solari people.
