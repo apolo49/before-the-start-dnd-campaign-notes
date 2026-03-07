@@ -17,6 +17,8 @@ Inside the den, the party encounters [[Masha]], a mysterious firbolg who joins t
 
 # Story
 
+[[Dating|3rd Hanomi 1782 IOG]], 05:30 - 15:00
+
 ## Morning at the Harbormaster's
 
 The session opens with [[Ellowen]] waking early due to her elven trance. She discovers [[Big Beefy Bob]]'s orange hat is still glowing with a blinding magical light, a side effect of the previous session's events. The house itself is strange: windowless, triangular, and packed with maritime gear. [[Riley]] investigates the clutter and finds a painting of a warship—not a merchant vessel, but a military craft equipped with a siphon and a banner they don't recognize.

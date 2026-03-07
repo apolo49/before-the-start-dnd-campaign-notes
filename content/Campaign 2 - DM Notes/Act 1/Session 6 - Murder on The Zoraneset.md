@@ -7,23 +7,19 @@ The voyage of **The Zoraneset** turns into a nightmare as the crew discovers the
 # Scenes
 
 - **The Zoraneset**
-    
-    - **The Lower Deck/Stairs**: Where the Captain’s body was discovered at 6:00 AM.
-        
+    - **The Lower Deck/Stairs**: Where the Captain’s body was discovered at 05:00 AM.
     - **The Supplies Cabinet**: Found wide open near the murder site, suggesting it was tampered with during the incident.
-        
     - **The Captain’s Quarters**: A focal point of the investigation where tracks and evidence eventually lead.
-        
     - **Crew Bunks**: The location where stolen spirits (alcohol) were used in a botched cleanup of the crime scene.
-        
 - **The Port City**: A tiny settlement of approximately 4,000 people where the ship eventually docks.
-    
 
 # Story
 
+[[Dating|4th Hanomi 1782 IOG]], 05:00 - 11:00
+
 ### Discovery of the Captain's Body
 
-The session begins at 6:00 AM with a scream that alerts the party. **Ellowen**, following a **Natural 20** perception check, discovers the body of **Captain Mari Shkari** on the other side of the stairs. The scene is gruesome; the Captain is "bleeding very much," and his body appears to have been dragged. **Masha** is found nearby with blood on her right arm, claiming she had just found him, though **Riley** is initially skeptical of her innocence.
+The session begins at 05:00 AM with a scream that alerts the party. **Ellowen**, following a **Natural 20** perception check, discovers the body of **Captain Mari Shkari** on the other side of the stairs. The scene is gruesome; the Captain is "bleeding very much," and his body appears to have been dragged. **Masha** is found nearby with blood on her right arm, claiming she had just found him, though **Riley** is initially skeptical of her innocence.
 
 ### Forensic Clues and the Cleanup
 
@@ -42,12 +38,9 @@ The investigation reveals several strange details about the murder:
 
 The primary suspect emerges as **Dashos**, the crew member who failed to show up for his 4:00 AM watch in the previous session.
 
-- **Dashos's Actions**: Witnesses report seeing Dashos dragging the Captain out of his bed around 5:30 AM.
-    
+- **Dashos's Actions**: Witnesses report seeing Dashos dragging the Captain out of his bed around 04:30.
 - **Motive**: The party discusses potential motives, including the Captain's previous harsh discipline and his recent conflict with **Big Beefy Bob** over his refusal to remove his orange hat.
-    
 - **Riley's Daggers**: Riley's own silver daggers are examined to see if they match the wounds, adding to the internal tension of the group.
-    
 
 ### Arrival and Unresolved Tension
 
