@@ -13,6 +13,8 @@ The party begins their journey aboard [[The Zoraneset]], the bireme Imperial war
 
 # Story
 
+[[Dating|3rd Hanomi 1782 IOG]], 15:00 - 25:00
+
 ## Life Aboard The Zoraneset
 
 The party familiarizes themselves with [[The Zoraneset]], a 120-foot by 25-foot imperial warship equipped with ballistas and a front-mounted fire siphon. They meet [[Mari Shkari|Captain Mari Shkari]], who informs them that out of a required 200 crew members, they only have 150, meaning the party must step up and assume officer roles.

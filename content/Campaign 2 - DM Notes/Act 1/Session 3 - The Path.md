@@ -25,6 +25,8 @@ The session ends with the party reaching [[Aklebe]], battered, altered, and carr
 
 # Story
 
+[[Dating|2nd Hanomi 1782 IOG]], 13:00 - 20:30
+
 The party travel north along the road toward [[Aklebe]], passing through open meadows filled with burrows, flowers, and scattered trees. The land is quiet but clearly well-used. Along the roadside, they discover a broken tombstone partially buried in overgrowth. Investigation reveals the name _[[Hasharshagetes]]_ carved in an ancient language.
 
 Through discussion and lore, the party recall stories of Hasharshagetes, a legendary traveller and observer from a distant age, associated with early understanding of the world’s elemental forces and the cycle of existence. The tombstone appears less like a grave and more like a marker.

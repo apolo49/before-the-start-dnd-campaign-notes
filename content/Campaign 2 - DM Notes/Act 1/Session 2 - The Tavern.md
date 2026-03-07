@@ -20,7 +20,9 @@ The session transitions the party from survival-level adventuring into political
 
 # Story
 
-The party arrive at a tavern seeking a letter and are told they must first clear rats from the establishment’s storage room. After unlocking the door, they discover the infestation consists of several giant rats hiding among food crates.
+[[Dating|2nd Hanomi 1782 IOG]], 06:00 - 12:30
+
+The party awake at the tavern seeking a letter and are told they must first clear rats from the establishment’s storage room. After unlocking the door, they discover the infestation consists of several giant rats hiding among food crates.
 
 Combat quickly becomes chaotic. One rat is brutally dismembered, splattering blood across apples and crates. Another is magically desiccated into dust through necrotic magic. The final rat survives long enough to injure [[Big Beefy Bob]] before being chilled, stabbed, and finished off by [[Riley]], who is eager to finally perform thier role in combat.
 
