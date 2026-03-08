@@ -60,7 +60,7 @@ At 4:00 AM, the crewmate [[Dashos]] fails to show up for his watch. At 5:00 AM, 
 - **The Trance:** A magical stone pulls Ellowen into the water plane, where an eldritch being warns that "the seven have become the six".
 - **The Octopus Attack:** A Giant Octopus attacks the ship, killing rowers and breaking oars before the party slays it.
 - **Lore Drop:** The captain recounts a myth of seven ancient elementals who nearly destroyed an empire.
-- **The First Pooley:** Bob receives a clear, prophetic message in his dreams from an entity offering help.
+- **The First Puli:** Bob receives a clear, prophetic message in his dreams from an entity offering help.
 - **Cliffhanger:** A crewman goes missing, and a male scream echoes across the ship at 5:00 AM.
 
 # Characters
