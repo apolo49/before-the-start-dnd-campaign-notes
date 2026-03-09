@@ -1,3 +1,10 @@
+>[!infobox|wikipedia]
+># Sirric Ethelrik
+>_Leader of the Patushepatir_
+>INSERT IMAGE HERE
+>Born: [[Dating|15th of Shumi 1757 IOG]] (age 24), [[Armth County]], [[Brackenfall]]
+>Race: Half-elf, moon-elf
+
 # Biography
 
 Born 24 years ago in the mountainous county of [[Armth]], Sirric Ethelrik was heir to the count of Armth, Derred Ethelrik. He grew up in the keep of the capital of Armth, within the comfort of a noble family of modest wealth. His mother died by the hands of [[Eastern Solaran Empire|Amphosian]] raiders at age 10. A year later, seeing the weakness in the county, an occupation force from the [[Brackenfall|Duchy of Brackenfall]] entered the county, resulting in its annexation. The violent event created a land border between Brackenfall and the Amphosian Despotate. The Duchy of Brackenfall then razed his city, his home. It is yet to recover to its former state.
