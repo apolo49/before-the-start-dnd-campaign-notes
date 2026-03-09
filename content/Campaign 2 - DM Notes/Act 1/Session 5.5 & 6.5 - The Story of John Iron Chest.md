@@ -8,15 +8,75 @@ In session 5.5 in his cave home he is met by a WBO envoy, [[Leofric Wordbear]], 
 
 ## Scenes
 
-
+- **John’s Mountain Cave Home**
+- **Arrival of the WBO Envoy**
+- **Preparing to Leave the Cave**
+- **Waterfall Exit from the Cave**
+- **Mountain Pass Challenge by Oswin Truegrip**
+- **Ravine Descent and Farewell to Leofric**
+- **Discovery of the Power Stone**
+- **Forest Clearing with the Golden Tree and Stone Circle**
+- **Vision from the Central Stone**
+- **Elemental Vision at the Tree Circle**
+- **Collection of Tree and Stone Samples**
+- **Night Camp and Trap**
+- **Encounter with the Hooded Figure**
+- **Departure from the Forest**
+- **Arrival in Akrossa**
 
 ## Story
 
+[[John Ironchest]] stands in the middle of his mountain cave home, in the Duchy of [[Dornsia]], north of the [[Eastern Solaran Empire]], honing his body through lifting rocks and fighting his training dummy, wondering what is next in his life. He sees his bonded great-axe to his left, standing perfectly sharpened and maintained against a boulder, surrounded by broken pottery and numerous broken awards from the [[World Bodybuilding Order]] (WBO). As the World's Strongest Man he feels no more competition or spark in his life as he watches the day go by with each drip in the central stream of his home. This is where he bathes, eats, sleeps, fishes and he feels like his meaning with each passing second, still he is immensely proud of all he's done. He stares out to the waterfall at the end of the cave, where the entrance and exit lies, and ponders just what is left for him to do. There is no more challenge left, no more grind left to fight. He has truly beaten the grindstone.
 
+Next walks in an envoy, announcing his entrance, yet humbling himself before John. He claims he is from the WBO and that his name is [[Leofric Wordbear]] and he is here to give John an important message from the council of strongermen. With this notification he hands John a [[John Ironchest's Letter|letter]] detailing that he is due in [[Pithertara]] for the next WBO competition. Happy to receive this information John is excited, yet he also is aware he's won before he even steps foot on to the stage ahead of him, and is more underwhelmed than he expected. He knows there is no real competition here but instead a slaughter. He has already reached the peak that man-kind has to offer.
+
+Leofric recites the words of the letter to John.
+
+John begins to pack his belongings, but leaves his axe behind as he has no use for such trivial things as weapons when his body is perfect. He does not believe a well-formed human has need for such exterior works. Once packed, he equips his scale-mail bracers to match his scale-mail thong and moves forward. The only problem is he has to leap through the waterfall ahead, not wanting to lose his bronzing oil he casts minor illusion on himself so for the time he is past the waterfall he still looks perfectly bronzed when in reality his bronzer has come off of his body. This astounds the envoy who asks for his particular bronzing oil in the future for his personal use.
+
+While walking along the narrow mountain pass down to the bottom of the ravine, another bodybuilder approaches John announcing his name, [[Oswin Truegrip]], and that he will beat him here and now, taking his place at the competition in Pithertara and asserting his place as the new World's Strongest Man, going so far as announcing that he will be the strongest man across all the planes. John turns to him as the man boldly announces his moves before striking, stuff like "Fingerspear" and "Strikes of Fury". John gets fed up of Oswin always coming up short before clapping and the compressed air pushes Oswin over the edge, disabling him at the bottom of the ravine for good.
+
+Once down in the ravine, Leofric tells John what is to come on his journey to Pithertara, saying that he will brave mountainous terrain, forests, strange people and rivers to get to his destination, but not to be deterred. Well, John wasn't deterred in the slightest and acknowledged what he said and moved on with haste. Leofric said his goodbyes and headed back to the World Bodybuilding Order's HQ.
+
+John just before leaving the mountains and entering the forest south, is intrigued by one particular [[Power Stone|rock]]. He does not recognise this and wonders as to why it glows in the colour of Tyre (in the real world). A purple most striking and one that can not be made cheaply, and a colour not typical of rocks, at least certainly not in the area he is in. It does not appear carved nor natural to him. As soon as he picks up the rock he feels revitalised and his muscles appear much stronger than that of his normal body. The rock instantly attaches itself to his thong, like a codpiece and reshapes itself. Almost netting and weaving itself into the scale-mail. Confused but accepting of the new rock, he continues on his path southward.
+
+He now enters a forest and finds a mysterious clearing on his left. As he enters he finds a golden tree and a small stone circle. Within the stone circle is a centre stone that appears to have veins of purple.
+
+As he interacts with the centre stone he sees visions, in reverse, of events that transpired with the other travelling party from [[Session 6 - Murder on The Zoraneset|the murder aboard The Zoraneset]], to the burning of [[Riley's House]] and [[Session 1 - The Stones in Amphos|the heist of the other stones]], but not before that.
+
+As he interacts with the tree he is placed in the other tree circle on the [[Amphos-Aklebe Road]], but to him the area appears as a tar-dark void, a place of nothingness and a place without meaning. He perceives the interactions each party member has with the other golden tree as manifestations of their elemental being. He sees a body made of flames touch him and cause him harm through burns; a maiden of water touch the floor by him and dissolve into water and appear on the opposite side and record her findings; a person of Earth illuminate the void and feel the world beneath her; a ghostly, dark figure run up to him hug him and then back away confused. He also sees a spirit of wind float around a strange place, this one was clearly not in the same place as the others. Finally he sees a world full of electricity but no soul bound to it.
+
+After he believes he has gathered enough information he notices as he touches the tree he also becomes stronger, he takes a shaving of it and stores it in a jar, as well as a shaving of the centre stone.
+
+Once he is satisfied he sets up a rudimentary trap and sleeps. In his sleep a hooded figure in white and gold sets off the trap. John awakes, but as he does the hooded figure disappears, as though he was never there, leaving nowt but a note in his place saying "You must join them. Climb." John saw just enough of the figure to make out his emerald eyes and boots.
+
+John is confused but moves on to his next destination in the morning. He finally arrives in [[Akrossa]].
 
 ## Story Beats
 
-
+- **John Ironchest** trains in his mountain cave home in the **Duchy of Dornsia**, north of the **Eastern Solaran Empire**, lifting rocks and fighting a training dummy.
+- John reflects on his life as the **World’s Strongest Man** under the **World Bodybuilding Order (WBO)** and feels he has no remaining challenges.
+- He observes his perfectly maintained great-axe but chooses not to carry it, believing his body alone is sufficient.
+- A WBO envoy named **Leofric Wordbear** arrives with a message from the council of strongermen.
+- Leofric delivers a letter summoning John to compete at the next WBO competition in **Pithertara**.
+- John prepares for departure, equipping his armour and leaving his axe behind.
+- While exiting the cave through a waterfall, John uses **Minor Illusion** to maintain the appearance of his bronzing oil.
+- During his descent from the mountains, another bodybuilder named **Oswin Truegrip** challenges him for the title of World’s Strongest Man.
+- John defeats Oswin effortlessly by clapping, generating a shockwave that knocks him off a ravine.
+- At the base of the mountain, Leofric warns John about the long and difficult journey ahead.
+- John continues south toward the forests.
+- John discovers a mysterious **Power Stone**, glowing purple.
+- When he picks up the stone, it fuses into his scale-mail thong and greatly enhances his strength.
+- John discovers a **golden tree and stone circle** within a forest clearing.
+- Interacting with the central stone gives him **reverse visions** of events connected to the murder aboard **Murder on The Zoraneset**, the burning of **Riley's House**, and the theft of other stones.
+- Touching the golden tree places John in a **void-like vision** of another tree circle on the **Amphos-Aklebe Road**.
+- In the vision he observes manifestations of elemental beings representing another adventuring party interacting with the tree.
+- John collects **shavings of the golden tree and the central stone** for study.
+- He sets a rudimentary trap and sleeps in the clearing.
+- During the night a mysterious **hooded figure in white and gold** triggers the trap and leaves a note reading: _“You must join them. Climb.”_
+- John briefly notices the figure’s **emerald eyes and boots** before they vanish.
+- The following morning John continues his journey.
+- John arrives in **Akrossa**, leading into the events of the main story.
 
 ## Characters
 
@@ -25,6 +85,7 @@ In session 5.5 in his cave home he is met by a WBO envoy, [[Leofric Wordbear]], 
 	- [[Leofric Wordbear]]
 	- [[Oswin Truegrip]]
 - Border Guard
+- Hooded Figure in the Woods
 
 # Session 6.5
 [[Dating|4th Hanomi 1782 IOG]]
