@@ -38,7 +38,7 @@ The primary suspect emerges as **Dashos**, the crew member who failed to show up
 
 ### Arrival and Unresolved Tension
 
-As the party attempts to maintain order, the crew is in a state of panic and mutual suspicion. **Big Beefy Bob** continues to experience disturbing "Dead Dreams" and hearing supernatural voices, which are becoming noticeable to his companions. The session concludes as the ship pulls into a small port city of 4,000 people, leaving the party to decide whether to hand over the suspect (Dashos) to local authorities or handle the justice themselves.
+As the party attempts to maintain order, the crew is in a state of panic and mutual suspicion. **Big Beefy Bob** continues to experience disturbing "Dead Dreams" and hearing supernatural voices, which are becoming noticeable to his companions. The session concludes as the ship pulls into a small port city of 4,000 people, leaving the party to decide to hand over the suspect (Dashos) to local authorities after placing him under citizens' arrest.
 
 # Characters
 
