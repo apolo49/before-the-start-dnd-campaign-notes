@@ -1,0 +1,15 @@
+- 1 - 6 - level 2 ✅
+- 6 - 14 - level 3
+- 14 - 18 - level 4
+- 19 - 23 - level 5
+- 24 - 35 - level 6
+- 36 - 44 - level 7
+- 45 - 56 - level 8
+- 57 - 69 - level 9
+- 70 - 81 - level 10
+- 82 - 90 - level 11
+- 91 - 107 - level 12
+- 108 - 124 - level 13
+- 125 - 137 - level 14
+- 138 - 140 - level 15
+
