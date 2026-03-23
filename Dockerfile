@@ -2,7 +2,9 @@ FROM oven/bun:1-slim AS builder
 WORKDIR /usr/src/app
 COPY package.json .
 COPY bun.lock* .
-RUN bun i --frozen-lockfile
+COPY quartz/ ./quartz/
+COPY quartz.lock.json .
+RUN bun ci; bun run -b quartz/bootstrap-cli.mjs plugin install
 
 FROM oven/bun:1-slim
 WORKDIR /usr/src/app

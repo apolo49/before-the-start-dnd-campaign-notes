@@ -56,7 +56,7 @@ The screen turns black.
 - Party is taken to the Camp of the [[Solaris Vanguard]].
 - Party is taken into the [[Great Tent]] by [[Decimus]] who tells them a story about [[Solara]].
 - The party wakes up to find the camp deserted.
-- The party finds the [[Circle of the Elements]] in the middle of the camp where the bonfire was and cause the [[Third Convergence]], causing them to get sent back in time to just before the [[Second Convergence]]
+- The party finds the [[Circle of the Elements]] in the middle of the camp where the bonfire was and cause the [[Fourth Convergence]], causing them to get sent back in time to just before the [[Second Convergence]]
 - The party awaken to find a forest around them
 - The party find smoke in the distance and follow it to a road
 - The party is discovered by the 20th [[Military of Solara|Rikati]] of Solara
