@@ -1,0 +1,1 @@
+End of the [[Solara|Solaran Empire]] in the West, Conquered by the [[Bieiamten]] [[Adokeri]].

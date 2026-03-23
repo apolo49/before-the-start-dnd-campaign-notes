@@ -1,0 +1,1 @@
+King of the gods, god of the sky, lightning and thunder

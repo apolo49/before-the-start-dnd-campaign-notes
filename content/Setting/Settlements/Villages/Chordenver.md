@@ -1,0 +1,28 @@
+
+>[!infobox|wikipedia]
+># Chordenver
+>###### Capital City
+>Country: [[Setting/Tribes/Raith|Raith]]
+>Established:
+>Area:
+>Elevation: 576m
+>Population: 1,369
+>Demonym(s):
+>Dominant Culture: [[Setting/Cultures/Cedi|Cedi]]
+>Dominant Religion:
+
+# History
+
+...
+
+# Geography
+
+...
+
+# Demography
+
+...
+
+# Economy
+
+...
