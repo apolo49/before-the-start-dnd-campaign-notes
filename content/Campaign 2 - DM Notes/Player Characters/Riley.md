@@ -6,7 +6,7 @@
 >Class: Rogue 3, Thief
 >Background: Criminal
 >Race: Half-Tabaxi, Tabaxi traits
->Languages: [[Common]] (Fluent when Spoken, Illiterate), [[Aeikas]] (modern) (mostly illiterate, Fluent when Spoken) 
+>Languages: [[Common]] (Fluent when Spoken, Illiterate), [[Aeikas]] (modern) (mostly illiterate, Fluent when Spoken)
 >Relatives: [[Zenshoran Hagashar]] (biological father), [[Tabtab]] (Half-sister), [[Wrensu]] (Adoptive father), Queen of the Eastern Solaran Empire (mother)
 >Element: [[Fire]]
 

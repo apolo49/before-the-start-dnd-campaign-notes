@@ -1,0 +1,8 @@
+./*
+!quartz
+!bun.lockb
+!package.json
+!quartz.config.ts
+!quartz.layout.ts
+!tsconfig.json
+!content
