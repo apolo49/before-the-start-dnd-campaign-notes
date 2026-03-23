@@ -19,7 +19,7 @@ concurrency:
 
 jobs:
   build:
-    runs-on: ubuntu-sliim
+    runs-on: ubuntu-slim
     name: Deploy v5 to Cloudflare Pages
     steps:
       - uses: actions/checkout@v6
