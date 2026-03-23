@@ -31,7 +31,7 @@ jobs:
         with:
           bun-version: latest
 
-      - run: bun ci
+      - run: bun i
 
       - name: Fetch Quartz Theme
         run: curl -s -S https://raw.githubusercontent.com/saberzero1/quartz-themes/master/action.sh | bash -s -- $THEME_NAME
