@@ -4,7 +4,8 @@ COPY package.json .
 COPY bun.lock* .
 COPY quartz/ ./quartz/
 COPY quartz.lock.json .
-RUN bun ci; bun run -b quartz/bootstrap-cli.mjs plugin install
+# Temp workaround for bun install lockfile when bun won't work not on C drive.
+RUN bun i; bun run -b quartz/bootstrap-cli.mjs plugin install
 
 FROM oven/bun:1-slim
 WORKDIR /usr/src/app
