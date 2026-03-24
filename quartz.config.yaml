@@ -41,23 +41,6 @@ configuration:
         highlight: rgba(143, 159, 169, 0.15)
         textHighlight: "#b3aa0288"
 plugins:
-  - source: github:quartz-community/created-modified-date
-    enabled: true
-    options:
-      defaultDateType: modified
-      priority:
-        - frontmatter
-        - git
-        - filesystem
-    order: 10
-  - source: github:quartz-community/syntax-highlighting
-    enabled: true
-    options:
-      theme:
-        light: github-light
-        dark: github-dark
-      keepBackground: false
-    order: 20
   - source: github:quartz-community/obsidian-flavored-markdown
     enabled: true
     options:
@@ -88,35 +71,13 @@ plugins:
   - source: github:quartz-community/description
     enabled: true
     order: 70
-  - source: github:quartz-community/latex
-    enabled: true
-    options:
-      renderEngine: katex
-    order: 80
-  - source: github:quartz-community/citations
-    enabled: false
-    order: 85
   - source: github:quartz-community/hard-line-breaks
     enabled: true
     order: 90
-  - source: github:quartz-community/ox-hugo
-    enabled: false
-    order: 91
-  - source: github:quartz-community/roam
-    enabled: false
-    order: 92
   - source: github:quartz-community/remove-draft
     enabled: true
-  - source: github:quartz-community/explicit-publish
-    enabled: false
   - source: github:quartz-community/encrypted-pages
     enabled: true
-  - source: github:quartz-community/stacked-pages
-    enabled: false
-    layout:
-      position: afterBody
-      priority: 50
-      display: all
   - source: github:quartz-community/alias-redirects
     enabled: true
   - source: github:quartz-community/content-index
@@ -199,22 +160,12 @@ plugins:
       position: beforeBody
       priority: 5
       condition: not-index
-  - source: github:quartz-community/comments
-    enabled: false
-    options:
-      provider: giscus
-      options: {}
-    layout:
-      position: afterBody
-      priority: 10
   - source: github:quartz-community/footer
     enabled: true
     options:
       links:
         GitHub: https://github.com/jackyzha0/quartz
         Discord Community: https://discord.gg/cRFFHYye7t
-  - source: github:quartz-community/recent-notes
-    enabled: false
   - source: github:quartz-community/spacer
     enabled: true
     options: {}
@@ -244,8 +195,6 @@ plugins:
       position: beforeBody
       priority: 15
       display: all
-  - source: github:Requiae/quartz-leaflet-map-plugin
-    enabled: true
   - source:
       name: quartz-themes
       repo: github:saberzero1/quartz-themes
