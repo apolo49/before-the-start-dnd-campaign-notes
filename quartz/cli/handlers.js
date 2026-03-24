@@ -655,7 +655,7 @@ export async function handleUpgrade(argv) {
   where `npm` is installed via a package manager.
 
   This means `npx quartz upgrade` will not actually update dependencies
-  on Windows, without a manual `npm i` from the caller.
+  on Windows, without a manual `bun i` from the caller.
 
   However, by spawning a shell, we are able to call `npm.cmd`.
   See: https://nodejs.org/api/child_process.html#spawning-bat-and-cmd-files-on-windows
@@ -666,7 +666,7 @@ export async function handleUpgrade(argv) {
     opts.shell = true
   }
 
-  const res = spawnSync("npm", ["i"], opts)
+  const res = spawnSync("bun", ["i"], opts)
   if (res.status === 0) {
     console.log(styleText("green", "Dependencies updated!"))
   } else {

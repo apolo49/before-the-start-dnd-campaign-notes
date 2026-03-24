@@ -15,7 +15,7 @@ export async function handlePluginInstall(packageNames) {
   console.log(`Installing ${packageNames.length} plugin(s)...`)
 
   const npmArgs = ["install", ...packageNames]
-  const result = spawnSync("npm", npmArgs, { stdio: "inherit" })
+  const result = spawnSync("bun", npmArgs, { stdio: "inherit" })
 
   if (result.status !== 0) {
     console.log(styleText("red", "Failed to install plugins"))
@@ -76,7 +76,7 @@ export async function handlePluginSearch(query) {
   console.log(styleText("gray", "(This may take a moment)\n"))
 
   try {
-    const result = execSync(`npm search ${searchQuery} --json`, { encoding: "utf-8" })
+    const result = execSync(`bun search ${searchQuery} --json`, { encoding: "utf-8" })
     const packages = JSON.parse(result)
 
     const quartzPlugins = packages.filter(
@@ -118,7 +118,7 @@ export async function handlePluginUninstall(packageNames) {
   console.log(`Uninstalling ${packageNames.length} plugin(s)...`)
 
   const npmArgs = ["uninstall", ...packageNames]
-  const result = spawnSync("npm", npmArgs, { stdio: "inherit" })
+  const result = spawnSync("bun", npmArgs, { stdio: "inherit" })
 
   if (result.status !== 0) {
     console.log(styleText("red", "Failed to uninstall plugins"))
