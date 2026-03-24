@@ -177,7 +177,7 @@ function collectNativeDeps(pluginDir: string): Map<string, string> {
 
 /**
  * Install all collected native dependencies into the Quartz root with a single
- * `npm install --no-save`. Lets npm resolve compatible versions across plugins.
+ * `bun install --no-save`. Lets npm resolve compatible versions across plugins.
  */
 export function installNativeDeps(
   nativeDeps: Map<string, Map<string, string>>,
@@ -234,7 +234,7 @@ export function installNativeDeps(
   }
 
   try {
-    execSync(`npm install --no-save ${installArgs.join(" ")}`, {
+    execSync(`bun install --no-save ${installArgs.join(" ")}`, {
       cwd: process.cwd(),
       stdio: options.verbose ? "inherit" : "pipe",
       timeout: 120_000,
@@ -350,7 +350,7 @@ function buildInstalledPlugin(pluginDir: string, name: string, verbose?: boolean
     if (verbose) {
       console.log(styleText("cyan", `→`), `${name}: installing dependencies...`)
     }
-    execSync("npm install --ignore-scripts", {
+    execSync("bun install --ignore-scripts", {
       cwd: pluginDir,
       stdio: verbose ? "inherit" : "pipe",
       timeout: 120_000,
@@ -360,14 +360,14 @@ function buildInstalledPlugin(pluginDir: string, name: string, verbose?: boolean
       if (verbose) {
         console.log(styleText("cyan", `→`), `${name}: building...`)
       }
-      execSync("npm run build", {
+      execSync("bun run build", {
         cwd: pluginDir,
         stdio: verbose ? "inherit" : "pipe",
         timeout: 120_000,
       })
     }
 
-    execSync("npm prune --omit=dev", {
+    execSync("bun prune --omit=dev", {
       cwd: pluginDir,
       stdio: verbose ? "inherit" : "pipe",
       timeout: 60_000,
