@@ -54,7 +54,7 @@ function buildPlugin(pluginDir, name) {
     // Remove devDependencies after build — they are no longer needed and their
     // presence can cause duplicate-singleton issues when a plugin ships its own
     // copy of a shared dependency (e.g. bases-page's ViewRegistry).
-    execSync("bun prune --omit=dev", { cwd: pluginDir, stdio: "ignore" })
+    execSync("npm prune --omit=dev", { cwd: pluginDir, stdio: "ignore" })
     // Symlink peerDependencies: @quartz-community/* peers resolve to sibling
     // plugins, all other peers resolve to the host Quartz node_modules so that
     // plugins share a single copy of packages like unified, vfile, etc.
@@ -75,7 +75,7 @@ async function buildPluginAsync(pluginDir, name) {
       console.log(styleText("cyan", `  → ${name}: building...`))
       await execAsync("bun run build", { cwd: pluginDir })
     }
-    await execAsync("bun prune --omit=dev", { cwd: pluginDir })
+    await execAsync("npm prune --omit=dev", { cwd: pluginDir })
     linkPeerPlugins(pluginDir)
     return true
   } catch (error) {

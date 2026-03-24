@@ -367,7 +367,7 @@ function buildInstalledPlugin(pluginDir: string, name: string, verbose?: boolean
       })
     }
 
-    execSync("bun prune --omit=dev", {
+    execSync("npm prune --omit=dev", {
       cwd: pluginDir,
       stdio: verbose ? "inherit" : "pipe",
       timeout: 60_000,
