@@ -1,1 +1,1 @@
-God of Strenght
+God of Strength

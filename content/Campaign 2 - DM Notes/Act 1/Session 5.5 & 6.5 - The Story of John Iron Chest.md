@@ -217,7 +217,7 @@ The player spots a half-sunken, razed Byzantine transport boat wedged against a 
 
 - The current is moving at 18 km/h relative to the shore. Once the player passes the wreck, they can't easily row back up-stream.
 - John leaps from the boat once in range, throws the survivor and grabs the rope attached to the crate and leaps before the boat passes the wreck.
-- The victim compliments John Ironchest and gives him a **potion of healing**, and allows him to take the crate which contains rum, some spell scrolls, some herbs, as well as some googly eyes, it also contains a [[The History of Tabaxi|torn copy of a manuscript about the history of tabaxi]].
+- The victim compliments John Ironchest and gives him a **potion of healing**, and allows him to take the crate which contains rum, some spell scrolls, some herbs, as well as some googly eyes, it also contains a [[Manuscript on Tabaxi|torn copy of a manuscript about the history of tabaxi]].
 
 ### Arrival at Pithertara
 John, on the anchorless cog borrowed from the hamlet of Pyrma, arrived in Pithertara, he sailed down the river to the mouth and docked at the harbour. This is where he heard news about [[The Zoraneset]] and someone being killed and someone else being arrested. As he only had 15 minutes to make it to the WBO competition, he ran across the city, dropped off his belongings, stabled his horse and bought a room in an inn for both him and Ulriki. He then registered his attendance at the competition and walked onto the stage.
