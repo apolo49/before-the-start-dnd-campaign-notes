@@ -20,7 +20,8 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-slim
-    name: Deploy v5 to Cloudflare Pages
+    timeout-minutes: 30
+    name: v5 Build
     steps:
       - uses: actions/checkout@v6
         with:
