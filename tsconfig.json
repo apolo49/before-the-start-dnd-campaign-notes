@@ -25,5 +25,6 @@
     "node_modules/**",
     "quartz/cli/tui/**",
     "quartz/**",
+    "quartz.layout.ts",
   ]
 }
