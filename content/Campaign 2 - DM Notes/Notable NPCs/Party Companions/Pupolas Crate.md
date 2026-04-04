@@ -38,3 +38,7 @@ Traits
  _**Cuteness.**_ All attacks made against Pupolas Crate are made at disadvantage. On a hit, the attacker takes 2 (1d4) Psychic Damage. If wearing a hat, the attacker takes another 2 (1d4) Psychic Damage.
 Actions
  _**Bite.**_ _Melee Weapon Attack:_ +1 to hit, reach 5 ft., one target. _Hit:_ 2 (1d4) slashing damage.
+
+Populas Crate Voice lines:
+- Viva! Viva Happy! chuchuchu
+- 
