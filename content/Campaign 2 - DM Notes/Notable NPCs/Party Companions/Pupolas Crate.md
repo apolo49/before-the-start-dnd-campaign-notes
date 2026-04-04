@@ -39,6 +39,23 @@ Traits
 Actions
  _**Bite.**_ _Melee Weapon Attack:_ +1 to hit, reach 5 ft., one target. _Hit:_ 2 (1d4) slashing damage.
 
-Populas Crate Voice lines:
-- Viva! Viva Happy! chuchuchu
-- 
+# Voice lines:
+- Viva! Viva! Happy! chuluchuchu
+- I'm a magically bright Invincible pup! If you need me to heal go on and call out my name.
+- Bokuno Bokuno Aura Beam
+- Melting, I just can't breathe because of you
+- Loppi Loppi
+- We can be reborn, Freely Tomorrow
+- Doki Doki! Suki Suki!
+- Baka Baka Baka!
+- Mic-oo okay? Let's Go!
+- Woo! Woo! Hey, hey, hey, hey!
+- Suki, suki, suki, suki, suki, suki
+- bla, bla, bla, bla, bla, bla, bla, bla
+- uupapa upapa uupa upapaa!
+- Ageage ageage aga-in
+- Parti parti parti parti party time
+- One: You must notice that I changed my fur, Two: Take a good look, all the way to my Paws, You following? Three: For every one word I say, reply with three.
+- It's not like it's selfish or anything, to want you to believe, from the bottom of your heart, that I'm adorable
+- I'm the #1 puppy in the world
+- I'm making room for a fantasy, I wonder if you slept right next to me, our dreams would and intertwine, no nightmares just how things ought to be.

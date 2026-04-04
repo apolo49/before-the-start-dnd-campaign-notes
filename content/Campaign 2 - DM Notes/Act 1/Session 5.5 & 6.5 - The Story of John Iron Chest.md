@@ -126,7 +126,7 @@ John Ironchest, a travelling strongman and competitor of the World Bodybuilding 
 
 John makes his way downstairs talks to the tavern-keep, who laments that the grain that is stored outside is too heavy to move (400kg/barrel), and that the horses next door at the stables keep eating the grain out of the barrels when they inevitably break. John takes up the task of moving the barrels, he carries all 5 at once, moving 2Mg of grain at once. The tavern-keep was impressed by this show of strength and skill he compliments John saying he could hang off his arms. John remembers that the horses are at the stables and asks the tavern-keep if he could take a horse, the tavern-keep wants the horse off his hands and allows the purchase. There are 5 horses for sale:
 
-- [[Come-At-Me White]]
+- [[The Black Hare]]
 - Silverboat
 - Akrossa's Bottom Fist
 - Ordinary Day
@@ -311,7 +311,7 @@ John, on the anchorless cog borrowed from the hamlet of Pyrma, arrived in Pither
 ## Characters
 
 - **[[John Ironchest]]**
-	- [[Come-At-Me White]]
+	- [[The Black Hare]]
 	- [[Ulriki]]
 - [[Akrossa]]
 	- The Tavernkeep
