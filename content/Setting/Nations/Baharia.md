@@ -1,3 +1,8 @@
+---
+title: Baharia
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Baharia
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Kufa|Kufa]]
-

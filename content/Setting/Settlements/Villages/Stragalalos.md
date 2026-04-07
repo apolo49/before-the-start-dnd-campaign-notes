@@ -1,3 +1,8 @@
+---
+title: Stragalalos
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Stragalalos

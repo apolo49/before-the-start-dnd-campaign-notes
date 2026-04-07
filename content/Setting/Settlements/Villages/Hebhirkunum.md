@@ -1,3 +1,8 @@
+---
+title: Hebhirkunum
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Hebhirkunum

@@ -1,3 +1,8 @@
+---
+title: Talilan
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Talilan
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Kufa|Kufa]]
-

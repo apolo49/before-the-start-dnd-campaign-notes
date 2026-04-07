@@ -1,3 +1,8 @@
+---
+title: Mcher
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Mcher

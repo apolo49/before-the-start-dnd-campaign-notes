@@ -1,3 +1,8 @@
+---
+title: Kushk
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Kushk

@@ -1,3 +1,8 @@
+---
+title: Durisch
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Durisch

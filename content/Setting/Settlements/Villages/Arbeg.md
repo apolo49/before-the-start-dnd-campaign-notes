@@ -1,3 +1,8 @@
+---
+title: Arbeg
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Arbeg

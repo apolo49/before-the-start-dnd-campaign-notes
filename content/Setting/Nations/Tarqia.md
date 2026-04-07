@@ -1,3 +1,8 @@
+---
+title: Tarqia
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Tarqia
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Kufa|Kufa]]
-

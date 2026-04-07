@@ -1,3 +1,8 @@
+---
+title: Nelionti
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Nelionti

@@ -1,3 +1,8 @@
+---
+title: Sachrenin
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Sachrenin

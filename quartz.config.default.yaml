@@ -178,7 +178,7 @@ plugins:
   - source: github:quartz-community/encrypted-pages
     enabled: true
     options:
-      visibility: icon
+      visibility: hidden
       iterations: 600000
       passwordField: password
     order: 900

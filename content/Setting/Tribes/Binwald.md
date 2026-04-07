@@ -1,3 +1,8 @@
+---
+title: Binwald
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Binwald
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Bieiamten|Bieiamten]]
-

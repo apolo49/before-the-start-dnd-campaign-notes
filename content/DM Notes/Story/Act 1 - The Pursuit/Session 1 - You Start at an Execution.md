@@ -4,6 +4,7 @@ tags:
   - Solaum
   - BFS
   - Story
+password: HIDE_FROM_PLAYERS
 ---
 
 # Premise

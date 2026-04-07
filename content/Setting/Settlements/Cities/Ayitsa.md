@@ -1,3 +1,8 @@
+---
+title: Ayitsa
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Ayitsa

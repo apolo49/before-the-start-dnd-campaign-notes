@@ -1,3 +1,8 @@
+---
+title: Lay-Shahr
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Lay-Shahr

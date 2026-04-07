@@ -1,3 +1,8 @@
+---
+title: Darand
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Darand

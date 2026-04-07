@@ -1,3 +1,8 @@
+---
+title: Majanyatis
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Majanyatis

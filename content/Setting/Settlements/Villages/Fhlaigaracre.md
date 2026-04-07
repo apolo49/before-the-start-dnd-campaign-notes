@@ -1,3 +1,8 @@
+---
+title: Fhlaigaracre
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Fhlaigaracre

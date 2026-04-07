@@ -1,3 +1,8 @@
+---
+title: Ibessa
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Ibessa

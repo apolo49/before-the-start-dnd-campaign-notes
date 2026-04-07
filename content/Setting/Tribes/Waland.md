@@ -1,3 +1,8 @@
+---
+title: Waland
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Waland
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Horngenhau|Horngenhau]]
-

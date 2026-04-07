@@ -1,3 +1,8 @@
+---
+title: Konarnamkhi
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Konarnamkhi

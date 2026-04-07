@@ -1,3 +1,8 @@
+---
+title: Pelia
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Pelia
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Amphi|Amphi]]
-

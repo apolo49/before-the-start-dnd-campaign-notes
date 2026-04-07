@@ -1,3 +1,8 @@
+---
+title: Hinck
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Hinck
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Wildlands|Wildlands]]
-

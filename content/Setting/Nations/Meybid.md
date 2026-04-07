@@ -1,3 +1,8 @@
+---
+title: Meybid
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Meybid
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Kufa|Kufa]]
-

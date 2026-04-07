@@ -1,3 +1,8 @@
+---
+title: Golshan
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Golshan

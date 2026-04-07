@@ -1,3 +1,8 @@
+---
+title: Maria
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Maria
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Ebheartei|Ebheartei]]
-

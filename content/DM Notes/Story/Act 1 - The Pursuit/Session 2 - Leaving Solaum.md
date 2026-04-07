@@ -1,3 +1,8 @@
+---
+title: Session 2 - Leaving Solaum
+password: HIDE_FROM_PLAYERS
+---
+
 # Premise
 The party, now informed of [[689 - Present - Duleganic Wars|The Duleganic Wars]] and [[Lai Puli Ozi]]'s whereabouts by [[Kaddurix]], set off to pursue the dictator. They are navigating their way out of [[Solaum]] by heading east towards [[Condobonia]], their first major stop. Along the way they stop at a nearby [[Shtaduli ip Oshkaro|hostelry]] within the [[Shkari Surbaiko]] for some rest after a long day of travel.
 

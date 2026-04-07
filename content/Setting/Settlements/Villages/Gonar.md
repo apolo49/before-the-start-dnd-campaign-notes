@@ -1,3 +1,8 @@
+---
+title: Gonar
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Gonar

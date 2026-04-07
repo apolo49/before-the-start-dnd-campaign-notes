@@ -1,3 +1,8 @@
+---
+title: Hercuniatae
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Hercuniatae
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Indyrgow|Indyrgow]]
-

@@ -1,3 +1,8 @@
+---
+title: Braura
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Braura

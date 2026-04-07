@@ -1,3 +1,8 @@
+---
+title: Abergwaunver
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Abergwaunver
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Lerug|Lerug]]
-

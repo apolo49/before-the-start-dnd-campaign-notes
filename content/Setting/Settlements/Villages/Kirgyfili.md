@@ -1,3 +1,8 @@
+---
+title: Kirgyfili
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Kirgyfili

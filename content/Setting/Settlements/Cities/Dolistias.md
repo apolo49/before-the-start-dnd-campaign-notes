@@ -1,3 +1,8 @@
+---
+title: Dolistias
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Dolistias

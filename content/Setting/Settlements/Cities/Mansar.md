@@ -1,3 +1,8 @@
+---
+title: Mansar
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Mansar

@@ -1,3 +1,8 @@
+---
+title: Bauerngen
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Bauerngen

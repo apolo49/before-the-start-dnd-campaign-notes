@@ -1,3 +1,8 @@
+---
+title: Agha
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Agha
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Ber|Ber]]
-

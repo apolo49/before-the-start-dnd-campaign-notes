@@ -1,3 +1,8 @@
+---
+title: Seleurolynt
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Seleurolynt

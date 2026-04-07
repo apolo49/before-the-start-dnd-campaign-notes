@@ -1,3 +1,8 @@
+---
+title: Amphida
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Amphida

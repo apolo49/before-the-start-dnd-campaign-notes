@@ -1,3 +1,8 @@
+---
+title: Kileadia
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Kileadia
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Carthaginian|Carthaginian]]
-

@@ -1,3 +1,8 @@
+---
+title: Schil
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Schil
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Herwihl|Herwihl]]
-

@@ -1,3 +1,8 @@
+---
+title: Masanyanaan
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Masanyanaan

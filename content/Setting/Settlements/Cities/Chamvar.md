@@ -1,3 +1,8 @@
+---
+title: Chamvar
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Chamvar

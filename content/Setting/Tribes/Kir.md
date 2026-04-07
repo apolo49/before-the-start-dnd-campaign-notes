@@ -1,3 +1,8 @@
+---
+title: Kir
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Kir
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Wildlands|Wildlands]]
-

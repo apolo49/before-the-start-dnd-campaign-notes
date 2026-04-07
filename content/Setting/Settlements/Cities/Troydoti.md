@@ -1,3 +1,8 @@
+---
+title: Troydoti
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Troydoti

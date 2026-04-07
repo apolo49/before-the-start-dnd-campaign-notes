@@ -1,3 +1,8 @@
+---
+title: Hasirshan
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Hasirshan

@@ -1,3 +1,8 @@
+---
+title: Asirshahr
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Asirshahr

@@ -1,3 +1,8 @@
+---
+title: Eshad
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Eshad

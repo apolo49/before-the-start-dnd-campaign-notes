@@ -1,3 +1,8 @@
+---
+title: Tuturoren
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Tuturoren

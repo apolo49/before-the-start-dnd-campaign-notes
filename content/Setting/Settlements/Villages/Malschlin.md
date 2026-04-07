@@ -1,3 +1,8 @@
+---
+title: Malschlin
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Malschlin

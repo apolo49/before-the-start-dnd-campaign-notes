@@ -1,3 +1,8 @@
+---
+title: Gabel
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Gabel

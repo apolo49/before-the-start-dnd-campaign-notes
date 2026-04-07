@@ -1,3 +1,8 @@
+---
+title: Hocland
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Hocland
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Lahrwol|Lahrwol]]
-

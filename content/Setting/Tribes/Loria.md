@@ -1,3 +1,8 @@
+---
+title: Loria
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Loria
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Briler|Briler]]
-

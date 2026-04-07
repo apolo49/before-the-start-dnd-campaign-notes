@@ -1,3 +1,8 @@
+---
+title: Idamnos
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Idamnos

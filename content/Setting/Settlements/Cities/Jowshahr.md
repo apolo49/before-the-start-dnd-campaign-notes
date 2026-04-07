@@ -1,3 +1,8 @@
+---
+title: Jowshahr
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Jowshahr

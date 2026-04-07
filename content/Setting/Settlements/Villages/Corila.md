@@ -1,3 +1,8 @@
+---
+title: Corila
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Corila

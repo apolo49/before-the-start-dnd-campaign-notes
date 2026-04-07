@@ -1,3 +1,8 @@
+---
+title: Aber
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Aber

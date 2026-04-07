@@ -1,3 +1,8 @@
+---
+title: Abonar
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Abonar

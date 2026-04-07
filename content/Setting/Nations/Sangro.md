@@ -1,3 +1,8 @@
+---
+title: Sangro
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Sangro
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Vaishasi|Vaishasi]]
-

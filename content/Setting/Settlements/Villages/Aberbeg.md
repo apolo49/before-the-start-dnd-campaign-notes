@@ -1,3 +1,8 @@
+---
+title: Aberbeg
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Aberbeg

@@ -1,3 +1,8 @@
+---
+title: Oten
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Oten
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Kusteter|Kusteter]]
-

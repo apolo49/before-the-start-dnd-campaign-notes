@@ -1,3 +1,8 @@
+---
+title: Pardehis
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Pardehis

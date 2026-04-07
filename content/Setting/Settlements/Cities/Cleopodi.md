@@ -1,3 +1,8 @@
+---
+title: Cleopodi
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Cleopodi

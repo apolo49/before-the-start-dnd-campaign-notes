@@ -1,3 +1,8 @@
+---
+title: Darez
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Darez

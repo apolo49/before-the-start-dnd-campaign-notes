@@ -1,3 +1,8 @@
+---
+title: Psych
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Psych
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Nerapit|Nerapit]]
-

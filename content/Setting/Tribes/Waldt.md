@@ -1,3 +1,8 @@
+---
+title: Waldt
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Waldt
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Krozin|Krozin]]
-

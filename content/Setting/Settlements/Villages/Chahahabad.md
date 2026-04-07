@@ -1,3 +1,8 @@
+---
+title: Chahahabad
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Chahahabad

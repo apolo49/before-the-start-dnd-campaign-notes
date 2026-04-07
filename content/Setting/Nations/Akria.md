@@ -1,3 +1,8 @@
+---
+title: Akria
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Akria
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Hubde|Hubde]]
-

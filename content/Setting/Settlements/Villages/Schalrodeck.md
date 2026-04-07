@@ -1,3 +1,8 @@
+---
+title: Schalrodeck
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Schalrodeck

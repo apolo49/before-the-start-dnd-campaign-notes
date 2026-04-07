@@ -1,3 +1,8 @@
+---
+title: Todland
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Todland
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Krozin|Krozin]]
-

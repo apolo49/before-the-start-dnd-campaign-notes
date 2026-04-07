@@ -1,3 +1,8 @@
+---
+title: Wind
+password: HIDE_FROM_PLAYERS
+---
+
 >[!infobox|wikipedia]
 ># Wind
 >_Element_

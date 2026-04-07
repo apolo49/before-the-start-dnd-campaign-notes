@@ -1,3 +1,8 @@
+---
+title: Rudeshk
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Rudeshk

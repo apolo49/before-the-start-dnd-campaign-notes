@@ -1,3 +1,8 @@
+---
+title: Chearbhal
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Chearbhal

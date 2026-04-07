@@ -1,3 +1,8 @@
+---
+title: Heneraly
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Heneraly

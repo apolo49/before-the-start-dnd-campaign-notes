@@ -1,3 +1,8 @@
+---
+title: Gornasenes
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Gornasenes

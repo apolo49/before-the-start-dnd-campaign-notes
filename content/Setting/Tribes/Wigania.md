@@ -1,3 +1,8 @@
+---
+title: Wigania
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Wigania
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Wildlands|Wildlands]]
-

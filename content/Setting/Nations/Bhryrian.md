@@ -1,3 +1,8 @@
+---
+title: Bhryrian
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Bhryrian
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Cleolis|Cleolis]]
-

@@ -1,3 +1,8 @@
+---
+title: Eleurita
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Eleurita

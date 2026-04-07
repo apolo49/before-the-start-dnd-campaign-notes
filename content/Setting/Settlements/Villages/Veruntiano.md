@@ -1,3 +1,8 @@
+---
+title: Veruntiano
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Veruntiano

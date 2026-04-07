@@ -1,3 +1,8 @@
+---
+title: Elzheim
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Elzheim

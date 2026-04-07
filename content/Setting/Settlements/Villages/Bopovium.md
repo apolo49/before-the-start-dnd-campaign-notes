@@ -1,3 +1,8 @@
+---
+title: Bopovium
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Bopovium

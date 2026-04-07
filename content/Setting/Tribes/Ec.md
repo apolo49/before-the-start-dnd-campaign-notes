@@ -1,3 +1,8 @@
+---
+title: Ec
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Ec
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Cedi|Cedi]]
-

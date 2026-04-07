@@ -7,5 +7,6 @@ aat-render-enabled: true
 timelines:
   - timeline
 aat-event-body: Reign of [[Monarchy of Solara|Arksi]] [[Soli]], The first Arksi of [[Solaum]]
+password: HIDE_FROM_PLAYERS
 ---
 ![[arksi-soli.png]]

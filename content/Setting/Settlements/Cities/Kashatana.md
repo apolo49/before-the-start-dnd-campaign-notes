@@ -1,3 +1,8 @@
+---
+title: Kashatana
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Kashatana

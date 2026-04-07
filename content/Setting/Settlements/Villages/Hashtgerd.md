@@ -1,3 +1,8 @@
+---
+title: Hashtgerd
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Hashtgerd

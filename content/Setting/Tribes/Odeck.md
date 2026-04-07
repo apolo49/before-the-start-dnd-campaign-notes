@@ -1,3 +1,8 @@
+---
+title: Odeck
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Odeck
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Herwihl|Herwihl]]
-

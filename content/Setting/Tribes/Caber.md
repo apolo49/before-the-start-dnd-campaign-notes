@@ -1,3 +1,8 @@
+---
+title: Caber
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Caber
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Indyrgow|Indyrgow]]
-

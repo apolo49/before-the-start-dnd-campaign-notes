@@ -1,3 +1,8 @@
+---
+title: Rarorum
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Rarorum

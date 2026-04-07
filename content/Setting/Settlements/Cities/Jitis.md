@@ -1,3 +1,8 @@
+---
+title: Jitis
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Jitis

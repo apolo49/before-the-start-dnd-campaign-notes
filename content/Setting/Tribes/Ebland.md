@@ -1,3 +1,8 @@
+---
+title: Ebland
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Ebland
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Herwihl|Herwihl]]
-

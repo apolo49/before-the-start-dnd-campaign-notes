@@ -1,3 +1,8 @@
+---
+title: Aberfrwdhe
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Aberfrwdhe

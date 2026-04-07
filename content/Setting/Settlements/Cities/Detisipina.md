@@ -1,3 +1,8 @@
+---
+title: Detisipina
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Detisipina

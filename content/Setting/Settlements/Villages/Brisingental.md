@@ -1,3 +1,8 @@
+---
+title: Brisingental
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Brisingental

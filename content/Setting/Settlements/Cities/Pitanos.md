@@ -1,3 +1,8 @@
+---
+title: Pitanos
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Pitanos

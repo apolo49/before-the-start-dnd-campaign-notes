@@ -1,3 +1,8 @@
+---
+title: Duron
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Duron

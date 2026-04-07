@@ -1,3 +1,8 @@
+---
+title: Lenzia
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Lenzia
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Hofswald|Hofswald]]
-

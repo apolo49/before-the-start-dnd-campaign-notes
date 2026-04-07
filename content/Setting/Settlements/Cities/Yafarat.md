@@ -1,3 +1,8 @@
+---
+title: Yafarat
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Yafarat

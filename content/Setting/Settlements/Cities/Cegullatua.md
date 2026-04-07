@@ -1,3 +1,8 @@
+---
+title: Cegullatua
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Cegullatua

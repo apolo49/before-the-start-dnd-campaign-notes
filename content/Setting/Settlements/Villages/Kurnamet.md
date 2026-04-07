@@ -1,3 +1,8 @@
+---
+title: Kurnamet
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Kurnamet

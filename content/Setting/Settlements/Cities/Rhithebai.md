@@ -1,3 +1,8 @@
+---
+title: Rhithebai
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Rhithebai

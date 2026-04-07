@@ -1,3 +1,8 @@
+---
+title: Pons
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Pons
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Cabe|Cabe]]
-

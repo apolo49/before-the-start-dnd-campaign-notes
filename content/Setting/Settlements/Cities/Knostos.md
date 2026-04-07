@@ -1,3 +1,8 @@
+---
+title: Knostos
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Knostos

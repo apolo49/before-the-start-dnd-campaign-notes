@@ -1,3 +1,8 @@
+---
+title: Shafus
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Shafus

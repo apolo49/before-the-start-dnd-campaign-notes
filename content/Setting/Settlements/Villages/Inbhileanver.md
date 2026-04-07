@@ -1,3 +1,8 @@
+---
+title: Inbhileanver
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Inbhileanver

@@ -1,3 +1,8 @@
+---
+title: Bol
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Bol
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Schaltens|Schaltens]]
-

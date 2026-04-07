@@ -1,3 +1,8 @@
+---
+title: Confluencum
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Confluencum

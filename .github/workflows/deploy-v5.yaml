@@ -33,10 +33,14 @@ jobs:
         with:
           bun-version: latest
 
+      - env:
+          PASSWORD: ${{ secrets.QUARTZ_PASSWORD }}
+        run: find ./content -type f -print0 | xargs -0 sed -i "s/HIDE_FROM_PLAYERS/${PASSWORD}/g"
+
       - run: bun i
 
-      # - name: Fetch Quartz Theme
-      #   run: curl -s -S https://raw.githubusercontent.com/saberzero1/quartz-themes/master/action.sh | bash -s -- $THEME_NAME
+      - name: Fetch Quartz Theme
+        run: curl -s -S https://raw.githubusercontent.com/saberzero1/quartz-themes/master/action.sh | bash -s -- $THEME_NAME
 
       - name: Install Quartz plugins
         run: bun run -b quartz/bootstrap-cli.mjs plugin install

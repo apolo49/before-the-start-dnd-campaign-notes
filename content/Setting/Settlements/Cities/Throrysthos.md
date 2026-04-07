@@ -1,3 +1,8 @@
+---
+title: Throrysthos
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Throrysthos

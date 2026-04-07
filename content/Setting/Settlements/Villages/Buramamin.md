@@ -1,3 +1,8 @@
+---
+title: Buramamin
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Buramamin

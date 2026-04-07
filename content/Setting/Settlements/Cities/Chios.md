@@ -1,3 +1,8 @@
+---
+title: Chios
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Chios

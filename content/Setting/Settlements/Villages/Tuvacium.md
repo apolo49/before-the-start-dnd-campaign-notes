@@ -1,3 +1,8 @@
+---
+title: Tuvacium
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Tuvacium

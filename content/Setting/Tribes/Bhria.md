@@ -1,3 +1,8 @@
+---
+title: Bhria
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Bhria
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Ebheartei|Ebheartei]]
-

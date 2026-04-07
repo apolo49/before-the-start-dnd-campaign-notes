@@ -1,3 +1,8 @@
+---
+title: Eicorisnach
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Eicorisnach

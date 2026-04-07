@@ -1,3 +1,8 @@
+---
+title: Peratos
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Peratos

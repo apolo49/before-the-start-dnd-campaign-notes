@@ -1,3 +1,8 @@
+---
+title: Qamvar
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Qamvar

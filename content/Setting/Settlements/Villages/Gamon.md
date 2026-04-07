@@ -1,3 +1,8 @@
+---
+title: Gamon
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Gamon

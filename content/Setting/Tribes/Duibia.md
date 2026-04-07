@@ -1,3 +1,8 @@
+---
+title: Duibia
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Duibia
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Ebheartei|Ebheartei]]
-

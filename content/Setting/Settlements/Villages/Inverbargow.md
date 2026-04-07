@@ -1,3 +1,8 @@
+---
+title: Inverbargow
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Inverbargow

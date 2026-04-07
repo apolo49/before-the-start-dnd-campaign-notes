@@ -1,3 +1,8 @@
+---
+title: Gunauten
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Gunauten

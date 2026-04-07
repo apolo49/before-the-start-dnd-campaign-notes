@@ -1,3 +1,8 @@
+---
+title: Concurinis
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Concurinis

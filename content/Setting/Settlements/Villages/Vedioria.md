@@ -1,3 +1,8 @@
+---
+title: Vedioria
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Vedioria

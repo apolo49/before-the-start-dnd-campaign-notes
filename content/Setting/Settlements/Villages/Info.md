@@ -1,3 +1,8 @@
+---
+title: Info
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Info

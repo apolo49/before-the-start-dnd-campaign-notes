@@ -1,3 +1,8 @@
+---
+title: Lochi
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Lochi

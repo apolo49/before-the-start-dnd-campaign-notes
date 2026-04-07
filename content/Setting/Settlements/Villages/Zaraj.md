@@ -1,3 +1,8 @@
+---
+title: Zaraj
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Zaraj

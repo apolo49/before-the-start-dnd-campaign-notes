@@ -1,3 +1,8 @@
+---
+title: Has
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Has
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Pemiripo|Pemiripo]]
-

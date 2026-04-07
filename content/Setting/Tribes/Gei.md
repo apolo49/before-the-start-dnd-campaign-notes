@@ -1,3 +1,8 @@
+---
+title: Gei
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Gei
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Blum|Blum]]
-

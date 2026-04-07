@@ -1,3 +1,8 @@
+---
+title: Aimini
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Aimini

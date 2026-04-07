@@ -1,3 +1,8 @@
+---
+title: Teibachal
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Teibachal

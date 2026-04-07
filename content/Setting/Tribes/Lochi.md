@@ -1,3 +1,8 @@
+---
+title: Lochi
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Lochi
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Ebheartei|Ebheartei]]
-

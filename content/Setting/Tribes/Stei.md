@@ -1,3 +1,8 @@
+---
+title: Stei
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Stei
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Lahrwol|Lahrwol]]
-

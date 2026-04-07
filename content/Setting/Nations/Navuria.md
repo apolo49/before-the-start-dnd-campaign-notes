@@ -1,3 +1,8 @@
+---
+title: Navuria
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Navuria
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Vaishasi|Vaishasi]]
-

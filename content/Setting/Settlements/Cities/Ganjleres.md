@@ -1,3 +1,8 @@
+---
+title: Ganjleres
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Ganjleres

@@ -1,3 +1,8 @@
+---
+title: Lefka
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Lefka

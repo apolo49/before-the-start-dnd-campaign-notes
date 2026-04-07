@@ -1,3 +1,8 @@
+---
+title: Lieden
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Lieden

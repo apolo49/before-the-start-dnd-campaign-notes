@@ -1,3 +1,8 @@
+---
+title: Semvar
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Semvar

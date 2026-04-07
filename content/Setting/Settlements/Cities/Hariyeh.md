@@ -1,3 +1,8 @@
+---
+title: Hariyeh
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Hariyeh

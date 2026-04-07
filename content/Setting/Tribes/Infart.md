@@ -1,3 +1,8 @@
+---
+title: Infart
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Infart
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Duibri|Duibri]]
-

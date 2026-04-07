@@ -1,3 +1,8 @@
+---
+title: Sehen
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Sehen

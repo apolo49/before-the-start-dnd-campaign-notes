@@ -1,3 +1,8 @@
+---
+title: Bafenin
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Bafenin

@@ -1,3 +1,8 @@
+---
+title: Wie
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Wie
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Herwihl|Herwihl]]
-

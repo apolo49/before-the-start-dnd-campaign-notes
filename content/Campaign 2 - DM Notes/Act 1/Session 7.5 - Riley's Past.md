@@ -1,3 +1,8 @@
+---
+title: Session 7.5 - Riley's Past
+password: HIDE_FROM_PLAYERS
+---
+
 # Premise
 
 [[Riley]] is going about on his normal activities in [[Amphos]] when he is suddenly apprehended by the city watch, leased and beat. He was sentenced to execution when suddenly the city guards let him go under orders of the head of the military [[Zenshoran Hagashar]] because "He's not worth it, he's a street rat, there's not enough evidence, everyone said it was a girl half-tabaxi, not a boy."
@@ -18,7 +23,7 @@
 ### The Crime
 1st Ebolumi 1778 IOG, 05:00 - 07:30
 
-[[Wrensu]] informs Riley that the military are moving an important artifact holding secrets and tells him that he has to make the steal. It is currently stored in the [[The Great Palace of Amphos]], in their archive. He must lift the papers then deliver the message to his merchant contact who will pay him in kind. If Riley askes why him he responds:
+[[Campaign 2 - DM Notes/Notable NPCs/Wrensu]] informs Riley that the military are moving an important artifact holding secrets and tells him that he has to make the steal. It is currently stored in the [[The Great Palace of Amphos]], in their archive. He must lift the papers then deliver the message to his merchant contact who will pay him in kind. If Riley askes why him he responds:
 > Riley is the courier because he's small, fast, and passes as a girl. He's done it a hundred times.
 
 This time, a City Watch officer intercepts the delivery. Not because they're watching Riley — because they're watching the _recipient_. The recipient bolts. The papers are found on Riley. Riley cannot read these papers because they are written in an old tongue by someone who was very well educated. It appears to be ripped from a memoir of some sort. It is clearly a precious artefact that would belong to the [[Magic Academy of Amphos]] and the [[Head of the Arcane]]. Possession of this is not a theft charge. It is a treason charge. He bolts

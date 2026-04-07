@@ -10,4 +10,5 @@ tags:
   - Soul-Element
   - Water-Element
   - Wind-Element
+password: HIDE_FROM_PLAYERS
 ---

@@ -1,3 +1,8 @@
+---
+title: Ebron
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Ebron
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Briler|Briler]]
-

@@ -1,3 +1,8 @@
+---
+title: Borgurqa
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Borgurqa

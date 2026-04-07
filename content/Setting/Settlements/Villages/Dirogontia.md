@@ -1,3 +1,8 @@
+---
+title: Dirogontia
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Dirogontia

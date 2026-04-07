@@ -1,3 +1,8 @@
+---
+title: Gereydasan
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Gereydasan

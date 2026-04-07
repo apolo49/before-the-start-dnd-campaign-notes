@@ -1,3 +1,8 @@
+---
+title: Inga
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Inga
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Vaishasi|Vaishasi]]
-

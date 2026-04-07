@@ -1,3 +1,8 @@
+---
+title: Chataran
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Chataran

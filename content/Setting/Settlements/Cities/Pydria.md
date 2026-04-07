@@ -1,3 +1,8 @@
+---
+title: Pydria
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Pydria

@@ -1,3 +1,8 @@
+---
+title: Bagzi
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Bagzi

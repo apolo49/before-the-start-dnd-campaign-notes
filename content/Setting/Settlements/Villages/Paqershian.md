@@ -1,3 +1,8 @@
+---
+title: Paqershian
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Paqershian

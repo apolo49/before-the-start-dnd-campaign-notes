@@ -1,3 +1,8 @@
+---
+title: Tadhour
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Tadhour

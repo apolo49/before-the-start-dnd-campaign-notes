@@ -1,3 +1,8 @@
+---
+title: Bobo
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Bobo
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Invermayfi|Invermayfi]]
-

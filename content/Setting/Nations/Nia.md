@@ -1,3 +1,8 @@
+---
+title: Nia
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Nia
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Sigenos|Sigenos]]
-

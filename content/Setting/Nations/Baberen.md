@@ -1,3 +1,8 @@
+---
+title: Baberen
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Baberen
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Akshan|Akshan]]
-

@@ -1,3 +1,8 @@
+---
+title: Piliphiri
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Piliphiri

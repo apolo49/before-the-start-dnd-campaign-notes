@@ -1,3 +1,8 @@
+---
+title: Pesiapola
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Pesiapola

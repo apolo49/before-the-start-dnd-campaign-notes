@@ -1,3 +1,8 @@
+---
+title: Enzlinheim
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Enzlinheim

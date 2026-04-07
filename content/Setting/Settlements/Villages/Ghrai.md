@@ -1,3 +1,8 @@
+---
+title: Ghrai
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Ghrai

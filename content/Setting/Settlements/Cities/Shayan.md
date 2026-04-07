@@ -1,3 +1,8 @@
+---
+title: Shayan
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Shayan

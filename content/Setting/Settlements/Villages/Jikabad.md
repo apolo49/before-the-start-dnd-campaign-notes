@@ -1,3 +1,8 @@
+---
+title: Jikabad
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Jikabad

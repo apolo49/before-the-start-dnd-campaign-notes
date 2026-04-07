@@ -1,3 +1,8 @@
+---
+title: Golstakhr
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Golstakhr

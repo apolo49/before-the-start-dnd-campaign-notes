@@ -1,3 +1,8 @@
+---
+title: Stuhland
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Stuhland
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Blum|Blum]]
-

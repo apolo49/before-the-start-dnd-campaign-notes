@@ -5,4 +5,5 @@ tags:
   - NPC
   - Future-Character
   - Solaris-Vanguard
+password: HIDE_FROM_PLAYERS
 ---

@@ -1,3 +1,8 @@
+---
+title: Gomehriar
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Gomehriar

@@ -1,3 +1,8 @@
+---
+title: Heb
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Heb
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Bleduro|Bleduro]]
-

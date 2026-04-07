@@ -1,3 +1,8 @@
+---
+title: Vadpatipa
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Vadpatipa

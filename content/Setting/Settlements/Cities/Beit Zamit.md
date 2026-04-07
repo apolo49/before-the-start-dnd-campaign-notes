@@ -1,3 +1,8 @@
+---
+title: Beit Zamit
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Beit Zamit

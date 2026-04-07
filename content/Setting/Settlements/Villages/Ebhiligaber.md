@@ -1,3 +1,8 @@
+---
+title: Ebhiligaber
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Ebhiligaber

@@ -1,3 +1,8 @@
+---
+title: Schraiersb
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Schraiersb

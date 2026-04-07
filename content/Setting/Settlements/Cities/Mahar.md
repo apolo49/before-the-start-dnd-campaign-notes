@@ -1,3 +1,8 @@
+---
+title: Mahar
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Mahar

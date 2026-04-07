@@ -1,3 +1,8 @@
+---
+title: Kararuneme
+password: HIDE_FROM_PLAYERS
+---
+
 The __Kararunena__ (sg. __kararuneme__) are a major part of the [[Qatha Religion]]. They are great demons of the [[Underworld|underworld]] working for the underworld gods. They were a major driving force for forcing the gods away from the world during [[The Convergence]].
 
 # Role in Mythology

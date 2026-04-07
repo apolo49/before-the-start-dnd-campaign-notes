@@ -1,11 +1,12 @@
 ---
-lastSync: Wed Nov 06 2024 22:27:26 GMT+0000 (Greenwich Mean Time)
+lastSync: Wed Nov 06 2024 22:27:45 GMT+0000 (Greenwich Mean Time)
 tags:
   - Character
   - Player-Character
   - Circle-of-Elements
   - Elemental
-  - Earth-Element
+  - Ice-Element
   - Future-Character
   - Tegans-Campaign
+password: HIDE_FROM_PLAYERS
 ---

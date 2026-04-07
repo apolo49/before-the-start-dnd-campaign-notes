@@ -1,3 +1,8 @@
+---
+title: 821 IOG - The Senate of Solara Proclaims Kondobonioki Emperor of Solara
+password: HIDE_FROM_PLAYERS
+---
+
 In response to the disaster in [[Solaum]] [[Anparashi Puli Kondobonioki Ailushi|Kondobioki]] sends grain from [[Admorru]] to Solaum in order to ease the affects of the recent battle, along with an edict assuring he would reverse the laws of [[Mari Grudikali Puli Ailushi Freidaki|Mari]], especially those relating to treason.
 
 He was the first emperor since [[Aelius|Ailushi]] to appear in [[Admorru]]. While there, he visited the Temple of Zarapi where he reportedly experienced a vision, and he performed healing miracles. He was hailed as pharaoh and proclaimed the son of the creator-deity Anim in the style of the ancient pharaohs, and an incarnation of Zarapi.

@@ -1,3 +1,8 @@
+---
+title: Atendodulais
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Atendodulais

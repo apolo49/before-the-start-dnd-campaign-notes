@@ -1,3 +1,8 @@
+---
+title: Etzengendin
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Etzengendin

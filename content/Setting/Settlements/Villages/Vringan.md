@@ -1,3 +1,8 @@
+---
+title: Vringan
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Vringan

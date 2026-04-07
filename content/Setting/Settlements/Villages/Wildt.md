@@ -1,3 +1,8 @@
+---
+title: Wildt
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Wildt

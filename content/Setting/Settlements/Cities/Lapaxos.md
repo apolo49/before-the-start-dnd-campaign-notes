@@ -1,3 +1,8 @@
+---
+title: Lapaxos
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Lapaxos

@@ -1,3 +1,8 @@
+---
+title: Bhryrian
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Bhryrian

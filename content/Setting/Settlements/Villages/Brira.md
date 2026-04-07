@@ -1,3 +1,8 @@
+---
+title: Brira
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Brira

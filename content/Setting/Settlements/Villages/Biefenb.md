@@ -1,3 +1,8 @@
+---
+title: Biefenb
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Biefenb

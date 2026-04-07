@@ -1,3 +1,8 @@
+---
+title: Burviomula
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Burviomula

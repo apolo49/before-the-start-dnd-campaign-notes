@@ -1,3 +1,8 @@
+---
+title: Brover
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Brover

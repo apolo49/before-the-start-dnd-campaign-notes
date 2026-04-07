@@ -1,3 +1,8 @@
+---
+title: Robat
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Robat

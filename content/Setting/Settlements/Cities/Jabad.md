@@ -1,3 +1,8 @@
+---
+title: Jabad
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Jabad

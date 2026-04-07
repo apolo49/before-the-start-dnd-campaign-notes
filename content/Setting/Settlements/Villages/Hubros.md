@@ -1,3 +1,8 @@
+---
+title: Hubros
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Hubros

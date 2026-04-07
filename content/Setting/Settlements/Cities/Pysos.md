@@ -1,3 +1,8 @@
+---
+title: Pysos
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Pysos

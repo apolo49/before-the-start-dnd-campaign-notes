@@ -1,3 +1,8 @@
+---
+title: Asaighia
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Asaighia
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Boran|Boran]]
-

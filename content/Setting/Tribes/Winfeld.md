@@ -1,3 +1,8 @@
+---
+title: Winfeld
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Winfeld
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Steinbach|Steinbach]]
-

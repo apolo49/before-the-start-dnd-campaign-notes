@@ -1,3 +1,8 @@
+---
+title: Chabat
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Chabat

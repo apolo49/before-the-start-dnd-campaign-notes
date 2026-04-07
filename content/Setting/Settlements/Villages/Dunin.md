@@ -1,3 +1,8 @@
+---
+title: Dunin
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Dunin

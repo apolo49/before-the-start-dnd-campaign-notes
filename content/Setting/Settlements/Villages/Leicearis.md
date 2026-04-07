@@ -1,3 +1,8 @@
+---
+title: Leicearis
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Leicearis

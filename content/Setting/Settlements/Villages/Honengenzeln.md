@@ -1,3 +1,8 @@
+---
+title: Honengenzeln
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Honengenzeln

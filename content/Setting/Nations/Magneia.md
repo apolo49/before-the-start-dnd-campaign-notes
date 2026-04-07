@@ -1,3 +1,8 @@
+---
+title: Magneia
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Magneia
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Leiros|Leiros]]
-

@@ -1,3 +1,8 @@
+---
+title: Navaqers
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Navaqers

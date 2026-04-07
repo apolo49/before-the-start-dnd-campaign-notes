@@ -1,3 +1,8 @@
+---
+title: Thytospian
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Thytospian

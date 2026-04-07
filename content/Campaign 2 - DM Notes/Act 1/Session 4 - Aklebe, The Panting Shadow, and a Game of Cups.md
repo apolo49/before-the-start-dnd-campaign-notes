@@ -1,3 +1,8 @@
+---
+title: Session 4 - Aklebe, The Panting Shadow, and a Game of Cups
+password: HIDE_FROM_PLAYERS
+---
+
 # Premise
 
 The party begins their morning at the [[Murotes's House|Harbormaster’s House]] in [[Aklebe]], where tensions from previous sessions linger and the reality of their mission sets in. After investigating their host’s cluttered home and learning of his desperate financial situation due to rampant gambling in the city, the party heads to [[The Panting Shadow|a local gambling den]] to win back a ship.

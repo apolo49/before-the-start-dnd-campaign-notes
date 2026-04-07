@@ -1,3 +1,8 @@
+---
+title: Lentium
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Lentium

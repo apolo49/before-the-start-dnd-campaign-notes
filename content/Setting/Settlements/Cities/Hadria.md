@@ -1,3 +1,8 @@
+---
+title: Hadria
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Hadria

@@ -1,3 +1,8 @@
+---
+title: Friegenheim
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Friegenheim

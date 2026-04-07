@@ -1,3 +1,8 @@
+---
+title: Nymphi
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Nymphi

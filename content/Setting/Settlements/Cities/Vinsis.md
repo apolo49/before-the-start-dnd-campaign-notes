@@ -1,3 +1,8 @@
+---
+title: Vinsis
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Vinsis

@@ -1,3 +1,8 @@
+---
+title: Naubeagios
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Naubeagios
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Nerapit|Nerapit]]
-

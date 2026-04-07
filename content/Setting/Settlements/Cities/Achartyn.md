@@ -1,3 +1,8 @@
+---
+title: Achartyn
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Achartyn

@@ -1,3 +1,8 @@
+---
+title: Wiesen
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Wiesen

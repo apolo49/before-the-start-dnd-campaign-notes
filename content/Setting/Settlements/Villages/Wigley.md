@@ -1,3 +1,8 @@
+---
+title: Wigley
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Wigley

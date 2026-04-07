@@ -1,3 +1,8 @@
+---
+title: Idyrepi
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Idyrepi

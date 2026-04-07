@@ -1,3 +1,8 @@
+---
+title: Ponia
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Ponia
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Porigost|Porigost]]
-

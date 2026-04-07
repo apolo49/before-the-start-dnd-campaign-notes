@@ -1,3 +1,8 @@
+---
+title: Anjoga
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Anjoga

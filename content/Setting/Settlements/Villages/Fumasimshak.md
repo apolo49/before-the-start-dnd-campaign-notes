@@ -1,3 +1,8 @@
+---
+title: Fumasimshak
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Fumasimshak

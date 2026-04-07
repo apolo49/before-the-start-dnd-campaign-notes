@@ -1,3 +1,8 @@
+---
+title: Sabatgerd
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Sabatgerd

@@ -1,3 +1,8 @@
+---
+title: Orstad
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Orstad

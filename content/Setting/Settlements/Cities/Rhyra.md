@@ -1,3 +1,8 @@
+---
+title: Rhyra
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Rhyra

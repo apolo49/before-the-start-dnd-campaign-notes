@@ -1,3 +1,8 @@
+---
+title: Rozdan
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Rozdan

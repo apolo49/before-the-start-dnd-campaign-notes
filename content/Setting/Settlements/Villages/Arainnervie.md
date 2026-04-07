@@ -1,3 +1,8 @@
+---
+title: Arainnervie
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Arainnervie

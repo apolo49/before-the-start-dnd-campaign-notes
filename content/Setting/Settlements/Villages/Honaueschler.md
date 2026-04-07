@@ -1,3 +1,8 @@
+---
+title: Honaueschler
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Honaueschler

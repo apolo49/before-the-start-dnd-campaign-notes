@@ -1,3 +1,8 @@
+---
+title: Ohls
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Ohls
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Blum|Blum]]
-

@@ -1,3 +1,8 @@
+---
+title: Oposia
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Oposia
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Brauron|Brauron]]
-

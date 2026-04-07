@@ -1,3 +1,8 @@
+---
+title: Otmosfeld
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Otmosfeld

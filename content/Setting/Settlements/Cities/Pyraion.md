@@ -1,3 +1,8 @@
+---
+title: Pyraion
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Pyraion

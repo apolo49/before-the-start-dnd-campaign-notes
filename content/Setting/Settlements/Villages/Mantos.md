@@ -1,3 +1,8 @@
+---
+title: Mantos
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Mantos

@@ -1,3 +1,8 @@
+---
+title: Raith
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Raith
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Cedi|Cedi]]
-

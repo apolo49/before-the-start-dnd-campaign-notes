@@ -1,3 +1,8 @@
+---
+title: Lienauheier
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Lienauheier

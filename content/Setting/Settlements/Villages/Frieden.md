@@ -1,3 +1,8 @@
+---
+title: Frieden
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Frieden

@@ -1,3 +1,8 @@
+---
+title: Biedertengen
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Biedertengen

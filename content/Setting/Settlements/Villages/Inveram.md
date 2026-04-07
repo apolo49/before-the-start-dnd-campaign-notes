@@ -1,3 +1,8 @@
+---
+title: Inveram
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Inveram

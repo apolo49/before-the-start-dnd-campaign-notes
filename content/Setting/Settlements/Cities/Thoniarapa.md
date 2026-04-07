@@ -1,3 +1,8 @@
+---
+title: Thoniarapa
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Thoniarapa

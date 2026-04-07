@@ -1,3 +1,8 @@
+---
+title: Roleshan
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Roleshan

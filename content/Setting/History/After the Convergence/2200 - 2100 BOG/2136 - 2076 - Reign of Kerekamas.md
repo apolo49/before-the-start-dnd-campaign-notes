@@ -6,6 +6,7 @@ fc-calendar: Solari Calendar
 aat-render-enabled: true
 timelines:
   - timeline
+password: HIDE_FROM_PLAYERS
 ---
 ![[Kerekamas.webp]]
 Kerekamas was a legendary ruler of [[Ebbu]], and was [[1838 - Deification of Kerakamas|deified]] many years later by the [[Qatha]]. He was the protagonist of his own [[Epic of Kerekamas|epic]] written by the Qatha hundreds of years after his rule.

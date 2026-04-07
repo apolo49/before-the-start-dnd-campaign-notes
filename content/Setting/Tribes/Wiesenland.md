@@ -1,3 +1,8 @@
+---
+title: Wiesenland
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Wiesenland
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Hofswald|Hofswald]]
-

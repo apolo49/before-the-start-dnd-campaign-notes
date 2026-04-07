@@ -1,3 +1,8 @@
+---
+title: Sesenland
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Sesenland
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Bieiamten|Bieiamten]]
-

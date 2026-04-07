@@ -1,3 +1,8 @@
+---
+title: Kehlia
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Kehlia
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Horngenhau|Horngenhau]]
-

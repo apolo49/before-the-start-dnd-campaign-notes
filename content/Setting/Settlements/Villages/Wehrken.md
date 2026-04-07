@@ -1,3 +1,8 @@
+---
+title: Wehrken
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Wehrken

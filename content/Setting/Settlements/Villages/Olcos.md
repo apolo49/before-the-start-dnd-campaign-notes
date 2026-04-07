@@ -1,3 +1,8 @@
+---
+title: Olcos
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Olcos

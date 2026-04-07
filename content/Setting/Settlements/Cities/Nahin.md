@@ -1,3 +1,8 @@
+---
+title: Nahin
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Nahin

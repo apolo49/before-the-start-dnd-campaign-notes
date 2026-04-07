@@ -1,3 +1,8 @@
+---
+title: Iacosia
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Iacosia
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Hubde|Hubde]]
-

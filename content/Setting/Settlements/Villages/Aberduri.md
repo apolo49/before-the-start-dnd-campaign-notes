@@ -1,3 +1,8 @@
+---
+title: Aberduri
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Aberduri

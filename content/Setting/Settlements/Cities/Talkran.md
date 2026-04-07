@@ -1,3 +1,8 @@
+---
+title: Talkran
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Talkran

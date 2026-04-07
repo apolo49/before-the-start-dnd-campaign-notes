@@ -1,3 +1,8 @@
+---
+title: Argipeia
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Argipeia
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Amphi|Amphi]]
-

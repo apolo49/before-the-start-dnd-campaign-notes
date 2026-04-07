@@ -1,3 +1,8 @@
+---
+title: Aqershad
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Aqershad

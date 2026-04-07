@@ -1,3 +1,8 @@
+---
+title: Binwald
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Binwald

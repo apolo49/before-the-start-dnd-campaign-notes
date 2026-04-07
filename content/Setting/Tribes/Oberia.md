@@ -1,3 +1,8 @@
+---
+title: Oberia
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Oberia
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Witenter|Witenter]]
-

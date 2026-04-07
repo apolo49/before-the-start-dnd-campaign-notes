@@ -1,3 +1,8 @@
+---
+title: Zahnane
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Zahnane
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Ber|Ber]]
-

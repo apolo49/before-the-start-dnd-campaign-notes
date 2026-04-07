@@ -1,3 +1,8 @@
+---
+title: Afabudehieh
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Afabudehieh

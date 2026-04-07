@@ -1,3 +1,8 @@
+---
+title: Losfeldberg
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Losfeldberg

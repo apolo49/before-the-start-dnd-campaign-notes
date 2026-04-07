@@ -1,3 +1,8 @@
+---
+title: Abergwaunver
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Abergwaunver

@@ -1,3 +1,8 @@
+---
+title: Zamolpa
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Zamolpa

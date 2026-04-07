@@ -1,3 +1,8 @@
+---
+title: Metha
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Metha
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Amphi|Amphi]]
-

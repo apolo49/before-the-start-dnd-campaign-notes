@@ -1,3 +1,8 @@
+---
+title: Bamolicabu
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Bamolicabu

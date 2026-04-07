@@ -1,3 +1,8 @@
+---
+title: Gagland
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Gagland
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Kusteter|Kusteter]]
-

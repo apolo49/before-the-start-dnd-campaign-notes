@@ -1,3 +1,8 @@
+---
+title: Marxia
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Marxia
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Bieiamten|Bieiamten]]
-

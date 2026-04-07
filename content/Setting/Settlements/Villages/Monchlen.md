@@ -1,3 +1,8 @@
+---
+title: Monchlen
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Monchlen

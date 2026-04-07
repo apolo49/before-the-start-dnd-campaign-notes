@@ -1,3 +1,8 @@
+---
+title: Kfara
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Kfara

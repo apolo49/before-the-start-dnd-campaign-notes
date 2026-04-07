@@ -1,3 +1,8 @@
+---
+title: Elia
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Elia
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Cleolis|Cleolis]]
-

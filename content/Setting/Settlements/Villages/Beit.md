@@ -1,3 +1,8 @@
+---
+title: Beit
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Beit

@@ -1,3 +1,8 @@
+---
+title: Cochamberid
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Cochamberid

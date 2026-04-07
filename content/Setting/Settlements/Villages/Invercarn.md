@@ -1,3 +1,8 @@
+---
+title: Invercarn
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Invercarn

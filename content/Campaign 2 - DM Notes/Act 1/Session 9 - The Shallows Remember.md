@@ -1,3 +1,8 @@
+---
+title: Session 9 - The Shallows Remember
+password: HIDE_FROM_PLAYERS
+---
+
 [[Dating|6th Hanomi 1782 IOG]]
 
 ## Story
@@ -102,8 +107,6 @@ Shaleth retreats when the combat ends or when the party clearly attempts communi
 What the players do with this creature is their choice. It cannot communicate beyond emotional expression. If they bring it aboard, Woubble attempts to befriend it immediately, which is a good tone-break after a hard combat. It will be important later.
 
 **Bob's Dead Dreams note:** If Bob rests during the voyage later, the First Puli has something to say about what just happened — something about the sea having a long memory and elements having weight.
-
----
 
 ### Arrival - Myrneleu (7th Hanomi, 08:00)
 

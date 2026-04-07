@@ -7,5 +7,6 @@ aat-render-enabled: true
 timelines:
   - timeline
 aat-event-body: After the [[Desertion of Solaum]], [[Solaum]] has been resettled by the [[Setting/Cultures/Solari|Solari]].
+password: HIDE_FROM_PLAYERS
 ---
 ![[resettlement-of-solaum.png]]

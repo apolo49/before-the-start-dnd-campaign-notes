@@ -1,3 +1,8 @@
+---
+title: Bukan
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Bukan

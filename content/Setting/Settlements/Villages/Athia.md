@@ -1,3 +1,8 @@
+---
+title: Athia
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Athia

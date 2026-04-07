@@ -1,3 +1,8 @@
+---
+title: Herbenia
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Herbenia
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Pemiripo|Pemiripo]]
-

@@ -1,3 +1,8 @@
+---
+title: Akrossa
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Akrossa

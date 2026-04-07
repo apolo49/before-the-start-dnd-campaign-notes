@@ -1,3 +1,8 @@
+---
+title: Sparia
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Sparia
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Hubde|Hubde]]
-

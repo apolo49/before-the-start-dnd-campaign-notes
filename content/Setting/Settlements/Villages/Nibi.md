@@ -1,3 +1,8 @@
+---
+title: Nibi
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Nibi

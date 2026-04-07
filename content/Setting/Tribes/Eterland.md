@@ -1,3 +1,8 @@
+---
+title: Eterland
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Eterland
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Pemiripo|Pemiripo]]
-

@@ -1,3 +1,8 @@
+---
+title: Majica
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Majica

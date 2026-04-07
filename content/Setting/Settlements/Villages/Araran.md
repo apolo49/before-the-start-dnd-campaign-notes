@@ -1,3 +1,8 @@
+---
+title: Araran
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Araran

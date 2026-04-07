@@ -1,3 +1,8 @@
+---
+title: Kranavonver
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Kranavonver

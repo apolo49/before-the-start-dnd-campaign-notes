@@ -1,3 +1,8 @@
+---
+title: Glotwan
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Glotwan

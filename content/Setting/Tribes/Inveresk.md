@@ -1,3 +1,8 @@
+---
+title: Inveresk
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Inveresk
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Duibri|Duibri]]
-

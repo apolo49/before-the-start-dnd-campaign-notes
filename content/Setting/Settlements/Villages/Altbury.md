@@ -1,3 +1,8 @@
+---
+title: Altbury
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Altbury

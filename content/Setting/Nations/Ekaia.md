@@ -1,3 +1,8 @@
+---
+title: Ekaia
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Ekaia
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Carthaginian|Carthaginian]]
-

@@ -1,3 +1,7 @@
+---
+title: Tabtab
+password: HIDE_FROM_PLAYERS
+---
 >[!infobox|wikipedia]
 ># Tabtab
 >_Apothecary_

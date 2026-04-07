@@ -1,3 +1,8 @@
+---
+title: Horbrongen
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Horbrongen

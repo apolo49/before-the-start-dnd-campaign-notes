@@ -1,3 +1,8 @@
+---
+title: Onimbrinium
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Onimbrinium

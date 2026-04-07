@@ -1,3 +1,8 @@
+---
+title: Pyrmenion
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Pyrmenion

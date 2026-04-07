@@ -1,3 +1,8 @@
+---
+title: Lefkatos
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Lefkatos

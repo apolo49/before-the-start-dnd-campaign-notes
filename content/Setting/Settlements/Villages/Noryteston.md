@@ -1,3 +1,8 @@
+---
+title: Noryteston
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Noryteston

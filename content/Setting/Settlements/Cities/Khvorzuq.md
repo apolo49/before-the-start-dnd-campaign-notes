@@ -1,3 +1,8 @@
+---
+title: Khvorzuq
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Khvorzuq

@@ -1,3 +1,8 @@
+---
+title: Yahin
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Yahin

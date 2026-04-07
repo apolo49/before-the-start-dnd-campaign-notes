@@ -1,3 +1,8 @@
+---
+title: Rhadasirs
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Rhadasirs

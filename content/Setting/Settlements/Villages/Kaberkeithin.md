@@ -1,3 +1,8 @@
+---
+title: Kaberkeithin
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Kaberkeithin

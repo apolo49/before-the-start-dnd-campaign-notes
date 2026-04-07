@@ -1,3 +1,8 @@
+---
+title: Vafushahr
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Vafushahr

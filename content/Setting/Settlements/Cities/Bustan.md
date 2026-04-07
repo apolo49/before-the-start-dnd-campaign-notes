@@ -1,3 +1,8 @@
+---
+title: Bustan
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Bustan

@@ -1,3 +1,8 @@
+---
+title: Abagestakhr
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Abagestakhr

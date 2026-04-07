@@ -1,3 +1,8 @@
+---
+title: Sigach
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Sigach

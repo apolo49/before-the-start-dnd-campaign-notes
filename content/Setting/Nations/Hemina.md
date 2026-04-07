@@ -1,3 +1,8 @@
+---
+title: Hemina
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Hemina
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Leiros|Leiros]]
-

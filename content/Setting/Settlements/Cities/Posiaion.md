@@ -1,3 +1,8 @@
+---
+title: Posiaion
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Posiaion

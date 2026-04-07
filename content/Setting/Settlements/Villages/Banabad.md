@@ -1,3 +1,8 @@
+---
+title: Banabad
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Banabad

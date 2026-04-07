@@ -2,6 +2,7 @@
 tags:
   - Villentiari-Isle
   - Tegans-Campaign
+password: HIDE_FROM_PLAYERS
 ---
 
 The __Stormshroud Legion__ is the enemy in Tegan's Campaign. At this point in the story, what will become the __Stormshroud Legion__ is within the territory of [[Solara]]. The __Stormshroud Legion__ was founded in the settlement of [[Sotonti]], on [[Villentiari Isle]], west of the mainland.

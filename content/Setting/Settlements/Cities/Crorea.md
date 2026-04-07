@@ -1,3 +1,8 @@
+---
+title: Crorea
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Crorea

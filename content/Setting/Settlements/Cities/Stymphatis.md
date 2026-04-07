@@ -1,3 +1,8 @@
+---
+title: Stymphatis
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Stymphatis

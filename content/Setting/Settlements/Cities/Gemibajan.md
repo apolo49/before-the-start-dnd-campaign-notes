@@ -1,3 +1,8 @@
+---
+title: Gemibajan
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Gemibajan

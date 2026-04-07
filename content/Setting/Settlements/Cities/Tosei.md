@@ -1,3 +1,8 @@
+---
+title: Tosei
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Tosei

@@ -1,3 +1,8 @@
+---
+title: Eshehaq
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Eshehaq

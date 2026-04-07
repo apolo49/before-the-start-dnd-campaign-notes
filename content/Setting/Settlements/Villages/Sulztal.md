@@ -1,3 +1,8 @@
+---
+title: Sulztal
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Sulztal

@@ -1,3 +1,8 @@
+---
+title: Robahen
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Robahen

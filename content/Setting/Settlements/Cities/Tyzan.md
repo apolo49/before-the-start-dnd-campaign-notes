@@ -1,3 +1,8 @@
+---
+title: Tyzan
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Tyzan

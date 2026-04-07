@@ -1,3 +1,8 @@
+---
+title: Wiewald
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Wiewald

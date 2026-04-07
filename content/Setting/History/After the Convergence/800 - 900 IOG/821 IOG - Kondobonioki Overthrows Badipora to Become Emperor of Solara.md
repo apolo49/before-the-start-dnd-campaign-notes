@@ -1,3 +1,8 @@
+---
+title: 821 IOG - Kondobonioki Overthrows Badipora to Become Emperor of Solara
+password: HIDE_FROM_PLAYERS
+---
+
 In [[Dating|Ebolumi 821 IOG]], [[Atni Badipora Fraidaki Anparashi Ailushi|Badipora]] learns that the armies of the eastern provinces had proclaimed a rival emperor: their commander, [[Anparashi Puli Kondobonioki Ailushi|Tidi Bralosai Kondobonioki]]. As soon as it was known that the armies of the East had declared for Kondobonioki, Badipora sent several legions to prevent the Eastern armies from entering [[Asheri]], but the commander, dissatisfied with Badipora's poor administration, attempted without success to defect to Kondobonioki. This undermined the morale of the Badiporan [[Rikati]], and they were decisively defeated at the [[821 IOG - Battle of Viguntasto|Second Battle of Viguntasto]]. Another commander was then sent by Badipora to rally supporting armies in [[Dulagi]], but forces loyal to Kondobonioki captured and executed him soon after. Badipora, now deserted by many of his adherents, prepared to abdicate the title of emperor.
 
 [[Kitii]] recounts that Badipora awaited Kondobonioki's army in a town near [[Condobonia]]. The terms of abdication had actually been agreed upon with the commander of the sixth Rikati serving in [[Argipia]] and one of Kondobonioki's chief supporters. However, as he was on his way to deposit the insignia of empire in the [[Temple of Danordia in Solaum|Temple]] of [[Danordia]] in Solaum, the [[Solaris Vanguard]] refused to allow him to carry out the agreement, and forced him to return to the palace.

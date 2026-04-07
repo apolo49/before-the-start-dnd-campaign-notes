@@ -1,3 +1,8 @@
+---
+title: Mana
+password: HIDE_FROM_PLAYERS
+---
+
 # Lore
 Mana is a form of lifeforce like energy that allows a living being to use magic. The strength of one mana can be increased through practice and is intrinsically tied to affinity to the elements, therefore elementals have more mana than other beings.
 

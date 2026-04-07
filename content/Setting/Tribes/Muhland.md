@@ -1,3 +1,8 @@
+---
+title: Muhland
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Muhland
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Herwihl|Herwihl]]
-

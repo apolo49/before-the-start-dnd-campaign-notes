@@ -1,3 +1,8 @@
+---
+title: Panadai
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Panadai

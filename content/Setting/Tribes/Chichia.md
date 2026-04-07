@@ -1,3 +1,8 @@
+---
+title: Chichia
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Chichia
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Wildlands|Wildlands]]
-

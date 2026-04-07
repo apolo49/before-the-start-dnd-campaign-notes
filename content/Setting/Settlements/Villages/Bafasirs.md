@@ -1,3 +1,8 @@
+---
+title: Bafasirs
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Bafasirs

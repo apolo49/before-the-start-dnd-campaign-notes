@@ -1,3 +1,8 @@
+---
+title: Infodu
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Infodu
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Lerug|Lerug]]
-

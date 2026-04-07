@@ -1,3 +1,8 @@
+---
+title: Vabanabil
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Vabanabil

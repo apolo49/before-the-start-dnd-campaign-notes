@@ -1,3 +1,8 @@
+---
+title: Rijodule
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Rijodule

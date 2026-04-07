@@ -1,3 +1,8 @@
+---
+title: Power
+password: HIDE_FROM_PLAYERS
+---
+
 >[!infobox|wikipedia]
 ># Power
 >_Element_

@@ -1,3 +1,8 @@
+---
+title: Otten
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Otten

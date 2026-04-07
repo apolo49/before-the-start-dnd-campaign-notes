@@ -1,3 +1,8 @@
+---
+title: Istan
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Istan

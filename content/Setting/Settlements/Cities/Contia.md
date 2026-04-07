@@ -1,3 +1,8 @@
+---
+title: Contia
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Contia

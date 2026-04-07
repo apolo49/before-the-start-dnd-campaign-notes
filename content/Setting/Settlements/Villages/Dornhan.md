@@ -1,3 +1,8 @@
+---
+title: Dornhan
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Dornhan

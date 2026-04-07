@@ -1,3 +1,8 @@
+---
+title: Rohrheim
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Rohrheim

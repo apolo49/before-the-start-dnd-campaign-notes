@@ -1,3 +1,8 @@
+---
+title: Mayehkat
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Mayehkat

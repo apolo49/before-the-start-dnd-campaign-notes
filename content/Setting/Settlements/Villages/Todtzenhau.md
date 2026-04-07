@@ -1,3 +1,8 @@
+---
+title: Todtzenhau
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Todtzenhau

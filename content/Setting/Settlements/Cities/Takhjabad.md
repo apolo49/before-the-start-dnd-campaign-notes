@@ -1,3 +1,8 @@
+---
+title: Takhjabad
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Takhjabad

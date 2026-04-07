@@ -1,3 +1,8 @@
+---
+title: Tudobhulais
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Tudobhulais

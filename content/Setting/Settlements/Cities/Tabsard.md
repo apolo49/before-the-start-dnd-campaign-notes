@@ -1,3 +1,8 @@
+---
+title: Tabsard
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Tabsard

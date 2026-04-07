@@ -1,3 +1,8 @@
+---
+title: Forheim
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Forheim
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Schilden|Schilden]]
-

@@ -1,3 +1,8 @@
+---
+title: Riley
+password: HIDE_FROM_PLAYERS
+---
+
 >[!infobox|wikipedia]
 ># Riley
 >_Rogue_
@@ -7,11 +12,11 @@
 >Background: Criminal
 >Race: Half-Tabaxi, Tabaxi traits
 >Languages: [[Common]] (Fluent when Spoken, Illiterate), [[Aeikas]] (modern) (mostly illiterate, Fluent when Spoken)
->Relatives: [[Zenshoran Hagashar]] (biological father), [[Tabtab]] (Half-sister), [[Wrensu]] (Adoptive father), Queen of the Eastern Solaran Empire (mother)
+>Relatives: [[Zenshoran Hagashar]] (biological father), [[Tabtab]] (Half-sister), [[Campaign 2 - DM Notes/Notable NPCs/Wrensu]] (Adoptive father), Queen of the Eastern Solaran Empire (mother)
 >Element: [[Fire]]
 
 # Backstory
-Riley was born of an affair between his father, [[Zenshoran Hagashar]], and his mother, the queen of Amphos. His father took him on the day of his birth out to the slums and abandoned him there as to not be discovered. He was laid in a barn next to some valuables. He was later found and adopted by [[Wrensu]], a goliath criminal who operates within [[Amphos]]. At the time he was linked with an underground revolutionary unit.
+Riley was born of an affair between his father, [[Zenshoran Hagashar]], and his mother, the queen of Amphos. His father took him on the day of his birth out to the slums and abandoned him there as to not be discovered. He was laid in a barn next to some valuables. He was later found and adopted by [[Campaign 2 - DM Notes/Notable NPCs/Wrensu]], a goliath criminal who operates within [[Amphos]]. At the time he was linked with an underground revolutionary unit.
 
 As he grew older he was told by Wrensu that he was born, in a barn, into a poor family and that his Tabaxi father was executed for his crimes by the royal family before I was born, and that his Human mother went into hiding. Wrensu told him that nobody was left to assist his mother during the birthing process.
 

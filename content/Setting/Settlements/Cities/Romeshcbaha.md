@@ -1,3 +1,8 @@
+---
+title: Romeshcbaha
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Romeshcbaha

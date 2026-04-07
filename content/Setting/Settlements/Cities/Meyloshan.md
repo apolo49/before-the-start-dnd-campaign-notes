@@ -1,3 +1,8 @@
+---
+title: Meyloshan
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Meyloshan

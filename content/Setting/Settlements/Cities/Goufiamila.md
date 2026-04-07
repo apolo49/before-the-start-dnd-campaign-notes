@@ -1,3 +1,8 @@
+---
+title: Goufiamila
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Goufiamila

@@ -1,3 +1,8 @@
+---
+title: Myrneleu
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Myrneleu

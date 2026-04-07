@@ -1,3 +1,8 @@
+---
+title: Aberow
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Aberow

@@ -1,3 +1,8 @@
+---
+title: Neusenland
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Neusenland
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Schilden|Schilden]]
-

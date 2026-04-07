@@ -1,3 +1,8 @@
+---
+title: Lelia
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Lelia
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Nerapit|Nerapit]]
-

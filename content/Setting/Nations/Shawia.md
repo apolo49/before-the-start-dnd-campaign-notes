@@ -1,3 +1,8 @@
+---
+title: Shawia
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Shawia
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Sigenos|Sigenos]]
-

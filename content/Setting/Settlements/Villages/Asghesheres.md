@@ -1,3 +1,8 @@
+---
+title: Asghesheres
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Asghesheres

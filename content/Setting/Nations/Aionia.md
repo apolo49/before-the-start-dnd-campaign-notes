@@ -1,3 +1,8 @@
+---
+title: Aionia
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Aionia
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Porigost|Porigost]]
-

@@ -1,3 +1,8 @@
+---
+title: Ganjiziche
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Ganjiziche

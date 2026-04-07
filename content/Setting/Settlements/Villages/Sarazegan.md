@@ -1,3 +1,8 @@
+---
+title: Sarazegan
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Sarazegan

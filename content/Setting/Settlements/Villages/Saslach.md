@@ -1,3 +1,8 @@
+---
+title: Saslach
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Saslach

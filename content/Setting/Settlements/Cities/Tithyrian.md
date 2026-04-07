@@ -1,3 +1,8 @@
+---
+title: Tithyrian
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Tithyrian

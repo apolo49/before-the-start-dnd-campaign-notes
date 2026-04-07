@@ -1,3 +1,8 @@
+---
+title: Harra
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Harra

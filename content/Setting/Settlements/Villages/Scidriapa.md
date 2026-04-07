@@ -1,3 +1,8 @@
+---
+title: Scidriapa
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Scidriapa

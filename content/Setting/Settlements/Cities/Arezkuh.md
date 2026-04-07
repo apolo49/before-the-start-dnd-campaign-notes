@@ -1,3 +1,8 @@
+---
+title: Arezkuh
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Arezkuh

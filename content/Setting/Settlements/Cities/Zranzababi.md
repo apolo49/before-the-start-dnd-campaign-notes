@@ -1,3 +1,8 @@
+---
+title: Zranzababi
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Zranzababi

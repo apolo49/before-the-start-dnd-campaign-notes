@@ -1,3 +1,8 @@
+---
+title: Lamplios
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Lamplios

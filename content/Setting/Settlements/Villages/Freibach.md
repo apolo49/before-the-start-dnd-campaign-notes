@@ -1,3 +1,8 @@
+---
+title: Freibach
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Freibach

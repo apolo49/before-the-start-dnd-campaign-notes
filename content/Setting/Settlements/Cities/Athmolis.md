@@ -1,3 +1,8 @@
+---
+title: Athmolis
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Athmolis

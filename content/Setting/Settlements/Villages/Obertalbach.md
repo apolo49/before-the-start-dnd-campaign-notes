@@ -1,3 +1,8 @@
+---
+title: Obertalbach
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Obertalbach

@@ -1,3 +1,8 @@
+---
+title: Craftbury
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Craftbury

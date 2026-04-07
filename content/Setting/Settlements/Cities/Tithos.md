@@ -1,3 +1,8 @@
+---
+title: Tithos
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Tithos

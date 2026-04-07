@@ -1,3 +1,8 @@
+---
+title: Miloni
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Miloni

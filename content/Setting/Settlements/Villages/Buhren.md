@@ -1,3 +1,8 @@
+---
+title: Buhren
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Buhren

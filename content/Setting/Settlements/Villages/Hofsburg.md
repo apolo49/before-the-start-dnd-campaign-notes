@@ -1,3 +1,8 @@
+---
+title: Hofsburg
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Hofsburg

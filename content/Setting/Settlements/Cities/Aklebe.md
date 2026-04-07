@@ -1,3 +1,8 @@
+---
+title: Aklebe
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Aklebe

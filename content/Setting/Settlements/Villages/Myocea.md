@@ -1,3 +1,8 @@
+---
+title: Myocea
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Myocea

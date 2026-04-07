@@ -1,3 +1,8 @@
+---
+title: Athing
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Athing

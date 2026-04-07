@@ -1,3 +1,8 @@
+---
+title: Nahedstan
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Nahedstan

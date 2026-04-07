@@ -1,3 +1,8 @@
+---
+title: Pydrosia
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Pydrosia
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Thes|Thes]]
-

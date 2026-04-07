@@ -1,3 +1,8 @@
+---
+title: Lactum
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Lactum

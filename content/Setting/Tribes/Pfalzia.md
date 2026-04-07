@@ -1,3 +1,8 @@
+---
+title: Pfalzia
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Pfalzia
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Briler|Briler]]
-

@@ -1,3 +1,8 @@
+---
+title: Cleoreby
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Cleoreby

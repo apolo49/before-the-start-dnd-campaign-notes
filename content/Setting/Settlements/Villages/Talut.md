@@ -1,3 +1,8 @@
+---
+title: Talut
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Talut

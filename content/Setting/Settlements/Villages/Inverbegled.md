@@ -1,3 +1,8 @@
+---
+title: Inverbegled
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Inverbegled

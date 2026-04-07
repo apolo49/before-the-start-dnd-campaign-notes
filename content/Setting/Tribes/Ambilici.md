@@ -1,3 +1,8 @@
+---
+title: Ambilici
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Ambilici
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Brico|Brico]]
-

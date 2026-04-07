@@ -1,3 +1,8 @@
+---
+title: Mobat
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Mobat

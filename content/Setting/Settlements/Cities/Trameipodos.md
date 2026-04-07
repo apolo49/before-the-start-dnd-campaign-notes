@@ -1,3 +1,8 @@
+---
+title: Trameipodos
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Trameipodos

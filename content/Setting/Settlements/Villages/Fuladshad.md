@@ -1,3 +1,8 @@
+---
+title: Fuladshad
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Fuladshad

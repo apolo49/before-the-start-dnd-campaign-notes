@@ -1,3 +1,8 @@
+---
+title: Fhlia
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Fhlia
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Treaberc|Treaberc]]
-

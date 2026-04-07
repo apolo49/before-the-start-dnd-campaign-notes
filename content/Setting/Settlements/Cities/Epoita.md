@@ -1,3 +1,8 @@
+---
+title: Epoita
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Epoita

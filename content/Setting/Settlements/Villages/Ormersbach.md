@@ -1,3 +1,8 @@
+---
+title: Ormersbach
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Ormersbach

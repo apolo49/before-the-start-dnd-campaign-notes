@@ -1,3 +1,8 @@
+---
+title: Aberteiraber
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Aberteiraber

@@ -1,3 +1,8 @@
+---
+title: Guzey
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Guzey

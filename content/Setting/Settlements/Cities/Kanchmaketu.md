@@ -1,3 +1,8 @@
+---
+title: Kanchmaketu
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Kanchmaketu

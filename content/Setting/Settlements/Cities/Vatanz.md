@@ -1,3 +1,8 @@
+---
+title: Vatanz
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Vatanz

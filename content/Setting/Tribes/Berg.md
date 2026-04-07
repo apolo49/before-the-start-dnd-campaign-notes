@@ -1,3 +1,8 @@
+---
+title: Berg
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Berg
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Schaltens|Schaltens]]
-

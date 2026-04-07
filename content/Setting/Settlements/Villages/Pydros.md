@@ -1,3 +1,8 @@
+---
+title: Pydros
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Pydros

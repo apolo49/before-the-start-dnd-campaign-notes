@@ -1,3 +1,8 @@
+---
+title: Arkaga
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Arkaga

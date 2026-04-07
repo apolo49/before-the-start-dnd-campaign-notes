@@ -1,3 +1,8 @@
+---
+title: Fire
+password: HIDE_FROM_PLAYERS
+---
+
 >[!infobox|wikipedia]
 ># Fire
 >_Element_

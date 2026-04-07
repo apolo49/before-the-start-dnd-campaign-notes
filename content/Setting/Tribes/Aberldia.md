@@ -1,3 +1,8 @@
+---
+title: Aberldia
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Aberldia
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Alaw|Alaw]]
-

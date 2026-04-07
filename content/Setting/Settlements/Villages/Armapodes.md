@@ -1,3 +1,8 @@
+---
+title: Armapodes
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Armapodes

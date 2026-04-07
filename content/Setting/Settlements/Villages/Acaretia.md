@@ -1,3 +1,8 @@
+---
+title: Acaretia
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Acaretia

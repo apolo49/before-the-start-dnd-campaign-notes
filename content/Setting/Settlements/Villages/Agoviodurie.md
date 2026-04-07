@@ -1,3 +1,8 @@
+---
+title: Agoviodurie
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Agoviodurie

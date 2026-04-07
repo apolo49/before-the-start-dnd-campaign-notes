@@ -1,3 +1,8 @@
+---
+title: Munsia
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Munsia
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Bieiamten|Bieiamten]]
-

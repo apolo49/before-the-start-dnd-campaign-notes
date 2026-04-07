@@ -5,5 +5,6 @@ fc-calendar: Solari Calendar
 aat-render-enabled: true
 timelines:
   - timeline
+password: HIDE_FROM_PLAYERS
 ---
 ![[founding-of-ebbu.png]]

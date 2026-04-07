@@ -1,3 +1,8 @@
+---
+title: Inverwick
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Inverwick

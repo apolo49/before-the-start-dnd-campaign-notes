@@ -1,3 +1,8 @@
+---
+title: Bucland
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Bucland
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Horngenhau|Horngenhau]]
-

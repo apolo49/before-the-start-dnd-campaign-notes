@@ -1,3 +1,8 @@
+---
+title: Fegan
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Fegan

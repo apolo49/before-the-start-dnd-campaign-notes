@@ -1,3 +1,8 @@
+---
+title: Bollsbachin
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Bollsbachin

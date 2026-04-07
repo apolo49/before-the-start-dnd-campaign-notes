@@ -1,3 +1,8 @@
+---
+title: Shaharand
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Shaharand

@@ -1,3 +1,8 @@
+---
+title: Gayit
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Gayit

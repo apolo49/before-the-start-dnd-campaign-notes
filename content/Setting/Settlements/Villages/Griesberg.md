@@ -1,3 +1,8 @@
+---
+title: Griesberg
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Griesberg

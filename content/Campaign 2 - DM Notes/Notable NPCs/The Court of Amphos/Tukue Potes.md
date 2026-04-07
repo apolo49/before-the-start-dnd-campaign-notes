@@ -1,3 +1,7 @@
+---
+title: Tukue Potes
+password: HIDE_FROM_PLAYERS
+---
 >[!infobox|wikipedia]
 ># Tukue Potes
 >_Prince of Amphos, Moon Prince_

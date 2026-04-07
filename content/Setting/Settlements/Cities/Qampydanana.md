@@ -1,3 +1,8 @@
+---
+title: Qampydanana
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Qampydanana

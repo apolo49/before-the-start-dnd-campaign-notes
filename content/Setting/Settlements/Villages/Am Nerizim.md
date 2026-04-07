@@ -1,3 +1,8 @@
+---
+title: Am Nerizim
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Am Nerizim

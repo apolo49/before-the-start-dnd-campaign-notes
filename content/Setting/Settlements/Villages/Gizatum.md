@@ -1,3 +1,8 @@
+---
+title: Gizatum
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Gizatum

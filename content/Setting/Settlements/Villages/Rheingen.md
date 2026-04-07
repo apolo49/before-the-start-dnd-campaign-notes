@@ -1,3 +1,8 @@
+---
+title: Rheingen
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Rheingen

@@ -1,3 +1,8 @@
+---
+title: Atiri
+password: HIDE_FROM_PLAYERS
+---
+
 >[!infobox|wikipedia]
 ># Atiri
 >## Aetor (Unknown Ancient Language)

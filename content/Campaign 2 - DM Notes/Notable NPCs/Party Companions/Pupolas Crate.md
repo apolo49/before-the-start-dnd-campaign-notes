@@ -1,3 +1,8 @@
+---
+title: Pupolas Crate
+password: HIDE_FROM_PLAYERS
+---
+
 Tiny Beast, Lawful Good
 
 ![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)

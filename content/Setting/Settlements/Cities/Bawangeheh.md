@@ -1,3 +1,8 @@
+---
+title: Bawangeheh
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Bawangeheh

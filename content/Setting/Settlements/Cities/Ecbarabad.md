@@ -1,3 +1,8 @@
+---
+title: Ecbarabad
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Ecbarabad

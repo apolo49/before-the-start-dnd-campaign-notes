@@ -1,3 +1,8 @@
+---
+title: Weilia
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Weilia
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Kusgau|Kusgau]]
-

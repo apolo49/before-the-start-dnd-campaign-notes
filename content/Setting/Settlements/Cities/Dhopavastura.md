@@ -1,3 +1,8 @@
+---
+title: Dhopavastura
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Dhopavastura

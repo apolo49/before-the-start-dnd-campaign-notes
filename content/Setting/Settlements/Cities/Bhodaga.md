@@ -1,3 +1,8 @@
+---
+title: Bhodaga
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Bhodaga

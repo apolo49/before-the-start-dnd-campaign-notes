@@ -1,3 +1,8 @@
+---
+title: Bouia
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Bouia

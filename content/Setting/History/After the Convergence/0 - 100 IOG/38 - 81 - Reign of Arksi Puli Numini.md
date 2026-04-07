@@ -7,5 +7,6 @@ aat-render-enabled: true
 timelines:
   - timeline
 aat-event-body: The reign of the Second [[Monarchy of Solara|Arksi]] of [[Solaum]], [[Puli Numini]]
+password: HIDE_FROM_PLAYERS
 ---
 ![[puli-numini.png]]

@@ -1,3 +1,8 @@
+---
+title: Habad
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Habad

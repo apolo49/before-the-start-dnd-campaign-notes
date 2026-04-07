@@ -1,3 +1,8 @@
+---
+title: Lepinona
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Lepinona

@@ -1,3 +1,8 @@
+---
+title: 693 IOG - The Original Party Land on the Villentiari Isle
+password: HIDE_FROM_PLAYERS
+---
+
 After being transported back to [[Dating|15th Narimi 693 IOG]], the original party ([[Kraven Redblade]] (Water) ,[[Lyre Hallowstream]] (Earth), [[Aelius]] (Fire), [[Alea]] (Soul), [[Bronlyl Battleale]] (Wind), [[Derf Drayniw]] (Ice), [[Thandoril Sunfire]] (Power)) awaken, dazed and confused, the party is left to wonder as to what just happened, thusly, they begin looking for answers; the circle beneath their feet has disappeared and appears to have been swallowed with grass and dirt. Their surroundings have suffered the same fate. A land that was once a camp of the Solaris Vanguard seems to have become dense forest. Upon further observation, it seems the [[Great Tent]] has also vanished following the preceding events. After a great search, they can see smoke rise above the canopy in the distance to the North. The party now has their heading.
 
 Heading this way brings them to a relatively modern looking path in the forest. The wood has clearly been artificially cleared to make way for the cobblestone road. A road this maintained must be kept in this state by a powerful entity. They continue to follow the road towards the smoke to look for answers. This road is the best road they had walked on for a long time as it is made for heavy use.

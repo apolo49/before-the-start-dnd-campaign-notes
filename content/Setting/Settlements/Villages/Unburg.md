@@ -1,3 +1,8 @@
+---
+title: Unburg
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Unburg

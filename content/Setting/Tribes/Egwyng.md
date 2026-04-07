@@ -1,3 +1,8 @@
+---
+title: Egwyng
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Egwyng
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Calaw|Calaw]]
-

@@ -1,3 +1,8 @@
+---
+title: Saxos
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Saxos
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Amphi|Amphi]]
-

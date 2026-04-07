@@ -1,3 +1,8 @@
+---
+title: Naqshak
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Naqshak

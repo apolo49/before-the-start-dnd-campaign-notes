@@ -1,3 +1,8 @@
+---
+title: 932 IOG - Death of Narai Azunaki
+password: HIDE_FROM_PLAYERS
+---
+
 [[Dating|17th of Narimi, 932 IOG]], age 58, [[Anparashi Puli Narai Azunaki Anatunoki Ailushi|Narai Azunaki]] dies of unknown causes in the city of [[Wiesen|Bandonomari]] ([[Hatannio Lozona Province|province of Hatannio Lozona]]). He was immediately deified and his ashes were returned to [[Solaum]], where they rested in [[Mausoleum of Katumokai|Katumokai's mausoleum]] until the [[Lieden]] sack of the city in 1172 IOG. Some scholars consider his death to be the end of the Piki Solaunak.
 
 Narai was succeeded by his son [[Luki Alau Azunaki Gunodushi Ailushi Harakishi Solauni Ipubarinoki Anashaniki Ongidai Falashi Puos|Gunodushi]], whom he had named Puli in 918 and with whom he had jointly ruled since 929. Biological sons of the emperor, if there were any, were considered heirs; it was only the second time that a "non-adoptive" son had succeeded his father, the only other having been a century earlier when [[Anparashi Puli Kondobonioki Ailushi|Kondobonioki]] was succeeded by his son [[Anparashi Tidi Puli Kondobonioki Ailushi|Tidi]].

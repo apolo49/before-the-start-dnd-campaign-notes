@@ -1,3 +1,8 @@
+---
+title: Byblostos
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Byblostos

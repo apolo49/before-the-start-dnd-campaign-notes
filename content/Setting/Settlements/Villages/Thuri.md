@@ -1,3 +1,8 @@
+---
+title: Thuri
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Thuri

@@ -1,3 +1,8 @@
+---
+title: Fanararan
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Fanararan

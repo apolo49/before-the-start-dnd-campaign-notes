@@ -1,3 +1,8 @@
+---
+title: Zawan
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Zawan

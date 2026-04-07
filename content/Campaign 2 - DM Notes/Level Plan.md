@@ -1,3 +1,8 @@
+---
+title: Level Plan
+password: HIDE_FROM_PLAYERS
+---
+
 - 1 - 6 - level 2 ✅
 - 6 - 14 - level 3
 - 14 - 18 - level 4
@@ -12,4 +17,3 @@
 - 108 - 124 - level 13
 - 125 - 137 - level 14
 - 138 - 140 - level 15
-

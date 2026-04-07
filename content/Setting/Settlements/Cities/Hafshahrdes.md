@@ -1,3 +1,8 @@
+---
+title: Hafshahrdes
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Hafshahrdes

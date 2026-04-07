@@ -1,3 +1,8 @@
+---
+title: Golshahr
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Golshahr

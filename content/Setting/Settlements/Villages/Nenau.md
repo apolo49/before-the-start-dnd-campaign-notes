@@ -1,3 +1,8 @@
+---
+title: Nenau
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Nenau

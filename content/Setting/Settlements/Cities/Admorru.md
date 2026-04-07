@@ -1,3 +1,8 @@
+---
+title: Admorru
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Admorru

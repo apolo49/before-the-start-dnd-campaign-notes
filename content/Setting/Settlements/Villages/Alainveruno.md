@@ -1,3 +1,8 @@
+---
+title: Alainveruno
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Alainveruno

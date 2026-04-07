@@ -1,3 +1,8 @@
+---
+title: Yaraj
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Yaraj

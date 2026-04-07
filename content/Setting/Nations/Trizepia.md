@@ -1,3 +1,8 @@
+---
+title: Trizepia
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Trizepia
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Nymphid|Nymphid]]
-

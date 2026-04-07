@@ -1,3 +1,8 @@
+---
+title: Vindigenda
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Vindigenda

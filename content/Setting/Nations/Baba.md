@@ -1,3 +1,8 @@
+---
+title: Baba
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Baba
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Warmo|Warmo]]
-

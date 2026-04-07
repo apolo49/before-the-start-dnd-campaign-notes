@@ -1,3 +1,8 @@
+---
+title: Neaca
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Neaca

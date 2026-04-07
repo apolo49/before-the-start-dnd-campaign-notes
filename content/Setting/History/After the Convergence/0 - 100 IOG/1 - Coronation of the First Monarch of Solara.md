@@ -7,5 +7,6 @@ aat-render-enabled: true
 timelines:
   - timeline
 aat-event-body: The first [[Monarchy of Solara|Arksi of Solara]] was coronated in [[Solaum]]
+password: HIDE_FROM_PLAYERS
 ---
 ![[coronation-of-the-first-monarch-of-solara.png]]

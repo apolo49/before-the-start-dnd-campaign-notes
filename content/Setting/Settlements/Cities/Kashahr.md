@@ -1,3 +1,8 @@
+---
+title: Kashahr
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Kashahr

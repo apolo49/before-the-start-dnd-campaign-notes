@@ -1,3 +1,8 @@
+---
+title: Chanafustar
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Chanafustar

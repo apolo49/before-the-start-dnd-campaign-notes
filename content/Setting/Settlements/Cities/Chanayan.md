@@ -1,3 +1,8 @@
+---
+title: Chanayan
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Chanayan

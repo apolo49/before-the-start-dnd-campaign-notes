@@ -1,3 +1,8 @@
+---
+title: Mavar
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Mavar

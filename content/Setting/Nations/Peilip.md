@@ -1,3 +1,8 @@
+---
+title: Peilip
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Peilip
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Stympia|Stympia]]
-

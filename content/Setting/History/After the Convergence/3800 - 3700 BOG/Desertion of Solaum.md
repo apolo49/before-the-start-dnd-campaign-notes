@@ -7,5 +7,6 @@ aat-render-enabled: true
 timelines:
   - timeline
 aat-event-body: Following a decline due to the abuse of the obelisk, Solaum is deserted.
+password: HIDE_FROM_PLAYERS
 ---
 ![[desertion-of-solaum.png]]

@@ -1,3 +1,8 @@
+---
+title: Efen
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Efen

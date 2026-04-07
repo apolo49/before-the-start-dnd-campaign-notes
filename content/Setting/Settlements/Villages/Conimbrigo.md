@@ -1,3 +1,8 @@
+---
+title: Conimbrigo
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Conimbrigo

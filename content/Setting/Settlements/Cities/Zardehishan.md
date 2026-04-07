@@ -1,3 +1,8 @@
+---
+title: Zardehishan
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Zardehishan

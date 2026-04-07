@@ -1,3 +1,8 @@
+---
+title: Baberen
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Baberen

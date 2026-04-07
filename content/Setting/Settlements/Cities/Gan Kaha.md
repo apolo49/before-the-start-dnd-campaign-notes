@@ -1,3 +1,8 @@
+---
+title: Gan Kaha
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Gan Kaha

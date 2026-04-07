@@ -1,3 +1,8 @@
+---
+title: Echeh
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Echeh
@@ -178,4 +183,3 @@
 - [[Setting/Cultures/Kufa|Kufa]]
 - [[Setting/Cultures/Akshan|Akshan]]
 - [[Setting/Cultures/Sigenos|Sigenos]]
-

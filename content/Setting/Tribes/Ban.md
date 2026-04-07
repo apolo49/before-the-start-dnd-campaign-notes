@@ -1,3 +1,8 @@
+---
+title: Ban
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Ban
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Treaberc|Treaberc]]
-

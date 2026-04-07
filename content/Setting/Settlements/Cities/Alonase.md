@@ -1,3 +1,8 @@
+---
+title: Alonase
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Alonase

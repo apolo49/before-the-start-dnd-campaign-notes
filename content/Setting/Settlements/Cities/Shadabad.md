@@ -1,3 +1,8 @@
+---
+title: Shadabad
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Shadabad

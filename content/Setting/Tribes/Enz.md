@@ -1,3 +1,8 @@
+---
+title: Enz
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Enz
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Horngenhau|Horngenhau]]
-

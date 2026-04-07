@@ -1,3 +1,8 @@
+---
+title: Dhalin
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Dhalin

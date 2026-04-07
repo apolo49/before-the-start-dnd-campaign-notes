@@ -1,3 +1,8 @@
+---
+title: Pfafen
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Pfafen

@@ -1,3 +1,8 @@
+---
+title: Papia
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Papia
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Nerapit|Nerapit]]
-

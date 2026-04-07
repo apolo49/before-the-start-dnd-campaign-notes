@@ -1,3 +1,8 @@
+---
+title: Ebronland
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Ebronland
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Schaltens|Schaltens]]
-

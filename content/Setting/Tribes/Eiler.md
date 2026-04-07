@@ -1,3 +1,8 @@
+---
+title: Eiler
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Eiler
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Pemiripo|Pemiripo]]
-

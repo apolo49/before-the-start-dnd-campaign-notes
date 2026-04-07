@@ -1,3 +1,8 @@
+---
+title: Trolis
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Trolis

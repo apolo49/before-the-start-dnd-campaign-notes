@@ -1,3 +1,8 @@
+---
+title: Lanvia
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Lanvia
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Invermayfi|Invermayfi]]
-

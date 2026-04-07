@@ -1,3 +1,8 @@
+---
+title: Durun
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Durun

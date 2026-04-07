@@ -1,3 +1,8 @@
+---
+title: Schen
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Schen

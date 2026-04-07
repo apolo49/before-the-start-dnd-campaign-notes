@@ -1,3 +1,8 @@
+---
+title: Balecaneh
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Balecaneh

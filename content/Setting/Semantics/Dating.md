@@ -1,6 +1,7 @@
 ---
 lastSync: Wed Nov 06 2024 18:40:03 GMT+0000 (Greenwich Mean Time)
 title: Dating
+password: HIDE_FROM_PLAYERS
 ---
 As per dating the real world, wherein an arbitrary number is chosen as 0 and we can go back and forth, the dating in this world is the same, however our dating *primary* dating system is called "From the founding of the city" which refers to the founding of the city of [[Solaum]], the capital of [[Solara]].
 
@@ -96,4 +97,3 @@ Like the Soa Calendar, the Makdonda Calendar was created purely for flavour and 
 | 4484 | Cycle 298 Year 8 | 2984  | 684 IOG  | 0     | -5               | 69 BC                 |
 | 4489 | Cycle 299 Year 1 | 2989  | 689 IOG  | 5     | 0                | 64 BC                 |
 | 4493 | Cycle 299 Year 5 | 2993  | 693 IOG  | 9     | 4                | 60 BC                 |
-

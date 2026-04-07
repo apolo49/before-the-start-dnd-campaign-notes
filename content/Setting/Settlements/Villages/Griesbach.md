@@ -1,3 +1,8 @@
+---
+title: Griesbach
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Griesbach

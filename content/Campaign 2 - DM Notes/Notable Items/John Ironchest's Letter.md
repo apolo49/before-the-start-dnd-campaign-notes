@@ -1,3 +1,8 @@
+---
+title: John Ironchest's Letter
+password: HIDE_FROM_PLAYERS
+---
+
 John Ironchest, Peak-Bearer of the High Holds, Living breadth of the Set, Once-kinhelmed staple of the World Bodybuilding Order
 
 By word and weight, we greet you.

@@ -1,3 +1,8 @@
+---
+title: Inztal
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Inztal

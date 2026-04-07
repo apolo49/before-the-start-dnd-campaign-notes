@@ -1,3 +1,8 @@
+---
+title: Bourosadh
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Bourosadh

@@ -1,3 +1,8 @@
+---
+title: Alonase
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Alonase
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Athra|Athra]]
-

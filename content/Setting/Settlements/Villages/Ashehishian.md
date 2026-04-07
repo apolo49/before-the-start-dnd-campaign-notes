@@ -1,3 +1,8 @@
+---
+title: Ashehishian
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Ashehishian

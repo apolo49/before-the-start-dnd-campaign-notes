@@ -1,3 +1,8 @@
+---
+title: Wiewald
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Wiewald
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Ehrstadt|Ehrstadt]]
-

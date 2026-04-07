@@ -1,3 +1,8 @@
+---
+title: Rarizak
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Rarizak

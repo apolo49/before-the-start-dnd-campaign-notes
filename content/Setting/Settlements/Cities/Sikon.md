@@ -1,3 +1,8 @@
+---
+title: Sikon
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Sikon

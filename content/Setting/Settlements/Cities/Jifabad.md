@@ -1,3 +1,8 @@
+---
+title: Jifabad
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Jifabad

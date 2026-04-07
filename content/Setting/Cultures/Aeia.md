@@ -1,3 +1,8 @@
+---
+title: Aeia
+password: HIDE_FROM_PLAYERS
+---
+
 Origin culture of the Aeia Cultures.
 According to the Aeia, they are the original peoples of the planet and all groups are descended from them.
 They worship the elements in their purist form on top of the mountain further in the peninsula.

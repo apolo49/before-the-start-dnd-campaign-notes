@@ -1,3 +1,8 @@
+---
+title: Souarda
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Souarda

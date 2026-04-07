@@ -1,3 +1,8 @@
+---
+title: Rhia
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Rhia
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Kusteter|Kusteter]]
-

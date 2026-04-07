@@ -1,3 +1,8 @@
+---
+title: Pardisrasan
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Pardisrasan

@@ -1,3 +1,8 @@
+---
+title: Tuba
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Tuba

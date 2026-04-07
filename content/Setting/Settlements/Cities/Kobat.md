@@ -1,3 +1,8 @@
+---
+title: Kobat
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Kobat

@@ -1,3 +1,8 @@
+---
+title: Peipotondos
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Peipotondos

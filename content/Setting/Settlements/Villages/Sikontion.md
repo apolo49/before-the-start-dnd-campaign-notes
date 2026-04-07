@@ -1,3 +1,8 @@
+---
+title: Sikontion
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Sikontion

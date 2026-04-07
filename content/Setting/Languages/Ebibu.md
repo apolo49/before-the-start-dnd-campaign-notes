@@ -1,5 +1,6 @@
 ---
 lastSync: Wed Nov 06 2024 18:40:20 GMT+0000 (Greenwich Mean Time)
+password: HIDE_FROM_PLAYERS
 ---
 Ebibu is an Eastern Language spoken by the peoples of the [[Qatha]] culture and their existing descendants ([[Warmo]], [[Tise]], [[Akshan]], [[Sigenos]]). The original speakers were around [[Pre-Convergence Cultures|Before the Convergence]] as such the language is considered to be one of the oldest in existence and has many archaisms that may shed light upon the original peoples and the world they lived in.
 

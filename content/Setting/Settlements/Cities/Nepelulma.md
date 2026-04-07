@@ -1,3 +1,8 @@
+---
+title: Nepelulma
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Nepelulma

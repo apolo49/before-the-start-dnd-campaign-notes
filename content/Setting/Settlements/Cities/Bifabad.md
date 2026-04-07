@@ -1,3 +1,8 @@
+---
+title: Bifabad
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Bifabad

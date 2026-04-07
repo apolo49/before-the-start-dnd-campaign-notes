@@ -1,3 +1,8 @@
+---
+title: Freiburg
+password: HIDE_FROM_PLAYERS
+---
+
 Origin of all Freiburg cultures, original Freiburg peoples.
 Based on Historical Germanic Peoples, especially the Cherusci.
 

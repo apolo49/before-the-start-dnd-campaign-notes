@@ -1,3 +1,8 @@
+---
+title: Mahendrali
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Mahendrali

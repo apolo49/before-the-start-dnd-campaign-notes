@@ -1,3 +1,8 @@
+---
+title: Ioli
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Ioli

@@ -1,3 +1,8 @@
+---
+title: Schal
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Schal

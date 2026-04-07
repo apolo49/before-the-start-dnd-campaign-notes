@@ -3,6 +3,7 @@ aliases:
   - Ellowen Aurelian Vale
   - Ellowen of Brackenfall
 title: Ellowen Aurelian Vale
+password: HIDE_FROM_PLAYERS
 ---
 >[!infobox|wikipedia]
 ># Ellowen Aurelian Vale of Brackenfall

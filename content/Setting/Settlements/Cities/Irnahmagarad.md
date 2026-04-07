@@ -1,3 +1,8 @@
+---
+title: Irnahmagarad
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Irnahmagarad

@@ -1,3 +1,8 @@
+---
+title: Ephos
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Ephos
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Porigost|Porigost]]
-

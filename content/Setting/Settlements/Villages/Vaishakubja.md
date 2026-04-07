@@ -1,3 +1,8 @@
+---
+title: Vaishakubja
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Vaishakubja

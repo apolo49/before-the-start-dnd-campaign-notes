@@ -1,3 +1,8 @@
+---
+title: Diranbar
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Diranbar

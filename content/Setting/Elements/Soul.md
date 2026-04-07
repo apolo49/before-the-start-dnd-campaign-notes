@@ -1,3 +1,8 @@
+---
+title: Soul
+password: HIDE_FROM_PLAYERS
+---
+
 >[!infobox|wikipedia]
 ># Soul
 >_Element_

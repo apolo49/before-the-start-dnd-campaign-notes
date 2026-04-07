@@ -1,3 +1,8 @@
+---
+title: Mey-Shahr
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Mey-Shahr

@@ -1,3 +1,8 @@
+---
+title: Burun
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Burun

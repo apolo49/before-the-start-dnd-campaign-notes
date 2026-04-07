@@ -1,3 +1,8 @@
+---
+title: Sabertlediwa
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Sabertlediwa

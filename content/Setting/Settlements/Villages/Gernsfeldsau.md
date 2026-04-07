@@ -1,3 +1,8 @@
+---
+title: Gernsfeldsau
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Gernsfeldsau

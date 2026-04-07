@@ -1,3 +1,8 @@
+---
+title: Lis
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Lis
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Mortyn|Mortyn]]
-

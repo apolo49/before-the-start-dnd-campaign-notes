@@ -1,3 +1,8 @@
+---
+title: Liedengengen
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Liedengengen

@@ -1,3 +1,8 @@
+---
+title: Stama
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Stama

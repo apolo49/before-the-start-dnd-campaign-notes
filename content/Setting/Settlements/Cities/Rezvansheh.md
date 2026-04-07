@@ -1,3 +1,8 @@
+---
+title: Rezvansheh
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Rezvansheh

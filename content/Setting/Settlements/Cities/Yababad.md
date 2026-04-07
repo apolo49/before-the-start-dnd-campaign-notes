@@ -1,3 +1,8 @@
+---
+title: Yababad
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Yababad

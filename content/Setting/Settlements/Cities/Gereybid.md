@@ -1,3 +1,8 @@
+---
+title: Gereybid
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Gereybid

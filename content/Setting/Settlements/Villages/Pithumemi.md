@@ -1,3 +1,8 @@
+---
+title: Pithumemi
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Pithumemi

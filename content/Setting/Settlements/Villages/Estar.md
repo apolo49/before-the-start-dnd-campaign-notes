@@ -1,3 +1,8 @@
+---
+title: Estar
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Estar

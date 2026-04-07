@@ -1,3 +1,8 @@
+---
+title: Freilermers
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Freilermers

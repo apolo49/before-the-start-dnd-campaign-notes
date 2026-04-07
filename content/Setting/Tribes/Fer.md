@@ -1,3 +1,8 @@
+---
+title: Fer
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Fer
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Indyrgow|Indyrgow]]
-

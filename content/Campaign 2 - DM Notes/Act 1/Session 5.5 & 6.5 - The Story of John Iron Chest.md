@@ -1,3 +1,8 @@
+---
+title: Session 5.5 & 6.5 - The Story of John Iron Chest
+password: HIDE_FROM_PLAYERS
+---
+
 This is the story of how John Ironchest joined the party of the Elementals and discovered he is the power elemental. He begins at his mountain home and makes his way south through mountains, forests, towns, villages and rivers to arrive at [[Pithetara]]. This is where he participates in a [[World Bodybuilding Order|WBO]] competition and gets spotted by the elementals in the crowd.
 
 # Session 5.5

@@ -1,3 +1,8 @@
+---
+title: Trebia
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Trebia
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Cedi|Cedi]]
-

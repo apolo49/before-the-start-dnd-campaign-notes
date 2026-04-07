@@ -1,3 +1,8 @@
+---
+title: Tiexautosch
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Tiexautosch

@@ -1,3 +1,8 @@
+---
+title: Lugwesyn
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Lugwesyn

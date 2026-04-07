@@ -1,3 +1,8 @@
+---
+title: Scland
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Scland
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Pemiripo|Pemiripo]]
-

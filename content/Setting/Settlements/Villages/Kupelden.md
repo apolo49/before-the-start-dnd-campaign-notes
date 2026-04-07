@@ -1,3 +1,8 @@
+---
+title: Kupelden
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Kupelden

@@ -1,3 +1,8 @@
+---
+title: Ardowsieh
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Ardowsieh

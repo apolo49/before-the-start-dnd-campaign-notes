@@ -1,3 +1,8 @@
+---
+title: Barmiadoles
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Barmiadoles

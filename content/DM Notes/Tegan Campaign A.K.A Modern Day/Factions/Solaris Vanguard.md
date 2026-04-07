@@ -4,4 +4,5 @@ tags:
   - Solaum
   - Tegans-Campaign
   - Villentiari-Isle
+password: HIDE_FROM_PLAYERS
 ---

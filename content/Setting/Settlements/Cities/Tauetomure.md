@@ -1,3 +1,8 @@
+---
+title: Tauetomure
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Tauetomure

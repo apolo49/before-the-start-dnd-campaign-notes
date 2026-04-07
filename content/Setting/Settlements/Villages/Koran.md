@@ -1,3 +1,8 @@
+---
+title: Koran
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Koran

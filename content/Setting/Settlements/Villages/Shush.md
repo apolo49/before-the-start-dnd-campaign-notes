@@ -1,3 +1,8 @@
+---
+title: Shush
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Shush

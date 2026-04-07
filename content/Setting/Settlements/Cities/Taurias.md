@@ -1,3 +1,8 @@
+---
+title: Taurias
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Taurias

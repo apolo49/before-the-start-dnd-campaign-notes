@@ -1,3 +1,8 @@
+---
+title: Ponia
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Ponia

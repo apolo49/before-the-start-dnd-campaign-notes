@@ -1,3 +1,8 @@
+---
+title: Anouda
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Anouda

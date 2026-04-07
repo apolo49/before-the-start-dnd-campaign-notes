@@ -1,3 +1,8 @@
+---
+title: Anaistossos
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Anaistossos

@@ -1,3 +1,8 @@
+---
+title: Eurias
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Eurias

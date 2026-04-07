@@ -1,3 +1,8 @@
+---
+title: Naubeagios
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Naubeagios

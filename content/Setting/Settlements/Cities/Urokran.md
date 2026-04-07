@@ -1,3 +1,8 @@
+---
+title: Urokran
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Urokran

@@ -1,3 +1,8 @@
+---
+title: Meyloshali
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Meyloshali

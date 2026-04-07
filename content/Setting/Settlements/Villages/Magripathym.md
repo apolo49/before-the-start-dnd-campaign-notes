@@ -1,3 +1,8 @@
+---
+title: Magripathym
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Magripathym

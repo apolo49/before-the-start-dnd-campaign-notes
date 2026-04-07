@@ -1,3 +1,8 @@
+---
+title: Sormium
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Sormium

@@ -1,3 +1,8 @@
+---
+title: Eimel
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Eimel

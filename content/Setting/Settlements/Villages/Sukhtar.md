@@ -1,3 +1,8 @@
+---
+title: Sukhtar
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Sukhtar

@@ -1,3 +1,8 @@
+---
+title: Bando
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Bando

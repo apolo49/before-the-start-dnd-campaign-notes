@@ -1,3 +1,8 @@
+---
+title: Titros
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Titros

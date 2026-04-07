@@ -1,3 +1,8 @@
+---
+title: Guralibabad
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Guralibabad

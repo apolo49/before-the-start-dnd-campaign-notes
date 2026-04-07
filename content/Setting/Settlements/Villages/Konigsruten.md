@@ -1,3 +1,8 @@
+---
+title: Konigsruten
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Konigsruten

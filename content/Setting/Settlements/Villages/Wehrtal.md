@@ -1,3 +1,8 @@
+---
+title: Wehrtal
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Wehrtal

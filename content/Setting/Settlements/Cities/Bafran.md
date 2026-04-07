@@ -1,3 +1,8 @@
+---
+title: Bafran
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Bafran

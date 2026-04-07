@@ -7,5 +7,6 @@ aat-render-enabled: true
 timelines:
   - timeline
 aat-event-body: After the death of [[Soli]], there was a period of Interregnum before the next [[Monarchy of Solara|Arksi]] was elected, [[Puli Numini]].
+password: HIDE_FROM_PLAYERS
 ---
 ![[coronation-of-arksi-puli-numini.png]]

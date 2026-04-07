@@ -1,3 +1,8 @@
+---
+title: Kodarojistu
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Kodarojistu

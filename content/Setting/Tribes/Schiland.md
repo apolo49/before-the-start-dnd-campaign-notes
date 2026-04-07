@@ -1,3 +1,8 @@
+---
+title: Schiland
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Schiland
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Ehrstadt|Ehrstadt]]
-

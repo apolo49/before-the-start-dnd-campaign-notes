@@ -1,3 +1,8 @@
+---
+title: Tartaraz
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Tartaraz

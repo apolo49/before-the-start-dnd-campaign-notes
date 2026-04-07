@@ -1,3 +1,8 @@
+---
+title: Thassos
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Thassos

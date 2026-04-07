@@ -1,3 +1,8 @@
+---
+title: Kan Shahr
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Kan Shahr

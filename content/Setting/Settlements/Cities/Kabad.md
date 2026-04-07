@@ -1,3 +1,8 @@
+---
+title: Kabad
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Kabad

@@ -1,3 +1,8 @@
+---
+title: Saghadafa
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Saghadafa

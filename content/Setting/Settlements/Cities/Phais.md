@@ -1,3 +1,8 @@
+---
+title: Phais
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Phais

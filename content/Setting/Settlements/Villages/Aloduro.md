@@ -1,3 +1,8 @@
+---
+title: Aloduro
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Aloduro

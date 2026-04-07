@@ -1,3 +1,8 @@
+---
+title: Ettlin
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Ettlin

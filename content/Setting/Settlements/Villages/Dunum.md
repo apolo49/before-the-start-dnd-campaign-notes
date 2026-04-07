@@ -1,3 +1,8 @@
+---
+title: Dunum
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Dunum

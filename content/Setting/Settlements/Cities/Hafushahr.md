@@ -1,3 +1,8 @@
+---
+title: Hafushahr
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Hafushahr

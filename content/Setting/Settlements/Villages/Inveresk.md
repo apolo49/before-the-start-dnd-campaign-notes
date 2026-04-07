@@ -1,3 +1,8 @@
+---
+title: Inveresk
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Inveresk

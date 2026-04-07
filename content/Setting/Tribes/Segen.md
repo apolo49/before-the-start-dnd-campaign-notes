@@ -1,3 +1,8 @@
+---
+title: Segen
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Segen
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Steinbach|Steinbach]]
-

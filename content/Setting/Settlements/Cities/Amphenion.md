@@ -1,3 +1,8 @@
+---
+title: Amphenion
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Amphenion

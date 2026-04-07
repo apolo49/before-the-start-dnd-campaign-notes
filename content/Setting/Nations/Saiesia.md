@@ -1,3 +1,8 @@
+---
+title: Saiesia
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Saiesia
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Brauron|Brauron]]
-

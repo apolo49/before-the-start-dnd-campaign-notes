@@ -1,3 +1,8 @@
+---
+title: Nehehpour
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Nehehpour

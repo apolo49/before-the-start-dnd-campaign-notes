@@ -1,3 +1,8 @@
+---
+title: Zenshoran Hagashar
+password: HIDE_FROM_PLAYERS
+---
+
 >[!infobox|wikipedia]
 ># Zenshoran Hagashar
 >_Donpotes da Tagaminase_
@@ -15,7 +20,7 @@
 
 Born in the mist-shrouded peaks of the [[Divine Empire of Daxing|Eastern Realms]], **Zenshoran Hagashar** did not inherit his status; he carved it out of tactical necessity. After mastering the arts of war in his homeland, he travelled to the [[Eastern Solaran Empire|Solari heartland]] on a diplomatic mission, where his "demonstrated knowledge" of troop manoeuvres and logistics earned him the rare trust of the **[[Puli]]**.
 
-However, his rise was nearly halted by a significant experience: a clandestine affair with the Puli's wife. The resulting birth of his son, **[[Riley]]**, created a trauma that shifted his very alignment. To survive, Zenshoran was forced to disown the boy at birth. This secret guilt and the subsequent loss of the child to the Goliath **[[Wrensu]]** have become the deep-seated regrets that define his abrasive, cold exterior.
+However, his rise was nearly halted by a significant experience: a clandestine affair with the Puli's wife. The resulting birth of his son, **[[Riley]]**, created a trauma that shifted his very alignment. To survive, Zenshoran was forced to disown the boy at birth. This secret guilt and the subsequent loss of the child to the Goliath **[[Campaign 2 - DM Notes/Notable NPCs/Wrensu]]** have become the deep-seated regrets that define his abrasive, cold exterior.
 
 Now, as the _Donpotes da Tagaminase_ (head of military in the Eastern Solaran Empire), he functions as the Empire’s silent fist. He watches his daughter, **[[Tabtab]]** - born to a courtesan at a brothel that he was unable to buy -  move through the palace as an apothecary to the prince, unable to claim her, yet desperate to protect her, while his disowned son is raised in the slums to destroy everything Zenshoran has built. He is a man caught between the "Dawn" of his title and the "Shadow" of his past.
 

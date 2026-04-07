@@ -1,3 +1,8 @@
+---
+title: Sakakondali
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Sakakondali

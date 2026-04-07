@@ -1,3 +1,8 @@
+---
+title: Nimanshahr
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Nimanshahr

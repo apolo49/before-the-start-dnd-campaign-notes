@@ -1,3 +1,8 @@
+---
+title: Inbhear
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Inbhear

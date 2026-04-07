@@ -1,3 +1,8 @@
+---
+title: Aeliagus
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Aeliagus

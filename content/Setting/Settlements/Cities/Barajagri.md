@@ -1,3 +1,8 @@
+---
+title: Barajagri
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Barajagri

@@ -1,3 +1,8 @@
+---
+title: Hailerland
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Hailerland
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Freiburg|Freiburg]]
-

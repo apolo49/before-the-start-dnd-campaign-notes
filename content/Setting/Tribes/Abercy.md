@@ -1,3 +1,8 @@
+---
+title: Abercy
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Abercy
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Lantobhu|Lantobhu]]
-

@@ -1,3 +1,8 @@
+---
+title: Turavabad
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Turavabad

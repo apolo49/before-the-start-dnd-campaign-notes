@@ -1,3 +1,8 @@
+---
+title: Lahland
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Lahland
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Witenter|Witenter]]
-

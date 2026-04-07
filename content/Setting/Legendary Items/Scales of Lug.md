@@ -1,3 +1,8 @@
+---
+title: Scales of Lug
+password: HIDE_FROM_PLAYERS
+---
+
 Location: [[Ectia]], [[Inverbegled]], [[Harrow of Lug]]
 Rarity: Unique
 Type: Wonderous Item

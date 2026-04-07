@@ -1,3 +1,8 @@
+---
+title: Rudecatigzi
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Rudecatigzi

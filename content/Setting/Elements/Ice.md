@@ -1,3 +1,8 @@
+---
+title: Ice
+password: HIDE_FROM_PLAYERS
+---
+
 >[!infobox|wikipedia]
 ># Ice
 >_Element_

@@ -1,3 +1,8 @@
+---
+title: Session 1 - The Stones in Amphos
+password: HIDE_FROM_PLAYERS
+---
+
 # Premise
 
 The players are all gathered in the capital city of [[Amphos]], in the Amphosian Despotate. On a relatively normal day, a delivery is due to reach the temple containing elemental stones and an important book to go alongside them. This is when certain individuals attempt to either guide others to the right path or intercept the waiting stones to take them for profits.
@@ -40,7 +45,7 @@ Because of the breakdown of many trade routes, climate changes, disease and the 
 - Riley pounced down beside [[Ellowen]] and stole an apple
 - Riley leapt over [[Big Beefy Bob]] and stole [[Big Beefy Bob's Little Orange Hat]]
 - Riley entered the plaza and ran into [[Yvaquis]] and her [[Yvaquis's Former Travelling Party|band of travellers]]
-- Riley goes home and hears from [[Wrensu]] about the [[Elemental Stones]] being transported to the [[Temple to Tolaume]].
+- Riley goes home and hears from [[Campaign 2 - DM Notes/Notable NPCs/Wrensu]] about the [[Elemental Stones]] being transported to the [[Temple to Tolaume]].
 	- Ellowen overhears this.
 - Yvaquis hears about the stones ability to perfectly grind herbs from her travelling party.
 - Wrensu informs Riley that they will need muscle to break into the temple and Riley says he ran into a strong person earlier today.
@@ -94,6 +99,6 @@ Because of the breakdown of many trade routes, climate changes, disease and the 
 		- [[Frank the Rock]]
 	- [[Yvaquis]]
 - [[Yvaquis's Former Travelling Party]]
-- [[Wrensu]]
+- [[Campaign 2 - DM Notes/Notable NPCs/Wrensu]]
 - [[Head of the Arcane]]
 - Guards from the [[Keep of the Aurelian Vale Family in Amphos]]

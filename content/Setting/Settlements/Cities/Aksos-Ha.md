@@ -1,3 +1,8 @@
+---
+title: Aksos-Ha
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Aksos-Ha

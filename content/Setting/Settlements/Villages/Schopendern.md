@@ -1,3 +1,8 @@
+---
+title: Schopendern
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Schopendern

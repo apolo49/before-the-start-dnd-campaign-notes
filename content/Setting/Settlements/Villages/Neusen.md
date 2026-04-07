@@ -1,3 +1,8 @@
+---
+title: Neusen
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Neusen

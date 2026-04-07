@@ -1,3 +1,8 @@
+---
+title: Bargahiroft
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Bargahiroft

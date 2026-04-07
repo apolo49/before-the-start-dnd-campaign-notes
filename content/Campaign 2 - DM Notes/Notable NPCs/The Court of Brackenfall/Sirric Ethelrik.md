@@ -1,3 +1,9 @@
+---
+title: Sirric Ethelrik
+
+password: HIDE_FROM_PLAYERS
+---
+
 >[!infobox|wikipedia]
 ># Sirric Ethelrik
 >_Leader of the Patushepatir_

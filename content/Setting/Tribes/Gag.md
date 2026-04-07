@@ -1,3 +1,8 @@
+---
+title: Gag
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Gag
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Bieiamten|Bieiamten]]
-

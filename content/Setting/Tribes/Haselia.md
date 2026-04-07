@@ -1,3 +1,8 @@
+---
+title: Haselia
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Haselia
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Kusgau|Kusgau]]
-

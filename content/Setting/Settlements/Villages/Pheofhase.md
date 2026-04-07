@@ -1,3 +1,8 @@
+---
+title: Pheofhase
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Pheofhase

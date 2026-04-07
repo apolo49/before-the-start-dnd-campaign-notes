@@ -1,3 +1,8 @@
+---
+title: Thyrada
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Thyrada

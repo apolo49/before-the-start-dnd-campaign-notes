@@ -1,3 +1,8 @@
+---
+title: Rhoda of the Shimmering Moontide
+password: HIDE_FROM_PLAYERS
+---
+
 >[!infobox|wikipedia]
 ># Rhoda
 >_Bard_

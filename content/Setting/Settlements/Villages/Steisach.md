@@ -1,3 +1,8 @@
+---
+title: Steisach
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Steisach

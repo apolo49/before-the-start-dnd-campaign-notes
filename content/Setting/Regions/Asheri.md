@@ -1,3 +1,8 @@
+---
+title: Asheri
+password: HIDE_FROM_PLAYERS
+---
+
 >[!aside|right]
 >![[asheri.webp]]
 >The region of Asheri outlined on a heightmap.

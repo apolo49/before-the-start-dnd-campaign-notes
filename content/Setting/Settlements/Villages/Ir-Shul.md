@@ -1,3 +1,8 @@
+---
+title: Ir-Shul
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Ir-Shul

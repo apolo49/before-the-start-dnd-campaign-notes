@@ -1,3 +1,8 @@
+---
+title: Sasbachia
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Sasbachia
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Hertenwe|Hertenwe]]
-

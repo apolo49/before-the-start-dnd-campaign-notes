@@ -1,3 +1,8 @@
+---
+title: Taluta
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Taluta
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Ber|Ber]]
-

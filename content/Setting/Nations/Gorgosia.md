@@ -1,3 +1,8 @@
+---
+title: Gorgosia
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Gorgosia
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Porigost|Porigost]]
-

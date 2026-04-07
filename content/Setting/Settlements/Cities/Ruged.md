@@ -1,3 +1,8 @@
+---
+title: Ruged
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Ruged

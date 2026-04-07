@@ -1,3 +1,8 @@
+---
+title: Vahan
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Vahan

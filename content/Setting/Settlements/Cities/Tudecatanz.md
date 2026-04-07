@@ -1,3 +1,8 @@
+---
+title: Tudecatanz
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Tudecatanz

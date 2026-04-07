@@ -1,3 +1,8 @@
+---
+title: Angadonar
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Angadonar

@@ -1,3 +1,8 @@
+---
+title: Qodshahr
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Qodshahr

@@ -1,3 +1,8 @@
+---
+title: Session 3 - The Path
+password: HIDE_FROM_PLAYERS
+---
+
 # Premise
 
 The party continue their journey north toward [[Aklebe]], traveling through quiet countryside marked by ancient graves, forgotten stonework, and signs that the land itself holds deep elemental significance.

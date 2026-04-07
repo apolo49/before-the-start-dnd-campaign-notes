@@ -1,3 +1,8 @@
+---
+title: Chadahen
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Chadahen

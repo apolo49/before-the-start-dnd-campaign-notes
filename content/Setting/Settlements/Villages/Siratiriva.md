@@ -1,3 +1,8 @@
+---
+title: Siratiriva
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Siratiriva

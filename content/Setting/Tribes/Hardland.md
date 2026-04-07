@@ -1,3 +1,8 @@
+---
+title: Hardland
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Hardland
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Geimons|Geimons]]
-

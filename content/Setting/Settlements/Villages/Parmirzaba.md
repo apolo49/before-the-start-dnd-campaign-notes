@@ -1,3 +1,8 @@
+---
+title: Parmirzaba
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Parmirzaba

@@ -1,3 +1,8 @@
+---
+title: Akrossia
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Akrossia
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Henaidau|Henaidau]]
-

@@ -1,3 +1,8 @@
+---
+title: 793 IOG - Grudikali Becomes Emperor of Solara
+password: HIDE_FROM_PLAYERS
+---
+
 On the [[Dating|21st of Hanomi 793 IOG]], [[Rai Puli Ailushi Freidaki|Garikili]] was [[793 IOG - Assassination of Garikili|assassinated in a conspiracy]] involving a member of the [[Solaris Vanguard]] and several [[Senate of Solara|senators]]. In the chaos following the murder, [[Atrinoki Grudikali Puli Ailushi Freidaki|Grudikali]] witnessed the [[Freidburg Guard]] cut down several uninvolved noblemen, including many of his friends. He fled to the palace to hide. A member of the [[Solaris Vanguard]] found him and proclaimed him [[Prinosum Solauni]]. Grudikali was spirited away to the camp of the Solaris Vanguard and put under their protection.
 
 The Senate met and debated a change of government, but this devolved into an argument over which of them would be the new _Prinosum Solauni_. When they heard of the Vanguards' claim, they demanded that Grudikali be delivered to them for approval, but he refused, sensing the danger that would come with complying. Eventually the Senate was forced to give in. In return, Grudikali granted a general amnesty, although he executed a few junior officers involved in the conspiracy. The actual assassins, were put to death to ensure Grudikali's own safety and as a future deterrent.

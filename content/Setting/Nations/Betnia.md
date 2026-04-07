@@ -1,3 +1,8 @@
+---
+title: Betnia
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Betnia
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Carthaginian|Carthaginian]]
-

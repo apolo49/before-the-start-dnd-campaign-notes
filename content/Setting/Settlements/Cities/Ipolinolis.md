@@ -1,3 +1,8 @@
+---
+title: Ipolinolis
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Ipolinolis

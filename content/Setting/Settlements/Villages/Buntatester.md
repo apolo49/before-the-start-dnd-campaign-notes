@@ -1,3 +1,8 @@
+---
+title: Buntatester
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Buntatester

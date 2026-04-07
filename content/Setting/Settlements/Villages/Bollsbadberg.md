@@ -1,3 +1,8 @@
+---
+title: Bollsbadberg
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Bollsbadberg

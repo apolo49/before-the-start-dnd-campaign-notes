@@ -1,3 +1,8 @@
+---
+title: Latobrigi
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Latobrigi
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Cedi|Cedi]]
-

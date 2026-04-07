@@ -1,3 +1,8 @@
+---
+title: Buged
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Buged

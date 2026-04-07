@@ -1,3 +1,8 @@
+---
+title: Kerzarajle
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Kerzarajle

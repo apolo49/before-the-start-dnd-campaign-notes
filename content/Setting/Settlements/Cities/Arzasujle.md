@@ -1,3 +1,8 @@
+---
+title: Arzasujle
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Arzasujle

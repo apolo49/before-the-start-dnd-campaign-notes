@@ -1,3 +1,8 @@
+---
+title: Paraleleut
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Paraleleut

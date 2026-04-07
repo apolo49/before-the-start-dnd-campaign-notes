@@ -1,3 +1,8 @@
+---
+title: Ebbu
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Ebbu
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Akshan|Akshan]]
-

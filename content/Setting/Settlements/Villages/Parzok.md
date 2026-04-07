@@ -1,3 +1,8 @@
+---
+title: Parzok
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Parzok

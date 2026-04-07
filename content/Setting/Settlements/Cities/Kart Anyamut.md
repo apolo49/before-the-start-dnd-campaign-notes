@@ -1,3 +1,8 @@
+---
+title: Kart Anyamut
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Kart Anyamut

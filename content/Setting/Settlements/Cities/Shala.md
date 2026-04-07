@@ -1,3 +1,8 @@
+---
+title: Shala
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Shala

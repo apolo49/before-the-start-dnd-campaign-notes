@@ -1,3 +1,8 @@
+---
+title: Zarim
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Zarim

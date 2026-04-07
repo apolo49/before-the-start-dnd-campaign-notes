@@ -1,3 +1,8 @@
+---
+title: Musis
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Musis
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Pegalion|Pegalion]]
-

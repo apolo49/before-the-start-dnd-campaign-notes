@@ -1,3 +1,8 @@
+---
+title: Thatclesham
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Thatclesham

@@ -1,3 +1,8 @@
+---
+title: Ecbanada
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Ecbanada

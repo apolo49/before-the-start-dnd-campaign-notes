@@ -1,3 +1,8 @@
+---
+title: Melouch
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Melouch

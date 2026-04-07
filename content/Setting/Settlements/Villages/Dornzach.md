@@ -1,3 +1,8 @@
+---
+title: Dornzach
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Dornzach

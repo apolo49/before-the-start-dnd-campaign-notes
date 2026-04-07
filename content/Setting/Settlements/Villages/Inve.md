@@ -1,3 +1,8 @@
+---
+title: Inve
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Inve

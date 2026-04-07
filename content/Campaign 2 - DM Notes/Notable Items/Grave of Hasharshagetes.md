@@ -1,3 +1,8 @@
+---
+title: Grave of Hasharshagetes
+password: HIDE_FROM_PLAYERS
+---
+
 # Text on the Grave
 **Hasharshagetes**
 "He who saw the dawn of an ancient age is now a seed of the night."

@@ -1,3 +1,8 @@
+---
+title: Woubble
+password: HIDE_FROM_PLAYERS
+---
+
 Tiny Ooze, Lawful Good
 
 ![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)

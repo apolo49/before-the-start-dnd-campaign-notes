@@ -1,3 +1,8 @@
+---
+title: Gernstetnau
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Gernstetnau

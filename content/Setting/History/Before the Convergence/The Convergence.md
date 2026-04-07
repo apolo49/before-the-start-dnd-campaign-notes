@@ -8,6 +8,7 @@ aat-render-enabled: true
 timelines:
   - timeline
 aat-event-body: The Convergence was a major historical disaster that took place on 3800 BOG (0 [[Aeia Foundation Calendar|AFC]], by definition) at [[Mount Aemi]], destroying most magical life on the planet, and various human cultures.
+password: HIDE_FROM_PLAYERS
 ---
 ![[the-convergence.webp]]
 

@@ -1,3 +1,8 @@
+---
+title: Llanver
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Llanver

@@ -1,3 +1,8 @@
+---
+title: Traras
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Traras

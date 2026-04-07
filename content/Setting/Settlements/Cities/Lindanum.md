@@ -1,3 +1,8 @@
+---
+title: Lindanum
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Lindanum

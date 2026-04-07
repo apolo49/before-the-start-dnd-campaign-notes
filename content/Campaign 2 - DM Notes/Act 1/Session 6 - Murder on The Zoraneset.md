@@ -1,3 +1,8 @@
+---
+title: Session 6 - Murder on The Zoraneset
+password: HIDE_FROM_PLAYERS
+---
+
 # Premise
 
 The voyage of **[[The Zoraneset]]** turns into a nightmare as the crew discovers the brutal murder of their leader, **Captain [[Mari Shkari]]**. The session is a high-stakes investigation as the party navigates a ship full of suspects, contradictory evidence, and a crew on the brink of mutiny. The mystery deepens with signs of a calculated clean-up and clues pointing toward **[[Dashos]]**, a crew member who had previously gone missing from his watch.

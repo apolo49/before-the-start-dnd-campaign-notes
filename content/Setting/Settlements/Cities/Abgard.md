@@ -1,3 +1,8 @@
+---
+title: Abgard
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Abgard

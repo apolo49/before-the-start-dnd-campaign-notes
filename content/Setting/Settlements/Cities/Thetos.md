@@ -1,3 +1,8 @@
+---
+title: Thetos
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Thetos

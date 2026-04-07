@@ -1,5 +1,6 @@
 ---
 lastSync: Wed Nov 06 2024 18:43:01 GMT+0000 (Greenwich Mean Time)
+password: HIDE_FROM_PLAYERS
 ---
 
 >[!infobox|wikipedia]

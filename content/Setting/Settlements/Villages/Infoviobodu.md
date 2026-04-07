@@ -1,3 +1,8 @@
+---
+title: Infoviobodu
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Infoviobodu

@@ -1,3 +1,8 @@
+---
+title: Raswaldsau
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Raswaldsau

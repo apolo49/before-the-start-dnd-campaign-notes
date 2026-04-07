@@ -1,3 +1,8 @@
+---
+title: Bober
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Bober
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Schaltens|Schaltens]]
-

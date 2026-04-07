@@ -1,3 +1,8 @@
+---
+title: Nafabad
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Nafabad

@@ -1,3 +1,8 @@
+---
+title: Tolymna
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Tolymna
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Athra|Athra]]
-

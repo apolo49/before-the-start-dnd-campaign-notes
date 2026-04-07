@@ -1,3 +1,8 @@
+---
+title: Fertaber
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Fertaber

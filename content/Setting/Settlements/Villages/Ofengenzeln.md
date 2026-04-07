@@ -1,3 +1,8 @@
+---
+title: Ofengenzeln
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Ofengenzeln

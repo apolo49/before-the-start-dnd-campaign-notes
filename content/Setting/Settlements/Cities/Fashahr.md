@@ -1,3 +1,8 @@
+---
+title: Fashahr
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Fashahr

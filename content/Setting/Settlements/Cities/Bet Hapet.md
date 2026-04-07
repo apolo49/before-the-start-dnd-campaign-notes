@@ -1,3 +1,8 @@
+---
+title: Bet Hapet
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Bet Hapet

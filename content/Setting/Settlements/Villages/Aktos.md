@@ -1,3 +1,8 @@
+---
+title: Aktos
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Aktos

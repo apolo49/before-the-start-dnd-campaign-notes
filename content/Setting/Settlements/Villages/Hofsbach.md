@@ -1,3 +1,8 @@
+---
+title: Hofsbach
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Hofsbach

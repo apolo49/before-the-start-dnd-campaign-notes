@@ -1,3 +1,8 @@
+---
+title: Komeshcheh
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Komeshcheh

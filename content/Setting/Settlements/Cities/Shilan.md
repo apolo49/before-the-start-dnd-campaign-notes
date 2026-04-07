@@ -1,3 +1,8 @@
+---
+title: Shilan
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Shilan

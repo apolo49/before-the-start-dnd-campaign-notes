@@ -1,3 +1,8 @@
+---
+title: Varma's Memoirs
+password: HIDE_FROM_PLAYERS
+---
+
 I have been told, by more people than I can now count, that I should write things down. That memory is unreliable. That the past deserves a witness. These are arguments made by people who have not yet understood that the past does not ~~care whether it is witnessed~~ — or rather: the past does not need a witness. It needs to be let go.
 
 I am writing this anyway. Not because I have changed my opinion on the matter. Because I have been alive long enough to know that the things we refuse to do eventually do themselves, whether we sanction them or not.

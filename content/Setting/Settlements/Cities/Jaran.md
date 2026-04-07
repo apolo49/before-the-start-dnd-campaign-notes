@@ -1,3 +1,8 @@
+---
+title: Jaran
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Jaran

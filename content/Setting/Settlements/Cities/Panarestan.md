@@ -1,3 +1,8 @@
+---
+title: Panarestan
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Panarestan

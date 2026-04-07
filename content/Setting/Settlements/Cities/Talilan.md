@@ -1,3 +1,8 @@
+---
+title: Talilan
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Talilan

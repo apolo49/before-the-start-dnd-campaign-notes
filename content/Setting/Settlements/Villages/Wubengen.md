@@ -1,3 +1,8 @@
+---
+title: Wubengen
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Wubengen

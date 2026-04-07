@@ -1,3 +1,8 @@
+---
+title: Throryrolis
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Throryrolis

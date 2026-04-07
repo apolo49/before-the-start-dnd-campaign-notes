@@ -1,3 +1,8 @@
+---
+title: Seriromsar
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Seriromsar

@@ -1,3 +1,8 @@
+---
+title: Duried
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Duried

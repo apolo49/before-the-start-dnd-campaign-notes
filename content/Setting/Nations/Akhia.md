@@ -1,3 +1,8 @@
+---
+title: Akhia
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Akhia
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Thurion|Thurion]]
-

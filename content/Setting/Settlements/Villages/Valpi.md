@@ -1,3 +1,8 @@
+---
+title: Valpi
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Valpi

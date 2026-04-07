@@ -1,3 +1,8 @@
+---
+title: Nuni
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Nuni
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Qatha|Qatha]]
-

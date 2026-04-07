@@ -1,3 +1,8 @@
+---
+title: Telahron
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Telahron

@@ -1,3 +1,8 @@
+---
+title: Lintia
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Lintia

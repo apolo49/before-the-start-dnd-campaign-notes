@@ -1,3 +1,8 @@
+---
+title: Jentan
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Jentan

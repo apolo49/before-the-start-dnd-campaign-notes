@@ -1,3 +1,8 @@
+---
+title: Dorngen
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Dorngen

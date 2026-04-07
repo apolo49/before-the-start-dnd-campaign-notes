@@ -1,3 +1,8 @@
+---
+title: Egailena
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Egailena

@@ -1,3 +1,8 @@
+---
+title: Wild
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Wild
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Hofswald|Hofswald]]
-

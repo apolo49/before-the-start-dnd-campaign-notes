@@ -1,3 +1,8 @@
+---
+title: Stein
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Stein

@@ -1,3 +1,8 @@
+---
+title: Stympia
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Stympia
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Nymphid|Nymphid]]
-

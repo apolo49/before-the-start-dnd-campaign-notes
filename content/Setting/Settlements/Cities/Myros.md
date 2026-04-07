@@ -1,3 +1,8 @@
+---
+title: Myros
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Myros

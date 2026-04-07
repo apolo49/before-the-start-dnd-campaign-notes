@@ -1,3 +1,8 @@
+---
+title: Amphos
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Amphos

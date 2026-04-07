@@ -1,3 +1,8 @@
+---
+title: Bahar
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Bahar

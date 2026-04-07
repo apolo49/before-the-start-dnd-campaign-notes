@@ -1,3 +1,8 @@
+---
+title: Byblarascu
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Byblarascu

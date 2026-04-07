@@ -1,3 +1,8 @@
+---
+title: Odeck
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Odeck

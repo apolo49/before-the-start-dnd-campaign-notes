@@ -1,3 +1,8 @@
+---
+title: Earth
+password: HIDE_FROM_PLAYERS
+---
+
 >[!infobox|wikipedia]
 ># Earth
 >_Element_

@@ -1,3 +1,8 @@
+---
+title: 831 IOG - Tidi Ascends to the Throne of Solara
+password: HIDE_FROM_PLAYERS
+---
+
 [[Anparashi Puli Kondobonioki Ailushi]] died of an infection on [[Dating|3rd of Ebolumi 831 IOG]], and was immediately succeeded by his son [[Anparashi Tidi Puli Kondobonioki Ailushi|Tidi]]. He was the first Solari emperor to succeed his own biological father. Because of his many (alleged) vices, many Solari feared that he would be another [[Mari Grudikali Puli Ailushi Freidaki|Mari]]. Against those expectations, however, Tidi proved to be an effective emperor and was well loved by the population, who praised him highly when they found that he possessed the greatest virtues, instead of vices.
 
 One of his first acts as emperor was to order a halt to trials based on treason charges, which had long plagued the principate. The law of treason, or law of majestas, was originally intended to prosecute those who had corruptly "impaired the people and majesty of Solaum" by any revolutionary action. Under [[Aelius|Ailushi]], however, that custom had been revived and applied to cover slander and libel as well. This led to numerous trials and executions under [[Atrinoki Rai Puli Ailushi|Atrinoki]], [[Rai Puli Ailushi Freidaki|Garikili]], and Mari, and the formation of networks of informers, which terrorised Solara's political system for decades.

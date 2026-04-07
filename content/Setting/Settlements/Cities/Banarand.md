@@ -1,3 +1,8 @@
+---
+title: Banarand
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Banarand

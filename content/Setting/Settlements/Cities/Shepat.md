@@ -1,3 +1,8 @@
+---
+title: Shepat
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Shepat

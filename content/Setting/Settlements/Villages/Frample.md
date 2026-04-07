@@ -1,3 +1,8 @@
+---
+title: Frample
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Frample

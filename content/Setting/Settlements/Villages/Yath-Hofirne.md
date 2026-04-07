@@ -1,3 +1,8 @@
+---
+title: Yath-Hofirne
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Yath-Hofirne

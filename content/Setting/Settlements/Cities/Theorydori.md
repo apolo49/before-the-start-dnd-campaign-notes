@@ -1,3 +1,8 @@
+---
+title: Theorydori
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Theorydori

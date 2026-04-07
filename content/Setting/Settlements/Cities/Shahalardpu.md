@@ -1,3 +1,8 @@
+---
+title: Shahalardpu
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Shahalardpu

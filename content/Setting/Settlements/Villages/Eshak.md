@@ -1,3 +1,8 @@
+---
+title: Eshak
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Eshak

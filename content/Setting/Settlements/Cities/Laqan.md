@@ -1,3 +1,8 @@
+---
+title: Laqan
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Laqan

@@ -1,3 +1,8 @@
+---
+title: Muhwenengen
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Muhwenengen

@@ -1,3 +1,8 @@
+---
+title: Enbach
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Enbach
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Ehrstadt|Ehrstadt]]
-

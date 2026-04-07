@@ -1,3 +1,8 @@
+---
+title: Kehl
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Kehl
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Ehrstadt|Ehrstadt]]
-

@@ -1,3 +1,8 @@
+---
+title: Ronarin
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Ronarin

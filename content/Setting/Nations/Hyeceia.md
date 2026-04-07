@@ -1,3 +1,8 @@
+---
+title: Hyeceia
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Hyeceia
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Lampia|Lampia]]
-

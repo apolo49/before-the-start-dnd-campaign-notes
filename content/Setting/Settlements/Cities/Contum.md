@@ -1,3 +1,8 @@
+---
+title: Contum
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Contum

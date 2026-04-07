@@ -1,3 +1,8 @@
+---
+title: Zeyman
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Zeyman

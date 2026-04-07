@@ -1,3 +1,8 @@
+---
+title: Kipellstad
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Kipellstad

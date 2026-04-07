@@ -1,3 +1,8 @@
+---
+title: Esengen
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Esengen

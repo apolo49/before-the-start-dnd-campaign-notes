@@ -1,3 +1,8 @@
+---
+title: Flodugus
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Flodugus

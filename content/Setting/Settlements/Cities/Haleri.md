@@ -1,3 +1,8 @@
+---
+title: Haleri
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Haleri

@@ -1,3 +1,8 @@
+---
+title: Ihtal
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Ihtal

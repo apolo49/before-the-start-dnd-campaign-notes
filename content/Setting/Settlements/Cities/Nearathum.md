@@ -1,3 +1,8 @@
+---
+title: Nearathum
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Nearathum

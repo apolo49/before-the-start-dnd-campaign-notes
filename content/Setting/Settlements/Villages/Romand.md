@@ -1,3 +1,8 @@
+---
+title: Romand
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Romand

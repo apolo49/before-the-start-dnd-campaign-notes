@@ -1,3 +1,8 @@
+---
+title: Ditishahr
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Ditishahr

@@ -1,3 +1,8 @@
+---
+title: John Ironchest
+password: HIDE_FROM_PLAYERS
+---
+
 >[!infobox|wikipedia]
 ># John Ironchest
 >_FIghter_

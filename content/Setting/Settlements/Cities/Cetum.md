@@ -1,3 +1,8 @@
+---
+title: Cetum
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Cetum

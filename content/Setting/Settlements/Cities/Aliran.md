@@ -1,3 +1,8 @@
+---
+title: Aliran
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Aliran

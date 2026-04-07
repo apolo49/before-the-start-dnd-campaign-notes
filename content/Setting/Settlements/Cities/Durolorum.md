@@ -1,3 +1,8 @@
+---
+title: Durolorum
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Durolorum

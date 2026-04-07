@@ -1,3 +1,8 @@
+---
+title: Barjan
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Barjan

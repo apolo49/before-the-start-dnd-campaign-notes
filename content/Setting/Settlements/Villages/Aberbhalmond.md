@@ -1,3 +1,8 @@
+---
+title: Aberbhalmond
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Aberbhalmond

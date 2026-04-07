@@ -1,3 +1,8 @@
+---
+title: Hardt
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Hardt

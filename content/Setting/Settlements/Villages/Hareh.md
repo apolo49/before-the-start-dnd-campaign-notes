@@ -1,3 +1,8 @@
+---
+title: Hareh
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Hareh

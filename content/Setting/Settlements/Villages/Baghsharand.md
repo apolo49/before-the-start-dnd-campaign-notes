@@ -1,3 +1,8 @@
+---
+title: Baghsharand
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Baghsharand

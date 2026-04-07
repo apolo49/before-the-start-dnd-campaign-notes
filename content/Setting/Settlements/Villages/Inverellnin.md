@@ -1,3 +1,8 @@
+---
+title: Inverellnin
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Inverellnin

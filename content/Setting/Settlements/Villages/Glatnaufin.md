@@ -1,3 +1,8 @@
+---
+title: Glatnaufin
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Glatnaufin

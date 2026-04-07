@@ -1,3 +1,8 @@
+---
+title: Aron
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Aron
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Brico|Brico]]
-

@@ -1,3 +1,8 @@
+---
+title: Rayloshan
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Rayloshan

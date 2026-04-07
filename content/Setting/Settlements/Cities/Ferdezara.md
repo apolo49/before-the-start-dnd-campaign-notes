@@ -1,3 +1,8 @@
+---
+title: Ferdezara
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Ferdezara

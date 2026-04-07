@@ -1,3 +1,8 @@
+---
+title: Solara
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Solara
@@ -290,4 +295,3 @@
 - [[Setting/Cultures/Stympia|Stympia]]
 - [[Setting/Cultures/Thas|Thas]]
 - [[Setting/Cultures/Ephe|Ephe]]
-

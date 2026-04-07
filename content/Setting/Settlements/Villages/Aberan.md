@@ -1,3 +1,8 @@
+---
+title: Aberan
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Aberan

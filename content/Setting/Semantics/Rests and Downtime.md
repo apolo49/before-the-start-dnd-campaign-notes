@@ -1,3 +1,8 @@
+---
+title: Rests and Downtime
+password: HIDE_FROM_PLAYERS
+---
+
 The campaign will have more resting than normal and so the idea of rests (short and long) will change to a modified version of the Gritty Realism rules:
 
 # Short Rest

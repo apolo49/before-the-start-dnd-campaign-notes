@@ -1,3 +1,8 @@
+---
+title: Felishahr
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Felishahr

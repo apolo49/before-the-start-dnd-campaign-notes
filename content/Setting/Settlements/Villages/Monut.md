@@ -1,3 +1,8 @@
+---
+title: Monut
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Monut

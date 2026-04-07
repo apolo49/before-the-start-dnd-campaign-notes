@@ -1,3 +1,8 @@
+---
+title: Yafahal
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Yafahal

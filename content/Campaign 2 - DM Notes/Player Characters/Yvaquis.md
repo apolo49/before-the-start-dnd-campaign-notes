@@ -1,3 +1,8 @@
+---
+title: Yvaquis
+password: HIDE_FROM_PLAYERS
+---
+
 >[!infobox|wikipedia]
 ># Evangeline Marquis, Princess of Eivia
 >_Cleric_

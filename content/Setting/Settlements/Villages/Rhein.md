@@ -1,3 +1,8 @@
+---
+title: Rhein
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Rhein

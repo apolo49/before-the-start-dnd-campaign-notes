@@ -1,3 +1,8 @@
+---
+title: Akhalarynt
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Akhalarynt

@@ -1,3 +1,8 @@
+---
+title: Farzaran
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Farzaran

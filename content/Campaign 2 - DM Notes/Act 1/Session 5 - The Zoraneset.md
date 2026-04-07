@@ -1,3 +1,8 @@
+---
+title: Session 5 - The Zoraneset
+password: HIDE_FROM_PLAYERS
+---
+
 # Premise
 
 The party begins their journey aboard [[The Zoraneset]], the bireme Imperial war dromon won in the previous session. As they navigate the open waters toward the mountains, the party must adjust to life at sea, managing a massive crew and a captain with mysterious motives. The voyage is quickly interrupted by a supernatural fog and a harrowing encounter with a vessel, the vessel of the Prince's ship through the fog. Amidst the chaos of naval combat, [[Big Beefy Bob]]’s connection to the "Dead Dreams" deepens, revealing cryptic warnings from a singular, clear voice that identifies itself as the "First Puli."

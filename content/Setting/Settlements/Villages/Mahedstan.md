@@ -1,3 +1,8 @@
+---
+title: Mahedstan
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Mahedstan

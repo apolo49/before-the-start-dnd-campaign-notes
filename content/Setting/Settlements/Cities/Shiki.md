@@ -1,3 +1,8 @@
+---
+title: Shiki
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Shiki

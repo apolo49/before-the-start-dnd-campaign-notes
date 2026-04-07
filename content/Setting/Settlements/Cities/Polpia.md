@@ -1,3 +1,8 @@
+---
+title: Polpia
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Polpia

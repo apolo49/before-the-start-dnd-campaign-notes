@@ -1,6 +1,7 @@
 ---
 tags:
   - Session
+password: HIDE_FROM_PLAYERS
 ---
 
 # Overview

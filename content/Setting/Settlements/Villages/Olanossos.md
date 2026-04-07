@@ -1,3 +1,8 @@
+---
+title: Olanossos
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Olanossos

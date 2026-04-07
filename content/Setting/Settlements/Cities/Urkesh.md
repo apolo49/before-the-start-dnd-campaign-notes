@@ -1,3 +1,8 @@
+---
+title: Urkesh
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Urkesh

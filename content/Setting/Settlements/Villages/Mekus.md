@@ -1,3 +1,8 @@
+---
+title: Mekus
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Mekus

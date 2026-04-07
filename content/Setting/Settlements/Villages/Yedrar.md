@@ -1,3 +1,8 @@
+---
+title: Yedrar
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Yedrar

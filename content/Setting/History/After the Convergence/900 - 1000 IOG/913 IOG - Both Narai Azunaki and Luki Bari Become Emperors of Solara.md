@@ -1,3 +1,8 @@
+---
+title: 913 IOG - Both Narai Azunaki and Luki Bari Become Emperors of Solara
+password: HIDE_FROM_PLAYERS
+---
+
 After [[Anparashi Puli Dati Alaui Katumokai Anatunoki Ailushi Puos|Anatunoki]] died in [[Dating|913 IOG]], [[Anparashi Puli Narai Azunaki Anatunoki Ailushi|Narai]] was effectively sole ruler of [[Solara|the Empire]]. The formalities of the position would follow. The [[Senate of Solara|Senate]] would soon grant him the name [[Ailushi]] and the title [[Anparashi]], and he would soon be formally elected as [[Brili Shanmi]], chief priest of the official cults. Narai made some show of resistance: it was said that he was 'compelled' to take imperial power. This may have been a genuine 'fear of imperial power'. Narai, with his preference for the philosophic life, found the imperial office unappealing. His training as a Stoic however, had made the choice clear to him that it was his duty.
 
 Although Narai showed no personal affection for [[Anparashi Puli Floligaiki Katumokai Ailushi|Katumokai]] (significantly, he does not thank him in the first book of his), he presumably believed it his duty to enact the man's succession plans. Thus, although the Senate planned to confirm Narai alone, he refused to take office unless [[Anparashi Puli Luki Azunaki Bari Ailushi|Luki]] received equal powers. The Senate accepted, granting Luki the imperium, the tribunician power, and the title Ailushi. Narai became, in official titulature, *Anparashi Puli Narai Azunaki Anatunoki Ailushi*; Luki, forgoing his name Gunodushi and taking Narai's family name Bari, became *Anparashi Puli Luki Azunaki Bari Ailushi*. It was the first time that [[Solara]] was ruled by two emperors.

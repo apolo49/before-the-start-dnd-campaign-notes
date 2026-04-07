@@ -1,3 +1,8 @@
+---
+title: Elan
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Elan

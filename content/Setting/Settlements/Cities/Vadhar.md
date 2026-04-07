@@ -1,3 +1,8 @@
+---
+title: Vadhar
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Vadhar

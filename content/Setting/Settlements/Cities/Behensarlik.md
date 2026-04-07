@@ -1,3 +1,8 @@
+---
+title: Behensarlik
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Behensarlik

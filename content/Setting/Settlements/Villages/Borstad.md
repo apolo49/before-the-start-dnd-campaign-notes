@@ -1,3 +1,8 @@
+---
+title: Borstad
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Borstad

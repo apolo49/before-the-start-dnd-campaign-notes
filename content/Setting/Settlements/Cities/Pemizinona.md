@@ -1,3 +1,8 @@
+---
+title: Pemizinona
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Pemizinona

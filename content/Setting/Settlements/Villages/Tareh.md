@@ -1,3 +1,8 @@
+---
+title: Tareh
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Tareh

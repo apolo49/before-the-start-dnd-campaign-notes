@@ -1,3 +1,8 @@
+---
+title: Strausengen
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Strausengen

@@ -1,3 +1,8 @@
+---
+title: Waldstetten
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Waldstetten

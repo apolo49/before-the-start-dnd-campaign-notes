@@ -1,3 +1,8 @@
+---
+title: Masciagus
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Masciagus

@@ -1,3 +1,8 @@
+---
+title: Steingen
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Steingen

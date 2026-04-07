@@ -1,3 +1,8 @@
+---
+title: Hafstarka
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Hafstarka

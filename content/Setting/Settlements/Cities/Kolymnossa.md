@@ -1,3 +1,8 @@
+---
+title: Kolymnossa
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Kolymnossa

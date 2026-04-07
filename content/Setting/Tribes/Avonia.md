@@ -1,3 +1,8 @@
+---
+title: Avonia
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Avonia
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Inverkei|Inverkei]]
-

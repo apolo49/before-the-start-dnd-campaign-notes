@@ -1,3 +1,8 @@
+---
+title: Talparika
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Talparika

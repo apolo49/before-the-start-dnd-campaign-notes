@@ -1,3 +1,8 @@
+---
+title: Enessa
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Enessa

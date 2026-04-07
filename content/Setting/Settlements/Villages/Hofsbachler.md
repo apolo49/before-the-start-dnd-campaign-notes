@@ -1,3 +1,8 @@
+---
+title: Hofsbachler
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Hofsbachler

@@ -8,4 +8,5 @@ tags:
   - Power-Element
   - Future-Character
   - Tegans-Campaign
+password: HIDE_FROM_PLAYERS
 ---

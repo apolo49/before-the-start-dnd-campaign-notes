@@ -1,3 +1,8 @@
+---
+title: Armour of Kerekamas
+password: HIDE_FROM_PLAYERS
+---
+
 Location: [[Ebbu]], [[Tomb of Kerekamas]]
 AC: 18
 Weight: 45

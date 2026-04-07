@@ -1,6 +1,7 @@
 ---
 title: Story
 TravelCalc: 19.997333688841486
+password: HIDE_FROM_PLAYERS
 ---
 # Overview
 This page contains the links to all the story points and sessions. The entire story has been planned out here, but not railroaded.

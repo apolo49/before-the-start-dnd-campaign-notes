@@ -1,3 +1,8 @@
+---
+title: Dorngen
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Dorngen
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Steinbach|Steinbach]]
-

@@ -1,3 +1,8 @@
+---
+title: Cambhurabert
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Cambhurabert

@@ -1,3 +1,8 @@
+---
+title: Kumbhojain
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Kumbhojain

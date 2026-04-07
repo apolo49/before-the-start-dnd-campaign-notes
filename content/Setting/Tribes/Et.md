@@ -1,3 +1,8 @@
+---
+title: Et
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Et
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Hofswald|Hofswald]]
-

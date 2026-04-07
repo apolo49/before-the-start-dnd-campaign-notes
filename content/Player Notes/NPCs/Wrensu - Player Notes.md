@@ -1,0 +1,11 @@
+---
+title: Wrensu
+---
+
+>[!infobox|wikipedia]
+># Wrensu
+>_Rogue NPC_
+>INSERT IMAGE HERE
+>Born: [[Dating|9th of Flami 1737 IOG]] (age 44), [[Amphos]], [[Eastern Solaran Empire]]
+>Background: Criminal
+>Race: Goliath

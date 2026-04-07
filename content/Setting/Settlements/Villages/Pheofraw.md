@@ -1,3 +1,8 @@
+---
+title: Pheofraw
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Pheofraw

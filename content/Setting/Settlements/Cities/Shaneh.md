@@ -1,3 +1,8 @@
+---
+title: Shaneh
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Shaneh

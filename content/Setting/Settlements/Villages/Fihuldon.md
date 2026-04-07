@@ -1,3 +1,8 @@
+---
+title: Fihuldon
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Fihuldon

@@ -1,3 +1,8 @@
+---
+title: Shahabas
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Shahabas

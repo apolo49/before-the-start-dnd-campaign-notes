@@ -1,3 +1,8 @@
+---
+title: Hamerston
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Hamerston

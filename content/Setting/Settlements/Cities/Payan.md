@@ -1,3 +1,8 @@
+---
+title: Payan
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Payan

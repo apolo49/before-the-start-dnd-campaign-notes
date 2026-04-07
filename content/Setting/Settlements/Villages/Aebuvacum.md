@@ -1,3 +1,8 @@
+---
+title: Aebuvacum
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Aebuvacum

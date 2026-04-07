@@ -1,3 +1,8 @@
+---
+title: Altausium
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Altausium

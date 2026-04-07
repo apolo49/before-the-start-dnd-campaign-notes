@@ -1,3 +1,8 @@
+---
+title: Matanahinka
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Matanahinka

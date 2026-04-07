@@ -1,3 +1,8 @@
+---
+title: Wrensu
+password: HIDE_FROM_PLAYERS
+---
+
 >[!infobox|wikipedia]
 ># Wrensu
 >_Rogue NPC_

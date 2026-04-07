@@ -1,3 +1,8 @@
+---
+title: Lekha
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Lekha

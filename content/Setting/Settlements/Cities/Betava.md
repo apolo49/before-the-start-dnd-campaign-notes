@@ -1,3 +1,8 @@
+---
+title: Betava
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Betava

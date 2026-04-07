@@ -1,3 +1,8 @@
+---
+title: Hearthinnach
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Hearthinnach

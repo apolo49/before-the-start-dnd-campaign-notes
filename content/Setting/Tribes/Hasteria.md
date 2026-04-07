@@ -1,3 +1,8 @@
+---
+title: Hasteria
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Hasteria
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Hertenwe|Hertenwe]]
-

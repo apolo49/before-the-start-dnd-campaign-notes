@@ -1,3 +1,8 @@
+---
+title: Mahlheimberg
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Mahlheimberg

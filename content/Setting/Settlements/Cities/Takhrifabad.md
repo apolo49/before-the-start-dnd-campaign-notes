@@ -1,3 +1,8 @@
+---
+title: Takhrifabad
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Takhrifabad

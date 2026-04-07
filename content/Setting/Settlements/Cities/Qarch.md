@@ -1,3 +1,8 @@
+---
+title: Qarch
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Qarch

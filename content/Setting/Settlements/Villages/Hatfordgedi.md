@@ -1,3 +1,8 @@
+---
+title: Hatfordgedi
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Hatfordgedi

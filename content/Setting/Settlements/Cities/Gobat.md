@@ -1,3 +1,8 @@
+---
+title: Gobat
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Gobat

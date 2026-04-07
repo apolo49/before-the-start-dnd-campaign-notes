@@ -1,3 +1,8 @@
+---
+title: Psycheia
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Psycheia
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Lampia|Lampia]]
-

@@ -1,3 +1,8 @@
+---
+title: Inveria
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Inveria
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Dulegan|Dulegan]]
-

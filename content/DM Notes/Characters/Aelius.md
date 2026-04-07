@@ -10,4 +10,5 @@ tags:
   - Fire-Element
   - Circle-of-Elements
   - NPC
+password: HIDE_FROM_PLAYERS
 ---

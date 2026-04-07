@@ -1,3 +1,8 @@
+---
+title: Zranzarand
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Zranzarand

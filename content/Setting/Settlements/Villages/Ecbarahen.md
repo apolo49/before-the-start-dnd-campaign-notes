@@ -1,3 +1,8 @@
+---
+title: Ecbarahen
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Ecbarahen

@@ -1,3 +1,8 @@
+---
+title: Braronvegyn
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Braronvegyn
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Indyrgow|Indyrgow]]
-

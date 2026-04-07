@@ -1,3 +1,8 @@
+---
+title: Renchlin
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Renchlin

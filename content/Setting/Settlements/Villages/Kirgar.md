@@ -1,3 +1,8 @@
+---
+title: Kirgar
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Kirgar

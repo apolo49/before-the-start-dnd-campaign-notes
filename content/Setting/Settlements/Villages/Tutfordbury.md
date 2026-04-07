@@ -1,3 +1,8 @@
+---
+title: Tutfordbury
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Tutfordbury

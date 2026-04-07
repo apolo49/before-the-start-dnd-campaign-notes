@@ -1,3 +1,8 @@
+---
+title: Dararatigha
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Dararatigha

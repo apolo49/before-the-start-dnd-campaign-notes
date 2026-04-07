@@ -1,3 +1,8 @@
+---
+title: Aman
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Aman

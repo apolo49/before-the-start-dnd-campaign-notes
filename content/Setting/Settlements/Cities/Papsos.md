@@ -1,3 +1,8 @@
+---
+title: Papsos
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Papsos

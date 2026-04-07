@@ -1,3 +1,8 @@
+---
+title: Bhoha
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Bhoha

@@ -1,3 +1,8 @@
+---
+title: Ahafon
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Ahafon
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Duibri|Duibri]]
-

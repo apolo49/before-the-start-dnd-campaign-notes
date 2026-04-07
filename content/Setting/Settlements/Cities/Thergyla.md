@@ -1,3 +1,8 @@
+---
+title: Thergyla
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Thergyla

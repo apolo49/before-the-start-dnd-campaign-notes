@@ -1,3 +1,8 @@
+---
+title: Wutach
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Wutach

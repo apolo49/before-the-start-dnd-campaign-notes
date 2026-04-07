@@ -1,3 +1,8 @@
+---
+title: Nabidieh
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Nabidieh

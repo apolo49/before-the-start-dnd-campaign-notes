@@ -1,3 +1,8 @@
+---
+title: Tabashabuma
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Tabashabuma

@@ -1,3 +1,8 @@
+---
+title: 820 IOG - Sharini Zulbiti Kalpi is Proclaimed Emperor
+password: HIDE_FROM_PLAYERS
+---
+
 On the [[Dating|4th of Narimi 820 IOG]], the governor of [[Dulagi Ranbartia]], rebelled against [[Mari Grudikali Puli Ailushi Freidaki|Mari]]'s tax policies. The governor of [[Fraidkiri Makosa]], was ordered to put down the rebellion. In an attempt to gain support from outside his own province, the governor of Dulagi Ranbartia called upon [[Anparashi Sharini Zulbiti Kalpi Puli Ailushi|Sharini Zulbiti Kalpi]], the governor of [[Agrisi Agosika]], to join the rebellion and to declare himself emperor in opposition to Mari.
 
 At the [[Battle of Darzai]] on the 9th of Gamami 820 IOG, The forces from Fraidkiri Makosa easily defeated those of Dulagi Ranbartia, and the governor committed suicide. However, after defeating the rebel, the legions attempted to proclaim their own commander as Emperor. The governor of Fraidkiri refused to act against Mari, but the discontent of the legions of Fraidiki and the continued opposition of Kalpi in Agrisi did not bode well for him. While Mari had retained some control of the situation, support for Kalpi increased despite his being officially declared a "public enemy". The prefect of the [[Solaris Vanguard]], also abandoned his allegiance to the Emperor and came out in support of Kalpi.

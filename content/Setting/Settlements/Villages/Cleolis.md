@@ -1,3 +1,8 @@
+---
+title: Cleolis
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Cleolis

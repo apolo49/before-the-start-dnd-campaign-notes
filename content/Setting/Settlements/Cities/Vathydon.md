@@ -1,3 +1,8 @@
+---
+title: Vathydon
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Vathydon

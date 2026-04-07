@@ -1,3 +1,8 @@
+---
+title: Lochigionver
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Lochigionver

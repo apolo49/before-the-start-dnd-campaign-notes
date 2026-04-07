@@ -1,3 +1,8 @@
+---
+title: Ishak
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Ishak

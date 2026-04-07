@@ -1,3 +1,8 @@
+---
+title: Chafahedsha
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Chafahedsha

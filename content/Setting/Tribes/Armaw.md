@@ -1,3 +1,8 @@
+---
+title: Armaw
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Armaw
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Cabe|Cabe]]
-

@@ -1,3 +1,8 @@
+---
+title: Troriros
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Troriros

@@ -1,3 +1,8 @@
+---
+title: Armasos
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Armasos

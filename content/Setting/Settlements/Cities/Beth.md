@@ -1,3 +1,8 @@
+---
+title: Beth
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Beth

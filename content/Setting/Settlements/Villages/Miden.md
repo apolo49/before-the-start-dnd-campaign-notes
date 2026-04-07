@@ -1,3 +1,8 @@
+---
+title: Miden
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Miden

@@ -1,3 +1,8 @@
+---
+title: Irazveh
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Irazveh

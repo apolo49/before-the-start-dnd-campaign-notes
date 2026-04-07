@@ -1,3 +1,8 @@
+---
+title: Lahrbach
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Lahrbach

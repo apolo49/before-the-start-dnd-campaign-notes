@@ -1,3 +1,8 @@
+---
+title: Braronvegyn
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Braronvegyn

@@ -1,3 +1,8 @@
+---
+title: Segen
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Segen

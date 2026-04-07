@@ -1,3 +1,8 @@
+---
+title: Buhachlen
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Buhachlen

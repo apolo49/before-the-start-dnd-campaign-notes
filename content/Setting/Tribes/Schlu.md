@@ -1,3 +1,8 @@
+---
+title: Schlu
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Schlu
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Steinbach|Steinbach]]
-

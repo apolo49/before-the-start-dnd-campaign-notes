@@ -1,3 +1,8 @@
+---
+title: Tudecarand
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Tudecarand

@@ -1,3 +1,8 @@
+---
+title: Steinzenken
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Steinzenken

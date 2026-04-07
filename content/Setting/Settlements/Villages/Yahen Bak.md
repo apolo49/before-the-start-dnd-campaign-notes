@@ -1,3 +1,8 @@
+---
+title: Yahen Bak
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Yahen Bak

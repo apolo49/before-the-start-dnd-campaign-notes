@@ -1,3 +1,8 @@
+---
+title: Kuldasht
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Kuldasht

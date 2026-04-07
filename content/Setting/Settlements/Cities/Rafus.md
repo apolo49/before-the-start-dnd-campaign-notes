@@ -1,3 +1,8 @@
+---
+title: Rafus
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Rafus

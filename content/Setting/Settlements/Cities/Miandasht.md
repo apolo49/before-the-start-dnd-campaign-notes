@@ -1,3 +1,8 @@
+---
+title: Miandasht
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Miandasht

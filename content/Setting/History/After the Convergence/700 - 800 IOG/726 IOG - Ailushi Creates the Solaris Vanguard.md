@@ -1,3 +1,8 @@
+---
+title: 726 IOG - Ailushi Creates the Solaris Vanguard
+password: HIDE_FROM_PLAYERS
+---
+
 The [[Solaris Vanguard]] was the imperial guard of the Imperial Solari army that served various roles for the Solari emperor including being a bodyguard unit, counterintelligence, crowd control and gathering military intelligence.
 
 For three centuries, the guards of the Solari emperor were also known for their palace intrigues, by whose influence upon imperial politics the members of the Vanguard could overthrow an emperor and then proclaim his successor as the new [[Puli]] of [[Solara]].

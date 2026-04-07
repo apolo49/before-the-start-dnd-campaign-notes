@@ -1,3 +1,8 @@
+---
+title: Bushahr
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Bushahr

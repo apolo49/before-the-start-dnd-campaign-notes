@@ -1,3 +1,8 @@
+---
+title: Abercasthin
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Abercasthin

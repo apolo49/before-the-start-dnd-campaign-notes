@@ -1,3 +1,8 @@
+---
+title: Achicia
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Achicia
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Invermayfi|Invermayfi]]
-

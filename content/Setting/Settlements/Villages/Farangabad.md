@@ -1,3 +1,8 @@
+---
+title: Farangabad
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Farangabad

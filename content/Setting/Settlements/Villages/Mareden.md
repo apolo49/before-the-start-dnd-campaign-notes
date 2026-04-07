@@ -1,3 +1,8 @@
+---
+title: Mareden
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Mareden

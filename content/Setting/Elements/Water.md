@@ -1,3 +1,8 @@
+---
+title: Water
+password: HIDE_FROM_PLAYERS
+---
+
 >[!infobox|wikipedia]
 ># Water
 >_Element_

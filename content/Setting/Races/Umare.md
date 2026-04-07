@@ -1,3 +1,8 @@
+---
+title: Umare
+password: HIDE_FROM_PLAYERS
+---
+
 # Species Details
 
 Only existing in [[Mareden]] by means of exposure to [[Walmare]], the __Umare__ are a solitary, all-female race of humanoids with equine features. The appear to be stronger, faster and are extremely charismatic.
@@ -31,4 +36,3 @@ Note: This cannot raise an Ability Score beyond 20, remember that the bonus is l
 **Speed Burst:** 3/Day, the Uma can _Dash_ with a Bonus Action. They regain 1 use of this after a Short Rest.
 
 **Sturdy Haul:** If the UMA's Strength Score is at least 13, then their capacity for lifting and carrying is doubled.
-

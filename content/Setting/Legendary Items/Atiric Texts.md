@@ -1,3 +1,8 @@
+---
+title: Atiric Texts
+password: HIDE_FROM_PLAYERS
+---
+
 
 _Translated from [[Solari]] and Aeikas_
 

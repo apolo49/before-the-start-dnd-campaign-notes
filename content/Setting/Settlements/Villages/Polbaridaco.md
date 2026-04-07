@@ -1,3 +1,8 @@
+---
+title: Polbaridaco
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Polbaridaco

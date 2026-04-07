@@ -1,3 +1,8 @@
+---
+title: Rhada
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Rhada

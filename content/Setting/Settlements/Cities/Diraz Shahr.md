@@ -1,3 +1,8 @@
+---
+title: Diraz Shahr
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Diraz Shahr

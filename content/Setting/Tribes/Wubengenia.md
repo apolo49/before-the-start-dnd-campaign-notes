@@ -1,3 +1,8 @@
+---
+title: Wubengenia
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Wubengenia
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Geimons|Geimons]]
-

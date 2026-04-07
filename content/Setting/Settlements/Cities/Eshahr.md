@@ -1,3 +1,8 @@
+---
+title: Eshahr
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Eshahr

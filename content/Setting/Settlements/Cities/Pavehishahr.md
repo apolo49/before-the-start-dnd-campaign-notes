@@ -1,3 +1,8 @@
+---
+title: Pavehishahr
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Pavehishahr

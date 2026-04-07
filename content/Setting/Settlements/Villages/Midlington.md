@@ -1,3 +1,8 @@
+---
+title: Midlington
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Midlington

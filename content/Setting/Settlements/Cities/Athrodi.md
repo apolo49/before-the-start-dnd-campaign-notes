@@ -1,3 +1,8 @@
+---
+title: Athrodi
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Athrodi

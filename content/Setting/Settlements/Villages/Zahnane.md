@@ -1,3 +1,8 @@
+---
+title: Zahnane
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Zahnane

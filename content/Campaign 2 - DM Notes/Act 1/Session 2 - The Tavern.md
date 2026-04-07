@@ -1,3 +1,8 @@
+---
+title: Session 2 - The Tavern
+password: HIDE_FROM_PLAYERS
+---
+
 # Premise
 
 The party take on a small job clearing a tavern storage room of rats in exchange for a promised letter. What appears to be a simple task quickly escalates into excessive violence, improvised magic, and collateral damage to the tavern’s produce.

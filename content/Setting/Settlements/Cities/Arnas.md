@@ -1,3 +1,8 @@
+---
+title: Arnas
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Arnas

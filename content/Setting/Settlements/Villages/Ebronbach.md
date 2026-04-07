@@ -1,3 +1,8 @@
+---
+title: Ebronbach
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Ebronbach

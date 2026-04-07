@@ -1,3 +1,8 @@
+---
+title: Shahrgab
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Shahrgab

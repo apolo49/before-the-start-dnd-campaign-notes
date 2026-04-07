@@ -1,3 +1,8 @@
+---
+title: Zijan
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Zijan

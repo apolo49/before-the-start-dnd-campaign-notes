@@ -1,3 +1,8 @@
+---
+title: Nafushejan
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Nafushejan

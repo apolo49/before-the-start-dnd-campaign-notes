@@ -1,3 +1,8 @@
+---
+title: Araberg
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Araberg

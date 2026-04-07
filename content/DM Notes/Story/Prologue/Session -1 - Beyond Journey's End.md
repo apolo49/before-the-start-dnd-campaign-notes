@@ -9,6 +9,7 @@ tags:
   - Villentiari-Isle
   - Third-Convergence
   - Circle-of-Elements
+password: HIDE_FROM_PLAYERS
 ---
 # Premise
 Players bring their former characters from Tegan's campaign and then get transported to the past after the battle. They land on the last day of [[Solari Calendar|Shumi]] (The last month of the year) 693 [[Dating|IOG]]. Everything is unrecognisable to them. The 20th [[Military of Solara|Rikati]] of [[Solara]] shows up and demands they show their identification as they don't have any they are forced to fight, revealing that they are [[Elementals]], which leads to their capture.

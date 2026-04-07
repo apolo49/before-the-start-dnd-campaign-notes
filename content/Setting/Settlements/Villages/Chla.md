@@ -1,3 +1,8 @@
+---
+title: Chla
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Chla

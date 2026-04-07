@@ -1,3 +1,8 @@
+---
+title: 913 IOG - Anatunoki Puos Dies in Contumi
+password: HIDE_FROM_PLAYERS
+---
+
 In 908 IOG, [[Anparashi Puli Dati Alaui Katumokai Anatunoki Ailushi Puos|Anatunoki Puos]] turned 70. He found it difficult to keep himself upright without stays. He started nibbling on dry bread to give him the strength to stay awake through his morning receptions.
 
 [[Anparashi Puli Narai Azunaki Anatunoki Ailushi|Narai Azunaki]] had already been created consul with Anatunoki in 892, receiving the title of Puli, i.e., heir apparent. As Anatunoki aged, Narai took on more administrative duties. Narai's administrative duties increased again after the death, in 907, of one of Anatunoki's most trusted advisers.

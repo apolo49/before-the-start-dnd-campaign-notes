@@ -1,3 +1,8 @@
+---
+title: Radoreri
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Radoreri

@@ -1,3 +1,8 @@
+---
+title: Zmurfatsa
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Zmurfatsa

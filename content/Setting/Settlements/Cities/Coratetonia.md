@@ -1,3 +1,8 @@
+---
+title: Coratetonia
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Coratetonia

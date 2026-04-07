@@ -1,3 +1,8 @@
+---
+title: Iponiaros
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Iponiaros

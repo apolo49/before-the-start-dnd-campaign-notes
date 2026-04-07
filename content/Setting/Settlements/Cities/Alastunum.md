@@ -1,3 +1,8 @@
+---
+title: Alastunum
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Alastunum

@@ -1,3 +1,8 @@
+---
+title: Takheh
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Takheh

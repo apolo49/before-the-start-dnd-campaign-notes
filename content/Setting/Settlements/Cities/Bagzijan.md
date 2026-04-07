@@ -1,3 +1,8 @@
+---
+title: Bagzijan
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Bagzijan

@@ -1,3 +1,8 @@
+---
+title: Cambri
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Cambri
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Inverkei|Inverkei]]
-

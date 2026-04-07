@@ -1,3 +1,8 @@
+---
+title: Kehamberne
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Kehamberne

@@ -1,3 +1,8 @@
+---
+title: Phoriontion
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Phoriontion

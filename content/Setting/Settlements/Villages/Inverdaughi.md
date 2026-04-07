@@ -1,3 +1,8 @@
+---
+title: Inverdaughi
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Inverdaughi

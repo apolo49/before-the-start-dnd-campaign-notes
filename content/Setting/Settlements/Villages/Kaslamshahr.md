@@ -1,3 +1,8 @@
+---
+title: Kaslamshahr
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Kaslamshahr

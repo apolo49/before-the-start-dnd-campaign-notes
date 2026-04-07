@@ -1,3 +1,8 @@
+---
+title: Rheisenfel
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Rheisenfel

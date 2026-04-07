@@ -1,3 +1,8 @@
+---
+title: Gawria
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Gawria
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Warmo|Warmo]]
-

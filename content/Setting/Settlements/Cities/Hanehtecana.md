@@ -1,3 +1,8 @@
+---
+title: Hanehtecana
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Hanehtecana

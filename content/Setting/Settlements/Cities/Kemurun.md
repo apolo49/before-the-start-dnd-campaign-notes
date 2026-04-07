@@ -1,3 +1,8 @@
+---
+title: Kemurun
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Kemurun

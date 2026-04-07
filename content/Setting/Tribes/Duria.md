@@ -1,3 +1,8 @@
+---
+title: Duria
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Duria
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Ehrstadt|Ehrstadt]]
-

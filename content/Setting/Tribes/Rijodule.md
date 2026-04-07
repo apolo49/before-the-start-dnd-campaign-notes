@@ -1,3 +1,8 @@
+---
+title: Rijodule
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Rijodule
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Duibri|Duibri]]
-

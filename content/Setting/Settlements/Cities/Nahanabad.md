@@ -1,3 +1,8 @@
+---
+title: Nahanabad
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Nahanabad

@@ -1,3 +1,8 @@
+---
+title: Vogtsterbach
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Vogtsterbach

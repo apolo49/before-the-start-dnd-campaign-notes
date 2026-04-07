@@ -1,3 +1,8 @@
+---
+title: Freimel
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Freimel

@@ -1,3 +1,8 @@
+---
+title: Khvormia
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Khvormia

@@ -1,3 +1,8 @@
+---
+title: Trikontos
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Trikontos

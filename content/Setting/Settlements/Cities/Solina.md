@@ -1,3 +1,8 @@
+---
+title: Solina
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Solina

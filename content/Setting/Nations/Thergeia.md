@@ -1,3 +1,8 @@
+---
+title: Thergeia
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Thergeia
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Gourgos|Gourgos]]
-

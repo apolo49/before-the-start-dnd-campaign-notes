@@ -1,3 +1,8 @@
+---
+title: Byrian
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Byrian

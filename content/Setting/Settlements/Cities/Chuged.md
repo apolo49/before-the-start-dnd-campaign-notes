@@ -1,3 +1,8 @@
+---
+title: Chuged
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Chuged

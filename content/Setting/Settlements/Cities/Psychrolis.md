@@ -1,3 +1,8 @@
+---
+title: Psychrolis
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Psychrolis

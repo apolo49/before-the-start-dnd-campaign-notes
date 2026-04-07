@@ -1,3 +1,8 @@
+---
+title: Bainabhodaha
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Bainabhodaha

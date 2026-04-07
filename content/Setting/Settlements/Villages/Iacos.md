@@ -1,3 +1,8 @@
+---
+title: Iacos
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Iacos

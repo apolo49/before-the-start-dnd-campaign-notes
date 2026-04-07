@@ -1,3 +1,8 @@
+---
+title: Bamvar
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Bamvar

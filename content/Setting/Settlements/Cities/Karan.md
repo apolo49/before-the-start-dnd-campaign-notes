@@ -1,3 +1,8 @@
+---
+title: Karan
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Karan

@@ -1,3 +1,8 @@
+---
+title: Dereylosham
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Dereylosham

@@ -1,3 +1,8 @@
+---
+title: Breit
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Breit

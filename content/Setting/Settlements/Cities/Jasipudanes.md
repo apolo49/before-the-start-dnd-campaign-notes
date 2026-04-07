@@ -1,3 +1,8 @@
+---
+title: Jasipudanes
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Jasipudanes

@@ -1,3 +1,8 @@
+---
+title: Pegenland
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Pegenland
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Hertenwe|Hertenwe]]
-

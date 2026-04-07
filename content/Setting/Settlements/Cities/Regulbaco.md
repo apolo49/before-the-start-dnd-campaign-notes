@@ -1,3 +1,8 @@
+---
+title: Regulbaco
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Regulbaco

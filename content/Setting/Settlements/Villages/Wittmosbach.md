@@ -1,3 +1,8 @@
+---
+title: Wittmosbach
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Wittmosbach

@@ -1,3 +1,8 @@
+---
+title: Saricanak
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Saricanak

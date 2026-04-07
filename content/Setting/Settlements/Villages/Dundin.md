@@ -1,3 +1,8 @@
+---
+title: Dundin
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Dundin

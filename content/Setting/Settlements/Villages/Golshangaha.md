@@ -1,3 +1,8 @@
+---
+title: Golshangaha
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Golshangaha

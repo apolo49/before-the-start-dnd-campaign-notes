@@ -1,3 +1,8 @@
+---
+title: Firan
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Firan

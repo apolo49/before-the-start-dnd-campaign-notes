@@ -1,3 +1,8 @@
+---
+title: Alaritis
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Alaritis

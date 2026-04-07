@@ -1,3 +1,8 @@
+---
+title: Ashahrmirjo
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Ashahrmirjo

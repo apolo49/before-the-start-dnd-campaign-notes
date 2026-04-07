@@ -1,3 +1,8 @@
+---
+title: Delphiri
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Delphiri

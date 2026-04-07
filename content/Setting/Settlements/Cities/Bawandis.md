@@ -1,3 +1,8 @@
+---
+title: Bawandis
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Bawandis

@@ -1,3 +1,8 @@
+---
+title: Taresterham
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Taresterham

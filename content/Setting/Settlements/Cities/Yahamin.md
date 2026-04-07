@@ -1,3 +1,8 @@
+---
+title: Yahamin
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Yahamin

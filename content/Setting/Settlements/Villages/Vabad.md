@@ -1,3 +1,8 @@
+---
+title: Vabad
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Vabad

@@ -1,3 +1,8 @@
+---
+title: Nymphosme
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Nymphosme

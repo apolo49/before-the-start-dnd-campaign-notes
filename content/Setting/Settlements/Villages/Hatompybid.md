@@ -1,3 +1,8 @@
+---
+title: Hatompybid
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Hatompybid

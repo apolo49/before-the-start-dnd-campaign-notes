@@ -1,3 +1,8 @@
+---
+title: Vaboleshad
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Vaboleshad

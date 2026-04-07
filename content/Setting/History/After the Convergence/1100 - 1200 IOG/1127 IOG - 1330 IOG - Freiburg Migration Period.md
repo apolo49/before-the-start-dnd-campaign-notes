@@ -1,3 +1,8 @@
+---
+title: 1127 IOG - 1330 IOG - Freiburg Migration Period
+password: HIDE_FROM_PLAYERS
+---
+
 **The Freiburg Migration Period**, Also known as the **Barbaric Migration Period** to people within the empire of [[Solara]], was a period in history marked by large scale migrations of [[Freiburg]] peoples that saw the [[Fall of the Western Solaran Empire|fall of the Western Solaran Empire]] and the settlement of Freiburg peoples in its former territory leading to the establishment of post-imperial kingdoms there.
 
 The term refers to the important role played by the migration, invasion, and settlement of various tribes, notably the [[Bieiamten]], [[Lieden]], [[Ehrstadt]], [[Gag]], [[Briler]], [[Hus]], [[Bleduro]] within or into the territories of the continent of [[Shul]] as a whole and of the [[Western Solaran Empire]] in particular. Various factors contributed to this phenomenon of migration and invasion.

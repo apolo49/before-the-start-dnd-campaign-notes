@@ -1,3 +1,8 @@
+---
+title: Niraz
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Niraz

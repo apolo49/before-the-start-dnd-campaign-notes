@@ -1,3 +1,8 @@
+---
+title: Konar
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Konar

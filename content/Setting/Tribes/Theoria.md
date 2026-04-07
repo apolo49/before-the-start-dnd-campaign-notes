@@ -1,3 +1,8 @@
+---
+title: Theoria
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Theoria
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Duibri|Duibri]]
-

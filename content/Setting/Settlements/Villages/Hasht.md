@@ -1,3 +1,8 @@
+---
+title: Hasht
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Hasht

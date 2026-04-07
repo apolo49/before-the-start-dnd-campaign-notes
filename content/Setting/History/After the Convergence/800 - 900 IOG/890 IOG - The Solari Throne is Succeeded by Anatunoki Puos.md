@@ -1,3 +1,8 @@
+---
+title: 890 IOG - The Solari Throne is Succeeded by Anatunoki Puos
+password: HIDE_FROM_PLAYERS
+---
+
 After acquiring much favor with [[Anparashi Puli Floligaiki Katumokai Ailushi|Katumokai]], who adopted him as his son and successor on [[Dating|25th of Solumi, 890 IOG]], after the death of his first adopted son [[Luki Alaui Puli]], on the condition that [[Anparashi Puli Dati Alaui Katumokai Anatunoki Ailushi Puos|Anatunoki]] would in turn adopt [[Narai Anani Bari]], the son of his wife's brother, and Luki, son of Luki Alaui, who afterwards became the emperors [[Anparashi Puli Narai Azunaki Anatunoki Ailushi|Nariai Azunaki]] and [[Anparashi Puli Luki Azunaki Bari Ailushi|Luki Bari]]. He also adopted (briefly) the name *Anparashi Dati Alaui Puli Anatunoki*, in preparation for his rule.
 
 On his accession, Anatunoki's name and style became *Anparashi Puli Dati Alaui Katumokai Anatunoki Ailushi*. One of his first acts as emperor was to persuade the [[Senate of Solara|Senate]] to grant divine honours to Katumokai, which they had at first refused; his efforts to persuade the Senate to grant these honours is the most likely reason given for his title of Puos (dutiful in affection).

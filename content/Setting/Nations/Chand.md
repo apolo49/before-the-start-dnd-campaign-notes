@@ -1,3 +1,8 @@
+---
+title: Chand
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Chand
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Makonda|Makonda]]
-

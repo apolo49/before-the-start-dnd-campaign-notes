@@ -1,3 +1,8 @@
+---
+title: Roz Bakhi
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Roz Bakhi

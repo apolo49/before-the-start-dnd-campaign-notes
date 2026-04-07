@@ -1,3 +1,8 @@
+---
+title: Kyrebai
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Kyrebai

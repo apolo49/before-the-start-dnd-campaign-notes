@@ -7,5 +7,6 @@ aat-render-enabled: true
 timelines:
   - timeline
 aat-event-body: After [[The Convergence]], the great sages travelled the land and built [[Obelisks]] to guard the [[Elemental Shards]] and prevent them from triggering another [[Second Convergence|Convergence]]
+password: HIDE_FROM_PLAYERS
 ---
 ![[construction-of-the-obelisks.png]]

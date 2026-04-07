@@ -1,3 +1,8 @@
+---
+title: Shustun
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Shustun

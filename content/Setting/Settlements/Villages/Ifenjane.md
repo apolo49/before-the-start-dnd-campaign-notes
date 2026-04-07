@@ -1,3 +1,8 @@
+---
+title: Ifenjane
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Ifenjane

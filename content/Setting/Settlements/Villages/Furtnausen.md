@@ -1,3 +1,8 @@
+---
+title: Furtnausen
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Furtnausen

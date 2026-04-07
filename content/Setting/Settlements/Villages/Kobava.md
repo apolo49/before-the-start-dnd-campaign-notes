@@ -1,3 +1,8 @@
+---
+title: Kobava
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Kobava

@@ -1,3 +1,8 @@
+---
+title: Amphyreum
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Amphyreum

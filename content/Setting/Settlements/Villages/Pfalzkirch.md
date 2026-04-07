@@ -1,3 +1,8 @@
+---
+title: Pfalzkirch
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Pfalzkirch

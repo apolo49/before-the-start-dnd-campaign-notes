@@ -1,3 +1,8 @@
+---
+title: Launum
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Launum

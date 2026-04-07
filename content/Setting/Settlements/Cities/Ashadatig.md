@@ -1,3 +1,8 @@
+---
+title: Ashadatig
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Ashadatig

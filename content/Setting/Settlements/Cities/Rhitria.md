@@ -1,3 +1,8 @@
+---
+title: Rhitria
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Rhitria

@@ -1,3 +1,7 @@
+---
+title: Manuscript on Tabaxi
+password: HIDE_FROM_PLAYERS
+---
 *\[All dashes are burnt off or omitted pieces of text\]*
 # On the - origin and - dispositio- people- taba-
 

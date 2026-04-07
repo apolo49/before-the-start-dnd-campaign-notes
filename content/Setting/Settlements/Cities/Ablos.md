@@ -1,3 +1,8 @@
+---
+title: Ablos
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Ablos

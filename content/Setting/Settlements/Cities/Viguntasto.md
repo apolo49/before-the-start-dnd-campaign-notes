@@ -1,3 +1,8 @@
+---
+title: Viguntasto
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Viguntasto

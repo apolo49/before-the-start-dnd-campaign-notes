@@ -1,3 +1,8 @@
+---
+title: Lenerurum
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Lenerurum

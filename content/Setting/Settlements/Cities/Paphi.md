@@ -1,3 +1,8 @@
+---
+title: Paphi
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Paphi

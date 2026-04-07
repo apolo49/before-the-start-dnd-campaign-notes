@@ -1,3 +1,8 @@
+---
+title: Kelah-Tukish
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Kelah-Tukish

@@ -1,3 +1,8 @@
+---
+title: Mupakle
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Mupakle

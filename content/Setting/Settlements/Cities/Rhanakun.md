@@ -1,3 +1,8 @@
+---
+title: Rhanakun
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Rhanakun

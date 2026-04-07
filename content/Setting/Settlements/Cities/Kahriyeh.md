@@ -1,3 +1,8 @@
+---
+title: Kahriyeh
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Kahriyeh

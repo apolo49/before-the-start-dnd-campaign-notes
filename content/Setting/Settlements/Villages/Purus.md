@@ -1,3 +1,8 @@
+---
+title: Purus
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Purus

@@ -1,3 +1,8 @@
+---
+title: Ducata
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Ducata

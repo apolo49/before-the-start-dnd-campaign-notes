@@ -1,3 +1,8 @@
+---
+title: Big Beefy Bob
+password: HIDE_FROM_PLAYERS
+---
+
 >[!infobox|wikipedia]
 ># Big Beefy Bob
 >_Fighter/Barbarian/Big Beefy Guy_

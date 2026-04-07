@@ -1,3 +1,8 @@
+---
+title: Lennana
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Lennana

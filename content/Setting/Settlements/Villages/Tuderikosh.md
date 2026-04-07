@@ -1,3 +1,8 @@
+---
+title: Tuderikosh
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Tuderikosh

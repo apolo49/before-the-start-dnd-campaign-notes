@@ -1,3 +1,8 @@
+---
+title: Mdiq
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Mdiq

@@ -1,3 +1,8 @@
+---
+title: Infitowinver
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Infitowinver

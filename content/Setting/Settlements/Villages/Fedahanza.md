@@ -1,3 +1,8 @@
+---
+title: Fedahanza
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Fedahanza

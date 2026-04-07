@@ -1,3 +1,8 @@
+---
+title: Riris
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Riris

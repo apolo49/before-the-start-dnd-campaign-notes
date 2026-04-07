@@ -1,3 +1,8 @@
+---
+title: Averuladsha
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Averuladsha

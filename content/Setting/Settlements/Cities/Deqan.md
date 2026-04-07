@@ -1,3 +1,8 @@
+---
+title: Deqan
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Deqan

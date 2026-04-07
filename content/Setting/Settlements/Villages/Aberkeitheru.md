@@ -1,3 +1,8 @@
+---
+title: Aberkeitheru
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Aberkeitheru

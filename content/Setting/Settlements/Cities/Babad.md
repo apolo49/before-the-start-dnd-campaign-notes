@@ -1,3 +1,8 @@
+---
+title: Babad
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Babad

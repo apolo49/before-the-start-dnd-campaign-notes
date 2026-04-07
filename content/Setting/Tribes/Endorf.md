@@ -1,3 +1,8 @@
+---
+title: Endorf
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Endorf
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Witenter|Witenter]]
-

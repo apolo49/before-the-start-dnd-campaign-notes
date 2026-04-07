@@ -1,3 +1,8 @@
+---
+title: Thurostos
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Thurostos

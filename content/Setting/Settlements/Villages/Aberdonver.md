@@ -1,3 +1,8 @@
+---
+title: Aberdonver
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Aberdonver

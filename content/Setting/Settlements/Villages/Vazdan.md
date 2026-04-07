@@ -1,3 +1,8 @@
+---
+title: Vazdan
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Vazdan

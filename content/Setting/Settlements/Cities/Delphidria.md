@@ -1,3 +1,8 @@
+---
+title: Delphidria
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Delphidria

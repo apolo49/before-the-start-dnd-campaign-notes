@@ -1,3 +1,8 @@
+---
+title: Nushak
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Nushak

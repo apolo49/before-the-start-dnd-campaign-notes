@@ -1,3 +1,8 @@
+---
+title: Fastan
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Fastan

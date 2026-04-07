@@ -1,3 +1,8 @@
+---
+title: Thaphiraca
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Thaphiraca

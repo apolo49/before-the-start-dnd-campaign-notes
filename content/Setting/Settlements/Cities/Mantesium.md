@@ -1,3 +1,8 @@
+---
+title: Mantesium
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Mantesium

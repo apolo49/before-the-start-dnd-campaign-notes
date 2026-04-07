@@ -1,3 +1,8 @@
+---
+title: Enesia
+password: HIDE_FROM_PLAYERS
+---
+
 
 >[!infobox|wikipedia]
 ># Enesia
@@ -38,4 +43,3 @@
 # Cultures in Borders
 
 - [[Setting/Cultures/Thurion|Thurion]]
-
