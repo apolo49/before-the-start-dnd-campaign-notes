@@ -3,11 +3,13 @@ title: Mari Shkari
 ---
 >[!infobox|wikipedia]
 ># Mari Shkari
->_Captain of the Zoraneset_
 >INSERT IMAGE HERE
->Age: Unknown
->Background: Sailor, Soldier
->Race: Grung
+>#### _Captain of the Zoraneset_
+>|||
+>|-|-|
+>|Age|Unknown|
+>|Background|Sailor, Soldier|
+>|Race|Grung|
 
 **Mari Shkari** was the captain of the imperial warship _[[The Zoraneset]]_, overseeing its voyage during the party’s journey across open waters. He was a figure of authority aboard the ship, responsible for command, discipline, and the safety of both crew and passengers.
 

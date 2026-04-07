@@ -6,14 +6,16 @@ title: Riley
 ---
 >[!infobox|wikipedia]
 ># Riley
->_Rogue_
->INSERT IMAGE HERE
->Born: [[Setting/Semantics/Dating/index|16th of Minumi 1762 IOG]] (age 19), [[Amphos]], [[Eastern Solaran Empire]]
->Class: Rogue 3, Thief
->Background: Criminal
->Race: Half-Tabaxi, Tabaxi traits
->Languages: [[Common]] (Fluent when Spoken, Illiterate), [[Aeikas]] (modern) (mostly illiterate, Fluent when Spoken)
->Relatives: [[Wrensu - Player Notes|Wrensu]] (Adoptive father)
+>![[riley.webp|250]]
+>#### _Rogue_
+>|||
+>|-|-|
+>|Born|[[Setting/Semantics/Dating/index\|16th of Minumi 1762 IOG]] (age 19), [[Amphos]], [[Eastern Solaran Empire]]|
+>|Class|Rogue 3, Thief|
+>|Background|Criminal|
+>|Race|Half-Tabaxi, Tabaxi traits|
+>|Languages|[[Common]] (Fluent when Spoken, Illiterate), [[Aeikas]] (modern) (mostly illiterate, Fluent when Spoken)|
+>|Relatives|[[Wrensu - Player Notes\|Wrensu]] (Adoptive father)|
 
 # Backstory
 Riley was born, in a barn, into a poor family and his Tabaxi father was executed for his crimes by the royal family before he was born, and his Human mother went into hiding. Wrensu told him that nobody was left to assist his mother during the birthing process.

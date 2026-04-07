@@ -5,12 +5,14 @@ aliases:
 ---
 >[!infobox|wikipedia]
 ># Mashageta
->_Cleric NPC_
->INSERT IMAGE HERE
->Age: Unknown, appeared around 30
->Background: Traveler
->Race: Firbolg
->Alias: Masha
+![[Mashageta.webp|250]]
+>#### _Cleric NPC_
+>|||
+>|-|-|
+>|Age|Unknown, appeared around 30|
+>|Background|Traveler|
+>|Race|Firbolg|
+>|Alias|Masha|
 
 **Masha** was an ally of the party who was introduced during **Act 1** of the campaign.
 

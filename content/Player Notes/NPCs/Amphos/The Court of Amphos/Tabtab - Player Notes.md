@@ -3,10 +3,12 @@ title: Tabtab
 ---
 >[!infobox|wikipedia]
 ># Tabtab
->_Apothecary_
->INSERT IMAGE HERE
->Age: Appears to be roughly 16
->Race: Half-Tabaxi/Elf
+>![[Tabtab.webp|250]]
+>##### _Apothecary_
+>|||
+>|-|-|
+>|**Age**|Appears to be roughly 16|
+>|**Race**|Half-Tabaxi/Elf|
 
 **Tabtab** is a court-affiliated apothecary known to be in service to [[The Prince - Player Notes|the Prince]], operating within elite political circles. She is recognised by the party as an intelligent, perceptive, and socially dangerous figure with access to sensitive information.
 

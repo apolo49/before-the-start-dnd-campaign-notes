@@ -3,10 +3,12 @@ title: The Prince
 ---
 >[!infobox|wikipedia]
 ># The Prince
->_Prince of Amphos_
->INSERT IMAGE HERE
->Age: Appears to be 20
->Race: Human
+>![[Tukue-Potes.webp|250]]
+>#### _Prince of Amphos_
+>|||
+>|-|-|
+>|**Age**|Appears to be 20|
+>|**Race**|Human|
 
 **The Prince** is an heir to the throne of the [[Solaran Empire]] (often referred to as the _Eastern Solaran Empire_ or _Amphosian Despotate_). Ruling from the capital city of [[Amphos]], he is a central figure in the regime that maintains the laws and prestige of the old Solaran Empire.
 
