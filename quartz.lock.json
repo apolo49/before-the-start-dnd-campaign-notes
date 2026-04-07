@@ -109,6 +109,12 @@
       "commit": "87dd3cec91ce84c3deb0ac36d23958d051b5c2ea",
       "installedAt": "2026-03-23T17:07:06.236Z"
     },
+    "github-flavored-markdown": {
+      "source": "github:quartz-community/github-flavored-markdown",
+      "resolved": "https://github.com/quartz-community/github-flavored-markdown.git",
+      "commit": "05e39edf19c26c57b77029bd42746c50003f9262",
+      "installedAt": "2026-04-07T14:18:04.603Z"
+    },
     "graph": {
       "source": "github:quartz-community/graph",
       "resolved": "https://github.com/quartz-community/graph.git",
