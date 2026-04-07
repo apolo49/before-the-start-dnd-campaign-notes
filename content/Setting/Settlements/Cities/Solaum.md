@@ -9,7 +9,7 @@ password: HIDE_FROM_PLAYERS
 >###### Capital City
 >Country: [[Setting/Nations/Solara|Solara]]
 >
->Established: 0 [[Dating|IOG]]
+>Established: 0 [[Setting/Semantics/Dating/index|IOG]]
 >Founded By: [[Arksi Soli]]
 >
 >Area: 12km<sup>2</sup>

@@ -18,7 +18,7 @@ The party begins their journey aboard [[The Zoraneset]], the bireme Imperial war
 
 # Story
 
-[[Dating|3rd Hanomi 1782 IOG]], 15:00 - 25:00
+[[Setting/Semantics/Dating/index|3rd Hanomi 1782 IOG]], 15:00 - 25:00
 
 ## Life Aboard The Zoraneset
 

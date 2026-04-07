@@ -7,7 +7,7 @@ In response to the disaster in [[Solaum]] [[Anparashi Puli Kondobonioki Ailushi|
 
 He was the first emperor since [[Aelius|Ailushi]] to appear in [[Admorru]]. While there, he visited the Temple of Zarapi where he reportedly experienced a vision, and he performed healing miracles. He was hailed as pharaoh and proclaimed the son of the creator-deity Anim in the style of the ancient pharaohs, and an incarnation of Zarapi.
 
-Kondobonioki was declared emperor by the [[Senate of Solara]] while he was in [[Admorru]] on [[Dating|16th of Shunmi 821 IOG]]; the Admorru had declared him emperor in the summer prior. In the short-term, administration of the empire was given to Mukiani, who was aided by Kondobonioki's son, [[Anparashi Puli Damashaoi Ailushi|Damashaoi]]. Mukiani started off Kondobonioki's rule with tax reform that was to restore the empire's finances. After Kondobonioki arrived in Solaum in mid-822 IOG, Mukiani continued to press Kondobonioki to collect as many taxes as possible.
+Kondobonioki was declared emperor by the [[Senate of Solara]] while he was in [[Admorru]] on [[Setting/Semantics/Dating/index|16th of Shunmi 821 IOG]]; the Admorru had declared him emperor in the summer prior. In the short-term, administration of the empire was given to Mukiani, who was aided by Kondobonioki's son, [[Anparashi Puli Damashaoi Ailushi|Damashaoi]]. Mukiani started off Kondobonioki's rule with tax reform that was to restore the empire's finances. After Kondobonioki arrived in Solaum in mid-822 IOG, Mukiani continued to press Kondobonioki to collect as many taxes as possible.
 
 Kondobonioki and Mukiani renewed old taxes and instituted new ones, increased the tribute of the provinces, and kept a watchful eye upon the treasury officials.
 

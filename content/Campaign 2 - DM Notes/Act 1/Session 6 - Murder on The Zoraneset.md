@@ -18,7 +18,7 @@ The voyage of **[[The Zoraneset]]** turns into a nightmare as the crew discovers
 
 # Story
 
-[[Dating|4th Hanomi 1782 IOG]], 05:00 - 11:00
+[[Setting/Semantics/Dating/index|4th Hanomi 1782 IOG]], 05:00 - 11:00
 
 ### Discovery of the Captain's Body
 

@@ -22,7 +22,7 @@ It is notable for having the unique resource [[Walmare]] and the only population
 
 # History
 
-Mareden was founded from an earlier mining settlement in 450 [[Dating|IOG]] by [[Horngenhau]] people who ascended the mountains. At the top of these mountains (where Mareden is located), are chromatic crystals the locals call _[[Walmare]]_. This _walmare_ appears to break off into irregular conical shapes and are entirely edible by people, some even describe them as moist. Through gradual exposure to these crystals the people have become human-equine hybrids and disproportionately female.
+Mareden was founded from an earlier mining settlement in 450 [[Setting/Semantics/Dating/index|IOG]] by [[Horngenhau]] people who ascended the mountains. At the top of these mountains (where Mareden is located), are chromatic crystals the locals call _[[Walmare]]_. This _walmare_ appears to break off into irregular conical shapes and are entirely edible by people, some even describe them as moist. Through gradual exposure to these crystals the people have become human-equine hybrids and disproportionately female.
 
 The village was visited by one of [[Atiri]]'s pupils in 474 IOG as there were passing references in the [[Atiric Texts]] to horse-like women in the mountains to the north.
 

@@ -22,7 +22,7 @@ Inside the den, the party encounters [[Masha]], a mysterious firbolg who joins t
 
 # Story
 
-[[Dating|3rd Hanomi 1782 IOG]], 05:30 - 15:00
+[[Setting/Semantics/Dating/index|3rd Hanomi 1782 IOG]], 05:30 - 15:00
 
 ## Morning at the Harbormaster's
 

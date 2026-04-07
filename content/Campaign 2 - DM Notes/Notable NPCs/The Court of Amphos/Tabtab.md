@@ -6,7 +6,7 @@ password: HIDE_FROM_PLAYERS
 ># Tabtab
 >_Apothecary_
 >INSERT IMAGE HERE
->Born: [[Dating|18th of Shumi 1764 IOG]] (age 17), [[Amphos]], [[Eastern Solaran Empire]]
+>Born: [[Setting/Semantics/Dating/index|18th of Shumi 1764 IOG]] (age 17), [[Amphos]], [[Eastern Solaran Empire]]
 >Race: Half-Tabaxi/Elf
 >Relatives: [[Zenshoran Hagashar]] (biological father), [[Riley]] (Half-Brother), Unnamed Courtesan (Biological Mother)
 

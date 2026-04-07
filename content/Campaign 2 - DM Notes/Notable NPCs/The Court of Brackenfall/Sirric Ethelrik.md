@@ -8,7 +8,7 @@ password: HIDE_FROM_PLAYERS
 ># Sirric Ethelrik
 >_Leader of the Patushepatir_
 >INSERT IMAGE HERE
->Born: [[Dating|15th of Shumi 1757 IOG]] (age 24), [[Armth County]], [[Brackenfall]]
+>Born: [[Setting/Semantics/Dating/index|15th of Shumi 1757 IOG]] (age 24), [[Armth County]], [[Brackenfall]]
 >Race: Half-elf, moon-elf
 
 # Biography

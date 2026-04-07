@@ -6,7 +6,7 @@ password: HIDE_FROM_PLAYERS
 This is the story of how John Ironchest joined the party of the Elementals and discovered he is the power elemental. He begins at his mountain home and makes his way south through mountains, forests, towns, villages and rivers to arrive at [[Pithetara]]. This is where he participates in a [[World Bodybuilding Order|WBO]] competition and gets spotted by the elementals in the crowd.
 
 # Session 5.5
-[[Dating|3rd Hanomi 1782 IOG]], 06:00 - 17:00
+[[Setting/Semantics/Dating/index|3rd Hanomi 1782 IOG]], 06:00 - 17:00
 ## Premise
 
 In session 5.5 in his cave home he is met by a WBO envoy, [[Leofric Wordbear]], where he is handed a [[John Ironchest's Letter|letter]]. 
@@ -93,7 +93,7 @@ John is confused but moves on to his next destination in the morning. He finally
 - Hooded Figure in the Woods
 
 # Session 6.5
-[[Dating|4th Hanomi 1782 IOG]]
+[[Setting/Semantics/Dating/index|4th Hanomi 1782 IOG]]
 
 ## Premise
 

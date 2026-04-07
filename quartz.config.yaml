@@ -75,6 +75,13 @@ plugins:
     enabled: true
     options:
       visibility: hidden
+      iterations: 600000
+      passwordField: password
+    order: 900
+    layout:
+      position: body
+      priority: 100
+      display: all
   - source: github:quartz-community/alias-redirects
     enabled: true
   - source: github:quartz-community/content-index

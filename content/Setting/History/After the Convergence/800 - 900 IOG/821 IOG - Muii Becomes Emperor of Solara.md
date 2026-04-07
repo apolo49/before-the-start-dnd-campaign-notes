@@ -3,7 +3,7 @@ title: 821 IOG - Muii Becomes Emperor of Solara
 password: HIDE_FROM_PLAYERS
 ---
 
-[[Anparashi Sharini Zulbiti Kalpi Puli Ailushi|Kalpi]] was killed by the Solaris Vanguard on [[Dating|15th Hanomi 821 IOG]] followed by his allies shortly after. Their heads were placed on poles and [[Anparashi Nariai Muii Puli Ailushi]] was proclaimed emperor.
+[[Anparashi Sharini Zulbiti Kalpi Puli Ailushi|Kalpi]] was killed by the Solaris Vanguard on [[Setting/Semantics/Dating/index|15th Hanomi 821 IOG]] followed by his allies shortly after. Their heads were placed on poles and [[Anparashi Nariai Muii Puli Ailushi]] was proclaimed emperor.
 
 [[Mari Grudikali Puli Ailushi Freidaki|Mari]]'s statues were again set up, his freedmen and household officers reinstalled. The populace acclaimed him as "Mari Muii", although Muii did not appear to like the title.
 

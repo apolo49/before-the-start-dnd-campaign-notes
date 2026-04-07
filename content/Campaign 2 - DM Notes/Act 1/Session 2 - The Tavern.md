@@ -25,7 +25,7 @@ The session transitions the party from survival-level adventuring into political
 
 # Story
 
-[[Dating|2nd Hanomi 1782 IOG]], 06:00 - 12:30
+[[Setting/Semantics/Dating/index|2nd Hanomi 1782 IOG]], 06:00 - 12:30
 
 The party awake at the tavern seeking a letter and are told they must first clear rats from the establishment’s storage room. After unlocking the door, they discover the infestation consists of several giant rats hiding among food crates.
 

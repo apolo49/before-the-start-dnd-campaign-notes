@@ -18,7 +18,7 @@ password: HIDE_FROM_PLAYERS
 
 # Story
 
-[[Dating|1st Ebolumi 1778 IOG - 3rd Ebolumi 1778 IOG]]
+[[Setting/Semantics/Dating/index|1st Ebolumi 1778 IOG - 3rd Ebolumi 1778 IOG]]
 
 ### The Crime
 1st Ebolumi 1778 IOG, 05:00 - 07:30

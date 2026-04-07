@@ -3,7 +3,7 @@ title: 821 IOG - Mulii Commits Suicide
 password: HIDE_FROM_PLAYERS
 ---
 
-[[Dating|On the 1dt of Narimi 821 IOG]], several legions had declared for [[Atni Badipora Fraidaki Anparashi Ailushi|Badipora]] and were already advancing upon [[Asheri]]. The conflict began in earnest when Badipora's forces crossed the [[Albi]] into northern Asheri. [[Anparashi Nariai Muii Puli Ailushi|Mulii]] dispatched forces, including veteran [[Rikati]], such as the [[Rikati XIV Gamana]], which had distinguished itself in the suppression of [[Epponina]]'s revolt in [[Butiani]].
+[[Setting/Semantics/Dating/index|On the 1dt of Narimi 821 IOG]], several legions had declared for [[Atni Badipora Fraidaki Anparashi Ailushi|Badipora]] and were already advancing upon [[Asheri]]. The conflict began in earnest when Badipora's forces crossed the [[Albi]] into northern Asheri. [[Anparashi Nariai Muii Puli Ailushi|Mulii]] dispatched forces, including veteran [[Rikati]], such as the [[Rikati XIV Gamana]], which had distinguished itself in the suppression of [[Epponina]]'s revolt in [[Butiani]].
 
 The decisive engagement occurred at the [[821 IOG - Battle of Viguntasto|Battle of Viguntasto]] on 17th of Minumi 821 IOG. Despite initial successes by some Muliian units, including the capture of a Badiporan eagle standard, the battle resulted in a decisive defeat for Mulii's forces. The [[Solaris Vanguard]], core of Mulii's military strength, performed poorly in the engagement, fleeing before engaging in close combat.
 

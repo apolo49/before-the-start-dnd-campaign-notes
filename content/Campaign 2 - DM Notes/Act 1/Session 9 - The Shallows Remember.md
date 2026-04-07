@@ -3,7 +3,7 @@ title: Session 9 - The Shallows Remember
 password: HIDE_FROM_PLAYERS
 ---
 
-[[Dating|6th Hanomi 1782 IOG]]
+[[Setting/Semantics/Dating/index|6th Hanomi 1782 IOG]]
 
 ## Story
 

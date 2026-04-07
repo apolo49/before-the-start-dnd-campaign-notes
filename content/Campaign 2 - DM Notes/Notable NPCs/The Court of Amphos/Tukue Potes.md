@@ -6,7 +6,7 @@ password: HIDE_FROM_PLAYERS
 ># Tukue Potes
 >_Prince of Amphos, Moon Prince_
 >INSERT IMAGE HERE
->Born: [[Dating|15th of Narimi 1765 IOG]] (age 16), [[Amphos]], [[Eastern Solaran Empire]]
+>Born: [[Setting/Semantics/Dating/index|15th of Narimi 1765 IOG]] (age 16), [[Amphos]], [[Eastern Solaran Empire]]
 >Race: Human
 >Relatives: [[Bardashes]] (Imperial Brother)
 

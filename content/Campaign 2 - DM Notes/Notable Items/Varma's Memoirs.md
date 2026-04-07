@@ -7,7 +7,7 @@ I have been told, by more people than I can now count, that I should write thing
 
 I am writing this anyway. Not because I have changed my opinion on the matter. Because I have been alive long enough to know that the things we refuse to do eventually do themselves, whether we sanction them or not.
 
-I do not know what year it is as I begin. I have not counted years in a very long time. The [[Setting/Cultures/Solari|Solari]] have their [[Dating|calendar]] now — thirteen months, twenty-eight days, anchored to the second resettlement of [[Solaum|a city]] on a river where my people once held court. I find I cannot bring myself to use it. There is something obscene about measuring the world’s age from the moment humans arrived at a place we had already abandoned.
+I do not know what year it is as I begin. I have not counted years in a very long time. The [[Setting/Cultures/Solari|Solari]] have their [[Setting/Semantics/Dating/index|calendar]] now — thirteen months, twenty-eight days, anchored to the second resettlement of [[Solaum|a city]] on a river where my people once held court. I find I cannot bring myself to use it. There is something obscene about measuring the world’s age from the moment humans arrived at a place we had already abandoned.
 
 That is an unkind thought. I will leave it.
 

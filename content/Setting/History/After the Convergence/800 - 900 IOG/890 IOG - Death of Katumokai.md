@@ -3,6 +3,6 @@ title: 890 IOG - Death of Katumokai
 password: HIDE_FROM_PLAYERS
 ---
 
-[[Dating|20th of Ebolumi, 890 IOG]], in his villa near [[Cetum|Cetumi]] at the age of 62, having reigned for 21 years, [[Anparashi Puli Floligaiki Katumokai Ailushi|Katumokai]] dies. Contemporary writers of the time record details of his failing health.
+[[Setting/Semantics/Dating/index|20th of Ebolumi, 890 IOG]], in his villa near [[Cetum|Cetumi]] at the age of 62, having reigned for 21 years, [[Anparashi Puli Floligaiki Katumokai Ailushi|Katumokai]] dies. Contemporary writers of the time record details of his failing health.
 
 He was buried at [[Badauli]], near Cetumi, on an estate that had once belonged to [[Kikari]]. Soon after, his remains were transferred to [[Solaum]] and buried, close to the almost-complete mausoleum. Upon completion of the [[Mausoleum of Katumokai]] in Solaum in 891 IOG by his successor [[Anparashi Puli Dati Alaui Katumokai Anatunoki Ailushi Puos|Anatunoki Puos]], his body was cremated. His ashes were placed there together with those of his wife and his first adopted son, [[Luki Alaui Puli]], who also died in 890 IOG. [[Senate of Solara|The Senate]] had been reluctant to grant Katumokai divine honours; but Anatunoki persuaded them by threatening to refuse the position of Emperor.
