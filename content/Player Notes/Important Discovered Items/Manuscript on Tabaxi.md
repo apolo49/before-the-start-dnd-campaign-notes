@@ -42,7 +42,7 @@ The half-Tabaxi — that is, persons of Tabaxi and human parentage, or Tabaxi an
 
   
 
-# **SECTION III** **—** **On Their Distribution in the Empire and the West**
+# SECTION III – On Their Distribution in the Empire and the West
 
 The Tabaxi are, by any measure, extraordinarily rare in the Empire of solara and in all of Shul. The Bureau’s census of 1770 IOG recorded Two individuals of Tabaxi or part-Tabaxi descent within the city of Amphos itself, this of course does not include the slums; the figure for all territories of the empire combined is estimated at fewer than 10 individuals, though the Bureau acknowledges that this figure is unreliable for reasons elaborated below.
 
