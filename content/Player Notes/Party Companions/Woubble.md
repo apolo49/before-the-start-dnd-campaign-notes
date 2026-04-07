@@ -48,3 +48,13 @@ Actions
  An engulfed creature can try to escape by taking an action to make a DC 8 Strength check. On a success, the creature escapes and enters a space of its choice within 5 feet of Woubble.
 Bonus Actions
  **_Encourage._** Woubble can take the Help action as a bonus action to assist a creature within 30 feet of him.
+
+# Voice Lines
+- bloop bloop :|
+- bloop :( bloop D:
+- bloop bloop :D
+- Bloop! Blup! :O
+- Bloop. Bloop! :[]
+- Bloop Bloooop :o
+- Bloop bloop blooop? :/
+- blooop bluuup... zzz :) zzzz
