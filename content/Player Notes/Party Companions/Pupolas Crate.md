@@ -1,5 +1,7 @@
 ---
 title: Pupolas Crate
+aliases:
+  - Pupolas
 ---
 Tiny Beast, Lawful Good
 

@@ -1,5 +1,7 @@
 ---
 title: Dashos
+aliases:
+  - Das Hos
 ---
 >[!infobox|wikipedia]
 ># Dashos

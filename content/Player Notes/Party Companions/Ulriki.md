@@ -1,5 +1,7 @@
 ---
 title: Ulriki
+aliases:
+  - Old Ricky
 ---
 >[!infobox|wikipedia]
 ># Ulriki

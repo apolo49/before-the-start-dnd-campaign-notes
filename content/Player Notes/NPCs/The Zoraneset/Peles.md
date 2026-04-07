@@ -1,5 +1,7 @@
 ---
 title: Peles
+aliases:
+  - Pez
 ---
 >[!infobox|wikipedia]
 ># Peles
