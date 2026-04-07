@@ -1,5 +1,5 @@
 ---
-Title: Tabtab
+title: Tabtab
 ---
 >[!infobox|wikipedia]
 ># Tabtab
