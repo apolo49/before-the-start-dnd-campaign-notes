@@ -1,6 +1,8 @@
 ---
+aliases:
+  - Big Beefy Bob
+  - Bob
 title: Big Beefy Bob
-password: HIDE_FROM_PLAYERS
 ---
 >[!infobox|wikipedia]
 ># Big Beefy Bob
@@ -9,8 +11,7 @@ password: HIDE_FROM_PLAYERS
 >Born: *Unknown*
 >Class: Fighter 2, Barbarian 1
 >Race: Half-Orc
->Languages: [[Common]] (Illiterate, Fluent when Spoken), [[Aeikas]] (classical and modern) (illiterate, Fluent when Spoken) 
->Relatives: Unnamed Father
+>Languages: [[Common]] (Illiterate, Fluent when Spoken), [[Aeikas]] (classical and modern) (illiterate, Fluent when Spoken)
 >Element: [[Soul]]
 
 # Astragalomancy Prophecy

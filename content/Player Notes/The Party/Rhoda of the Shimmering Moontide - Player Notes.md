@@ -1,6 +1,8 @@
 ---
 title: Rhoda of the Shimmering Moontide
-password: HIDE_FROM_PLAYERS
+aliases:
+  - Rhoda
+  - Rhoda of the Shimmering Moontide
 ---
 >[!infobox|wikipedia]
 ># Rhoda
@@ -10,4 +12,4 @@ password: HIDE_FROM_PLAYERS
 >Class: Bard 3
 >Background: Entertainer
 >Race: Merfairy
->Element: [[Wind]]
+>Element: None

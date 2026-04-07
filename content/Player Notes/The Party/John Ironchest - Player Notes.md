@@ -1,6 +1,9 @@
 ---
+aliases:
+  - John Ironchest
+  - John
+  - Ironchest
 title: John Ironchest
-password: HIDE_FROM_PLAYERS
 ---
 >[!infobox|wikipedia]
 ># John Ironchest
@@ -11,5 +14,4 @@ password: HIDE_FROM_PLAYERS
 >Background: Entertainer
 >Race: Human
 >Languages: [[Common]] (Literate, Fluent when Spoken), [[Aeikas]] (modern) (Literate, Fluent when Spoken) 
->Relatives: Unnamed Father
 >Element: [[Power]]

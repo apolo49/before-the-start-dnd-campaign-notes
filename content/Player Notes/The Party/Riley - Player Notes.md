@@ -1,6 +1,8 @@
 ---
+aliases:
+  - Riley
+  - The Freedom Cat
 title: Riley
-password: HIDE_FROM_PLAYERS
 ---
 >[!infobox|wikipedia]
 ># Riley
@@ -11,13 +13,10 @@ password: HIDE_FROM_PLAYERS
 >Background: Criminal
 >Race: Half-Tabaxi, Tabaxi traits
 >Languages: [[Common]] (Fluent when Spoken, Illiterate), [[Aeikas]] (modern) (mostly illiterate, Fluent when Spoken)
->Relatives: [[Zenshoran Hagashar]] (biological father), [[Tabtab]] (Half-sister), [[Campaign 2 - DM Notes/Notable NPCs/Wrensu|Wrensu]] (Adoptive father), Queen of the Eastern Solaran Empire (mother)
->Element: [[Fire]]
+>Relatives: [[Wrensu - Player Notes|Wrensu]] (Adoptive father)
 
 # Backstory
-Riley was born of an affair between his father, [[Zenshoran Hagashar]], and his mother, the queen of Amphos. His father took him on the day of his birth out to the slums and abandoned him there as to not be discovered. He was laid in a barn next to some valuables. He was later found and adopted by [[Campaign 2 - DM Notes/Notable NPCs/Wrensu|Wrensu]], a goliath criminal who operates within [[Amphos]]. At the time he was linked with an underground revolutionary unit.
-
-As he grew older he was told by Wrensu that he was born, in a barn, into a poor family and that his Tabaxi father was executed for his crimes by the royal family before I was born, and that his Human mother went into hiding. Wrensu told him that nobody was left to assist his mother during the birthing process.
+Riley was born, in a barn, into a poor family and his Tabaxi father was executed for his crimes by the royal family before he was born, and his Human mother went into hiding. Wrensu told him that nobody was left to assist his mother during the birthing process.
 
 When he turned four, Wrensu, a fellow rogue, began to show him how to pickpocket. He practiced the craft for years and by the time he was eight he could do execute the skill near-flawlessly. By the time he turned eleven he got his first knives. These helped him fight off competing thieves and attackers who targeted him and steal for no reason other than personal gain. Around the same age he got his first lute which he devoted himself to religiously.
 

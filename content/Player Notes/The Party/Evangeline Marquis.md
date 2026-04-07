@@ -1,6 +1,10 @@
 ---
+aliases:
+  - Princess of Eivia
+  - Princess Evangeline Marquis
+  - Princess Evangeline Marquis of Eivia
+  - Yvaquis
 title: Yvaquis
-password: HIDE_FROM_PLAYERS
 ---
 >[!infobox|wikipedia]
 ># Evangeline Marquis, Princess of Eivia
@@ -10,8 +14,7 @@ password: HIDE_FROM_PLAYERS
 >Class: Cleric 3
 >Background: Noble
 >Race: Human
->Languages: [[Solari (Language)|Solari]] (classical) (Literate), [[Common]] (Literate, Fluent when Spoken), [[Aeikas]] (classical and modern) (Literate, Fluent when Spoken) 
->Relatives: Unnamed Father
+>Languages: [[Solari (Language)|Solari]] (classical) (Literate), [[Common]] (Literate, Fluent when Spoken), [[Aeikas]] (classical and modern) (Literate, Fluent when Spoken)
 >Element: [[Earth]]
 
 # Astragalomancy Prophecy
