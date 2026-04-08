@@ -9,7 +9,7 @@ Before the Start offers new expansive lore in a world much more expansive than i
 
 # Player Notes
 
-_This is where you look Ciara & everyone else. (More specifically campaign 2 because campaign 1 never happened & the link is dead._
+_This is where you look Ciara & everyone else. (More specifically campaign 2 because campaign 1 never happened & the link is dead so it's useless._
 
 - [[Campaign 1 - Before the Start/Player Notes/index|Campaign 1]]
 - [[Campaign 2 - Shadows of the East/Player Notes/index|Campaign 2]]
