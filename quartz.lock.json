@@ -43,6 +43,12 @@
       "commit": "f5359a93b8f54bba716a4a7a66fe9df4139ea057",
       "installedAt": "2026-04-07T18:05:43.089Z"
     },
+    "comments": {
+      "source": "github:quartz-community/comments",
+      "resolved": "https://github.com/quartz-community/comments.git",
+      "commit": "f7c1ced8359a47fad241b809968105cbc622bc4d",
+      "installedAt": "2026-04-08T00:00:01.626Z"
+    },
     "content-index": {
       "source": "github:quartz-community/content-index",
       "resolved": "https://github.com/quartz-community/content-index.git",

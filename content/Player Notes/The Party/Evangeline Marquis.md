@@ -7,7 +7,7 @@ aliases:
 title: Yvaquis
 ---
 >[!infobox|wikipedia]
-># Evangeline Marquis, Princess of Eivia
+># Evangeline Marquis
 >![[yvaquis.webp|250]]
 >#### _Cleric_
 >|||

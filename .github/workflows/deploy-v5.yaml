@@ -39,7 +39,7 @@ jobs:
         uses: actions/cache@v5
         with:
           path: ~/.bun
-          key: ${{ runner.os }}-bun-${{ hashFiles('**/package-lock.json') }}
+          key: ${{ runner.os }}-bun-${{ hashFiles('**/bun.lockb') }}
           restore-keys: |
             ${{ runner.os }}-bun-
       - name: Cache Quartz plugins
@@ -56,7 +56,7 @@ jobs:
       - name: Check types and style
         run: bun run check
       - name: Build Quartz
-        run: bun run -b quartz/bootstrap-cli.mjs build -v
+        run: bun run -b quartz/bootstrap-cli.mjs build --bundleInfo -v
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v4
         with:

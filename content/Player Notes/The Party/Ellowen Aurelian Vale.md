@@ -8,7 +8,7 @@ aliases:
 >[!infobox|wikipedia]
 ># Ellowen Aurelian Vale of Brackenfall
 >![[ellowen.webp|250]]
->#### _Wizard_, 
+>#### _Wizard_
 >|||
 >|-|-|
 >|Born|[[Setting/Semantics/Dating/index\|8th of Atmi 1758 IOG]] (age 23), [[Wiesen]], [[Duchy of Brackenfall]]|

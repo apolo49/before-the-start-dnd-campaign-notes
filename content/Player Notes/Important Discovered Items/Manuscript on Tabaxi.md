@@ -2,6 +2,7 @@
 title: Manuscript on Tabaxi
 ---
 *\[All dashes are burnt off or omitted pieces of text\]*
+
 # On the - origin and - dispositio- people- taba-
 
 A compendium of Traveller’s accounts, Imperial records, diplomatic correspondence and scholarly conjecture.
@@ -24,7 +25,7 @@ Kallisthenos Haemi – Amphos, 3rd Hanomi, 1779 IO-
 
   
 
-# Section II – On their Origin and Homeland
+## Section II – On their Origin and Homeland
 
 There is a claim that the Tabaxi of the east descended from creatures from before known creation, that must be concluded to be false for we know that we can intermingle among them without judgement, no creature known to man has ever come from before creation by the gods above, may Shuzi be grand beyond all. For we know that as per the legends of the Aeia and the scholars of old tradition claim that all peoples of all lands descend from the Aeia at the foot of Mount Aemi. We know the aeia are the original inhabitors of the land. Whether the tabaxi fall under this or represent some unique separate branch is not a question the writer wishes to adjudicate, having neither the theological prowess, authority or patience for such arguments.
 
@@ -34,7 +35,7 @@ In contrast, the Linhua records of the same period refer to Tabaxi with apparent
 
 \- those lands the hearsay is consistent on several points. - climate is warm, forested, volatile and the land mountainous and islanded. The people live in city-states and war-bands of moderate sizes, no great empires exist, but all pledge allegiance to a central power or war lord. They have no professional armies however and are instead levied with skilled knights between, these have a special name and control land within the islands. They trade extensively with the Daxing but resist subservience to the divine realm.
 
-## On Their Physical Character
+### On Their Physical Character
 
 The Tabaxi are a humanoid people of generally human stature, though tending toward the taller end of human variation. Their most immediately apparent characteristic is their feline morphology: they possess pointed ears set high on the skull, vertical pupils that expand dramatically in low light, retractile claws of limited but functional sharpness, and in many cases a tail of modest length, though this last feature varies considerably between individuals. Their skin is covered in a fine, short fur whose colouration follows the patterns of the great cats — spotted, striped, or solid — in a range from near-white to near-black. Their facial structure is recognisably humanoid, with a slightly lengthened jaw and prominent cheekbones, giving the face a quality that western observers frequently describe as "beautiful in a way that is not quite right."
 
@@ -42,7 +43,7 @@ The half-Tabaxi — that is, persons of Tabaxi and human parentage, or Tabaxi an
 
   
 
-# SECTION III – On Their Distribution in the Empire and the West
+## SECTION III – On Their Distribution in the Empire and the West
 
 The Tabaxi are, by any measure, extraordinarily rare in the Empire of solara and in all of Shul. The Bureau’s census of 1770 IOG recorded Two individuals of Tabaxi or part-Tabaxi descent within the city of Amphos itself, this of course does not include the slums; the figure for all territories of the empire combined is estimated at fewer than 10 individuals, though the Bureau acknowledges that this figure is unreliable for reasons elaborated below.
 
@@ -58,7 +59,7 @@ It would be dishonest to present this history as fully concluded. The present wr
 
   
 
-# SECTION V – On the Half-Tabaxi Races
+## SECTION V – On the Half-Tabaxi Races
 
 A full-blooded Tabaxi in Amphos is exotic; their foreignness is so complete as to inspire a certain cautious deference in some quarters, in the manner that any very unfamiliar thing may forestall easy contempt. The half-Tabaxi inspires no such deference. They are sufficiently familiar to be placed on a social scale, and their placement on that scale tends, in the experience of every observer this work consulted, to be low. They are regarded by those of full human or elven descent as impure. They are regarded, in some cases, by full-blooded Tabaxi as diluted. They are also, crucially, identifiable at a glance as different — which, in a city where being identifiably different has historically carried legal risk, is not an abstract disadvantage.
 
@@ -68,17 +69,17 @@ the Bureau’s position, as established by the Ruling of Bardashpotes, is that h
 
   
 
-# SECTION VI — - Appearance in the Historic-
+## SECTION VI — - Appearance in the Historic-
 
 This section reproduc - f commentary, those entries in the Imperial historical -n which Tabaxi individuals appear by name or description. The list is not long. That is itself a piece of evidence about how this Empire has treated persons who did not fit its categories.
 
-## The Slave Market Records of Itrea
+### The Slave Market Records of Itrea
 
 The city of Itrea — holy city-state, ancient seat of the Aeia tradition, acquired by Solara in the eastern conquests of the 500s IOG — maintained unusually detailed slave market records as a function of its administrative character. These records, preserved in part in the Bureau’s archives, include a number of entries for individuals described as “cat-servants” in the old Republican tongue. The present writer does not know whether these were Tabaxi, half-Tabaxi, or individuals of some entirely different description whose feline characteristics were noted by the record-keeper. Given the rarity of Tabaxi in the western lands even in the height of the Republic, the present writer judges the majority to have been the latter. But the records show that persons of visibly non-human appearance were trafficked through Itrea’s slave markets with some regularity, categorised by their appearance, and sold without any record of their names or origins.
 
 The irony is not lost on the present writer that Itrea — holy city, place of pilgrimage, city where the great philosopher Atiri himself was enslaved — was also a market for persons classified by their bodies as less than persons.
 
-## The Merchant Accounts from As, 1200–1400 IOG
+### The Merchant Accounts from As, 1200–1400 IOG
 
 The surviving merchant accounts from the period of the great overland trade routes through As contain approximately forty references to Tabaxi individuals by name. Of these, twelve are identifiable as the same individual across multiple accounts — a merchant called, in various transliterations, Tzeshiran, Tze-shira, or simply “the Cat of the Eastern Road.” Tzeshiran appears to have operated a trading concern specialising in dyes and medicinal resins between Daxing and the eastern cities of the empire for a period of at least forty years. Multiple account-writers comment on the longevity of the operation and attribute it to either supernatural means or "an uncanny memory for prices and faces that no human merchant could match." Whether Tzeshiran was Tabaxi or half-Tabaxi, male or female, is inconsistently reported across the accounts, which the present writer takes as evidence that western merchants were either genuinely unable to determine these characteristics or found them unimportant to record.
 
