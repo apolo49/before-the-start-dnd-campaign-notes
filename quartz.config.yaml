@@ -236,7 +236,7 @@ plugins:
       linkHeadings: false
     order: 40
   - source: github:quartz-community/comments
-    enabled: false
+    enabled: true
     options:
       provider: giscus
       options:
@@ -244,6 +244,7 @@ plugins:
         repoId: "R_kgDONLsbSg"
         category: "Announcements"
         categoryId: "DIC_kwDONLsbSs4C6VVu"
+        inputPosition: top
     order: 50
     layout:
       position: afterBody
