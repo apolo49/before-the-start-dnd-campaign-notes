@@ -1,6 +1,0 @@
----
-title: 1092 IOG - Division of The Empire of Solara
-password: HIDE_FROM_PLAYERS
----
-
-[[Solara|The Empire of Solara]] was divided between East and West by then ruling Puli: [[Puli Komitani]], creating the Western Solaran Empire and the Eastern Solaran Empire (later [[Amphosian Despotate]]), currently both administered by the same person. The de-facto capital of the Empire of Solara is moved to the city [[Amphos]] where Puli Komitani is investing a great amount of money to improve and develop the city.

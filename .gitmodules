@@ -7,3 +7,6 @@
 [submodule "content/Campaign 1 - Before the Start/DM Notes"]
 	path = content/Campaign 1 - Before the Start/DM Notes
 	url = git@github.com:apolo49/campaign-1-before-the-start-dm-notes.git
+[submodule "content/Setting"]
+	path = content/Setting
+	url = git@github.com:apolo49/the-world-of-tara-setting-information.git

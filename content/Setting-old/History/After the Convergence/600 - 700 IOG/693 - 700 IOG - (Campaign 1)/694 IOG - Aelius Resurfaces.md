@@ -1,8 +1,0 @@
----
-title: 694 IOG - Aelius Resurfaces
-password: HIDE_FROM_PLAYERS
----
-
-[[Aelius]], the [[Fire|fire]] [[Elemental|elemental]] from the original party is found to be working under [[Lai Puli Ozi]] as a [[Centurion]] for the [[1st Rikati of Solara]], which is Lai Puli Ozi's personal Rikati. As someone knowledgeable about the future of [[Solara]] and the city of [[Solaum]] due to his historical affiliation with the [[Solaris Vanguard]] in the future he is also seen as Lai Puli Ozi's advisor. He has been working under him since the day of the execution after muttering a single word to the guard in the prison: "Tsolaumiko" (meaning the vocative form of the name of the god of the city of Solaum, commonly said as a prayer before death). For this act the guard took him to Lai Puli Ozi where they questioned him and replaced him at the execution with an exact magic replica created by students of the [[Atiri Centre of Magical Excellence]]. For his service Lai Puli Ozi promised his adoption after his death and Aelius had a career in politics and military for the rest of his life.
-
-He was discovered by the party of campaign 1 to be alive on the 25th of Ebolumi 694 IOG.
