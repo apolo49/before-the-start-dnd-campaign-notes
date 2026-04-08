@@ -240,11 +240,10 @@ plugins:
     options:
       provider: giscus
       options:
-        repo: apolo49/before-the-start-dnd-campaign-notes
-        repoId: R_kgDONLsbSg
-        category: Announcements
-        categoryId: DIC_kwDONLsbSs4C6VVu
-        inputPosition: top
+        repo: "apolo49/before-the-start-dnd-campaign-notes"
+        repoId: "R_kgDONLsbSg"
+        category: "Announcements"
+        categoryId: "DIC_kwDONLsbSs4C6VVu"
     order: 50
     layout:
       position: afterBody
