@@ -1,0 +1,14 @@
+---
+title: 821 IOG - The Senate of Solara Proclaims Kondobonioki Emperor of Solara
+password: HIDE_FROM_PLAYERS
+---
+
+In response to the disaster in [[Solaum]] [[Anparashi Puli Kondobonioki Ailushi|Kondobioki]] sends grain from [[Campaign 1 - Before the Start/DM Notes/Nations/Admorru]] to Solaum in order to ease the affects of the recent battle, along with an edict assuring he would reverse the laws of [[Mari Grudikali Puli Ailushi Freidaki|Mari]], especially those relating to treason.
+
+He was the first emperor since [[Aelius|Ailushi]] to appear in [[Campaign 1 - Before the Start/DM Notes/Nations/Admorru]]. While there, he visited the Temple of Zarapi where he reportedly experienced a vision, and he performed healing miracles. He was hailed as pharaoh and proclaimed the son of the creator-deity Anim in the style of the ancient pharaohs, and an incarnation of Zarapi.
+
+Kondobonioki was declared emperor by the [[Senate of Solara]] while he was in [[Campaign 1 - Before the Start/DM Notes/Nations/Admorru]] on [[Setting-old/Semantics/Dating/index|16th of Shunmi 821 IOG]]; the Admorru had declared him emperor in the summer prior. In the short-term, administration of the empire was given to Mukiani, who was aided by Kondobonioki's son, [[Anparashi Puli Damashaoi Ailushi|Damashaoi]]. Mukiani started off Kondobonioki's rule with tax reform that was to restore the empire's finances. After Kondobonioki arrived in Solaum in mid-822 IOG, Mukiani continued to press Kondobonioki to collect as many taxes as possible.
+
+Kondobonioki and Mukiani renewed old taxes and instituted new ones, increased the tribute of the provinces, and kept a watchful eye upon the treasury officials.
+
+Kondobonioki founded the [[Bralosai Dynasty]] which was the second dynastic line to rule Solara, it consists of solely Kondobonioki and his two sons, Damashaoi and [[Anparashi Tidi Puli Kondobonioki Ailushi]]. They ruled from 821 IOG - 848 IOG.

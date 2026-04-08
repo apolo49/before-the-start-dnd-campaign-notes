@@ -1,0 +1,10 @@
+---
+title: 944 IOG - Death of Gunodushi
+password: HIDE_FROM_PLAYERS
+---
+
+On the final day of the year [[Setting-old/Semantics/Dating/index|944 IOG, 28th of Shunmi]], his mistress attempted to assassinate [[Luki Alau Azunaki Gunodushi Ailushi Harakishi Solauni Ipubarinoki Anashaniki Ongidai Falashi Puos|Gunodushi]] through poisoning his food to no success. He ended up vomiting his food and avoiding poisoning. Thusly, her co-conspirators sent his wrestling partner to strangle him in his bath.
+
+Upon his death, the [[Senate of Solara|Senate]] declared him a public enemy and restored the original name of the city of [[Solaum]] and its institutions. Statues of Gunodushi were demolished. His body was buried in the [[Mausoleum of Katumokai]].
+
+Gunodushi's death marked the end of the [[Mabosi-Anatunoki Dynasty]]. Gunodushi was succeeded by [[Anparashi Puli Aunini Halbai Pargabioti Ailushi|Pargabioti]], whose reign was short; he became the first claimant to be usurped during the [[Year of the Five Emperors]].

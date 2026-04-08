@@ -1,0 +1,11 @@
+---
+title: 766 IOG - Death of Aelius, Puli Ailushi Libisai
+password: HIDE_FROM_PLAYERS
+---
+
+On the [[Setting-old/Semantics/Dating/index|4th of Flami 766 IOG]], [[Aelius|Puli Ailushi Libisai]], died at [[Shiki]], he claimed this is where he wished to die, looking out to the [[Moli Ikozinao]]. Historians of the time (such as [[Kitii]]) claimed that it was his wife that poisoned him. This is unlikely however as it was likely a ploy to discredit [[Atrinoki Rai Puli Ailushi|Atrinoki]] and she was often the target of false gossip. It is also known that in the months prior that Ailushi's health had been declining and he was in the process of preparing a smooth transition of power to his son, Atrinoki.
+
+His last words were
+> If my flame had burned bright, celebrate my successes.
+
+In the days following an enormous procession of mourners, both common and noble, travelled with his body from [[Shiki]] to [[Solaum]]; all business was closed on the day of his funeral. Atrinoki and his son, Ailushi's grandson, [[Harisi]], delivered the eulogy while standing atop two _rostra_. His body was coffin bound and was cremated in front of the [[Obelisk of Origin]]. His ashes were collected into an urn and was placed in the [[Mausoleum of Ailuhsi]], in the imperial district of Solaum.

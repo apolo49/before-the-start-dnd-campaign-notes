@@ -7,6 +7,6 @@ Before the Start offers new expansive lore in a world much more expansive than i
 
 Click on the following links to learn more:
 
-- [[Player Notes/index|Notes for Players]]
+- [[Campaign 2 - Shadows of the East/Player Notes/index|Notes for Players]]
 - [[DM Notes/index|DM Notes]]
-- [[Setting/index|World Setting Information]]
+- [[Setting-old/index|World Setting Information]]

@@ -1,0 +1,6 @@
+---
+title: 833 IOG - Throne of Solara is inherited by Damashaoi
+password: HIDE_FROM_PLAYERS
+---
+
+On [[Setting-old/Semantics/Dating/index|1st of Atmi 833 IOG]], after barely two years in office, [[Anparashi Tidi Puli Kondobonioki Ailushi|Tidi]], brother of [[Anparashi Puli Damashaoi Ailushi|Damashaoi]] unexpectedly died of fever during a trip to the [[Vincum]] territories. Ancient authors have implicated Damashaoi in the death of his brother, either by directly accusing him of murder, or implying he left the ailing Tidi for dead, even alleging that during his lifetime, Damashaoi was openly plotting against his brother. Brotherly affection was likely at a minimum, but this was hardly surprising, considering that Damashaoi had barely seen Tidi after the age of seven. Whatever the nature of their relationship, Damashaoi seems to have displayed little sympathy when his brother lay dying, instead making for the camp of the [[Solaris Vanguard]] where he was proclaimed emperor. The following day, 2nd of Atmi 833 IOG, the [[Senate of Solara|Senate]] confirmed Damashaoi's powers, granting tribunician power, the office of [[Brili Shanmi]], and the titles of [[Ailushi]], and [[Bari Kirok]].

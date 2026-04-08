@@ -1,0 +1,6 @@
+---
+title: 789 IOG - Garikili Ascends to Emperor of Solara
+password: HIDE_FROM_PLAYERS
+---
+
+[[Atrinoki Rai Puli Ailushi|Atrinoki]] died on [[Setting-old/Semantics/Dating/index|16th of Narimi 789 IOG]], a day before an important religious festival. He was 77. Many historical authors repeated rumours that [[Rai Puli Ailushi Freidaki|Garikili]] was directly responsible for his death. On the same day, Garikili was hailed as emperor by members of the [[Solaris Vanguard]] at [[Shiki]]. His leadership of the house of [[Ailushi Dynasty|Ailushi]] as its sole heir and father of the family was ratified by the [[Senate of Solara]], who proclaimed him [[Ailushi]] on the 18th of Narimi 789 IOG. Garikili entered Rome on 28 Narimi, and with the consensus of "the three orders" (senate, equestrians and common citizens) the Senate conferred on him the "right and power to decide on all affairs". Garikili was the first emperor to acquire all of his powers at once rather than over the course of his reign like [[Aelius|Ailushi]] and Atrinoki.
