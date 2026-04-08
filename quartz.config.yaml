@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
   pageTitle: Tara
-  pageTitleSuffix: " Tara, the world of Solara"
+  pageTitleSuffix: " | Tara, the world of Solara"
   enableSPA: true
   enablePopovers: true
   analytics:

@@ -5,7 +5,7 @@ aliases:
 ---
 >[!infobox|wikipedia]
 ># Mashageta
-![[Mashageta.webp|250]]
+>![[Mashageta.webp|250]]
 >#### _Cleric NPC_
 >|||
 >|-|-|
