@@ -3,17 +3,48 @@
 // put your custom CSS here!
 @media (max-width: calc(639px)) {
     blockquote.callout.infobox[data-callout-metadata="wikipedia"] {
-        float: none;
-        position: relative;
-        display: flex;
-        flex-flow: column nowrap;
-        text-align: start;
-        width: 100%;
-        max-width: 100%;
-        min-width: 100%;
-        margin-left: 0;
-        margin-right: 0;
-        margin-bottom: 2em;
-        padding: 0;
+        float: none !important;
+        position: relative !important;
+        display: flex !important;
+        flex-flow: column nowrap !important;
+        text-align: start !important;
+        width: 100% !important;
+        max-width: 100% !important;
+        min-width: 100% !important;
+        margin: -0.5em 0 2em 0 !important;
+        padding: 0 !important;
+        z-index: 0 !important;
+
+        .callout-title {
+            display: none !important;
+        }
+
+        .callout-content {
+            display: table-row-group !important;
+            vertical-align: middle !important;
+            unicode-bidi: isolate !important;
+            padding: 0 !important;
+            border:0 !important;
+            font-size: 0.9em !important;
+
+            h1 {
+                font-size: 1.25em !important;
+                padding: 7px 10px !important;
+                font-weight: bold !important;
+                width: 100% !important;
+            }
+
+            h4 {
+                line-height: normal !important;
+                padding: 0.2em !important;
+                width: 100% !important;
+                font-weight: bold !important;
+                font-size: inherit !important;
+            }
+
+            thead {
+                display: none !important;
+            }
+        }
     }
 }
