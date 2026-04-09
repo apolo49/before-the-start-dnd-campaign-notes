@@ -7,6 +7,14 @@ blockquote.callout.infobox[data-callout-metadata="wikipedia"] {
     padding: 0 !important;
     border: 1px solid var(--table, var(--background-modifier-border)) !important;
 
+    @media (min-width: calc(640px)) {
+        margin: 0.5em 0 1em 35px !important;
+        max-width: 320px !important;
+        width: auto !important;
+        float: right !important;
+        clear: right !important;
+    }
+
     @media (max-width: calc(639px)) {
         width: 100% !important;
         max-width: 100% !important;
@@ -23,7 +31,6 @@ blockquote.callout.infobox[data-callout-metadata="wikipedia"] {
     }
 
     .callout-content {
-        display: table-row-group !important;
         vertical-align: middle !important;
         unicode-bidi: isolate !important;
         padding: 0 !important;
