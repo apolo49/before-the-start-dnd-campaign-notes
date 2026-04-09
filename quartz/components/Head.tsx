@@ -61,6 +61,12 @@ export default (() => {
         <meta property="og:description" content={description} />
         <meta property="og:image:alt" content={description} />
 
+        <style>
+          {
+            'media (max-width: calc(639px)) { blockquote.callout.infobox[data-callout-metadata="wikipedia"] {float: none;position: relative;display: flex;flex-flow: column nowrap;text-align: start;width: 100%;max-width: 100%;min-width: 100%;margin-left: 0;margin-right: 0;margin-bottom: 2em;padding: 0;}}'
+          }
+        </style>
+
         {!usesCustomOgImage && (
           <>
             <meta property="og:image" content={ogImageDefaultPath} />
