@@ -49,10 +49,12 @@ jobs:
         with:
           path: .quartz/plugins
           key: ${{ runner.os }}-plugins-${{ hashFiles('**/quartz.lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-plugins-
       - name: Install dependencies
         run: bun ci
       - name: Install Quartz plugins
-        run: bun run -b quartz/bootstrap-cli.mjs plugin restore -v
+        run: bun run -b quartz/bootstrap-cli.mjs plugin install -v
       - name: Check types and style
         run: bun run check
       - name: Build Quartz
