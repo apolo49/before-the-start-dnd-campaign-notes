@@ -29,10 +29,13 @@ jobs:
           fetch-depth: 0
           token: ${{ secrets.SUBMODULES_PAT }}
           submodules: recursive
-      - name: Setup Bun
-        uses: oven-sh/setup-bun@v2
+      # - name: Setup Bun
+      #   uses: oven-sh/setup-bun@v2
+      #   with:
+      #     bun-version: latest
+      - uses: actions/setup-node@v6
         with:
-          bun-version: latest
+          node-version: 24
       - name: Replace password placeholder
         env:
           PASSWORD: ${{ secrets.QUARTZ_PASSWORD }}
@@ -52,13 +55,13 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-plugins-
       - name: Install dependencies
-        run: bun ci
+        run: npm ci # bun ci
       - name: Install Quartz plugins
-        run: bun run -b quartz/bootstrap-cli.mjs plugin install -v
+        run: npx quartz plugin install # bun run -b quartz/bootstrap-cli.mjs plugin install -v
       - name: Check types and style
-        run: bun run check
+        run: npm run check # bun run check
       - name: Build Quartz
-        run: bun run -b quartz/bootstrap-cli.mjs build --bundleInfo -v
+        run: npm run build --bundleInfo # bun run -b quartz/bootstrap-cli.mjs build --bundleInfo -v
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v4
         with:
