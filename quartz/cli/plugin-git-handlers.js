@@ -55,10 +55,10 @@ async function buildPluginAsync(pluginDir, name) {
   try {
     const skipBuild = !needsBuild(pluginDir)
     console.log(styleText("cyan", `  → ${name}: installing dependencies...`))
-    await execAsync("bun install --ignore-scripts", { cwd: pluginDir })
+    await execAsync("npm install --ignore-scripts", { cwd: pluginDir })
     if (!skipBuild) {
       console.log(styleText("cyan", `  → ${name}: building...`))
-      await execAsync("bun run build", { cwd: pluginDir })
+      await execAsync("npm run build", { cwd: pluginDir })
     }
     await execAsync("npm prune --omit=dev", { cwd: pluginDir })
     linkPeerPlugins(pluginDir)
