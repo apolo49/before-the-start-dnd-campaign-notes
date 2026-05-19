@@ -61,7 +61,7 @@ jobs:
       - name: Check types and style
         run: npm run check # bun run check
       - name: Build Quartz
-        run: npm run build --bundleInfo # bun run -b quartz/bootstrap-cli.mjs build --bundleInfo -v
+        run: npx quartz build --bundleInfo # bun run -b quartz/bootstrap-cli.mjs build --bundleInfo -v
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v4
         with:
