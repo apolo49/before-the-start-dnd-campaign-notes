@@ -1,3 +1,12 @@
+[submodule "content/Campaign 2 - Shadows of the East/DM Notes"]
+	path = content/Campaign 2 - Shadows of the East/DM Notes
+	url = git@github.com:apolo49/shadows-of-the-east-dm-notes.git
+[submodule "content/Campaign 2 - Shadows of the East/Player Notes"]
+	path = content/Campaign 2 - Shadows of the East/Player Notes
+	url = git@github.com:apolo49/shadows-of-the-east-public-notes.git
 [submodule "content/Campaign 1 - Before the Start/DM Notes"]
 	path = content/Campaign 1 - Before the Start/DM Notes
 	url = git@github.com:apolo49/campaign-1-before-the-start-dm-notes.git
+[submodule "content/Setting"]
+	path = content/Setting
+	url = git@github.com:apolo49/the-world-of-tara-setting-information.git
