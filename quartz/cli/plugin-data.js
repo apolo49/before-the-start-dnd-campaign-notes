@@ -58,7 +58,7 @@ export function writePluginsJson(data) {
   writeDataToFile(CONFIG_YAML_PATH, rest)
 }
 
-export function readDefaultPluginsJson() {
+function readDefaultPluginsJson() {
   const defaultPath = resolveDefaultConfigPath()
   return readFileAsData(defaultPath)
 }
@@ -99,7 +99,7 @@ export function getSourceUrl(source) {
 /**
  * Returns the subdir from an object source, or undefined for string sources.
  */
-export function getSourceSubdir(source) {
+function getSourceSubdir(source) {
   if (typeof source === "object" && source !== null && typeof source.subdir === "string") {
     return source.subdir
   }
@@ -201,118 +201,10 @@ export function getGitCommit(pluginDir) {
   }
 }
 
-export function getPluginDir(name) {
-  return path.join(PLUGINS_DIR, name)
-}
-
-export function pluginDirExists(name) {
-  return fs.existsSync(path.join(PLUGINS_DIR, name))
-}
-
-export function ensurePluginsDir() {
-  if (!fs.existsSync(PLUGINS_DIR)) {
-    fs.mkdirSync(PLUGINS_DIR, { recursive: true })
-  }
-}
-
-/**
- * Merges quartz.config.yaml, quartz.lock.json, and on-disk manifest data
- * into enriched plugin entries with: name, displayName, source, enabled,
- * options, order, layout, category, installed, locked, manifest,
- * currentCommit, modified.
- */
-export function getEnrichedPlugins() {
-  const pluginsJson = readPluginsJson()
-  const lockfile = readLockfile()
-
-  if (!pluginsJson?.plugins) return []
-
-  return pluginsJson.plugins.map((entry, index) => {
-    const name = extractPluginName(entry.source)
-    const pluginDir = path.join(PLUGINS_DIR, name)
-    const installed = fs.existsSync(pluginDir)
-    const locked = lockfile?.plugins?.[name] ?? null
-    const manifest = installed ? readManifestFromPackageJson(pluginDir) : null
-    const currentCommit = installed ? getGitCommit(pluginDir) : null
-    const modified = locked && currentCommit ? currentCommit !== locked.commit : false
-
-    return {
-      index,
-      name,
-      displayName: manifest?.displayName ?? name,
-      source: entry.source,
-      sourceDisplay: formatSource(entry.source),
-      subdir: getSourceSubdir(entry.source) ?? locked?.subdir ?? undefined,
-      enabled: entry.enabled ?? true,
-      options: entry.options ?? {},
-      order: entry.order ?? 50,
-      layout: entry.layout ?? null,
-      category: manifest?.category ?? "unknown",
-      installed,
-      locked,
-      manifest,
-      currentCommit,
-      modified,
-    }
-  })
-}
-
-export function getLayoutConfig() {
-  const pluginsJson = readPluginsJson()
-  return pluginsJson?.layout ?? null
-}
-
-export function getGlobalConfig() {
-  const pluginsJson = readPluginsJson()
-  return pluginsJson?.configuration ?? null
-}
-
-export function updatePluginEntry(index, updates) {
-  const json = readPluginsJson()
-  if (!json?.plugins?.[index]) return false
-  Object.assign(json.plugins[index], updates)
-  writePluginsJson(json)
-  return true
-}
-
 export function updateGlobalConfig(updates) {
   const json = readPluginsJson()
   if (!json) return false
   json.configuration = { ...json.configuration, ...updates }
-  writePluginsJson(json)
-  return true
-}
-
-export function updateLayoutConfig(layout) {
-  const json = readPluginsJson()
-  if (!json) return false
-  json.layout = layout
-  writePluginsJson(json)
-  return true
-}
-
-export function reorderPlugin(fromIndex, toIndex) {
-  const json = readPluginsJson()
-  if (!json?.plugins) return false
-  const [moved] = json.plugins.splice(fromIndex, 1)
-  json.plugins.splice(toIndex, 0, moved)
-  writePluginsJson(json)
-  return true
-}
-
-export function removePluginEntry(index) {
-  const json = readPluginsJson()
-  if (!json?.plugins?.[index]) return false
-  json.plugins.splice(index, 1)
-  writePluginsJson(json)
-  return true
-}
-
-export function addPluginEntry(entry) {
-  const json = readPluginsJson()
-  if (!json) return false
-  if (!json.plugins) json.plugins = []
-  json.plugins.push(entry)
   writePluginsJson(json)
   return true
 }
@@ -398,6 +290,76 @@ export function createConfigFromTemplate(templateName) {
   const { $schema, ...rest } = templateData
   writePluginsJson(rest)
   return rest
+}
+
+/**
+ * Resolves a user-facing plugin name (which may be an overridden name from config)
+ * to the corresponding lockfile key (the original name at install time).
+ *
+ * This bridges the naming identity split between config YAML (which supports
+ * source.name overrides) and the lockfile/disk (which are keyed by the original name).
+ *
+ * @param {string} name - The name the user provided (may be overridden or original)
+ * @param {object|null} lockfile - The parsed lockfile
+ * @param {object|null} pluginsJson - The parsed config YAML
+ * @returns {string} The lockfile key that corresponds to this plugin
+ */
+export function resolveLockfileName(name, lockfile, pluginsJson) {
+  // Direct match — no resolution needed
+  if (lockfile?.plugins?.[name]) return name
+
+  // Check if any config entry with this overridden name maps to a different lockfile key
+  if (pluginsJson?.plugins) {
+    const configEntry = pluginsJson.plugins.find(
+      (e) => extractPluginName(e.source) === name || formatSource(e.source) === name,
+    )
+    if (configEntry) {
+      const url = getSourceUrl(configEntry.source)
+      for (const [key, lock] of Object.entries(lockfile?.plugins ?? {})) {
+        if (
+          lock.source === url ||
+          lock.source === formatSource(configEntry.source) ||
+          lock.resolved === url
+        ) {
+          return key
+        }
+      }
+    }
+  }
+
+  return name
+}
+
+/**
+ * Builds a map from lockfile keys to their overridden display names from config.
+ * Returns entries only where the overridden name differs from the lockfile key.
+ *
+ * @param {object|null} lockfile - The parsed lockfile
+ * @param {object|null} pluginsJson - The parsed config YAML
+ * @returns {Map<string, string>} Map of lockfileKey → overriddenName
+ */
+export function getNameOverrides(lockfile, pluginsJson) {
+  const overrides = new Map()
+  if (!lockfile?.plugins || !pluginsJson?.plugins) return overrides
+
+  for (const entry of pluginsJson.plugins) {
+    const configName = extractPluginName(entry.source)
+    const url = getSourceUrl(entry.source)
+
+    for (const [lockKey, lock] of Object.entries(lockfile.plugins)) {
+      if (lockKey === configName) break // no override, names match
+      if (
+        lock.source === url ||
+        lock.source === formatSource(entry.source) ||
+        lock.resolved === url
+      ) {
+        overrides.set(lockKey, configName)
+        break
+      }
+    }
+  }
+
+  return overrides
 }
 
 export const PLUGINS_JSON_PATH = CONFIG_YAML_PATH
