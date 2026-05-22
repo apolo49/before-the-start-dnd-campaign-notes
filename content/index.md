@@ -27,6 +27,6 @@ title: Welcome to Tara - The World of Solara
 >> - ... that [[Rhoda of the Shimmering Moontide - Player Notes|Rhoda]] is also known as "The Luminous Bard?"
 >> - ... that Riley's lute is not his own?
 >> - ... that Ellowen has more lore artifacts in her inventory than anyone else?
->> - ... that Riley has access to more information but refuses to educate himself?
+>> - ... that in the capital of the Eastern Solaran Empire, [[Amphos]], that there [[Manuscript on Tabaxi#SECTION III – On Their Distribution in the Empire and the West|are only 2 recorded people of tabaxi descent, not including the slums]].
 >> - ... that Big Beefy Bob likely has more things figured out than he lets on?
 >> - ... that Campaign 1 never happened?

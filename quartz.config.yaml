@@ -264,7 +264,10 @@ layout:
         beforeBody: []
         left: []
         right: []
-    content: {}
+    content:
+      positions:
+        right:
+          - random-page-button
     folder:
       exclude:
         - reader-mode
