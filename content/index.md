@@ -16,17 +16,17 @@ title: Welcome to Tara - The World of Solara
 
 > [!column|flex 2 s-mg no-t no-i]
 >> [!recite|wm-small nbrd nmg embed bg-c-green] Featured Article
->> [[Big Beefy Bob's Little Orange Hat]]
+>> [[Riley - Player Notes|Riley]]
 >
 >> [!question|wm-small nbrd nmg embed bg-c-blue] Did you know...
 >> - ... that [[Big Beefy Bob - Player Notes|Big Beefy Bob]]'s best friend the [[First Puli]] is likely dead?
 >> - ... that [[Ellowen Aurelian Vale|Ellowen]]'s [[Ellowen's Book|Book]] speaks to her whenever she sleeps?
->> - ... that [[Riley - Player Notes|Riley]]'s house was burned down by the authorities in [[Amphos]]?
+>> - ... that [[Riley - Player Notes|Riley]]'s house was burned down by the authorities in [[Campaign 1 - Before the Start/DM Notes/Settlements/Cities/Amphos]]?
 >> - ... that [[Evangeline Marquis|Yvaquis]] left her home when she was just 15?
 >> - ... that [[John Ironchest - Player Notes|John Ironchest]] found his rock on the roadside just laying there?
 >> - ... that [[Rhoda of the Shimmering Moontide - Player Notes|Rhoda]] is also known as "The Luminous Bard?"
 >> - ... that Riley's lute is not his own?
 >> - ... that Ellowen has more lore artifacts in her inventory than anyone else?
->> - ... that in the capital of the Eastern Solaran Empire, [[Amphos]], that there [[Manuscript on Tabaxi#SECTION III – On Their Distribution in the Empire and the West|are only 2 recorded people of tabaxi descent, not including the slums]].
+>> - ... that in the capital of the Eastern Solaran Empire, [[Campaign 1 - Before the Start/DM Notes/Settlements/Cities/Amphos]], that there [[Manuscript on Tabaxi#SECTION III – On Their Distribution in the Empire and the West|are only 2 recorded people of tabaxi descent, not including the slums]].
 >> - ... that Big Beefy Bob likely has more things figured out than he lets on?
 >> - ... that Campaign 1 never happened?
