@@ -6,7 +6,7 @@ export default config
 export const layout = await loadQuartzLayout({
     byPageType: {
         content: {
-            right: [Component.RandomPageButton()]
+            right: []
         },
     }
 })
