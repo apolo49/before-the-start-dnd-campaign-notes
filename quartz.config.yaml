@@ -75,7 +75,6 @@ plugins:
     enabled: true
     options:
       unlistWhenEncrypted: true
-      stealth: false
       iterations: 600000
       passwordField: password
     order: 900
