@@ -16,17 +16,17 @@ title: Welcome to Tara - The World of Solara
 
 > [!column|flex 2 s-mg no-t no-i]
 >> [!recite|wm-small nbrd nmg embed bg-c-green] Featured Article
->> [[Riley - Player Notes|Riley]]
+>> [[Manuscript on Tabaxi]]
 >
 >> [!question|wm-small nbrd nmg embed bg-c-blue] Did you know...
 >> - ... that [[Big Beefy Bob - Player Notes|Big Beefy Bob]]'s best friend the [[First Puli]] is likely dead?
 >> - ... that [[Ellowen Aurelian Vale|Ellowen]]'s [[Ellowen's Book|Book]] speaks to her whenever she sleeps?
->> - ... that [[Riley - Player Notes|Riley]]'s house was burned down by the authorities in [[Campaign 1 - Before the Start/DM Notes/Settlements/Cities/Amphos]]?
+>> - ... that [[Riley - Player Notes|Riley]]'s house was burned down by the authorities in [[Campaign 2 - Shadows of the East/Player Notes/Settlements/Amphos|Amphos]]?
 >> - ... that [[Evangeline Marquis|Yvaquis]] left her home when she was just 15?
->> - ... that [[John Ironchest - Player Notes|John Ironchest]] found his rock on the roadside just laying there?
+>> - ... that [[John Ironchest - Player Notes|John Ironchest]] found [[Elements#Power Stone|his rock]] on [[Session 7 - Pithertara, the WBO, a Strong Man and a Sparkly Bard|the roadside just laying there]]?
 >> - ... that [[Rhoda of the Shimmering Moontide - Player Notes|Rhoda]] is also known as "The Luminous Bard?"
->> - ... that Riley's lute is not his own?
+>> - ... that [[The Prince's Lute|Riley's lute]] is not his own?
 >> - ... that Ellowen has more lore artifacts in her inventory than anyone else?
->> - ... that in the capital of the Eastern Solaran Empire, [[Campaign 1 - Before the Start/DM Notes/Settlements/Cities/Amphos]], that there [[Manuscript on Tabaxi#SECTION III – On Their Distribution in the Empire and the West|are only 2 recorded people of tabaxi descent, not including the slums]].
+>> - ... that in the capital of the [[Eastern Solaran Empire]], [[Campaign 2 - Shadows of the East/Player Notes/Settlements/Amphos|Amphos]], that there [[Manuscript on Tabaxi#SECTION III – On Their Distribution in the Empire and the West|are only 2 recorded people of tabaxi descent, not including the slums]].
 >> - ... that Big Beefy Bob likely has more things figured out than he lets on?
 >> - ... that Campaign 1 never happened?
