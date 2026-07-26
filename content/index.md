@@ -16,7 +16,7 @@ title: Welcome to Tara - The World of Solara
 
 > [!column|flex 2 s-mg no-t no-i]
 >> [!recite|wm-small nbrd nmg embed bg-c-green] Featured Article
->> [[Manuscript on Tabaxi]]
+>> [[Ellowen Aurelian Vale]]
 >
 >> [!question|wm-small nbrd nmg embed bg-c-blue] Did you know...
 >> - ... that [[Big Beefy Bob - Player Notes|Big Beefy Bob]]'s best friend the [[First Puli]] is likely dead?
