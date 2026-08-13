@@ -2,7 +2,7 @@
 title: Welcome to Tara - The World of Solara
 ---
 > [!Quote|author mark] <br>[[Ellowen's Book]]
-> _The soul reshapes itself around the words others force upon it._
+> _A man who can burn down a house is a danger, but a man who can hear the voice of a stone is a force._
 
 > [!cards|3 background-color-black]
 > **[[World Overview]]**
