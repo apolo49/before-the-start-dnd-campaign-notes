@@ -1,11 +1,15 @@
-FROM oven/bun:1-slim AS builder
+FROM node:22-slim AS builder
+
+# install git to install plugins
+RUN apt-get update && apt-get install -y git && rm -rf /var/lib/apt/lists/*
+
 WORKDIR /usr/src/app
 COPY package.json .
-COPY bun.lock* .
+COPY package-lock.json* .
+COPY .npmrc* .
 COPY quartz/ ./quartz/
-COPY quartz.lock.json .
-# Temp workaround for bun install lockfile when bun won't work not on C drive.
-RUN bun i; bun run -b quartz/bootstrap-cli.mjs plugin install
+COPY quartz.lock.json* .
+RUN npm install; npx quartz plugin install
 
 FROM oven/bun:1-slim
 WORKDIR /usr/src/app
