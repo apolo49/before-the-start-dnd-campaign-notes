@@ -7,10 +7,10 @@ title: Welcome to Tara - The World of Solara
 > [!cards|3 background-color-black]
 > **[[World Overview]]**
 > [![[z_assets/selerim_planet_view.png|banner+small cover center 250]]](World%20Overview)
-> 
+>
 > **[[Campaign 1 - Before the Start/index|Campaign 1 - Before the Start]]**
 > [![[coronation-of-arksi-puli-numini.png|banner+small cover center 250]]](Campaign%201%20-%20Before%20the%20Start/index)
-> 
+>
 > **[[Campaign 2 - Shadows of the East/Player Notes/index|Campaign 2 - Shadows of the East]]**
 > [![[party_image.webp|banner+small cover center 250]]](Campaign%202%20-%20Shadows%20of%20the%20East/Player%20Notes/index)
 
