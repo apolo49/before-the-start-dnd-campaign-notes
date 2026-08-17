@@ -44,9 +44,9 @@ jobs:
         uses: actions/cache@v5
         with:
           path: ~/.npm
-          key: ${{ runner.os }}-npm-${{ hashFiles('**/bun.lockb') }} #-bun-${{ hashFiles('**/bun.lockb') }}
+          key: ${{ runner.os }}-npm-${{ hashFiles('**/package-lock.json') }}
           restore-keys: |
-            ${{ runner.os }}-npm
+            ${{ runner.os }}-npm-
       - name: Cache Quartz plugins
         uses: actions/cache@v5
         with:
