@@ -1,7 +1,8 @@
 public
 node_modules
 .quartz-cache
-.quartz
+./.quartz
+plugins
 quartz
 *.md
 content
